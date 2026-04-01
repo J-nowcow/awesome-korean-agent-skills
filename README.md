@@ -13,6 +13,18 @@
 
 ---
 
+## 이 주의 스킬
+
+> 매주 업데이트됩니다. 최근 업데이트: 2026-04-01
+
+| 스킬 | 도구 | 왜 추천? | 링크 |
+|------|:---:|---------|------|
+| 🔧 humanizer | CC/CR/WS | AI가 쓴 한국어를 사람 문체로 변환. KatFishNet 논문 기반 | [korean-skills](https://github.com/daleseo/korean-skills) |
+| 🔧 SRT/KTX 예매 | CC/CX/OC | 열차 예매 자동화 — 한국 특화 스킬의 대표 | [k-skill](https://github.com/NomaDamas/k-skill) |
+| 🤖 code-reviewer | CC | SOLID 원칙 기반 심각도별 보안·성능 리뷰 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/code-reviewer.md) |
+
+---
+
 ## AI 에이전트 스킬이란?
 
 AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 가르치는 지침 파일**입니다. 마크다운(`SKILL.md`)으로 작성하며, AI가 필요할 때 자동으로 불러와서 사용합니다.
@@ -109,6 +121,41 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 | [종합 스킬 컬렉션](categories/collections.md) | 여러 분야의 스킬을 한 레포에 모아놓은 것 |
 | [가이드 & 튜토리얼](categories/guides.md) | 스킬 활용법, Claude Code 가이드, 학습 자료 |
 | [유틸리티 도구](categories/utilities.md) | 룰 변환·관리 도구, 한국어 지원 도구 |
+
+---
+
+## 최근 업데이트
+
+| 날짜 | 내용 |
+|------|------|
+| 2026-04-01 | 첫 릴리즈! 26개 카테고리, 400+ 스킬/에이전트 수록 |
+
+> 전체 변경 이력은 [CHANGELOG.md](CHANGELOG.md)를 참고하세요.
+
+---
+
+## 빠른 설치
+
+자주 쓰이는 스킬 컬렉션을 한 줄로 설치할 수 있습니다:
+
+```bash
+# Claude Code — bear2u/my-skills (한국어 스킬 21개)
+git clone https://github.com/bear2u/my-skills.git /tmp/my-skills && cp -r /tmp/my-skills/.claude/skills/* ~/.claude/skills/ && rm -rf /tmp/my-skills
+
+# Claude Code — NomaDamas/k-skill (한국 생활 서비스 15개)
+git clone https://github.com/NomaDamas/k-skill.git /tmp/k-skill && cp -r /tmp/k-skill/skills/* ~/.claude/skills/ && rm -rf /tmp/k-skill
+
+# Claude Code — oh-my-claudecode (올인원 프레임워크)
+npx oh-my-claudecode@latest init
+
+# Claude Code — claude-forge (올인원 프레임워크)
+npx claude-forge@latest init
+
+# Gemini CLI — oh-my-gemini-cli
+npx oh-my-gemini-cli@latest init
+```
+
+> 각 레포의 설치 방법이 다를 수 있으니, 링크를 클릭해서 공식 설치 가이드를 확인하세요.
 
 ---
 
