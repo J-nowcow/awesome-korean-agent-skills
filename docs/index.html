@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome Korean Agent Skills - 한국어 AI 코딩 에이전트 스킬 모음</title>
+  <meta name="description" content="400+ 한국어 AI 코딩 에이전트 스킬을 기능별로 정리한 큐레이션. Claude Code, Gemini CLI, Codex, Cursor, Windsurf 스킬 · 에이전트 · 룰 · 훅 총정리.">
+  <meta name="keywords" content="Claude Code 스킬, 클로드 코드 스킬, AI 코딩 스킬, agent skills, 한국어 스킬 모음, Gemini CLI 스킬, Codex 스킬, Cursor rules 한국어, vibe coding, 바이브코딩, 프롬프트 엔지니어링, awesome list, claude code skills korean, AI 에이전트 스킬, 코딩 에이전트">
+  <meta name="author" content="J-nowcow">
+  <link rel="canonical" href="https://j-nowcow.github.io/awesome-korean-agent-skills/">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Awesome Korean Agent Skills - 한국어 AI 코딩 스킬 400+ 총정리">
+  <meta property="og:description" content="Claude Code, Gemini CLI, Codex, Cursor 등 AI 코딩 도구의 한국어 스킬·에이전트·룰·훅을 기능별로 모은 큐레이션">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://j-nowcow.github.io/awesome-korean-agent-skills/">
+  <meta property="og:locale" content="ko_KR">
+  <meta property="og:locale:alternate" content="en_US">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Awesome Korean Agent Skills - 한국어 AI 코딩 스킬 400+">
+  <meta name="twitter:description" content="Claude Code, Gemini CLI, Codex, Cursor 한국어 스킬을 기능별로 모은 큐레이션">
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareSourceCode",
+    "name": "Awesome Korean Agent Skills",
+    "description": "400+ 한국어 AI 코딩 에이전트 스킬을 기능별로 정리한 큐레이션. Claude Code, Gemini CLI, Codex, Cursor 스킬 총정리.",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills",
+    "codeRepository": "https://github.com/J-nowcow/awesome-korean-agent-skills",
+    "programmingLanguage": "Markdown",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "inLanguage": ["ko", "en"],
+    "keywords": ["Claude Code", "AI Skills", "Agent Skills", "Korean", "Gemini CLI", "Codex", "Cursor Rules", "Vibe Coding"]
+  }
+  </script>
+
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0d1117; color: #e6edf3; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 2rem; }
+    .container { max-width: 720px; text-align: center; }
+    h1 { font-size: 2.5rem; margin-bottom: 0.5rem; background: linear-gradient(135deg, #58a6ff, #bc8cff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    .flag { font-size: 3rem; margin-bottom: 1rem; }
+    .subtitle { font-size: 1.2rem; color: #8b949e; margin-bottom: 2rem; line-height: 1.6; }
+    .stats { display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2.5rem; }
+    .stat { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1rem 1.5rem; }
+    .stat-num { font-size: 1.8rem; font-weight: 700; color: #58a6ff; }
+    .stat-label { font-size: 0.85rem; color: #8b949e; margin-top: 0.25rem; }
+    .tools { display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2rem; }
+    .tool { background: #21262d; border: 1px solid #30363d; border-radius: 20px; padding: 0.4rem 0.8rem; font-size: 0.8rem; color: #c9d1d9; }
+    .cta { display: inline-block; background: linear-gradient(135deg, #238636, #2ea043); color: #fff; text-decoration: none; padding: 0.9rem 2rem; border-radius: 8px; font-size: 1.1rem; font-weight: 600; margin-top: 1rem; transition: transform 0.2s; }
+    .cta:hover { transform: translateY(-2px); }
+    .categories { margin-top: 2.5rem; text-align: left; }
+    .categories h2 { font-size: 1.1rem; color: #8b949e; margin-bottom: 1rem; text-align: center; }
+    .cat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.5rem; }
+    .cat-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 0.6rem 0.8rem; font-size: 0.85rem; color: #c9d1d9; text-decoration: none; transition: border-color 0.2s; }
+    .cat-item:hover { border-color: #58a6ff; }
+    footer { margin-top: 3rem; font-size: 0.8rem; color: #484f58; }
+    footer a { color: #58a6ff; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="flag">🇰🇷</div>
+    <h1>Awesome Korean Agent Skills</h1>
+    <p class="subtitle">
+      한국어 AI 코딩 에이전트 스킬 · 에이전트 · 룰 · 훅을<br>
+      <strong>기능별</strong>로 모은 큐레이션
+    </p>
+
+    <div class="stats">
+      <div class="stat">
+        <div class="stat-num">400+</div>
+        <div class="stat-label">스킬 & 에이전트</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">20+</div>
+        <div class="stat-label">소스 레포</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">26</div>
+        <div class="stat-label">카테고리</div>
+      </div>
+    </div>
+
+    <div class="tools">
+      <span class="tool">Claude Code</span>
+      <span class="tool">Gemini CLI</span>
+      <span class="tool">Codex CLI</span>
+      <span class="tool">Cursor</span>
+      <span class="tool">OpenCode</span>
+      <span class="tool">Windsurf</span>
+      <span class="tool">GitHub Copilot</span>
+    </div>
+
+    <a href="https://github.com/J-nowcow/awesome-korean-agent-skills" class="cta">
+      GitHub에서 보기
+    </a>
+
+    <div class="categories">
+      <h2>개발 스킬</h2>
+      <div class="cat-grid">
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/code-review.md" class="cat-item">코드 리뷰</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/testing.md" class="cat-item">테스트 & TDD</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/security.md" class="cat-item">보안 감사</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/project-init.md" class="cat-item">프로젝트 초기화</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/debugging.md" class="cat-item">디버깅 & 빌드 에러</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/documentation.md" class="cat-item">문서화</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/git-workflow.md" class="cat-item">Git & 워크플로우</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/refactoring.md" class="cat-item">리팩토링</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/multi-agent.md" class="cat-item">멀티에이전트</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/ai-prompt.md" class="cat-item">AI & 프롬프트</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/web-frontend.md" class="cat-item">웹 프론트엔드</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/backend.md" class="cat-item">백엔드</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/performance.md" class="cat-item">성능 최적화</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/game-dev.md" class="cat-item">게임 개발</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/devops.md" class="cat-item">DevOps & 배포</a>
+      </div>
+
+      <h2 style="margin-top: 1.5rem;">일상 · 업무 스킬</h2>
+      <div class="cat-grid">
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/korean-services.md" class="cat-item">한국 생활 서비스</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/communication.md" class="cat-item">커뮤니케이션</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/content-marketing.md" class="cat-item">콘텐츠 & 마케팅</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/korean-writing.md" class="cat-item">글쓰기 & 한국어</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/media.md" class="cat-item">미디어</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/office-docs.md" class="cat-item">오피스 & 문서</a>
+        <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/categories/research-web.md" class="cat-item">리서치 & 웹</a>
+      </div>
+    </div>
+
+    <footer>
+      <p>CC0-1.0 License | <a href="https://github.com/J-nowcow/awesome-korean-agent-skills">GitHub</a> | <a href="https://github.com/J-nowcow/awesome-korean-agent-skills/blob/main/contributing.md">기여하기</a></p>
+    </footer>
+  </div>
+</body>
+</html>
