@@ -18,12 +18,11 @@
 3. 다음 포맷을 따릅니다:
 
 ```markdown
-| 스킬명 | 유형 | 도구 | 출처 | 설명 | 언어 | 레포 |
+| 스킬명 | 유형 | 도구 | 설명 | 언어 | 레포 |
 ```
 
 - **유형**: 🔧 Skill / 🤖 Agent / ⚡ Command / 🪝 Hook
 - **도구**: CC (Claude Code) / GC (Gemini CLI) / CX (Codex CLI) / CR (Cursor) / OC (OpenCode)
-- **출처**: `공식` / `파트너` / `커뮤니티`
 - **언어**: `한국어` / `영+한` / `다국어(KO)`
 
 4. PR을 생성합니다
