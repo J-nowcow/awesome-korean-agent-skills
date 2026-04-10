@@ -3,9 +3,53 @@
     {
       "date": "2026-04-01",
       "items": [
-        {"name": "humanizer", "repo": "daleseo/korean-skills", "category": "korean-writing", "type": "🔧", "tools": "CC/CR/WS"},
-        {"name": "SRT/KTX 예매", "repo": "NomaDamas/k-skill", "category": "korean-services", "type": "🔧", "tools": "CC/CX/OC"},
-        {"name": "code-reviewer", "repo": "Yeachan-Heo/oh-my-claudecode", "category": "code-review", "type": "🤖", "tools": "CC"}
+        {
+          "name": "humanizer",
+          "repo": "daleseo/korean-skills",
+          "category": "korean-writing",
+          "type": "🔧",
+          "tools": "CC/CR/WS"
+        },
+        {
+          "name": "SRT/KTX 예매",
+          "repo": "NomaDamas/k-skill",
+          "category": "korean-services",
+          "type": "🔧",
+          "tools": "CC/CX/OC"
+        },
+        {
+          "name": "code-reviewer",
+          "repo": "Yeachan-Heo/oh-my-claudecode",
+          "category": "code-review",
+          "type": "🤖",
+          "tools": "CC"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-10",
+      "items": [
+        {
+          "name": "code-reviewer",
+          "repo": "affaan-m/everything-claude-code",
+          "category": "code-review",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "chief-of-staff",
+          "repo": "affaan-m/everything-claude-code",
+          "category": "communication",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "NestJS 전문 에이전트 7종",
+          "repo": "m16khb/claude-integration",
+          "category": "backend",
+          "type": "🤖",
+          "tools": "CC"
+        }
       ]
     }
   ]

@@ -84,9 +84,9 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🔧 humanizer | CC/CR/WS | Converts AI-written Korean to natural human style. Based on KatFishNet paper | [korean-skills](https://github.com/daleseo/korean-skills) |
-| 🔧 SRT/KTX Reservation | CC/CX/OC | Train ticket reservation automation — flagship Korean-specific skill | [k-skill](https://github.com/NomaDamas/k-skill) |
-| 🤖 code-reviewer | CC | Severity-based security & performance review grounded in SOLID principles | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/code-reviewer.md) |
+| 🤖 code-reviewer | CC | Code review is an essential part of the development process, and 'code-reviewer' is highly practical as it comprehensively checks quality and security. It is even more effective when used with language-specific reviewers (18). | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/code-reviewer.md) |
+| 🤖 chief-of-staff | CC | 'chief-of-staff' can significantly improve work efficiency by processing messages from various communication channels like email and Slack, and drafting replies. Its strong Korean support makes it highly practical. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/chief-of-staff.md) |
+| 🤖 NestJS 전문 에이전트 7종 | CC | 'NestJS 전문 에이전트 7종' includes various core technology stacks necessary for backend development, which can greatly assist in starting or improving complex backend development projects. This skill was selected to ensure a balanced choice across different categories. | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/plugins/nestjs-backend/agents) |
 
 ---
 
