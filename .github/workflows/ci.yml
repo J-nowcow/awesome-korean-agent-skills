@@ -1,0 +1,143 @@
+name: CI
+
+on:
+  pull_request:
+    paths:
+      - "categories/**"
+      - "README.md"
+      - "README.en.md"
+      - "data/**"
+
+jobs:
+  validate:
+    name: Validate PR
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ── 1. Table format check ────────────────────────────────────────────────
+      - name: Table format check
+        run: |
+          set -euo pipefail
+          errors=0
+
+          for file in categories/*.md; do
+            while IFS= read -r line; do
+              # Skip non-table lines
+              [[ "$line" != \|* ]] && continue
+
+              # Skip header rows (contain column-name keywords)
+              if echo "$line" | grep -qE '이름|레포|Stars|도구|설명|언어|규모|유형|출처'; then
+                continue
+              fi
+
+              # Skip separator rows (only dashes, colons, pipes, spaces)
+              if echo "$line" | grep -qP '^\|[\s\-\:\|]+\|$'; then
+                continue
+              fi
+
+              # Count pipe-delimited columns (number of | - 1)
+              col_count=$(echo "$line" | tr -cd '|' | wc -c)
+              # col_count = number of pipes; columns = pipes - 1
+              actual_cols=$(( col_count - 1 ))
+
+              if (( actual_cols < 4 )); then
+                echo "::error file=$file::Table row has only $actual_cols column(s) (need 4+): $line"
+                errors=1
+              fi
+            done < "$file"
+          done
+
+          exit $errors
+
+      # ── 2. Duplicate URL check ───────────────────────────────────────────────
+      - name: Duplicate URL check
+        run: |
+          set -euo pipefail
+          errors=0
+
+          for file in categories/*.md; do
+            # Extract all GitHub URLs from the file
+            dups=$(grep -oP 'https://github\.com/[^\s\)\]"]+' "$file" \
+              | sort | uniq -d)
+
+            if [[ -n "$dups" ]]; then
+              while IFS= read -r url; do
+                echo "::error file=$file::Duplicate URL found: $url"
+              done <<< "$dups"
+              errors=1
+            fi
+          done
+
+          exit $errors
+
+      # ── 3. New URL accessibility check ──────────────────────────────────────
+      - name: New URL accessibility check
+        run: |
+          set -euo pipefail
+          errors=0
+
+          # Find category files changed in this PR
+          changed_files=$(git diff --name-only origin/${{ github.base_ref }}...HEAD \
+            | grep '^categories/' || true)
+
+          if [[ -z "$changed_files" ]]; then
+            echo "No category files changed — skipping URL check."
+            exit 0
+          fi
+
+          # Collect URLs that are new (added lines only) in changed files
+          new_urls=$(git diff origin/${{ github.base_ref }}...HEAD -- $changed_files \
+            | grep '^+' \
+            | grep -v '^+++' \
+            | grep -oP 'https://github\.com/[^\s\)\]"]+' \
+            | sort -u || true)
+
+          if [[ -z "$new_urls" ]]; then
+            echo "No new GitHub URLs to check."
+            exit 0
+          fi
+
+          echo "Checking $(echo "$new_urls" | wc -l) new URL(s)..."
+
+          while IFS= read -r url; do
+            status=$(curl -sL -o /dev/null -w '%{http_code}' \
+              --max-time 10 --connect-timeout 5 \
+              -H 'User-Agent: awesome-korean-agent-skills-ci' \
+              "$url" || echo "000")
+
+            if [[ "$status" == "000" || "$status" == "4"* || "$status" == "5"* ]]; then
+              # 404/4xx hard error; 5xx and timeouts are warnings only
+              if [[ "$status" == "404" ]]; then
+                echo "::error ::URL not accessible (HTTP $status): $url"
+                errors=1
+              else
+                echo "::warning ::URL returned HTTP $status (may be temporary): $url"
+              fi
+            else
+              echo "OK ($status): $url"
+            fi
+          done <<< "$new_urls"
+
+          exit $errors
+
+      # ── 4. JSON validation ───────────────────────────────────────────────────
+      - name: JSON validation
+        run: |
+          set -euo pipefail
+          errors=0
+
+          for file in data/*.json; do
+            if ! python3 -c "import json,sys; json.load(open('$file'))" 2>/dev/null; then
+              echo "::error file=$file::Invalid JSON"
+              errors=1
+            else
+              echo "Valid JSON: $file"
+            fi
+          done
+
+          exit $errors
