@@ -3,8 +3,13 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](contributing.md)
+[![🤖 Agent-Maintained](https://img.shields.io/badge/maintained_by-AI_Agent-blueviolet)](docs/how-it-works.md)
 
 > 한국어 AI 코딩 에이전트 스킬 · 에이전트 · 룰 · 훅을 **기능별**로 모은 큐레이션
+
+> 🤖 **이 레포는 100% AI 에이전트가 자동으로 운영합니다.**
+> 스킬 발견 · 분류 · 추가 · 링크 검증 · 주간 추천까지 모두 자동화되어 있습니다.
+> 사람은 감독만 합니다. [어떻게 돌아가는지 보기 →](docs/how-it-works.md)
 
 [English](README.en.md)
 
@@ -150,6 +155,21 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 | 2026-04-01 | 첫 릴리즈! 26개 카테고리, 400+ 스킬/에이전트 수록 |
 
 > 전체 변경 이력은 [CHANGELOG.md](CHANGELOG.md)를 참고하세요.
+
+---
+
+## 🤖 자동화
+
+이 레포는 GitHub Actions 기반 AI 에이전트가 자동으로 운영합니다.
+
+| 워크플로우 | 주기 | 역할 |
+|---|---|---|
+| skill-scout | 주 1회 | 신규 스킬 발견 · 분류 · 추가 |
+| link-checker | 매일 | 죽은 링크 감지 · 제거 |
+| weekly-picks | 주 1회 | "이 주의 스킬" 로테이션 |
+| sync-counts | 매일 | 항목 수 · 날짜 동기화 |
+
+자세한 동작 원리는 [여기](docs/how-it-works.md)에서 확인하세요.
 
 ---
 

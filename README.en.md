@@ -3,8 +3,13 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](contributing.md)
+[![🤖 Agent-Maintained](https://img.shields.io/badge/maintained_by-AI_Agent-blueviolet)](docs/how-it-works.en.md)
 
 > A curated collection of Korean AI coding agent skills, agents, rules, and hooks — organized **by function**
+
+> 🤖 **This repo is 100% maintained by AI agents.**
+> Skill discovery, classification, addition, link validation, and weekly picks are all automated.
+> Humans only supervise. [See how it works →](docs/how-it-works.en.md)
 
 English | [한국어](README.md)
 
@@ -109,6 +114,21 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Comprehensive Skill Collections](categories/collections.md) | Skills from multiple domains gathered in a single repo |
 | [Guides & Tutorials](categories/guides.md) | Skill usage guides, Claude Code guides, learning resources |
 | [Utility Tools](categories/utilities.md) | Rule conversion & management tools, Korean language support tools |
+
+---
+
+## 🤖 Automation
+
+This repo is automatically maintained by GitHub Actions-based AI agents.
+
+| Workflow | Schedule | Role |
+|---|---|---|
+| skill-scout | Weekly | Discover · classify · add new skills |
+| link-checker | Daily | Detect · remove dead links |
+| weekly-picks | Weekly | Rotate "Skill of the Week" |
+| sync-counts | Daily | Sync item counts · date |
+
+See [here](docs/how-it-works.en.md) for detailed operation principles.
 
 ---
 
