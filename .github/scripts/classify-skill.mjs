@@ -12,7 +12,7 @@
 
 import fs from 'fs';
 import path from 'path';
-import { execSync } from 'child_process';
+import { spawnSync } from 'child_process';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -60,12 +60,12 @@ function writeJson(filePath, data) {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + '\n', 'utf8');
 }
 
-function gh(cmd) {
-  try {
-    return execSync(`gh ${cmd}`, { encoding: 'utf8', stdio: ['pipe', 'pipe', 'pipe'] }).trim();
-  } catch {
-    return null;
-  }
+function gh(args) {
+  const result = spawnSync('gh', args, {
+    encoding: 'utf8',
+    timeout: 15000,
+  });
+  return result.status === 0 ? result.stdout.trim() : null;
 }
 
 /**
@@ -82,11 +82,10 @@ function parseOwnerRepo(url) {
  */
 function fetchReadme(owner, repo) {
   try {
-    const content = execSync(
-      `gh api repos/${owner}/${repo}/readme --jq '.content' | base64 -d`,
-      { encoding: 'utf8', stdio: ['pipe', 'pipe', 'pipe'] }
-    ).trim();
-    return content.slice(0, 3000);
+    const b64 = gh(['api', `repos/${owner}/${repo}/readme`, '--jq', '.content']);
+    if (!b64) return '';
+    const decoded = Buffer.from(b64, 'base64').toString('utf8');
+    return decoded.slice(0, 3000);
   } catch {
     return '';
   }
@@ -97,7 +96,7 @@ function fetchReadme(owner, repo) {
  */
 function fetchSkillMdList(owner, repo) {
   try {
-    const tree = gh(`api repos/${owner}/${repo}/git/trees/HEAD?recursive=1`);
+    const tree = gh(['api', `repos/${owner}/${repo}/git/trees/HEAD?recursive=1`]);
     if (!tree) return [];
     const parsed = JSON.parse(tree);
     return (parsed.tree || [])
@@ -269,6 +268,8 @@ function updateKnownRepos(url, skills = []) {
     data.repos.push(entry);
   }
 
+  data.last_updated = new Date().toISOString();
+
   writeJson(KNOWN_REPOS_FILE, data);
 }
 
@@ -337,10 +338,9 @@ async function main() {
       // 카테고리는 있지만 타입 불명확 → 이슈 생성
       console.log(`  → 카테고리 있으나 타입 불명확, 이슈 생성`);
       try {
-        gh(`issue create \
-          --title "🔍 스킬 수동 분류 필요: ${candidate.name}" \
-          --body "## 자동 분류 실패\\n\\n- **레포**: ${candidate.url}\\n- **설명**: ${candidate.description || '없음'}\\n- **한국어**: ${classification.korean}\\n- **제안 카테고리**: ${classification.category}\\n- **타입 판별 실패**\\n\\n수동으로 확인 후 적절한 카테고리에 추가해주세요." \
-          --label "manual-review"`);
+        const title = `🔍 스킬 수동 분류 필요: ${candidate.name}`;
+        const body = `## 자동 분류 실패\n\n- **레포**: ${candidate.url}\n- **설명**: ${candidate.description || '없음'}\n- **한국어**: ${classification.korean}\n- **제안 카테고리**: ${classification.category}\n- **타입 판별 실패**\n\n수동으로 확인 후 적절한 카테고리에 추가해주세요.`;
+        gh(['issue', 'create', '--title', title, '--body', body, '--label', 'manual-review']);
         summary.issues++;
       } catch (err) {
         console.error(`  이슈 생성 실패: ${err.message}`);
@@ -356,10 +356,9 @@ async function main() {
     if (!fs.existsSync(categoryFile)) {
       console.warn(`  카테고리 파일 없음: ${categoryFile}, 이슈 생성`);
       try {
-        gh(`issue create \
-          --title "🔍 신규 카테고리 필요: ${classification.category}" \
-          --body "## 자동 스킬 추가 실패\\n\\n- **레포**: ${candidate.url}\\n- **제안 카테고리**: \`${classification.category}\`\\n\\n카테고리 파일이 없어 추가할 수 없었습니다." \
-          --label "manual-review"`);
+        const title = `🔍 신규 카테고리 필요: ${classification.category}`;
+        const body = `## 자동 스킬 추가 실패\n\n- **레포**: ${candidate.url}\n- **제안 카테고리**: \`${classification.category}\`\n\n카테고리 파일이 없어 추가할 수 없었습니다.`;
+        gh(['issue', 'create', '--title', title, '--body', body, '--label', 'manual-review']);
         summary.issues++;
       } catch {}
       updateKnownRepos(candidate.url, []);

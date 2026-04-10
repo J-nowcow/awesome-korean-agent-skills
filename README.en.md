@@ -74,6 +74,18 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ---
 
+## Skill of the Week
+
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-04-10
+
+| Skill | Tools | Why Recommended? | Link |
+|------|:---:|---------|------|
+| 🔧 humanizer | CC/CR/WS | Converts AI-written Korean to natural human style. Based on KatFishNet paper | [korean-skills](https://github.com/daleseo/korean-skills) |
+| 🔧 SRT/KTX Reservation | CC/CX/OC | Train ticket reservation automation — flagship Korean-specific skill | [k-skill](https://github.com/NomaDamas/k-skill) |
+| 🤖 code-reviewer | CC | Severity-based security & performance review grounded in SOLID principles | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/code-reviewer.md) |
+
+---
+
 ## Development Skills
 
 | Category | Description | Items |

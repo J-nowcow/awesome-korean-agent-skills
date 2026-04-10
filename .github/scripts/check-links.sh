@@ -98,23 +98,22 @@ done
 if command -v jq &>/dev/null && [[ -f "$KNOWN_REPOS" ]] && [[ -s "$DEAD_LOG" ]]; then
   echo "Updating $KNOWN_REPOS..."
 
-  # Build jq filter: remove objects whose url matches any dead URL
   tmp_repos="$(mktemp)"
 
-  # Read dead URLs line by line and filter them out
-  dead_filter='.'
+  # Collect dead URLs into a bash array
+  declare -a dead_urls=()
   while IFS= read -r line; do
-    # Extract just the URL (format: "[filename] url")
     dead_url="${line#* }"
     dead_url="${dead_url%%[[:space:]]*}"
     if [[ -n "$dead_url" ]]; then
-      # Escape for jq string comparison
-      dead_url_escaped="${dead_url//\\/\\\\}"
-      dead_filter+=" | map(select(.url != \"${dead_url_escaped}\"))"
+      dead_urls+=("$dead_url")
     fi
   done < "$DEAD_LOG"
 
-  jq "$dead_filter" "$KNOWN_REPOS" > "$tmp_repos" && mv "$tmp_repos" "$KNOWN_REPOS" || {
+  # Collect dead URLs into a JSON array
+  dead_urls_json=$(jq -n --args '$ARGS.positional' -- "${dead_urls[@]}")
+  # Filter in one pass
+  jq --argjson dead "$dead_urls_json" '.repos |= map(select(.url as $u | ($dead | index($u)) == null))' "$KNOWN_REPOS" > "$tmp_repos" && mv "$tmp_repos" "$KNOWN_REPOS" || {
     echo "Warning: failed to update known-repos.json" >&2
     rm -f "$tmp_repos"
   }

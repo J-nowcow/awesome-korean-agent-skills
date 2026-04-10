@@ -77,12 +77,6 @@ done
 
 echo "▶ 중복 제거 및 known-repos 필터링"
 
-# URL 기준 중복 제거 + known-repos 제외
-FINAL="$(jq --argjson known "$(echo "${KNOWN_URLS}" | jq -R '[.,inputs]' | jq -s '.[0]')" '
-  unique_by(.url) |
-  map(select(.url as $u | ($known | index($u)) == null))
-' "${TMP_MERGED}")"
-
 # known-repos URL 목록을 JSON 배열로 만들어 필터링
 KNOWN_JSON="$(jq -r '.repos[].url' "${KNOWN_REPOS_FILE}" | jq -R '[.,inputs]' | jq -s '.[0]')"
 

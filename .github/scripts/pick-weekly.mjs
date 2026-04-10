@@ -268,6 +268,42 @@ function updateReadme(picks, dateStr) {
   writeFile('README.md', readme);
 }
 
+/**
+ * Replaces the 3 data rows in the "Skill of the Week" table in README.en.md and updates the date.
+ * Table structure in README.en.md:
+ *   ## Skill of the Week
+ *   > ... Last updated: YYYY-MM-DD
+ *   | Skill | Tools | Why Recommended? | Link |
+ *   |------|:---:|---------|------|
+ *   | row1 |
+ *   | row2 |
+ *   | row3 |
+ *   (blank line or ---)
+ */
+function updateReadmeEn(picks, dateStr) {
+  let readme = readFile('README.en.md');
+
+  // Update date in the blockquote
+  readme = readme.replace(
+    /(Last updated:\s*)\d{4}-\d{2}-\d{2}/,
+    `$1${dateStr}`
+  );
+
+  // Build new table rows with English reasons
+  const rows = picks.map(({ skill, reasonEn }) => {
+    const { type, name, tools, repoName, repoUrl } = skill;
+    return `| ${type} ${name} | ${tools} | ${reasonEn} | [${repoName}](${repoUrl}) |`;
+  });
+
+  // Replace data rows
+  const tablePattern = /(^\| Skill \| Tools \| Why Recommended\? \| Link \|.*\n\|[-:| ]+\|[ ]*\n)([\s\S]*?)(\n---|\n\n)/m;
+  readme = readme.replace(tablePattern, (_, headerPart, _dataPart, ending) => {
+    return `${headerPart}${rows.join('\n')}${ending}`;
+  });
+
+  writeFile('README.en.md', readme);
+}
+
 // ── 5. Update history ─────────────────────────────────────────────────────────
 
 function appendHistory(history, dateStr, picks) {
@@ -323,7 +359,7 @@ async function main() {
   const picks = selections.slice(0, 3).map(sel => {
     const skill = candidates[sel.index];
     if (!skill) throw new Error(`Invalid index ${sel.index} from API response`);
-    return { skill, reason: sel.reason_ko };
+    return { skill, reason: sel.reason_ko, reasonEn: sel.reason_en };
   });
 
   console.log('[pick-weekly] Selected picks:');
@@ -335,6 +371,10 @@ async function main() {
   // 4. Update README.md
   updateReadme(picks, dateStr);
   console.log('[pick-weekly] README.md updated.');
+
+  // 4b. Update README.en.md
+  updateReadmeEn(picks, dateStr);
+  console.log('[pick-weekly] README.en.md updated.');
 
   // 5. Update history
   appendHistory(history, dateStr, picks);

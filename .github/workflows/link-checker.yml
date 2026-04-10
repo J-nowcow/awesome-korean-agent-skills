@@ -70,7 +70,7 @@ ${DEAD_LOG_BODY}
 
 ---
 🤖 *link-checker 워크플로우에 의해 자동 생성됨*" \
-            --label "auto-merge,link-check" \
+            --label "auto-merge" --label "link-check" \
             --head "$BRANCH" \
             --base main
 

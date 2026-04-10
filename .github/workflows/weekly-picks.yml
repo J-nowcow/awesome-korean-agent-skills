@@ -48,7 +48,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git checkout -b "$BRANCH"
-          git add README.md data/weekly-picks-history.json
+          git add README.md README.en.md data/weekly-picks-history.json
           git commit -m "chore: 이 주의 스킬 갱신 (${DATE})"
           git push origin "$BRANCH"
 

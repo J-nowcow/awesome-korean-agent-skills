@@ -36,7 +36,7 @@ jobs:
               fi
 
               # Skip separator rows (only dashes, colons, pipes, spaces)
-              if echo "$line" | grep -qP '^\|[\s\-\:\|]+\|$'; then
+              if echo "$line" | grep -qE '^\|[-: |]+\|$'; then
                 continue
               fi
 
@@ -62,7 +62,7 @@ jobs:
 
           for file in categories/*.md; do
             # Extract all GitHub URLs from the file
-            dups=$(grep -oP 'https://github\.com/[^\s\)\]"]+' "$file" \
+            dups=$(grep -oE 'https://github\.com/[^[:space:])\]"]+' "$file" \
               | sort | uniq -d)
 
             if [[ -n "$dups" ]]; then
@@ -94,7 +94,7 @@ jobs:
           new_urls=$(git diff origin/${{ github.base_ref }}...HEAD -- $changed_files \
             | grep '^+' \
             | grep -v '^+++' \
-            | grep -oP 'https://github\.com/[^\s\)\]"]+' \
+            | grep -oE 'https://github\.com/[^[:space:])\]"]+' \
             | sort -u || true)
 
           if [[ -z "$new_urls" ]]; then
