@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# requires bash 4+ (mapfile) — on macOS install via: brew install bash
 # init-known-repos.sh
 # Extracts all GitHub repo URLs from categories/*.md, deduplicates them,
 # and generates data/known-repos.json
