@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/mascot.svg" width="200" alt="Awesome Korean Agent Skills Mascot"/>
+</p>
+
 # Awesome Korean Agent Skills
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
