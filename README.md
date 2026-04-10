@@ -24,9 +24,9 @@
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🔧 humanizer | CC/CR/WS | AI가 쓴 한국어를 사람 문체로 변환. KatFishNet 논문 기반 | [korean-skills](https://github.com/daleseo/korean-skills) |
-| 🔧 SRT/KTX 예매 | CC/CX/OC | 열차 예매 자동화 — 한국 특화 스킬의 대표 | [k-skill](https://github.com/NomaDamas/k-skill) |
-| 🤖 code-reviewer | CC | SOLID 원칙 기반 심각도별 보안·성능 리뷰 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/code-reviewer.md) |
+| 🤖 code-reviewer | CC | 코드 리뷰는 개발 과정에서 필수적인 요소이며, 'code-reviewer'는 품질과 보안을 종합적으로 검토하여 실용성이 매우 높습니다. 다양한 언어별 리뷰어(18번)와 함께 사용하면 더욱 효과적입니다. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/code-reviewer.md) |
+| 🤖 chief-of-staff | CC | 'chief-of-staff'는 이메일, Slack 등 다양한 커뮤니케이션 채널의 메시지를 처리하고 답장 초안을 작성해주어 업무 효율성을 크게 향상시킬 수 있습니다. 한국어 지원이 잘 되어 있어 실용적입니다. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/chief-of-staff.md) |
+| 🤖 NestJS 전문 에이전트 7종 | CC | 'NestJS 전문 에이전트 7종'은 백엔드 개발에 필요한 다양한 핵심 기술 스택을 포함하고 있어, 복잡한 백엔드 개발 프로젝트를 시작하거나 개선하는 데 큰 도움을 줄 수 있습니다. 다양한 카테고리에서 고르게 선택하기 위해 이 스킬을 선정했습니다. | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/plugins/nestjs-backend/agents) |
 
 ---
 
