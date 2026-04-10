@@ -1,29 +1,1360 @@
 {
   "repos": [
-    {"url": "https://github.com/Dev-GOM/claude-code-marketplace", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/FutureExcited/vibe-rules", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/Koomook/claude-skill-youtube-kr-subtitle", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/NomaDamas/k-skill", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/SongJohnhawk/ai-coding-guidelines", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/Yeachan-Heo/oh-my-claudecode", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/affaan-m/everything-claude-code", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/anthropics/skills", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/bear2u/my-skills", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/code-yeongyu/oh-my-openagent", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/daleseo/korean-skills", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/dyoshikawa/rulesync", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/heilcheng/awesome-agent-skills", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/jh941213/my-claude-code-asset", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/m16khb/claude-integration", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/popup-studio-ai/bkit-claude-code", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/popup-studio-ai/bkit-codex", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/popup-studio-ai/bkit-gemini", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/revfactory/claude-code-mastering", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/roboco-io/plugins", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/sangrokjung/claude-forge", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/taehojo/vibecoding", "last_scanned": "2026-04-10T04:37:23Z", "skills": []},
-    {"url": "https://github.com/tantara/claude-code-korean", "last_scanned": "2026-04-10T04:37:23Z", "skills": []}
+    {
+      "url": "https://github.com/Dev-GOM/claude-code-marketplace",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/FutureExcited/vibe-rules",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Koomook/claude-skill-youtube-kr-subtitle",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/NomaDamas/k-skill",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/SongJohnhawk/ai-coding-guidelines",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/anthropics/skills",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/bear2u/my-skills",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/daleseo/korean-skills",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/dyoshikawa/rulesync",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/heilcheng/awesome-agent-skills",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jh941213/my-claude-code-asset",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/m16khb/claude-integration",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/popup-studio-ai/bkit-claude-code",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/popup-studio-ai/bkit-codex",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/popup-studio-ai/bkit-gemini",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/revfactory/claude-code-mastering",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/roboco-io/plugins",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/sangrokjung/claude-forge",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/taehojo/vibecoding",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tantara/claude-code-korean",
+      "last_scanned": "2026-04-10T04:37:23Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/AIPexStudio/AIPex",
+      "last_scanned": "2026-04-10T07:45:46.496Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Agent-Field/SWE-AF",
+      "last_scanned": "2026-04-10T07:45:48.405Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/AgentsMesh/AgentsMesh",
+      "last_scanned": "2026-04-10T07:45:50.479Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ArtemXTech/personal-os-skills",
+      "last_scanned": "2026-04-10T07:45:52.267Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/AvdLee/Swift-Concurrency-Agent-Skill",
+      "last_scanned": "2026-04-10T07:45:54.008Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/BayramAnnakov/claude-reflect",
+      "last_scanned": "2026-04-10T07:45:55.673Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/BehiSecc/awesome-claude-skills",
+      "last_scanned": "2026-04-10T07:45:57.493Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Besty0728/Unity-Skills",
+      "last_scanned": "2026-04-10T07:45:59.260Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/BrownFineSecurity/iothackbot",
+      "last_scanned": "2026-04-10T07:46:00.978Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Ceeon/videocut-skills",
+      "last_scanned": "2026-04-10T07:46:02.713Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "last_scanned": "2026-04-10T07:46:04.838Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ChesterRa/cccc",
+      "last_scanned": "2026-04-10T07:46:06.702Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/CloudAI-X/claude-workflow-v2",
+      "last_scanned": "2026-04-10T07:46:08.469Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ComposioHQ/awesome-claude-plugins",
+      "last_scanned": "2026-04-10T07:46:10.266Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "last_scanned": "2026-04-10T07:46:12.196Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "last_scanned": "2026-04-10T07:46:14.052Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/GewoonJaap/gemini-cli-openai",
+      "last_scanned": "2026-04-10T07:46:15.825Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/J-nowcow/awesome-korean-agent-skills",
+      "last_scanned": "2026-04-10T07:46:17.519Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "last_scanned": "2026-04-10T07:46:19.270Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/JackyST0/awesome-agent-skills",
+      "last_scanned": "2026-04-10T07:46:21.048Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Jeffallan/claude-skills",
+      "last_scanned": "2026-04-10T07:46:22.855Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/JimLiu/baoyu-skills",
+      "last_scanned": "2026-04-10T07:46:24.719Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "last_scanned": "2026-04-10T07:46:26.342Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "last_scanned": "2026-04-10T07:46:28.218Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/KhazP/vibe-coding-prompt-template",
+      "last_scanned": "2026-04-10T07:46:29.938Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Logan-DoubleB/Cat_is_king",
+      "last_scanned": "2026-04-10T07:46:31.764Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "last_scanned": "2026-04-10T07:46:33.496Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
+      "last_scanned": "2026-04-10T07:46:35.217Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/NanmiCoder/claude-code-skills",
+      "last_scanned": "2026-04-10T07:46:36.962Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant",
+      "last_scanned": "2026-04-10T07:46:38.764Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/NevaMind-AI/memU",
+      "last_scanned": "2026-04-10T07:46:40.610Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "last_scanned": "2026-04-10T07:46:42.468Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/OhSeungWan/bmad-submodule",
+      "last_scanned": "2026-04-10T07:46:44.575Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/OlivierAlter/Claude-Certified-Architect-Foundations-Certification-Exam",
+      "last_scanned": "2026-04-10T07:46:46.281Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/OpenRaiser/NanoResearch",
+      "last_scanned": "2026-04-10T07:46:48.144Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+      "last_scanned": "2026-04-10T07:46:49.931Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "last_scanned": "2026-04-10T07:46:51.648Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "last_scanned": "2026-04-10T07:46:53.377Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/PleasePrompto/notebooklm-mcp",
+      "last_scanned": "2026-04-10T07:46:55.073Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/PleasePrompto/notebooklm-skill",
+      "last_scanned": "2026-04-10T07:46:56.787Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Prat011/awesome-llm-skills",
+      "last_scanned": "2026-04-10T07:46:58.567Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Priivacy-ai/spec-kitty",
+      "last_scanned": "2026-04-10T07:47:00.617Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/RAIT-09/obsidian-agent-client",
+      "last_scanned": "2026-04-10T07:47:02.366Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/RKiding/Awesome-finance-skills",
+      "last_scanned": "2026-04-10T07:47:04.086Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/SC-Airu/groundwork-skill",
+      "last_scanned": "2026-04-10T07:47:05.853Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Sfedfcv/redesigned-pancake",
+      "last_scanned": "2026-04-10T07:47:07.519Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "last_scanned": "2026-04-10T07:47:09.252Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/SynaLinks/synalinks-skills",
+      "last_scanned": "2026-04-10T07:47:11.075Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ThinkInAIXYZ/deepchat",
+      "last_scanned": "2026-04-10T07:47:13.020Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "last_scanned": "2026-04-10T07:47:14.822Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+      "last_scanned": "2026-04-10T07:47:16.640Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/WEIFENG2333/VideoCaptioner",
+      "last_scanned": "2026-04-10T07:47:18.453Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Wechat-ggGitHub/wechat-claude-code",
+      "last_scanned": "2026-04-10T07:47:20.172Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Wei-Shaw/claude-relay-service",
+      "last_scanned": "2026-04-10T07:47:22.014Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "last_scanned": "2026-04-10T07:47:23.910Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+      "last_scanned": "2026-04-10T07:47:25.724Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+      "last_scanned": "2026-04-10T07:47:27.404Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/adaptyvbio/protein-design-skills",
+      "last_scanned": "2026-04-10T07:47:29.120Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/addyosmani/agent-skills",
+      "last_scanned": "2026-04-10T07:47:30.796Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/addyosmani/gemini-cli-tips",
+      "last_scanned": "2026-04-10T07:47:32.625Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/addyosmani/web-quality-skills",
+      "last_scanned": "2026-04-10T07:47:34.364Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/aden-hive/hive",
+      "last_scanned": "2026-04-10T07:47:36.298Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/agentskills/agentskills",
+      "last_scanned": "2026-04-10T07:47:38.010Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
+      "last_scanned": "2026-04-10T07:47:39.820Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "last_scanned": "2026-04-10T07:47:41.726Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/alpoxdev/hypercore",
+      "last_scanned": "2026-04-10T07:47:43.517Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/antfu/skills",
+      "last_scanned": "2026-04-10T07:47:45.301Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "last_scanned": "2026-04-10T07:47:47.089Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/antonbabenko/terraform-skill",
+      "last_scanned": "2026-04-10T07:47:48.803Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "last_scanned": "2026-04-10T07:47:50.508Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/asheshgoplani/agent-deck",
+      "last_scanned": "2026-04-10T07:47:52.344Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/badrisnarayanan/antigravity-claude-proxy",
+      "last_scanned": "2026-04-10T07:47:54.067Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/bevibing/tutor-skills",
+      "last_scanned": "2026-04-10T07:47:55.759Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/bgauryy/open-docs",
+      "last_scanned": "2026-04-10T07:47:57.454Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/botingw/rulebook-ai",
+      "last_scanned": "2026-04-10T07:47:59.298Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/breaking-brake/cc-wf-studio",
+      "last_scanned": "2026-04-10T07:48:01.100Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/browser-use/browser-use",
+      "last_scanned": "2026-04-10T07:48:02.869Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/catlog22/Claude-Code-Workflow",
+      "last_scanned": "2026-04-10T07:48:04.781Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/chongdashu/cc-skills-nanobananapro",
+      "last_scanned": "2026-04-10T07:48:06.686Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/cisco-ai-defense/skill-scanner",
+      "last_scanned": "2026-04-10T07:48:08.476Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/code-on-sunday/slide-deck-generator",
+      "last_scanned": "2026-04-10T07:48:10.204Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/codeaashu/claude-code",
+      "last_scanned": "2026-04-10T07:48:12.099Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/codeaholicguy/ai-devkit",
+      "last_scanned": "2026-04-10T07:48:13.891Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/composite/korean-skills",
+      "last_scanned": "2026-04-10T07:48:15.592Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/conorluddy/ios-simulator-skill",
+      "last_scanned": "2026-04-10T07:48:17.296Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/cruzyjapan/Gemini-CLI-UI",
+      "last_scanned": "2026-04-10T07:48:19.039Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/czlonkowski/n8n-skills",
+      "last_scanned": "2026-04-10T07:48:20.830Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/davepoon/buildwithclaude",
+      "last_scanned": "2026-04-10T07:48:22.716Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/davila7/claude-code-templates",
+      "last_scanned": "2026-04-10T07:48:25.577Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/deanpeters/Product-Manager-Skills",
+      "last_scanned": "2026-04-10T07:48:27.378Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/deusyu/translate-book",
+      "last_scanned": "2026-04-10T07:48:29.073Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/devxoul/hwpilot",
+      "last_scanned": "2026-04-10T07:48:30.869Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
+      "last_scanned": "2026-04-10T07:48:32.542Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/doccker/cc-use-exp",
+      "last_scanned": "2026-04-10T07:48:34.390Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/dominikmartn/nothing-design-skill",
+      "last_scanned": "2026-04-10T07:48:36.102Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/dstackai/dstack",
+      "last_scanned": "2026-04-10T07:48:38.040Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/dtsola/xiaoyaosearch",
+      "last_scanned": "2026-04-10T07:48:39.941Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/duanyytop/agents-radar",
+      "last_scanned": "2026-04-10T07:48:41.793Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/eigent-ai/eigent",
+      "last_scanned": "2026-04-10T07:48:43.805Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ejlee-0924/hr-champions",
+      "last_scanned": "2026-04-10T07:48:45.602Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/es617/claude-replay",
+      "last_scanned": "2026-04-10T07:48:47.399Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/evalstate/fast-agent",
+      "last_scanned": "2026-04-10T07:48:49.312Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/farion1231/cc-switch",
+      "last_scanned": "2026-04-10T07:48:51.156Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/fcakyon/claude-codex-settings",
+      "last_scanned": "2026-04-10T07:48:53.044Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/feiskyer/claude-code-settings",
+      "last_scanned": "2026-04-10T07:48:54.756Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/fivetaku/cc101",
+      "last_scanned": "2026-04-10T07:48:56.500Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/fivetaku/fivetaku",
+      "last_scanned": "2026-04-10T07:48:58.327Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/folke/sidekick.nvim",
+      "last_scanned": "2026-04-10T07:49:00.120Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/forayconsulting/gemini_cli_skill",
+      "last_scanned": "2026-04-10T07:49:01.813Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
+      "last_scanned": "2026-04-10T07:49:03.858Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/freekmurze/dotfiles",
+      "last_scanned": "2026-04-10T07:49:05.647Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ftery0/claude-account-switch",
+      "last_scanned": "2026-04-10T07:49:07.400Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/galz10/pickle-rick-extension",
+      "last_scanned": "2026-04-10T07:49:09.216Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gastownhall/beads",
+      "last_scanned": "2026-04-10T07:49:11.094Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/geekjourneyx/md2wechat-skill",
+      "last_scanned": "2026-04-10T07:49:12.988Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gemini-cli-extensions/code-review",
+      "last_scanned": "2026-04-10T07:49:14.760Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gemini-cli-extensions/conductor",
+      "last_scanned": "2026-04-10T07:49:16.518Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gemini-cli-extensions/security",
+      "last_scanned": "2026-04-10T07:49:18.314Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/github/awesome-copilot",
+      "last_scanned": "2026-04-10T07:49:20.343Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/glitternetwork/pinme",
+      "last_scanned": "2026-04-10T07:49:22.191Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/goddaehee/cmux-claude-skill",
+      "last_scanned": "2026-04-10T07:49:23.970Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/google-github-actions/run-gemini-cli",
+      "last_scanned": "2026-04-10T07:49:25.772Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/googleworkspace/cli",
+      "last_scanned": "2026-04-10T07:49:27.589Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "last_scanned": "2026-04-10T07:49:29.416Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gotalab/cc-sdd",
+      "last_scanned": "2026-04-10T07:49:31.240Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "last_scanned": "2026-04-10T07:49:33.180Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/hadamyeedady12-dev/claude-ultimate-hud",
+      "last_scanned": "2026-04-10T07:49:34.973Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/hamsurang/kit",
+      "last_scanned": "2026-04-10T07:49:36.732Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "last_scanned": "2026-04-10T07:49:38.720Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/htdt/godogen",
+      "last_scanned": "2026-04-10T07:49:40.492Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/htmlstreamofficial/preline",
+      "last_scanned": "2026-04-10T07:49:42.315Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/humanlayer/humanlayer",
+      "last_scanned": "2026-04-10T07:49:44.231Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/hyuunnn/PreviewLLM",
+      "last_scanned": "2026-04-10T07:49:45.993Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "last_scanned": "2026-04-10T07:49:48.024Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ikaijua/Awesome-AITools",
+      "last_scanned": "2026-04-10T07:49:49.791Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/im-jaehong/cc101jp",
+      "last_scanned": "2026-04-10T07:49:51.574Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/instavm/coderunner",
+      "last_scanned": "2026-04-10T07:49:53.350Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/itsmostafa/aws-agent-skills",
+      "last_scanned": "2026-04-10T07:49:55.062Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "last_scanned": "2026-04-10T07:49:56.805Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+      "last_scanned": "2026-04-10T07:49:59.184Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jezweb/claude-skills",
+      "last_scanned": "2026-04-10T07:50:01.031Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jh941213/my-cc-harness",
+      "last_scanned": "2026-04-10T07:50:02.882Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jkf87/court-auction-scraper",
+      "last_scanned": "2026-04-10T07:50:04.626Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jnMetaCode/superpowers-zh",
+      "last_scanned": "2026-04-10T07:50:06.375Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/johannesjo/parallel-code",
+      "last_scanned": "2026-04-10T07:50:08.147Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/joseph0926/prompt-shield",
+      "last_scanned": "2026-04-10T07:50:09.952Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jqueryscript/awesome-claude-code",
+      "last_scanned": "2026-04-10T07:50:11.687Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/juchanhwang/my-harness",
+      "last_scanned": "2026-04-10T07:50:13.493Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/junhoyeo/tokscale",
+      "last_scanned": "2026-04-10T07:50:15.314Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jyoung9154/AIAgent_Report",
+      "last_scanned": "2026-04-10T07:50:17.131Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jyoung9154/AgentSkills",
+      "last_scanned": "2026-04-10T07:50:19.034Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kbwo/ccmanager",
+      "last_scanned": "2026-04-10T07:50:20.750Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kevinluosl/deepbot",
+      "last_scanned": "2026-04-10T07:50:22.566Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kingbootoshi/nano-banana-2-skill",
+      "last_scanned": "2026-04-10T07:50:24.261Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kkoppenhaver/cc-nano-banana",
+      "last_scanned": "2026-04-10T07:50:26.052Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kubesphere/kubesphere",
+      "last_scanned": "2026-04-10T07:50:28.184Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kubony/million-agents-plugin",
+      "last_scanned": "2026-04-10T07:50:29.980Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kyuhyi/bsd-tmux-ocastra",
+      "last_scanned": "2026-04-10T07:50:31.720Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/lackeyjb/playwright-skill",
+      "last_scanned": "2026-04-10T07:50:33.449Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/leochlon/hallbayes",
+      "last_scanned": "2026-04-10T07:50:35.136Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ljagiello/ctf-skills",
+      "last_scanned": "2026-04-10T07:50:36.946Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/loocor/codmate",
+      "last_scanned": "2026-04-10T07:50:38.773Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/luongnv89/claude-howto",
+      "last_scanned": "2026-04-10T07:50:40.614Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/luwill/research-skills",
+      "last_scanned": "2026-04-10T07:50:42.292Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/m0n0x41d/quint-code",
+      "last_scanned": "2026-04-10T07:50:44.039Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/manaflow-ai/cmux",
+      "last_scanned": "2026-04-10T07:50:46.054Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/maxritter/pilot-shell",
+      "last_scanned": "2026-04-10T07:50:47.931Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mcp-use/mcp-use",
+      "last_scanned": "2026-04-10T07:50:49.866Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mhattingpete/claude-skills-marketplace",
+      "last_scanned": "2026-04-10T07:50:51.573Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/microsoft/skills",
+      "last_scanned": "2026-04-10T07:50:53.561Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mikeyobrien/ralph-orchestrator",
+      "last_scanned": "2026-04-10T07:50:55.494Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/minsight-ai-info/AI-Search-Hub",
+      "last_scanned": "2026-04-10T07:50:57.218Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mnfst/manifest",
+      "last_scanned": "2026-04-10T07:50:59.119Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "last_scanned": "2026-04-10T07:51:00.860Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "last_scanned": "2026-04-10T07:51:02.651Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nidhinjs/prompt-master",
+      "last_scanned": "2026-04-10T07:51:04.395Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/njbrake/agent-of-empires",
+      "last_scanned": "2026-04-10T07:51:06.245Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nowonbun/nowonbun-harness",
+      "last_scanned": "2026-04-10T07:51:08.048Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ntegrals/10x",
+      "last_scanned": "2026-04-10T07:51:09.813Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/obra/superpowers-marketplace",
+      "last_scanned": "2026-04-10T07:51:11.560Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/open-gitagent/gitagent",
+      "last_scanned": "2026-04-10T07:51:13.342Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/oraios/serena",
+      "last_scanned": "2026-04-10T07:51:15.223Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/parcadei/Continuous-Claude-v3",
+      "last_scanned": "2026-04-10T07:51:17.175Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/perhapsspy/structure-first",
+      "last_scanned": "2026-04-10T07:51:18.965Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/phuryn/pm-skills",
+      "last_scanned": "2026-04-10T07:51:20.781Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/pipecat-ai/pipecat",
+      "last_scanned": "2026-04-10T07:51:22.662Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/pjt3591oo/claude-code-advanced-guide",
+      "last_scanned": "2026-04-10T07:51:24.499Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/projectmiluju/miluju-agent-skill",
+      "last_scanned": "2026-04-10T07:51:26.261Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/qpwoei0123/skills",
+      "last_scanned": "2026-04-10T07:51:27.994Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/qwibitai/nanoclaw",
+      "last_scanned": "2026-04-10T07:51:29.745Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/refly-ai/refly",
+      "last_scanned": "2026-04-10T07:51:31.711Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/revfactory/claude-code-leak-effect",
+      "last_scanned": "2026-04-10T07:51:33.486Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/revfactory/harness-abtest",
+      "last_scanned": "2026-04-10T07:51:35.227Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/rjs/shaping-skills",
+      "last_scanned": "2026-04-10T07:51:36.920Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/robrohan/WebArchiveExtractor",
+      "last_scanned": "2026-04-10T07:51:38.655Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/rohitg00/pro-workflow",
+      "last_scanned": "2026-04-10T07:51:40.366Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/rohitg00/skillkit",
+      "last_scanned": "2026-04-10T07:51:42.223Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "last_scanned": "2026-04-10T07:51:44.080Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "last_scanned": "2026-04-10T07:51:45.947Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/rtk-ai/rtk",
+      "last_scanned": "2026-04-10T07:51:47.779Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/runesleo/x-reader",
+      "last_scanned": "2026-04-10T07:51:49.545Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ruvnet/ruflo",
+      "last_scanned": "2026-04-10T07:51:51.791Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/safishamsi/graphify",
+      "last_scanned": "2026-04-10T07:51:53.591Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/samber/cc-skills-golang",
+      "last_scanned": "2026-04-10T07:51:55.362Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/santifer/career-ops",
+      "last_scanned": "2026-04-10T07:51:57.098Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "last_scanned": "2026-04-10T07:51:58.910Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "last_scanned": "2026-04-10T07:52:00.652Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/shinhyukahn/cck",
+      "last_scanned": "2026-04-10T07:52:02.437Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "last_scanned": "2026-04-10T07:52:04.565Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/siteboon/claudecodeui",
+      "last_scanned": "2026-04-10T07:52:06.328Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/skillmatic-ai/awesome-agent-skills",
+      "last_scanned": "2026-04-10T07:52:08.011Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/skills-directory/skill-codex",
+      "last_scanned": "2026-04-10T07:52:09.693Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/slavingia/skills",
+      "last_scanned": "2026-04-10T07:52:11.398Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/slopus/happy",
+      "last_scanned": "2026-04-10T07:52:13.242Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/softaworks/agent-toolkit",
+      "last_scanned": "2026-04-10T07:52:15.122Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/staruhub/ClaudeSkills",
+      "last_scanned": "2026-04-10T07:52:16.822Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/steipete/CodexBar",
+      "last_scanned": "2026-04-10T07:52:18.687Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/superagent-ai/vibekit",
+      "last_scanned": "2026-04-10T07:52:20.506Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/superset-sh/superset",
+      "last_scanned": "2026-04-10T07:52:22.554Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/team-attention/cc-workflow-101-public",
+      "last_scanned": "2026-04-10T07:52:24.333Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "last_scanned": "2026-04-10T07:52:26.104Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/thedotmack/claude-mem",
+      "last_scanned": "2026-04-10T07:52:27.844Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+      "last_scanned": "2026-04-10T07:52:29.596Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tiann/hapi",
+      "last_scanned": "2026-04-10T07:52:31.482Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tienne/gestalt",
+      "last_scanned": "2026-04-10T07:52:33.371Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/timescale/pg-aiguide",
+      "last_scanned": "2026-04-10T07:52:35.159Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/toss/apps-in-toss-skills",
+      "last_scanned": "2026-04-10T07:52:36.955Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/trailofbits/skills",
+      "last_scanned": "2026-04-10T07:52:38.781Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/travisvn/awesome-claude-skills",
+      "last_scanned": "2026-04-10T07:52:40.585Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tripleyak/SkillForge",
+      "last_scanned": "2026-04-10T07:52:42.420Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/trustwallet/developer",
+      "last_scanned": "2026-04-10T07:52:44.153Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/uxjoseph/quote-video-prompt",
+      "last_scanned": "2026-04-10T07:52:45.882Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/vinayaksavle/UploadDownloadPDF",
+      "last_scanned": "2026-04-10T07:52:47.662Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/will2025btc/buffett-perspective",
+      "last_scanned": "2026-04-10T07:52:49.524Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/winfunc/opcode",
+      "last_scanned": "2026-04-10T07:52:51.280Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/wshobson/agents",
+      "last_scanned": "2026-04-10T07:52:53.092Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/wshuyi/remotion-video-skill",
+      "last_scanned": "2026-04-10T07:52:54.767Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/xintaofei/codeg",
+      "last_scanned": "2026-04-10T07:52:56.565Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
+      "last_scanned": "2026-04-10T07:52:58.266Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/xixu-me/xget",
+      "last_scanned": "2026-04-10T07:53:00.031Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/xonsh/xonsh",
+      "last_scanned": "2026-04-10T07:53:01.922Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/yigitkonur/cli-continues",
+      "last_scanned": "2026-04-10T07:53:03.637Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+      "last_scanned": "2026-04-10T07:53:05.611Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/yvgude/lean-ctx",
+      "last_scanned": "2026-04-10T07:53:07.455Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/zarazhangrui/codebase-to-course",
+      "last_scanned": "2026-04-10T07:53:09.127Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/zarazhangrui/frontend-slides",
+      "last_scanned": "2026-04-10T07:53:10.823Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/zilliztech/claude-context",
+      "last_scanned": "2026-04-10T07:53:12.710Z",
+      "skills": []
+    }
   ],
-  "last_updated": "2026-04-10T04:37:23Z"
+  "last_updated": "2026-04-10T07:53:12.710Z"
 }
