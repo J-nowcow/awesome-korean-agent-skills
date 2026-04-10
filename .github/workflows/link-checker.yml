@@ -1,0 +1,78 @@
+name: Link Checker
+
+on:
+  schedule:
+    - cron: '0 5 * * *'   # daily 05:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run link checker
+        run: bash .github/scripts/check-links.sh
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create branch, commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          DATE="$(date -u +%Y-%m-%d)"
+          BRANCH="auto/link-check-${DATE}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout -b "$BRANCH"
+          git add categories/ data/
+          git commit -m "chore: 죽은 링크 제거 (${DATE})"
+          git push origin "$BRANCH"
+
+          echo "BRANCH=${BRANCH}" >> "$GITHUB_ENV"
+          echo "DATE=${DATE}" >> "$GITHUB_ENV"
+
+      - name: Create PR and auto-merge
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DEAD_COUNT="$(cat /tmp/dead-link-count 2>/dev/null || echo 0)"
+          DEAD_LOG_BODY="$(cat /tmp/dead-links.log 2>/dev/null || echo '(없음)')"
+
+          gh pr create \
+            --title "🤖 [auto] 죽은 링크 ${DEAD_COUNT}개 제거 (${DATE})" \
+            --body "## 변경 내용
+
+자동으로 탐지된 죽은 링크를 제거했습니다.
+
+**제거된 링크 수:** ${DEAD_COUNT}개
+
+### 죽은 링크 목록
+
+\`\`\`
+${DEAD_LOG_BODY}
+\`\`\`
+
+---
+🤖 *link-checker 워크플로우에 의해 자동 생성됨*" \
+            --label "auto-merge,link-check" \
+            --head "$BRANCH" \
+            --base main
+
+          # Auto-merge
+          gh pr merge --auto --squash "$BRANCH"
