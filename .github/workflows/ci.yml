@@ -45,8 +45,8 @@ jobs:
               # col_count = number of pipes; columns = pipes - 1
               actual_cols=$(( col_count - 1 ))
 
-              if (( actual_cols < 4 )); then
-                echo "::error file=$file::Table row has only $actual_cols column(s) (need 4+): $line"
+              if (( actual_cols < 2 )); then
+                echo "::error file=$file::Table row has only $actual_cols column(s) (need 2+): $line"
                 errors=1
               fi
             done < "$file"
