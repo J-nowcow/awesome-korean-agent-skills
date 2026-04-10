@@ -13,6 +13,63 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
+// ── Gemini API with retry + model fallback ──────────────────────────────────
+
+const MODELS = ['gemini-2.0-flash', 'gemini-2.0-flash-lite', 'gemini-1.5-flash'];
+const MAX_RETRIES = 3;
+
+async function callGeminiWithRetry(apiKey, prompt) {
+  for (const model of MODELS) {
+    for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+      try {
+        console.log(`  Gemini API: model=${model}, attempt=${attempt}/${MAX_RETRIES}`);
+        const response = await fetch(
+          `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
+          {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              contents: [{ parts: [{ text: prompt }] }],
+              generationConfig: { temperature: 0.2, maxOutputTokens: 2048 },
+            }),
+          }
+        );
+
+        if (response.status === 429) {
+          // Rate limited — parse retryDelay if available, otherwise exponential backoff
+          const body = await response.text();
+          const delayMatch = body.match(/"retryDelay":\s*"(\d+)s"/);
+          const waitSec = delayMatch ? parseInt(delayMatch[1]) + 5 : Math.min(30 * attempt, 90);
+          console.log(`  ⏳ Rate limited. Waiting ${waitSec}s before retry...`);
+          await new Promise(r => setTimeout(r, waitSec * 1000));
+          continue;
+        }
+
+        if (!response.ok) {
+          const errText = await response.text();
+          console.log(`  ⚠️ API error ${response.status}: ${errText.substring(0, 200)}`);
+          if (attempt === MAX_RETRIES) break; // try next model
+          await new Promise(r => setTimeout(r, 5000));
+          continue;
+        }
+
+        const data = await response.json();
+        if (!data.candidates?.[0]?.content?.parts?.[0]?.text) {
+          console.log(`  ⚠️ Empty response from ${model}`);
+          continue;
+        }
+        return data.candidates[0].content.parts[0].text;
+      } catch (err) {
+        console.log(`  ⚠️ ${model} attempt ${attempt} failed: ${err.message}`);
+        if (attempt === MAX_RETRIES) break;
+        await new Promise(r => setTimeout(r, 5000));
+      }
+    }
+    console.log(`  ❌ ${model} exhausted retries, trying next model...`);
+  }
+  throw new Error('All Gemini models exhausted after retries');
+}
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '../..');
 
@@ -201,27 +258,7 @@ ${candidateList}
   {"index": <숫자>, "reason_ko": "...", "reason_en": "..."}
 ]`;
 
-  const response = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`,
-    {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: {
-          temperature: 0.2,
-          maxOutputTokens: 2048,
-        },
-      }),
-    }
-  );
-
-  if (!response.ok) {
-    throw new Error(`Gemini API error: ${response.status} ${await response.text()}`);
-  }
-
-  const data = await response.json();
-  const text = data.candidates[0].content.parts[0].text;
+  const text = await callGeminiWithRetry(apiKey, prompt);
 
   // Strip markdown code fences if present
   const jsonText = text.replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '').trim();
