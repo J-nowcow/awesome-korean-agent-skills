@@ -1,0 +1,128 @@
+name: Skill Scout
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'   # 매주 월요일 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  skill-scout:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Search candidates
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bash .github/scripts/search-candidates.sh
+
+      - name: Check candidate count
+        id: candidate-check
+        run: |
+          COUNT="$(cat /tmp/candidate-count 2>/dev/null || echo 0)"
+          echo "count=${COUNT}" >> "$GITHUB_OUTPUT"
+          if [ "${COUNT}" -eq 0 ]; then
+            echo "no_candidates=true" >> "$GITHUB_OUTPUT"
+            echo "신규 후보 없음, 워크플로우 종료"
+          else
+            echo "no_candidates=false" >> "$GITHUB_OUTPUT"
+            echo "후보 ${COUNT}개 발견"
+          fi
+
+      - name: Classify and add skills
+        if: steps.candidate-check.outputs.no_candidates == 'false'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/classify-skill.mjs
+
+      - name: Check for changes
+        if: steps.candidate-check.outputs.no_candidates == 'false'
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "변경 없음 (모두 제외됨)"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            SKILL_COUNT="$(jq '.added // 0' /tmp/scout-summary.json 2>/dev/null || echo 0)"
+            echo "skill_count=${SKILL_COUNT}" >> "$GITHUB_OUTPUT"
+            echo "변경 감지: 스킬 ${SKILL_COUNT}개 추가"
+          fi
+
+      - name: Create branch, commit, and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          DATE="$(date +%Y-%m-%d)"
+          SKILL_COUNT="${{ steps.changes.outputs.skill_count }}"
+          BRANCH="auto/skill-scout-${DATE}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout -b "$BRANCH"
+          git add categories/ data/known-repos.json
+          git commit -m "feat: 신규 스킬 ${SKILL_COUNT}개 자동 추가 (${DATE})"
+          git push origin "$BRANCH"
+
+          echo "BRANCH=${BRANCH}" >> "$GITHUB_ENV"
+          echo "DATE=${DATE}" >> "$GITHUB_ENV"
+          echo "SKILL_COUNT=${SKILL_COUNT}" >> "$GITHUB_ENV"
+
+      - name: Create PR with auto-merge
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 발견된 스킬 목록 생성
+          SKILL_LIST="$(jq -r '.skills[] | "- [\(.name)](\(.url)) — \(.description) (\(.category))"' /tmp/scout-summary.json 2>/dev/null || echo "- (목록 없음)")"
+          SUMMARY_ADDED="$(jq '.added // 0' /tmp/scout-summary.json 2>/dev/null || echo 0)"
+          SUMMARY_REJECTED="$(jq '.rejected // 0' /tmp/scout-summary.json 2>/dev/null || echo 0)"
+          SUMMARY_ISSUES="$(jq '.issues // 0' /tmp/scout-summary.json 2>/dev/null || echo 0)"
+          RUN_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+
+          PR_URL=$(gh pr create \
+            --title "🤖 [auto] 신규 스킬 ${SKILL_COUNT}개 발견 (${DATE})" \
+            --body "## 🔍 스킬 스카우트 결과
+
+          Skill Scout 워크플로우가 GitHub에서 새로운 한국어 호환 스킬을 자동으로 발견하여 추가했습니다.
+
+          ### 📊 통계
+          - ✅ 추가: **${SUMMARY_ADDED}개**
+          - ❌ 제외: ${SUMMARY_REJECTED}개
+          - 🔔 수동 검토 이슈: ${SUMMARY_ISSUES}개
+
+          ### 🎉 추가된 스킬
+          ${SKILL_LIST}
+
+          ---
+          - 실행 날짜: \`${DATE}\`
+          - 트리거: 정기 스케줄 (매주 월요일 03:00 UTC)
+          - [워크플로우 실행 로그](${RUN_URL})
+
+          ⏰ 24시간 후 자동 머지됩니다.
+
+          > 🤖 이 PR은 \`skill-scout\` 워크플로우에 의해 자동 생성되었습니다." \
+            --label "auto-merge" \
+            --label "skill-scout" \
+            --head "$BRANCH" \
+            --base main)
+
+          echo "PR 생성: ${PR_URL}"
+
+          # 24시간 후 자동 머지 설정 (GitHub auto-merge 기능 활성화)
+          gh pr merge --auto --squash "$PR_URL"

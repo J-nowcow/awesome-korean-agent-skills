@@ -3,8 +3,13 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](contributing.md)
+[![🤖 Agent-Maintained](https://img.shields.io/badge/maintained_by-AI_Agent-blueviolet)](docs/how-it-works.en.md)
 
 > A curated collection of Korean AI coding agent skills, agents, rules, and hooks — organized **by function**
+
+> 🤖 **This repo is 100% maintained by AI agents.**
+> Skill discovery, classification, addition, link validation, and weekly picks are all automated.
+> Humans only supervise. [See how it works →](docs/how-it-works.en.md)
 
 English | [한국어](README.md)
 
@@ -69,6 +74,18 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ---
 
+## Skill of the Week
+
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-04-10
+
+| Skill | Tools | Why Recommended? | Link |
+|------|:---:|---------|------|
+| 🔧 humanizer | CC/CR/WS | Converts AI-written Korean to natural human style. Based on KatFishNet paper | [korean-skills](https://github.com/daleseo/korean-skills) |
+| 🔧 SRT/KTX Reservation | CC/CX/OC | Train ticket reservation automation — flagship Korean-specific skill | [k-skill](https://github.com/NomaDamas/k-skill) |
+| 🤖 code-reviewer | CC | Severity-based security & performance review grounded in SOLID principles | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/code-reviewer.md) |
+
+---
+
 ## Development Skills
 
 | Category | Description | Items |
@@ -79,15 +96,15 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 14+ |
 | [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 10+ |
 | [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 12+ |
-| [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 9+ |
+| [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 10+ |
 | [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 6+ |
-| [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 13+ |
+| [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 14+ |
 | [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 14+ |
 | [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 11+ |
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 5+ |
 | [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 4+ |
 | [Game Development](categories/game-dev.md) | Unity, Blender, C# | 4+ |
-| [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 12+ |
+| [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 13+ |
 
 ## Daily & Productivity Skills
 
@@ -109,6 +126,21 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Comprehensive Skill Collections](categories/collections.md) | Skills from multiple domains gathered in a single repo |
 | [Guides & Tutorials](categories/guides.md) | Skill usage guides, Claude Code guides, learning resources |
 | [Utility Tools](categories/utilities.md) | Rule conversion & management tools, Korean language support tools |
+
+---
+
+## 🤖 Automation
+
+This repo is automatically maintained by GitHub Actions-based AI agents.
+
+| Workflow | Schedule | Role |
+|---|---|---|
+| skill-scout | Weekly | Discover · classify · add new skills |
+| link-checker | Daily | Detect · remove dead links |
+| weekly-picks | Weekly | Rotate "Skill of the Week" |
+| sync-counts | Daily | Sync item counts · date |
+
+See [here](docs/how-it-works.en.md) for detailed operation principles.
 
 ---
 

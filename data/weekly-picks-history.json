@@ -1,0 +1,12 @@
+{
+  "picks": [
+    {
+      "date": "2026-04-01",
+      "items": [
+        {"name": "humanizer", "repo": "daleseo/korean-skills", "category": "korean-writing", "type": "🔧", "tools": "CC/CR/WS"},
+        {"name": "SRT/KTX 예매", "repo": "NomaDamas/k-skill", "category": "korean-services", "type": "🔧", "tools": "CC/CX/OC"},
+        {"name": "code-reviewer", "repo": "Yeachan-Heo/oh-my-claudecode", "category": "code-review", "type": "🤖", "tools": "CC"}
+      ]
+    }
+  ]
+}

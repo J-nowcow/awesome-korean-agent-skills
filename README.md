@@ -3,8 +3,13 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](contributing.md)
+[![🤖 Agent-Maintained](https://img.shields.io/badge/maintained_by-AI_Agent-blueviolet)](docs/how-it-works.md)
 
 > 한국어 AI 코딩 에이전트 스킬 · 에이전트 · 룰 · 훅을 **기능별**로 모은 큐레이션
+
+> 🤖 **이 레포는 100% AI 에이전트가 자동으로 운영합니다.**
+> 스킬 발견 · 분류 · 추가 · 링크 검증 · 주간 추천까지 모두 자동화되어 있습니다.
+> 사람은 감독만 합니다. [어떻게 돌아가는지 보기 →](docs/how-it-works.md)
 
 [English](README.en.md)
 
@@ -15,7 +20,7 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-04-01
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-04-10
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
@@ -35,15 +40,15 @@
 | [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 14+ |
 | [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 10+ |
 | [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 12+ |
-| [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 9+ |
+| [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 10+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 6+ |
-| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 13+ |
+| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 14+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 14+ |
 | [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 11+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 5+ |
 | [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 4+ |
 | [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 4+ |
-| [DevOps & 배포](categories/devops.md) | CI/CD, 릴리즈, 모니터링, 세션 관리 | 12+ |
+| [DevOps & 배포](categories/devops.md) | CI/CD, 릴리즈, 모니터링, 세션 관리 | 13+ |
 
 ## 일상 · 업무 스킬
 
@@ -150,6 +155,21 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 | 2026-04-01 | 첫 릴리즈! 26개 카테고리, 400+ 스킬/에이전트 수록 |
 
 > 전체 변경 이력은 [CHANGELOG.md](CHANGELOG.md)를 참고하세요.
+
+---
+
+## 🤖 자동화
+
+이 레포는 GitHub Actions 기반 AI 에이전트가 자동으로 운영합니다.
+
+| 워크플로우 | 주기 | 역할 |
+|---|---|---|
+| skill-scout | 주 1회 | 신규 스킬 발견 · 분류 · 추가 |
+| link-checker | 매일 | 죽은 링크 감지 · 제거 |
+| weekly-picks | 주 1회 | "이 주의 스킬" 로테이션 |
+| sync-counts | 매일 | 항목 수 · 날짜 동기화 |
+
+자세한 동작 원리는 [여기](docs/how-it-works.md)에서 확인하세요.
 
 ---
 
