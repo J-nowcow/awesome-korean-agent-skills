@@ -15,7 +15,7 @@ import { fileURLToPath } from 'url';
 
 // ── Gemini API with retry + model fallback ──────────────────────────────────
 
-const MODELS = ['gemini-2.0-flash', 'gemini-2.0-flash-lite', 'gemini-1.5-flash'];
+const MODELS = ['gemini-2.0-flash', 'gemini-2.0-flash-lite', 'gemini-2.5-flash-lite'];
 const MAX_RETRIES = 3;
 
 async function callGeminiWithRetry(apiKey, prompt) {
@@ -39,7 +39,7 @@ async function callGeminiWithRetry(apiKey, prompt) {
           // Rate limited — parse retryDelay if available, otherwise exponential backoff
           const body = await response.text();
           const delayMatch = body.match(/"retryDelay":\s*"(\d+)s"/);
-          const waitSec = delayMatch ? parseInt(delayMatch[1]) + 5 : Math.min(30 * attempt, 90);
+          const waitSec = delayMatch ? parseInt(delayMatch[1]) + 10 : Math.min(60 * attempt, 120);
           console.log(`  ⏳ Rate limited. Waiting ${waitSec}s before retry...`);
           await new Promise(r => setTimeout(r, waitSec * 1000));
           continue;
