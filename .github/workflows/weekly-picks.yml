@@ -1,0 +1,79 @@
+name: Weekly Picks
+
+on:
+  schedule:
+    - cron: '0 4 * * 1'   # every Monday 04:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  weekly-picks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run pick-weekly script
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node .github/scripts/pick-weekly.mjs
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create branch, commit, and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          DATE="$(date +%Y-%m-%d)"
+          BRANCH="auto/weekly-picks-${DATE}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout -b "$BRANCH"
+          git add README.md data/weekly-picks-history.json
+          git commit -m "chore: 이 주의 스킬 갱신 (${DATE})"
+          git push origin "$BRANCH"
+
+          echo "BRANCH=${BRANCH}" >> "$GITHUB_ENV"
+          echo "DATE=${DATE}" >> "$GITHUB_ENV"
+
+      - name: Create PR with auto-merge
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PR_URL=$(gh pr create \
+            --title "🤖 [auto] 이 주의 스킬 갱신 (${DATE})" \
+            --body "## 이 주의 스킬 자동 갱신
+
+          Anthropic API를 사용해 이번 주 추천 스킬 3개를 선정하고 README를 업데이트합니다.
+
+          - 실행 날짜: \`${DATE}\`
+          - 트리거: 정기 스케줄 (매주 월요일 04:00 UTC)
+
+          ---
+          > 🤖 이 PR은 \`weekly-picks\` 워크플로우에 의해 자동 생성되었습니다." \
+            --label "auto-merge" \
+            --label "weekly-picks" \
+            --head "$BRANCH" \
+            --base main)
+
+          gh pr merge --auto --squash "$PR_URL"
