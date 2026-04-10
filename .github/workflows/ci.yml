@@ -63,7 +63,7 @@ jobs:
           for file in categories/*.md; do
             # Extract all GitHub URLs from the file
             dups=$(grep -oE 'https://github\.com/[^[:space:])\]"]+' "$file" \
-              | sort | uniq -d)
+              | sort | uniq -d || true)
 
             if [[ -n "$dups" ]]; then
               while IFS= read -r url; do
