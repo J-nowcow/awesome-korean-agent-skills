@@ -26,7 +26,7 @@ jobs:
 
       - name: Run pick-weekly script
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node .github/scripts/pick-weekly.mjs
 
       - name: Check for changes
@@ -64,7 +64,7 @@ jobs:
             --title "🤖 [auto] 이 주의 스킬 갱신 (${DATE})" \
             --body "## 이 주의 스킬 자동 갱신
 
-          Anthropic API를 사용해 이번 주 추천 스킬 3개를 선정하고 README를 업데이트합니다.
+          Google Gemini API를 사용해 이번 주 추천 스킬 3개를 선정하고 README를 업데이트합니다.
 
           - 실행 날짜: \`${DATE}\`
           - 트리거: 정기 스케줄 (매주 월요일 04:00 UTC)

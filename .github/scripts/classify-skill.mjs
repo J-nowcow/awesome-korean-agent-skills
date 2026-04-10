@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 /**
  * classify-skill.mjs
- * /tmp/candidates.json의 레포를 Anthropic API로 분류하고
+ * /tmp/candidates.json의 레포를 Gemini API로 분류하고
  * 해당 카테고리 파일에 엔트리를 추가한다.
  *
  * Requirements:
  *   - Node.js 20+ (native fetch, execSync — no npm deps)
- *   - ANTHROPIC_API_KEY env var
+ *   - GEMINI_API_KEY env var
  *   - gh CLI (GH_TOKEN)
  */
 
@@ -24,8 +24,8 @@ const CANDIDATES_FILE = '/tmp/candidates.json';
 const SUMMARY_FILE = '/tmp/scout-summary.json';
 const KNOWN_REPOS_FILE = path.join(ROOT, 'data/known-repos.json');
 const CATEGORIES_DIR = path.join(ROOT, 'categories');
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-const MODEL = 'claude-sonnet-4-20250514';
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const MODEL = 'gemini-2.0-flash';
 
 const VALID_CATEGORIES = [
   'ai-prompt', 'backend', 'code-review', 'collections', 'communication',
@@ -107,7 +107,7 @@ function fetchSkillMdList(owner, repo) {
   }
 }
 
-// ── Anthropic API 호출 ────────────────────────────────────────────────────────
+// ── Gemini API 호출 ────────────────────────────────────────────────────────
 
 async function classifyWithAI(candidate, readme, skillMdFiles) {
   const prompt = `당신은 GitHub 레포지토리를 분석해서 Claude Code / Gemini CLI / AI 에이전트 스킬 컬렉션 여부를 판별하는 분류기입니다.
@@ -158,27 +158,30 @@ ${readme || '(README 없음)'}
   "description": "한국어 한줄 설명"
 }`;
 
-  const response = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-api-key': ANTHROPIC_API_KEY,
-      'anthropic-version': '2023-06-01',
-    },
-    body: JSON.stringify({
-      model: MODEL,
-      max_tokens: 300,
-      messages: [{ role: 'user', content: prompt }],
-    }),
-  });
+  const apiKey = process.env.GEMINI_API_KEY;
+  if (!apiKey) throw new Error('GEMINI_API_KEY 환경변수 필요');
+
+  const response = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.2,
+          maxOutputTokens: 2048,
+        },
+      }),
+    }
+  );
 
   if (!response.ok) {
-    const err = await response.text();
-    throw new Error(`Anthropic API error ${response.status}: ${err}`);
+    throw new Error(`Gemini API error: ${response.status} ${await response.text()}`);
   }
 
   const data = await response.json();
-  const text = data.content?.[0]?.text || '{}';
+  const text = data.candidates[0].content.parts[0].text;
 
   // JSON 추출 (마크다운 코드블록 처리)
   const jsonMatch = text.match(/\{[\s\S]*\}/);
@@ -276,8 +279,8 @@ function updateKnownRepos(url, skills = []) {
 // ── 메인 ──────────────────────────────────────────────────────────────────────
 
 async function main() {
-  if (!ANTHROPIC_API_KEY) {
-    console.error('ANTHROPIC_API_KEY 환경변수가 없습니다.');
+  if (!GEMINI_API_KEY) {
+    console.error('GEMINI_API_KEY 환경변수가 없습니다.');
     process.exit(1);
   }
 
@@ -309,7 +312,7 @@ async function main() {
     const skillMdFiles = fetchSkillMdList(owner, repo);
     console.log(`  README: ${readme.length}자, SKILL.md: ${skillMdFiles.length}개`);
 
-    // Anthropic API 분류
+    // Gemini API 분류
     let classification;
     try {
       classification = await classifyWithAI(candidate, readme, skillMdFiles);

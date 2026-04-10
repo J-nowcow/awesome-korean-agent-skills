@@ -13,7 +13,7 @@
 | 머지 모델 | PR + 조건부 자동 머지 | 자동이면서 개입 여지 유지 |
 | 발견 소스 | 키워드 검색 + 기존 레포 업데이트 감지 | 토픽만으로는 커버리지 부족 |
 | 작업 범위 | 스탠다드 (발견+유지보수+로테이션+기록+카운트) | 카테고리 신설만 제외 (Issue로 대체) |
-| 실행 환경 | GitHub Actions + Claude Code Action | 레포 내 완결, 관찰성 우수, 원격 트리거 제약 회피 |
+| 실행 환경 | GitHub Actions + Node.js 스크립트 | 레포 내 완결, 관찰성 우수, 원격 트리거 제약 회피 |
 | 브랜딩 | 전 요소 적용 | 레포 차별점이 자동 운영이므로 적극 표시 |
 
 ## 아키텍처
@@ -56,7 +56,7 @@ GitHub Actions (cron)
 - `data/known-repos.json` 대조 → 이미 처리된 레포/스킬 제외
 - 최소 기준: 별 1개 이상, 최근 6개월 내 업데이트, 아카이브 아님
 
-**Step 3 — 분류** (Claude Code Action)
+**Step 3 — 분류** (Gemini API)
 
 각 후보에 대해:
 1. README 및 SKILL.md 파일 fetch
@@ -99,7 +99,7 @@ GitHub Actions (cron)
 **선정 기준**:
 - `data/weekly-picks-history.json`에 없는 항목 (중복 방지)
 - 별 수, 최근 업데이트일, 카테고리 다양성 (같은 카테고리 2개 이상 비선호)
-- Claude Code Action으로 "왜 추천?" 한 줄 생성
+- Gemini API로 "왜 추천?" 한 줄 생성
 
 **동작**:
 1. 전 카테고리에서 후보 풀 구성
@@ -244,7 +244,7 @@ data/
 
 | Secret | 용도 |
 |---|---|
-| `ANTHROPIC_API_KEY` | Claude Code Action에서 LLM 호출 |
+| `GEMINI_API_KEY` | Gemini API LLM 호출 |
 
 GitHub Actions 기본 `GITHUB_TOKEN`으로 PR 생성·머지 가능.
 단, 자동 머지에 branch protection이 걸려있으면 `PAT` 또는 GitHub App token 필요.
@@ -265,7 +265,7 @@ GitHub Actions 기본 `GITHUB_TOKEN`으로 PR 생성·머지 가능.
 | 리스크 | 대응 |
 |---|---|
 | GitHub Search API rate limit (인증 시 30req/min) | 후보 수집을 배치로, 필요 시 페이지네이션 |
-| Claude Code Action 비용 | skill-scout만 LLM 사용, 나머지는 스크립트 |
+| Gemini API 비용 | skill-scout만 LLM 사용, 나머지는 스크립트 (free tier 사용) |
 | 스팸/저품질 레포 자동 추가 | 최소 기준(별 1+, 6개월 내 업데이트), LLM 필터 |
 | 카테고리 잘못 분류 | 24시간 대기로 사용자 검수 시간 확보 |
 | 자동 머지 실패 (conflict) | PR에 conflict 라벨 → 수동 해결 알림 |

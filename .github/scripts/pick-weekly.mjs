@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 /**
  * pick-weekly.mjs
- * Selects 3 weekly picks from categories/*.md using the Anthropic API,
+ * Selects 3 weekly picks from categories/*.md using the Gemini API,
  * updates README.md "이 주의 스킬" section and data/weekly-picks-history.json.
  *
  * Requirements:
  *   - Node.js 20+ (native fetch, fs/path built-ins only — no npm deps)
- *   - ANTHROPIC_API_KEY env var
+ *   - GEMINI_API_KEY env var
  */
 
 import fs from 'fs';
@@ -172,11 +172,11 @@ function getPreviousRepos(history) {
   return repos;
 }
 
-// ── 3. Call Anthropic API ─────────────────────────────────────────────────────
+// ── 3. Call Gemini API ─────────────────────────────────────────────────────
 
 async function callAnthropic(candidates) {
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) throw new Error('ANTHROPIC_API_KEY is not set');
+  const apiKey = process.env.GEMINI_API_KEY;
+  if (!apiKey) throw new Error('GEMINI_API_KEY 환경변수 필요');
 
   const candidateList = candidates
     .map((s, i) => `${i}: name="${s.name}", category="${s.category}", type="${s.type}", tools="${s.tools}", description="${s.description}", repo="${s.repoId}"`)
@@ -201,27 +201,27 @@ ${candidateList}
   {"index": <숫자>, "reason_ko": "...", "reason_en": "..."}
 ]`;
 
-  const response = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'x-api-key': apiKey,
-      'anthropic-version': '2023-06-01',
-      'content-type': 'application/json',
-    },
-    body: JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 1024,
-      messages: [{ role: 'user', content: prompt }],
-    }),
-  });
+  const response = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.2,
+          maxOutputTokens: 2048,
+        },
+      }),
+    }
+  );
 
   if (!response.ok) {
-    const body = await response.text();
-    throw new Error(`Anthropic API error ${response.status}: ${body}`);
+    throw new Error(`Gemini API error: ${response.status} ${await response.text()}`);
   }
 
   const data = await response.json();
-  const text = data.content[0].text.trim();
+  const text = data.candidates[0].content.parts[0].text;
 
   // Strip markdown code fences if present
   const jsonText = text.replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '').trim();
@@ -347,8 +347,8 @@ async function main() {
     throw new Error('No candidate skills found. Check categories/ directory.');
   }
 
-  // 3. Call Anthropic API
-  console.log('[pick-weekly] Calling Anthropic API...');
+  // 3. Call Gemini API
+  console.log('[pick-weekly] Calling Gemini API...');
   const selections = await callAnthropic(candidates);
 
   if (!Array.isArray(selections) || selections.length < 3) {
