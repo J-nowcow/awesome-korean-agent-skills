@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-04-10
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-04-13
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | Code review is an essential part of the development process, and 'code-reviewer' is highly practical as it comprehensively checks quality and security. It is even more effective when used with language-specific reviewers (18). | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/code-reviewer.md) |
-| 🤖 chief-of-staff | CC | 'chief-of-staff' can significantly improve work efficiency by processing messages from various communication channels like email and Slack, and drafting replies. Its strong Korean support makes it highly practical. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/chief-of-staff.md) |
-| 🤖 NestJS 전문 에이전트 7종 | CC | 'NestJS 전문 에이전트 7종' includes various core technology stacks necessary for backend development, which can greatly assist in starting or improving complex backend development projects. This skill was selected to ensure a balanced choice across different categories. | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/plugins/nestjs-backend/agents) |
+| 🤖 code-reviewer | CC | To ensure a balanced selection across categories, 'code-reviewer' from the 'code-review' category was chosen for its high practicality. It scores well due to its good Korean support and integrated security and quality review. | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/agents/code-reviewer.md) |
+| 🔧 korean-docs | CC | From the 'documentation' category, 'korean-docs' is recommended for its ability to create professional Korean technical documentation. It offers high practicality, excellent Korean support, and can contribute to improved development productivity. | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills/korean-docs) |
+| 🔧 nextjs15-init | CC | 'nextjs15-init' from the 'project-init' category is selected for its assistance in initializing projects with the latest tech stacks. It is highly practical and useful for starting development by including various up-to-date technologies. | [my-skills](https://github.com/bear2u/my-skills/tree/main/.claude/skills/nextjs15-init) |
 
 ---
 

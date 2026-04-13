@@ -51,6 +51,32 @@
           "tools": "CC"
         }
       ]
+    },
+    {
+      "date": "2026-04-13",
+      "items": [
+        {
+          "name": "code-reviewer",
+          "repo": "sangrokjung/claude-forge",
+          "category": "code-review",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "korean-docs",
+          "repo": "roboco-io/plugins",
+          "category": "documentation",
+          "type": "🔧",
+          "tools": "CC"
+        },
+        {
+          "name": "nextjs15-init",
+          "repo": "bear2u/my-skills",
+          "category": "project-init",
+          "type": "🔧",
+          "tools": "CC"
+        }
+      ]
     }
   ]
 }
