@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-04-12
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-04-13
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | 코드 리뷰는 개발 과정에서 필수적인 요소이며, 'code-reviewer'는 품질과 보안을 종합적으로 검토하여 실용성이 매우 높습니다. 다양한 언어별 리뷰어(18번)와 함께 사용하면 더욱 효과적입니다. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/code-reviewer.md) |
-| 🤖 chief-of-staff | CC | 'chief-of-staff'는 이메일, Slack 등 다양한 커뮤니케이션 채널의 메시지를 처리하고 답장 초안을 작성해주어 업무 효율성을 크게 향상시킬 수 있습니다. 한국어 지원이 잘 되어 있어 실용적입니다. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/chief-of-staff.md) |
-| 🤖 NestJS 전문 에이전트 7종 | CC | 'NestJS 전문 에이전트 7종'은 백엔드 개발에 필요한 다양한 핵심 기술 스택을 포함하고 있어, 복잡한 백엔드 개발 프로젝트를 시작하거나 개선하는 데 큰 도움을 줄 수 있습니다. 다양한 카테고리에서 고르게 선택하기 위해 이 스킬을 선정했습니다. | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/plugins/nestjs-backend/agents) |
+| 🤖 code-reviewer | CC | 다양한 카테고리에서 고르게 선택하기 위해 'code-review' 카테고리에서 실용성이 높은 'code-reviewer'를 선정했습니다. 한국어 지원이 좋고 보안 및 품질 통합 리뷰라는 점에서 높은 점수를 줄 수 있습니다. | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/agents/code-reviewer.md) |
+| 🔧 korean-docs | CC | 'documentation' 카테고리에서 전문적인 한국어 기술 문서 작성을 지원하는 'korean-docs'를 추천합니다. 실용성이 높고 한국어 지원이 뛰어나며, 개발 생산성 향상에 기여할 수 있습니다. | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills/korean-docs) |
+| 🔧 nextjs15-init | CC | 'project-init' 카테고리에서 최신 기술 스택을 활용한 프로젝트 초기화를 돕는 'nextjs15-init'을 선정했습니다. 실용성이 높고 다양한 최신 기술을 포함하여 개발 시작에 유용합니다. | [my-skills](https://github.com/bear2u/my-skills/tree/main/.claude/skills/nextjs15-init) |
 
 ---
 
