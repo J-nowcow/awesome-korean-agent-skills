@@ -77,6 +77,32 @@
           "tools": "CC"
         }
       ]
+    },
+    {
+      "date": "2026-04-20",
+      "items": [
+        {
+          "name": "code-reviewer",
+          "repo": "Dev-GOM/claude-code-marketplace",
+          "category": "code-review",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "youtube-kr-subtitle",
+          "repo": "Koomook/claude-skill-youtube-kr-subtitle",
+          "category": "content-media",
+          "type": "🔧",
+          "tools": "CC"
+        },
+        {
+          "name": "tdd",
+          "repo": "jh941213/my-claude-code-asset",
+          "category": "testing",
+          "type": "🔧",
+          "tools": "CC"
+        }
+      ]
     }
   ]
 }

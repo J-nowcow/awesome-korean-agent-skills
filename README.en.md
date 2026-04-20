@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-04-13
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-04-20
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | To ensure a balanced selection across categories, 'code-reviewer' from the 'code-review' category was chosen for its high practicality. It scores well due to its good Korean support and integrated security and quality review. | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/agents/code-reviewer.md) |
-| 🔧 korean-docs | CC | From the 'documentation' category, 'korean-docs' is recommended for its ability to create professional Korean technical documentation. It offers high practicality, excellent Korean support, and can contribute to improved development productivity. | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills/korean-docs) |
-| 🔧 nextjs15-init | CC | 'nextjs15-init' from the 'project-init' category is selected for its assistance in initializing projects with the latest tech stacks. It is highly practical and useful for starting development by including various up-to-date technologies. | [my-skills](https://github.com/bear2u/my-skills/tree/main/.claude/skills/nextjs15-init) |
+| 🤖 code-reviewer | CC | To ensure a balanced selection across categories, 'code-reviewer' from the 'code-review' category was chosen for its high practicality. It offers good Korean support and specializes in security and best practices, contributing to improved development productivity. | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/code-reviewer.md) |
+| 🔧 youtube-kr-subtitle | CC | From the 'content-media' category, 'youtube-kr-subtitle' is recommended for its excellent Korean support and high practicality. It will be very helpful in lowering language barriers for YouTube content creation and utilization. | [claude-skill-youtube-kr-subtitle](https://github.com/Koomook/claude-skill-youtube-kr-subtitle) |
+| 🔧 tdd | CC | In the 'testing' category, the 'tdd' skill offers the practical methodology of Test-Driven Development. This can directly contribute to improving code quality and reducing bugs, making it useful for developers. | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/tdd) |
 
 ---
 

@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-04-18
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-04-20
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | 다양한 카테고리에서 고르게 선택하기 위해 'code-review' 카테고리에서 실용성이 높은 'code-reviewer'를 선정했습니다. 한국어 지원이 좋고 보안 및 품질 통합 리뷰라는 점에서 높은 점수를 줄 수 있습니다. | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/agents/code-reviewer.md) |
-| 🔧 korean-docs | CC | 'documentation' 카테고리에서 전문적인 한국어 기술 문서 작성을 지원하는 'korean-docs'를 추천합니다. 실용성이 높고 한국어 지원이 뛰어나며, 개발 생산성 향상에 기여할 수 있습니다. | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills/korean-docs) |
-| 🔧 nextjs15-init | CC | 'project-init' 카테고리에서 최신 기술 스택을 활용한 프로젝트 초기화를 돕는 'nextjs15-init'을 선정했습니다. 실용성이 높고 다양한 최신 기술을 포함하여 개발 시작에 유용합니다. | [my-skills](https://github.com/bear2u/my-skills/tree/main/.claude/skills/nextjs15-init) |
+| 🤖 code-reviewer | CC | 다양한 카테고리에서 고르게 선택하기 위해 'code-review' 카테고리에서 실용성이 높은 'code-reviewer'를 선정했습니다. 한국어 지원이 좋고 보안 및 베스트 프랙티스에 특화되어 있어 개발 생산성 향상에 기여할 수 있습니다. | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/code-reviewer.md) |
+| 🔧 youtube-kr-subtitle | CC | 'content-media' 카테고리에서 한국어 지원이 뛰어나고 실용성이 높은 'youtube-kr-subtitle'을 추천합니다. 유튜브 콘텐츠 제작 및 활용에 있어 언어 장벽을 낮추는 데 큰 도움이 될 것입니다. | [claude-skill-youtube-kr-subtitle](https://github.com/Koomook/claude-skill-youtube-kr-subtitle) |
+| 🔧 tdd | CC | 'testing' 카테고리에서 'tdd' 스킬은 테스트 주도 개발이라는 실용적인 방법론을 제공합니다. 이는 코드 품질 향상과 버그 감소에 직접적으로 기여할 수 있어 개발자에게 유용합니다. | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/tdd) |
 
 ---
 
