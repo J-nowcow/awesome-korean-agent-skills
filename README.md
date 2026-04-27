@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-04-24
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-04-27
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | 다양한 카테고리에서 고르게 선택하기 위해 'code-review' 카테고리에서 실용성이 높은 'code-reviewer'를 선정했습니다. 한국어 지원이 좋고 보안 및 베스트 프랙티스에 특화되어 있어 개발 생산성 향상에 기여할 수 있습니다. | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/code-reviewer.md) |
-| 🔧 youtube-kr-subtitle | CC | 'content-media' 카테고리에서 한국어 지원이 뛰어나고 실용성이 높은 'youtube-kr-subtitle'을 추천합니다. 유튜브 콘텐츠 제작 및 활용에 있어 언어 장벽을 낮추는 데 큰 도움이 될 것입니다. | [claude-skill-youtube-kr-subtitle](https://github.com/Koomook/claude-skill-youtube-kr-subtitle) |
-| 🔧 tdd | CC | 'testing' 카테고리에서 'tdd' 스킬은 테스트 주도 개발이라는 실용적인 방법론을 제공합니다. 이는 코드 품질 향상과 버그 감소에 직접적으로 기여할 수 있어 개발자에게 유용합니다. | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/tdd) |
+| 📦 bkit-claude-code | CC | 다양한 스킬과 에이전트를 포함하며 한국어 지원이 우수하여 실용성이 높습니다. 프레임워크 타입으로 다양한 활용이 가능합니다. | [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code) |
+| 🔧 docx `공식` | CC | Word 문서 생성 및 편집 기능을 제공하여 문서 작업의 효율성을 크게 높일 수 있습니다. 'office-docs' 카테고리에서 실용성이 뛰어납니다. | [anthropics/skills](https://github.com/anthropics/skills) |
+| ⚡ $plan / $prd / $execute | GC | 프로젝트 초기 단계에 필요한 계획, PRD, 실행 워크플로를 지원하여 생산성을 향상시킵니다. 'project-init' 카테고리에서 독특한 기능을 제공합니다. | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
 
 ---
 

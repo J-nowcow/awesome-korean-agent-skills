@@ -103,6 +103,32 @@
           "tools": "CC"
         }
       ]
+    },
+    {
+      "date": "2026-04-27",
+      "items": [
+        {
+          "name": "bkit-claude-code",
+          "repo": "popup-studio-ai/bkit-claude-code",
+          "category": "frameworks",
+          "type": "📦",
+          "tools": "CC"
+        },
+        {
+          "name": "docx `공식`",
+          "repo": "anthropics/skills",
+          "category": "office-docs",
+          "type": "🔧",
+          "tools": "CC"
+        },
+        {
+          "name": "$plan / $prd / $execute",
+          "repo": "Joonghyun-Lee-Frieren/oh-my-gemini-cli",
+          "category": "project-init",
+          "type": "⚡",
+          "tools": "GC"
+        }
+      ]
     }
   ]
 }
