@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-04-20
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-04-27
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | To ensure a balanced selection across categories, 'code-reviewer' from the 'code-review' category was chosen for its high practicality. It offers good Korean support and specializes in security and best practices, contributing to improved development productivity. | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/code-reviewer.md) |
-| 🔧 youtube-kr-subtitle | CC | From the 'content-media' category, 'youtube-kr-subtitle' is recommended for its excellent Korean support and high practicality. It will be very helpful in lowering language barriers for YouTube content creation and utilization. | [claude-skill-youtube-kr-subtitle](https://github.com/Koomook/claude-skill-youtube-kr-subtitle) |
-| 🔧 tdd | CC | In the 'testing' category, the 'tdd' skill offers the practical methodology of Test-Driven Development. This can directly contribute to improving code quality and reducing bugs, making it useful for developers. | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/tdd) |
+| 📦 bkit-claude-code | CC | It includes a wide range of skills and agents with excellent Korean support, making it highly practical. As a framework type, it offers versatile applications. | [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code) |
+| 🔧 docx `공식` | CC | It offers Word document creation and editing capabilities, significantly enhancing document workflow efficiency. It stands out for its practicality in the 'office-docs' category. | [anthropics/skills](https://github.com/anthropics/skills) |
+| ⚡ $plan / $prd / $execute | GC | It enhances productivity by supporting planning, PRD, and execution workflows essential for the initial stages of a project. It offers unique functionality in the 'project-init' category. | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
 
 ---
 
