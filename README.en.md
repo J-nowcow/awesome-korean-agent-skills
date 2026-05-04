@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-04-27
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-05-04
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 📦 bkit-claude-code | CC | It includes a wide range of skills and agents with excellent Korean support, making it highly practical. As a framework type, it offers versatile applications. | [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code) |
-| 🔧 docx `공식` | CC | It offers Word document creation and editing capabilities, significantly enhancing document workflow efficiency. It stands out for its practicality in the 'office-docs' category. | [anthropics/skills](https://github.com/anthropics/skills) |
-| ⚡ $plan / $prd / $execute | GC | It enhances productivity by supporting planning, PRD, and execution workflows essential for the initial stages of a project. It offers unique functionality in the 'project-init' category. | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
+| 📦 bkit-gemini | GC | Supports various languages with good Korean support, and is highly practical as a framework including 35 skills. | [bkit-gemini](https://github.com/popup-studio-ai/bkit-gemini) |
+| 📦 claude-code-mastering | Claude Code 한국어 가이드북 13장 | A Korean guidebook for Claude Code, offering practical resources directly beneficial to Korean users. | [claude-code-mastering](https://github.com/revfactory/claude-code-mastering) |
+| 🔧 토스 FE Cursor Rule | CR | A specific ruleset based on Toss Frontend Fundamentals, offering high practicality that can be directly applied to web frontend development practices. | [Gist](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055) |
 
 ---
 

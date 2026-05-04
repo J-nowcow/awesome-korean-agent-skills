@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-05-03
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-05-04
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 📦 bkit-claude-code | CC | 다양한 스킬과 에이전트를 포함하며 한국어 지원이 우수하여 실용성이 높습니다. 프레임워크 타입으로 다양한 활용이 가능합니다. | [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code) |
-| 🔧 docx `공식` | CC | Word 문서 생성 및 편집 기능을 제공하여 문서 작업의 효율성을 크게 높일 수 있습니다. 'office-docs' 카테고리에서 실용성이 뛰어납니다. | [anthropics/skills](https://github.com/anthropics/skills) |
-| ⚡ $plan / $prd / $execute | GC | 프로젝트 초기 단계에 필요한 계획, PRD, 실행 워크플로를 지원하여 생산성을 향상시킵니다. 'project-init' 카테고리에서 독특한 기능을 제공합니다. | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
+| 📦 bkit-gemini | GC | 다양한 언어를 지원하며 한국어 지원이 좋고, 35개의 스킬을 포함하는 프레임워크로 실용성이 높습니다. | [bkit-gemini](https://github.com/popup-studio-ai/bkit-gemini) |
+| 📦 claude-code-mastering | Claude Code 한국어 가이드북 13장 | Claude Code에 대한 한국어 가이드북으로, 한국어 사용자에게 직접적인 도움을 줄 수 있는 실용적인 자료입니다. | [claude-code-mastering](https://github.com/revfactory/claude-code-mastering) |
+| 🔧 토스 FE Cursor Rule | CR | 토스 Frontend Fundamentals를 기반으로 한 구체적인 룰셋으로, 웹 프론트엔드 개발 실무에 바로 적용 가능한 높은 실용성을 가집니다. | [Gist](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055) |
 
 ---
 
