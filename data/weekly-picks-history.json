@@ -129,6 +129,32 @@
           "tools": "GC"
         }
       ]
+    },
+    {
+      "date": "2026-05-04",
+      "items": [
+        {
+          "name": "bkit-gemini",
+          "repo": "popup-studio-ai/bkit-gemini",
+          "category": "frameworks",
+          "type": "📦",
+          "tools": "GC"
+        },
+        {
+          "name": "claude-code-mastering",
+          "repo": "revfactory/claude-code-mastering",
+          "category": "guides",
+          "type": "📦",
+          "tools": "Claude Code 한국어 가이드북 13장"
+        },
+        {
+          "name": "토스 FE Cursor Rule",
+          "repo": "toy-crane/dde6258997519d954063a536fc72d055",
+          "category": "web-frontend",
+          "type": "🔧",
+          "tools": "CR"
+        }
+      ]
     }
   ]
 }
