@@ -19,10 +19,13 @@ import { fileURLToPath } from 'url';
 
 const MODELS = ['gemini-2.0-flash', 'gemini-2.0-flash-lite', 'gemini-2.5-flash-lite'];
 const MAX_RETRIES = 3;
+const FETCH_TIMEOUT_MS = 60_000; // 단일 fetch hang 방지
 
 async function callGeminiWithRetry(apiKey, prompt) {
   for (const model of MODELS) {
     for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
       try {
         console.log(`  Gemini API: model=${model}, attempt=${attempt}/${MAX_RETRIES}`);
         const response = await fetch(
@@ -34,6 +37,7 @@ async function callGeminiWithRetry(apiKey, prompt) {
               contents: [{ parts: [{ text: prompt }] }],
               generationConfig: { temperature: 0.2, maxOutputTokens: 2048 },
             }),
+            signal: controller.signal,
           }
         );
 
@@ -61,9 +65,12 @@ async function callGeminiWithRetry(apiKey, prompt) {
         }
         return data.candidates[0].content.parts[0].text;
       } catch (err) {
-        console.log(`  ⚠️ ${model} attempt ${attempt} failed: ${err.message}`);
+        const reason = err.name === 'AbortError' ? `timeout after ${FETCH_TIMEOUT_MS / 1000}s` : err.message;
+        console.log(`  ⚠️ ${model} attempt ${attempt} failed: ${reason}`);
         if (attempt === MAX_RETRIES) break;
         await new Promise(r => setTimeout(r, 5000));
+      } finally {
+        clearTimeout(timeoutId);
       }
     }
     console.log(`  ❌ ${model} exhausted retries, trying next model...`);
@@ -325,12 +332,16 @@ async function main() {
   }
 
   const candidates = JSON.parse(fs.readFileSync(CANDIDATES_FILE, 'utf8'));
-  console.log(`▶ classify-skill.mjs 시작: ${candidates.length}개 후보`);
+  const total = candidates.length;
+  console.log(`▶ classify-skill.mjs 시작: ${total}개 후보`);
 
   const summary = { added: 0, rejected: 0, issues: 0, skills: [] };
+  const startedAt = Date.now();
 
-  for (const candidate of candidates) {
-    console.log(`\n─── ${candidate.url}`);
+  for (let i = 0; i < total; i++) {
+    const candidate = candidates[i];
+    const elapsedMin = ((Date.now() - startedAt) / 60_000).toFixed(1);
+    console.log(`\n─── [${i + 1}/${total}] (경과 ${elapsedMin}분) ${candidate.url}`);
 
     const parsed = parseOwnerRepo(candidate.url);
     if (!parsed) {

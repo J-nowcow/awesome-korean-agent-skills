@@ -13,6 +13,7 @@ permissions:
 jobs:
   skill-scout:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
 
     steps:
       - name: Checkout
@@ -26,6 +27,7 @@ jobs:
           node-version: '20'
 
       - name: Search candidates
+        timeout-minutes: 10
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: bash .github/scripts/search-candidates.sh
@@ -45,6 +47,7 @@ jobs:
 
       - name: Classify and add skills
         if: steps.candidate-check.outputs.no_candidates == 'false'
+        timeout-minutes: 60
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

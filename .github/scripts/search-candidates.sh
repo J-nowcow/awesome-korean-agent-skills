@@ -15,6 +15,10 @@ OUTPUT_FILE="/tmp/candidates.json"
 COUNT_FILE="/tmp/candidate-count"
 TMP_MERGED="/tmp/candidates-merged.json"
 
+# 1회 실행 시 분류할 최대 후보 수 (Gemini API rate limit + 시간 예측 가능성)
+PER_QUERY_LIMIT="${PER_QUERY_LIMIT:-20}"
+MAX_CANDIDATES="${MAX_CANDIDATES:-30}"
+
 echo "▶ search-candidates.sh 시작"
 
 # known-repos.json에서 이미 처리된 URL 목록 추출
@@ -44,7 +48,7 @@ for QUERY in "${QUERIES[@]}"; do
 
   # gh search repos 실행
   RESULTS="$(gh search repos \
-    --limit 50 \
+    --limit "${PER_QUERY_LIMIT}" \
     --json url,name,description,stargazersCount,updatedAt,isArchived \
     -- "${QUERY}" 2>/dev/null || echo "[]")"
 
@@ -85,9 +89,19 @@ FINAL="$(jq --argjson known "${KNOWN_JSON}" '
   map(select(.url as $u | ($known | index($u)) == null))
 ' "${TMP_MERGED}")"
 
+DEDUPED_COUNT="$(echo "${FINAL}" | jq 'length')"
+
+# 후보 수 cap 적용 (stars 내림차순으로 우선 선별 → 1회 실행 시간 예측 가능)
+if [ "${DEDUPED_COUNT}" -gt "${MAX_CANDIDATES}" ]; then
+  echo "  후보 ${DEDUPED_COUNT}개 → ${MAX_CANDIDATES}개로 cap (stars 내림차순)"
+  FINAL="$(echo "${FINAL}" | jq --argjson cap "${MAX_CANDIDATES}" '
+    sort_by(-.stargazersCount) | .[0:$cap]
+  ')"
+fi
+
 echo "${FINAL}" > "${OUTPUT_FILE}"
 
 CANDIDATE_COUNT="$(echo "${FINAL}" | jq 'length')"
 echo "${CANDIDATE_COUNT}" > "${COUNT_FILE}"
 
-echo "▶ 완료: 신규 후보 ${CANDIDATE_COUNT}개 → ${OUTPUT_FILE}"
+echo "▶ 완료: 신규 후보 ${CANDIDATE_COUNT}개 (dedup 후 ${DEDUPED_COUNT}개) → ${OUTPUT_FILE}"
