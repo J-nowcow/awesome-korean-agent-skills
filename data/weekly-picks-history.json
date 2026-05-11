@@ -155,6 +155,32 @@
           "tools": "CR"
         }
       ]
+    },
+    {
+      "date": "2026-05-11",
+      "items": [
+        {
+          "name": "bkit-codex",
+          "repo": "popup-studio-ai/bkit-codex",
+          "category": "frameworks",
+          "type": "📦",
+          "tools": "CX"
+        },
+        {
+          "name": "awesome-agent-skills",
+          "repo": "heilcheng/awesome-agent-skills",
+          "category": "guides",
+          "type": "📦",
+          "tools": "크로스 도구 스킬 큐레이션 디렉토리"
+        },
+        {
+          "name": "ai-coding-guidelines",
+          "repo": "SongJohnhawk/ai-coding-guidelines",
+          "category": "guides",
+          "type": "📦",
+          "tools": "AI 코딩 가이드 v8.0"
+        }
+      ]
     }
   ]
 }

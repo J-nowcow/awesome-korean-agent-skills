@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-05-04
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-05-11
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 📦 bkit-gemini | GC | Supports various languages with good Korean support, and is highly practical as a framework including 35 skills. | [bkit-gemini](https://github.com/popup-studio-ai/bkit-gemini) |
-| 📦 claude-code-mastering | Claude Code 한국어 가이드북 13장 | A Korean guidebook for Claude Code, offering practical resources directly beneficial to Korean users. | [claude-code-mastering](https://github.com/revfactory/claude-code-mastering) |
-| 🔧 토스 FE Cursor Rule | CR | A specific ruleset based on Toss Frontend Fundamentals, offering high practicality that can be directly applied to web frontend development practices. | [Gist](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055) |
+| 📦 bkit-codex | CX | Supports multiple languages with excellent Korean support, and is highly practical as a framework including 27 skills. | [bkit-codex](https://github.com/popup-studio-ai/bkit-codex) |
+| 📦 awesome-agent-skills | 크로스 도구 스킬 큐레이션 디렉토리 | A cross-tool skill curation directory supporting both Korean and English, useful for exploring various agent skills. | [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) |
+| 📦 ai-coding-guidelines | AI 코딩 가이드 v8.0 | An AI coding guideline provided in Korean, offering practical assistance to Korean users. | [ai-coding-guidelines](https://github.com/SongJohnhawk/ai-coding-guidelines) |
 
 ---
 
