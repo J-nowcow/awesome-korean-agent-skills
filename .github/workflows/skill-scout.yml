@@ -79,10 +79,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # 이전 실패 run이 남긴 동명 브랜치가 origin에 있을 수 있음 → 사전 정리
+          # auto/* 브랜치는 throwaway이므로 force delete 안전
+          git push origin --delete "$BRANCH" 2>/dev/null || true
+
           git checkout -b "$BRANCH"
           git add categories/ data/known-repos.json
           git commit -m "feat: 신규 스킬 ${SKILL_COUNT}개 자동 추가 (${DATE})"
-          git push origin "$BRANCH"
+          git push --force-with-lease origin "$BRANCH"
 
           echo "BRANCH=${BRANCH}" >> "$GITHUB_ENV"
           echo "DATE=${DATE}" >> "$GITHUB_ENV"

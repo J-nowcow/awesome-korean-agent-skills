@@ -17,10 +17,23 @@ import { fileURLToPath } from 'url';
 
 // ── Gemini API with retry + model fallback ──────────────────────────────────
 
-// 모델 순서: 무료 티어에서 실제로 응답하는 모델을 1순위로 둔다.
-// 2.0-flash / 2.0-flash-lite는 2026-05 기준 free tier RPM이 사실상 0으로 떨어져
-// 모든 호출이 429를 반환하므로 fallback 후순위로 격하.
-const MODELS = ['gemini-2.5-flash-lite', 'gemini-2.5-flash', 'gemini-2.0-flash-lite'];
+// 모델 순서: free tier RPM이 높은 모델 + 모델별 quota 분리를 활용해
+// 한 모델이 rate-limit 막혀도 다른 모델로 흘러가도록 6단 fallback 구성.
+// Gemma 계열은 Gemini API endpoint로 동일 호출 가능하며 RPM이 30으로 관대.
+//   gemma-3-27b-it       : 30 RPM, JSON 분류 충분히 안정적
+//   gemma-3-12b-it       : 30 RPM, 중간 사이즈
+//   gemini-2.0-flash-lite: 30 RPM
+//   gemini-2.5-flash-lite: 15 RPM
+//   gemini-2.0-flash     : 15 RPM
+//   gemini-2.5-flash     : 10 RPM (품질 ↑, quota ↓ — 최후순위)
+const MODELS = [
+  'gemma-3-27b-it',
+  'gemma-3-12b-it',
+  'gemini-2.0-flash-lite',
+  'gemini-2.5-flash-lite',
+  'gemini-2.0-flash',
+  'gemini-2.5-flash',
+];
 const MAX_RETRIES = 3;
 const FETCH_TIMEOUT_MS = 60_000; // 단일 fetch hang 방지
 // 동일 모델이 연속 429를 N회 받으면 이번 run에서 해당 모델 영구 skip.
@@ -386,7 +399,7 @@ async function main() {
       console.error(`  API 오류: ${err.message}`);
       summary.rejected++;
       updateKnownRepos(candidate.url, []);
-      await sleep(1000);
+      await sleep(2000);
       continue;
     }
 
@@ -398,7 +411,7 @@ async function main() {
       console.log(`  → 제외 (한국어: ${classification.korean}, 카테고리: ${classification.category})`);
       summary.rejected++;
       updateKnownRepos(candidate.url, []);
-      await sleep(1000);
+      await sleep(2000);
       continue;
     }
 
@@ -414,7 +427,7 @@ async function main() {
         console.error(`  이슈 생성 실패: ${err.message}`);
       }
       updateKnownRepos(candidate.url, []);
-      await sleep(1000);
+      await sleep(2000);
       continue;
     }
 
@@ -430,7 +443,7 @@ async function main() {
         summary.issues++;
       } catch {}
       updateKnownRepos(candidate.url, []);
-      await sleep(1000);
+      await sleep(2000);
       continue;
     }
 
@@ -463,7 +476,7 @@ async function main() {
       updateKnownRepos(candidate.url, []);
     }
 
-    await sleep(1000);
+    await sleep(2000);
   }
 
   // 요약 저장
