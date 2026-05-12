@@ -26,6 +26,9 @@ jobs:
       - name: Generate stats (mermaid + summary)
         run: bash .github/scripts/generate-stats.sh
 
+      - name: Generate trends (docs/trends.md)
+        run: bash .github/scripts/generate-trends.sh
+
       - name: Check for changes
         id: changes
         run: |
@@ -48,8 +51,8 @@ jobs:
           git push origin --delete "$BRANCH" 2>/dev/null || true
 
           git checkout -b "$BRANCH"
-          git add README.md README.en.md
-          git commit -m "chore: 카테고리 카운트 동기화 (${DATE})"
+          git add README.md README.en.md docs/trends.md
+          git commit -m "chore: 카테고리 카운트 동기화 + stats/trends 갱신 (${DATE})"
           git push --force-with-lease origin "$BRANCH"
 
           echo "BRANCH=${BRANCH}" >> "$GITHUB_ENV"

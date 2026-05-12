@@ -20,6 +20,13 @@ jobs:
       - name: Run link checker
         run: bash .github/scripts/check-links.sh
 
+      - name: Sync README counts + stats + trends
+        run: |
+          # 죽은 링크 제거되면 카테고리 카운트도 바뀌니 README도 같이 갱신
+          bash .github/scripts/sync-counts.sh
+          bash .github/scripts/generate-stats.sh
+          bash .github/scripts/generate-trends.sh
+
       - name: Check for changes
         id: changes
         run: |
@@ -42,8 +49,8 @@ jobs:
           git push origin --delete "$BRANCH" 2>/dev/null || true
 
           git checkout -b "$BRANCH"
-          git add categories/ data/
-          git commit -m "chore: 죽은 링크 제거 (${DATE})"
+          git add categories/ data/ README.md README.en.md docs/trends.md
+          git commit -m "chore: 죽은 링크 제거 + stats 갱신 (${DATE})"
           git push --force-with-lease origin "$BRANCH"
 
           echo "BRANCH=${BRANCH}" >> "$GITHUB_ENV"

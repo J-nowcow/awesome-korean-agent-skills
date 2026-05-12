@@ -76,6 +76,15 @@ jobs:
             echo "변경 감지: 스킬 ${SKILL_COUNT}개 추가"
           fi
 
+      - name: Sync README counts + stats + trends
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          # categories/ 변경됐으니 README의 항목 수·mermaid 통계·트렌드도 같이 갱신
+          # 한 commit에 묶어서 PR 하나로 처리
+          bash .github/scripts/sync-counts.sh
+          bash .github/scripts/generate-stats.sh
+          bash .github/scripts/generate-trends.sh
+
       - name: Create branch, commit, and push
         if: steps.changes.outputs.changed == 'true'
         run: |
@@ -91,7 +100,7 @@ jobs:
           git push origin --delete "$BRANCH" 2>/dev/null || true
 
           git checkout -b "$BRANCH"
-          git add categories/ data/known-repos.json
+          git add categories/ data/known-repos.json README.md README.en.md docs/trends.md
           git commit -m "feat: 신규 스킬 ${SKILL_COUNT}개 자동 추가 (${DATE})"
           git push --force-with-lease origin "$BRANCH"
 
