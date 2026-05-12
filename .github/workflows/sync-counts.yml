@@ -47,7 +47,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # stale 동명 브랜치 정리 (이전 실패 run 잔여) — auto/* 는 throwaway라 force OK
+          # run이 도는 동안 main에 다른 commit이 들어오면 stale workflow가 포함될 수 있어
+          # GITHUB_TOKEN이 거부함 → stash + reset to origin/main + pop으로 회피.
+          git stash push --include-untracked -m "sync-counts work" || true
+          git fetch origin main
+          git reset --hard origin/main
+          git stash pop || true
+
+          # stale 동명 브랜치 정리 (auto/* throwaway)
           git push origin --delete "$BRANCH" 2>/dev/null || true
 
           git checkout -b "$BRANCH"

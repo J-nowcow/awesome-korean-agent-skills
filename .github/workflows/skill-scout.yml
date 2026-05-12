@@ -95,8 +95,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 이전 실패 run이 남긴 동명 브랜치가 origin에 있을 수 있음 → 사전 정리
-          # auto/* 브랜치는 throwaway이므로 force delete 안전
+          # run이 도는 동안 main에 다른 commit(특히 workflow YAML 변경)이 추가될 수 있음.
+          # 그 경우 push 시 stale workflow 파일이 포함되어 GITHUB_TOKEN(workflows scope 없음)이
+          # 거부함. 변경을 stash → origin/main으로 hard reset → pop으로 회피.
+          git stash push --include-untracked -m "skill-scout work" || true
+          git fetch origin main
+          git reset --hard origin/main
+          git stash pop || true
+
+          # 이전 실패 run이 남긴 동명 브랜치 정리 (auto/* throwaway)
           git push origin --delete "$BRANCH" 2>/dev/null || true
 
           git checkout -b "$BRANCH"
