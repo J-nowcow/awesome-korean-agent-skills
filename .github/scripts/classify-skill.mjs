@@ -17,12 +17,25 @@ import { fileURLToPath } from 'url';
 
 // ── Gemini API with retry + model fallback ──────────────────────────────────
 
-const MODELS = ['gemini-2.0-flash', 'gemini-2.0-flash-lite', 'gemini-2.5-flash-lite'];
+// 모델 순서: 무료 티어에서 실제로 응답하는 모델을 1순위로 둔다.
+// 2.0-flash / 2.0-flash-lite는 2026-05 기준 free tier RPM이 사실상 0으로 떨어져
+// 모든 호출이 429를 반환하므로 fallback 후순위로 격하.
+const MODELS = ['gemini-2.5-flash-lite', 'gemini-2.5-flash', 'gemini-2.0-flash-lite'];
 const MAX_RETRIES = 3;
 const FETCH_TIMEOUT_MS = 60_000; // 단일 fetch hang 방지
+// 동일 모델이 연속 429를 N회 받으면 이번 run에서 해당 모델 영구 skip.
+// 죽은 모델에 매번 3 × 60s 낭비하는 패턴을 차단한다.
+const CIRCUIT_BREAKER_THRESHOLD = 2;
+
+const dead_models = new Set();
 
 async function callGeminiWithRetry(apiKey, prompt) {
   for (const model of MODELS) {
+    if (dead_models.has(model)) {
+      console.log(`  ⏭️  ${model} skipped (circuit-breaker tripped this run)`);
+      continue;
+    }
+    let consecutive429 = 0;
     for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
       const controller = new AbortController();
       const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
@@ -42,6 +55,12 @@ async function callGeminiWithRetry(apiKey, prompt) {
         );
 
         if (response.status === 429) {
+          consecutive429++;
+          if (consecutive429 >= CIRCUIT_BREAKER_THRESHOLD) {
+            dead_models.add(model);
+            console.log(`  🚫 ${model}: ${consecutive429}회 연속 429 → 이번 run에서 영구 skip`);
+            break;
+          }
           const body = await response.text();
           const delayMatch = body.match(/"retryDelay":\s*"(\d+)s"/);
           const waitSec = delayMatch ? parseInt(delayMatch[1]) + 10 : Math.min(60 * attempt, 120);
