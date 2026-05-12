@@ -58,12 +58,12 @@ for QUERY in "${QUERIES[@]}"; do
 
   # 필터링:
   #   1. isArchived == false
-  #   2. stargazersCount >= 1
+  #   2. stargazersCount >= 2  (1은 본인 self-star만 있는 경우가 많아 의미 없음)
   #   3. updatedAt >= 6개월 전
   FILTERED="$(echo "${RESULTS}" | jq --arg since "${SIX_MONTHS_AGO}" '
     [.[] |
       select(.isArchived == false) |
-      select(.stargazersCount >= 1) |
+      select(.stargazersCount >= 2) |
       select(.updatedAt >= $since)
     ] |
     map({url, name, description, stargazersCount, updatedAt})
