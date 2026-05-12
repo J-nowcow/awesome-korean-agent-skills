@@ -754,7 +754,207 @@
       "url": "https://github.com/pguso/ai-agents-from-scratch",
       "last_scanned": "2026-05-12T20:01:16.550Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/n8n-io/n8n",
+      "last_scanned": "2026-05-12T20:30:11.978Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "last_scanned": "2026-05-12T20:30:37.009Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/sansan0/TrendRadar",
+      "last_scanned": "2026-05-12T20:34:09.753Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "last_scanned": "2026-05-12T20:34:32.793Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "last_scanned": "2026-05-12T20:34:55.779Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "last_scanned": "2026-05-12T20:35:19.309Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "last_scanned": "2026-05-12T20:35:42.435Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/eyaltoledano/claude-task-master",
+      "last_scanned": "2026-05-12T20:36:05.497Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "last_scanned": "2026-05-12T20:36:28.489Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "last_scanned": "2026-05-12T20:36:51.552Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/activepieces/activepieces",
+      "last_scanned": "2026-05-12T20:37:14.880Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/1Panel-dev/MaxKB",
+      "last_scanned": "2026-05-12T20:37:37.926Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "last_scanned": "2026-05-12T20:38:00.899Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/JimLiu/baoyu-skills",
+      "last_scanned": "2026-05-12T20:38:23.928Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nukeop/nuclear",
+      "last_scanned": "2026-05-12T20:38:46.961Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kubesphere/kubesphere",
+      "last_scanned": "2026-05-12T20:39:10.139Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/triggerdotdev/trigger.dev",
+      "last_scanned": "2026-05-12T20:39:33.239Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mksglu/context-mode",
+      "last_scanned": "2026-05-12T20:39:56.172Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "last_scanned": "2026-05-12T20:40:19.111Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/eigent-ai/eigent",
+      "last_scanned": "2026-05-12T20:40:42.102Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "last_scanned": "2026-05-12T20:41:05.291Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/NevaMind-AI/memU",
+      "last_scanned": "2026-05-12T20:41:28.183Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "last_scanned": "2026-05-12T20:41:51.137Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+      "last_scanned": "2026-05-12T20:42:14.129Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "last_scanned": "2026-05-12T20:42:37.162Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/travisvn/awesome-claude-skills",
+      "last_scanned": "2026-05-12T20:43:00.049Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tadata-org/fastapi_mcp",
+      "last_scanned": "2026-05-12T20:43:22.912Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Wei-Shaw/claude-relay-service",
+      "last_scanned": "2026-05-12T20:43:45.925Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/JoeanAmier/XHS-Downloader",
+      "last_scanned": "2026-05-12T20:44:08.843Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "last_scanned": "2026-05-12T20:44:31.873Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/phuryn/pm-skills",
+      "last_scanned": "2026-05-12T20:44:54.712Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jnMetaCode/agency-agents-zh",
+      "last_scanned": "2026-05-12T20:45:17.620Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/aden-hive/hive",
+      "last_scanned": "2026-05-12T20:45:40.615Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mcp-use/mcp-use",
+      "last_scanned": "2026-05-12T20:46:03.581Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/alibaba/zvec",
+      "last_scanned": "2026-05-12T20:46:26.537Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/xinnan-tech/xiaozhi-esp32-server",
+      "last_scanned": "2026-05-12T20:46:49.406Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/decolua/9router",
+      "last_scanned": "2026-05-12T20:47:12.329Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/awslabs/mcp",
+      "last_scanned": "2026-05-12T20:47:35.356Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "last_scanned": "2026-05-12T20:47:58.379Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Jeffallan/claude-skills",
+      "last_scanned": "2026-05-12T20:48:21.297Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-12T20:01:16.550Z"
+  "last_updated": "2026-05-12T20:48:21.297Z"
 }
