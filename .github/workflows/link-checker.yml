@@ -38,10 +38,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # stale 동명 브랜치 정리 (이전 실패 run 잔여) — auto/* 는 throwaway라 force OK
+          git push origin --delete "$BRANCH" 2>/dev/null || true
+
           git checkout -b "$BRANCH"
           git add categories/ data/
           git commit -m "chore: 죽은 링크 제거 (${DATE})"
-          git push origin "$BRANCH"
+          git push --force-with-lease origin "$BRANCH"
 
           echo "BRANCH=${BRANCH}" >> "$GITHUB_ENV"
           echo "DATE=${DATE}" >> "$GITHUB_ENV"

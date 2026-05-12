@@ -2,7 +2,8 @@ name: Sync Category Counts
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # daily 06:00 UTC
+    - cron: '0 6 * * *'    # daily 06:00 UTC (메인 동기화)
+    - cron: '30 19 * * *'  # 야간 skill-scout 마지막 run 직후 (KST 04:30) 재동기화
   workflow_dispatch:
 
 permissions:
@@ -22,6 +23,9 @@ jobs:
       - name: Run sync-counts script
         run: bash .github/scripts/sync-counts.sh
 
+      - name: Generate stats (mermaid + summary)
+        run: bash .github/scripts/generate-stats.sh
+
       - name: Check for changes
         id: changes
         run: |
@@ -40,10 +44,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # stale 동명 브랜치 정리 (이전 실패 run 잔여) — auto/* 는 throwaway라 force OK
+          git push origin --delete "$BRANCH" 2>/dev/null || true
+
           git checkout -b "$BRANCH"
           git add README.md README.en.md
           git commit -m "chore: 카테고리 카운트 동기화 (${DATE})"
-          git push origin "$BRANCH"
+          git push --force-with-lease origin "$BRANCH"
 
           echo "BRANCH=${BRANCH}" >> "$GITHUB_ENV"
           echo "DATE=${DATE}" >> "$GITHUB_ENV"
