@@ -2,7 +2,14 @@ name: Skill Scout
 
 on:
   schedule:
-    - cron: '0 3 * * 1'   # 매주 월요일 03:00 UTC
+    - cron: '0 3 * * 1'    # 정기: 매주 월요일 03:00 UTC
+    # 야간 누적 (KST 자정~새벽 4시 매 시간 / UTC 15-19시)
+    # search-candidates.sh의 시간 기반 라운드로빈으로 매 시간 다른 쿼리 그룹 탐색
+    - cron: '0 15 * * *'
+    - cron: '0 16 * * *'
+    - cron: '0 17 * * *'
+    - cron: '0 18 * * *'
+    - cron: '0 19 * * *'
   workflow_dispatch:
 
 permissions:
