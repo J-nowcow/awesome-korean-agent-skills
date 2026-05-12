@@ -16,9 +16,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| nextjs15-init | CC | Next.js 15 + App Router + ShadCN + Zustand | 한국어 | [my-skills](https://github.com/bear2u/my-skills/tree/main/.claude/skills/nextjs15-init) |
-| flutter-init | CC | Clean Architecture + Riverpod Flutter | 한국어 | [my-skills](https://github.com/bear2u/my-skills/tree/main/.claude/skills/flutter-init) |
-| landing-page-guide | CC | 11가지 핵심 요소 고전환율 랜딩페이지 | 한국어 | [my-skills](https://github.com/bear2u/my-skills/tree/main/.claude/skills/landing-page-guide-v2) |
 | fastapi-templates | CC | 프로덕션 수준 FastAPI 프로젝트 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/fastapi-templates) |
 | spec | CC | 심층 질문으로 상세 SPEC.md 명세 생성 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/spec) |
 | deep-interview | CC | 소크라테스식 인터뷰 후 자율 실행 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/deep-interview) |

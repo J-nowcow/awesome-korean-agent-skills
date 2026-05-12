@@ -26,5 +26,3 @@
 | review | CC | 현재 브랜치 변경사항 코드 리뷰 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/review) |
 | eval | CC | 기능/품질/독창성/보안 4축 평가 점수 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/eval) |
 | code-review | CC | 보안, 성능, 유지보수성 중심 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/development/skills/code-review) |
-| requesting-code-review | CC | 작업 완료/머지 전 서브에이전트 리뷰 디스패치 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/superpowers/requesting-code-review) |
-| receiving-code-review | CC | 리뷰 피드백 수신 시 기술적 엄격성으로 검토 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/superpowers/receiving-code-review) |

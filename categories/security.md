@@ -18,13 +18,11 @@
 | owasp-review | CC | OWASP Top 10 2025 기반 보안 코드 리뷰 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/security/skills/owasp-review) |
 | aws-well-architected (6개 필러) | CC | 보안·안정성·성능·비용·운영·지속가능성 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/security/skills) |
 | security-pipeline | CC | CWE Top 25 + STRIDE 자동 보안 파이프라인 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/security-pipeline) |
-| defense-in-depth | CC | 모든 레이어에서 데이터 검증 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/superpowers/defense-in-depth) |
 
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| security-compliance | CC | SOC2/ISO27001/GDPR/HIPAA 컴플라이언스 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/commands/security-compliance/SKILL.md) |
 
 ## 🪝 Hooks
 
