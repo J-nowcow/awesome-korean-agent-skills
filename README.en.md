@@ -94,19 +94,19 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 | Category | Description | Items |
 |----------|------|:-------:|
-| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 15+ |
+| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 14+ |
 | [Testing & TDD](categories/testing.md) | Test-driven development, E2E, coverage | 19+ |
-| [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 10+ |
-| [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 14+ |
-| [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 10+ |
-| [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 12+ |
+| [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 8+ |
+| [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 12+ |
+| [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 7+ |
+| [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 10+ |
 | [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 10+ |
 | [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 6+ |
-| [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 14+ |
-| [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 14+ |
+| [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 15+ |
+| [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 7+ |
 | [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 11+ |
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 5+ |
-| [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 4+ |
+| [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 5+ |
 | [Game Development](categories/game-dev.md) | Unity, Blender, C# | 4+ |
 | [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 13+ |
 
@@ -120,7 +120,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Writing & Korean Language](categories/korean-writing.md) | AI style transfer, spell checking, technical docs | 5+ |
 | [Media](categories/media.md) | YouTube subtitles, image processing | 2+ |
 | [Office & Documents](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 5+ |
-| [Research & Web](categories/research-web.md) | Web search, scraping, Markdown conversion | 4+ |
+| [Research & Web](categories/research-web.md) | Web search, scraping, Markdown conversion | 2+ |
 
 ## Comprehensive Repos
 

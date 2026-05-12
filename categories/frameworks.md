@@ -18,3 +18,9 @@
 | [bkit-gemini](https://github.com/popup-studio-ai/bkit-gemini) | 47 | GC | 35 skills | 다국어(KO) |
 | [bkit-codex](https://github.com/popup-studio-ai/bkit-codex) | 16 | CX | 27 skills | 다국어(KO) |
 | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) | 83 | GC | 7 skills | 영+한 |
+
+## 🤖 Agents
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| superpowers | CC/GC | 에이전트용 코딩 스킬 프레임워크 | 영+한 | [superpowers](https://github.com/obra/superpowers) |
