@@ -549,7 +549,212 @@
       "url": "https://github.com/alirezarezvani/claude-skills",
       "last_scanned": "2026-05-12T17:44:44.257Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "last_scanned": "2026-05-12T19:43:10.795Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/2noise/ChatTTS",
+      "last_scanned": "2026-05-12T19:43:35.007Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/onlook-dev/onlook",
+      "last_scanned": "2026-05-12T19:45:17.509Z",
+      "skills": [
+        {
+          "name": "onlook",
+          "category": "web-frontend"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "last_scanned": "2026-05-12T19:45:52.008Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/oraios/serena",
+      "last_scanned": "2026-05-12T19:47:15.457Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/4ian/GDevelop",
+      "last_scanned": "2026-05-12T19:48:09.914Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "last_scanned": "2026-05-12T19:48:33.037Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Nagi-ovo/gemini-voyager",
+      "last_scanned": "2026-05-12T19:48:56.227Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "last_scanned": "2026-05-12T19:49:19.144Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/HKUDS/DeepCode",
+      "last_scanned": "2026-05-12T19:49:42.329Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/liyupi/ai-guide",
+      "last_scanned": "2026-05-12T19:50:05.428Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+      "last_scanned": "2026-05-12T19:50:28.419Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "last_scanned": "2026-05-12T19:50:51.601Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/zilliztech/claude-context",
+      "last_scanned": "2026-05-12T19:51:14.615Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/The-Pocket/PocketFlow",
+      "last_scanned": "2026-05-12T19:51:37.580Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/superset-sh/superset",
+      "last_scanned": "2026-05-12T19:52:00.675Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "last_scanned": "2026-05-12T19:52:23.815Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/automazeio/ccpm",
+      "last_scanned": "2026-05-12T19:52:46.762Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/smtg-ai/claude-squad",
+      "last_scanned": "2026-05-12T19:53:09.686Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/EvoMap/evolver",
+      "last_scanned": "2026-05-12T19:53:32.692Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/refly-ai/refly",
+      "last_scanned": "2026-05-12T19:53:55.803Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/stagewise-io/stagewise",
+      "last_scanned": "2026-05-12T19:54:18.815Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/getagentseal/codeburn",
+      "last_scanned": "2026-05-12T19:54:41.766Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "last_scanned": "2026-05-12T19:55:04.738Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jeinlee1991/chinese-llm-benchmark",
+      "last_scanned": "2026-05-12T19:55:28.016Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mahseema/awesome-ai-tools",
+      "last_scanned": "2026-05-12T19:55:50.907Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/areal-project/AReaL",
+      "last_scanned": "2026-05-12T19:56:13.920Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/AIDC-AI/ComfyUI-Copilot",
+      "last_scanned": "2026-05-12T19:56:36.861Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/metalbear-co/mirrord",
+      "last_scanned": "2026-05-12T19:56:59.886Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tw93/Kaku",
+      "last_scanned": "2026-05-12T19:57:22.897Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/cloudflare/vibesdk",
+      "last_scanned": "2026-05-12T19:57:45.846Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/datawhalechina/vibe-vibe",
+      "last_scanned": "2026-05-12T19:58:08.882Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Mai-with-u/MaiBot",
+      "last_scanned": "2026-05-12T19:58:31.863Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/campfirein/byterover-cli",
+      "last_scanned": "2026-05-12T19:58:54.847Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/filipecalegario/awesome-vibe-coding",
+      "last_scanned": "2026-05-12T19:59:17.722Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
+      "last_scanned": "2026-05-12T19:59:40.676Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gptme/gptme",
+      "last_scanned": "2026-05-12T20:00:03.613Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/langroid/langroid",
+      "last_scanned": "2026-05-12T20:00:26.795Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/shroominic/codeinterpreter-api",
+      "last_scanned": "2026-05-12T20:00:49.711Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/pguso/ai-agents-from-scratch",
+      "last_scanned": "2026-05-12T20:01:16.550Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-12T17:44:44.257Z"
+  "last_updated": "2026-05-12T20:01:16.550Z"
 }
