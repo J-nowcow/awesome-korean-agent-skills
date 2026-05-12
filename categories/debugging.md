@@ -19,14 +19,11 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | build-fix | CC | TypeScript 빌드 에러 점진적 수정 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/build-fix) |
-| systematic-debugging | CC | 4단계(조사→패턴→가설→구현) 디버깅 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/superpowers/systematic-debugging) |
-| root-cause-tracing | CC | 콜 스택 역추적으로 원본 트리거 식별 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/superpowers/root-cause-tracing) |
 
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| debugging-strategies | CC | 체계적 디버깅, 프로파일링, 루트 코즈 분석 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/commands/debugging-strategies/SKILL.md) |
 
 ## 🪝 Hooks
 

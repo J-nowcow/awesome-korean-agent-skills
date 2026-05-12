@@ -21,8 +21,6 @@
 | korean-docs | CC | 전문 한국어 기술 문서 (README, API, 가이드) | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills/korean-docs) |
 | qa / qa-list / qa-merge (3종) | CC | Q&A 문서 기록·목록·통합 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills) |
 | handoff | CC | 세션 종료 전 HANDOFF.md 인계 문서 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/handoff) |
-| workthrough | CC | 변경사항·검증결과 구조화 문서 기록 | 한국어 | [my-skills](https://github.com/bear2u/my-skills/tree/main/.claude/skills/workthrough) |
-| web-to-markdown | CC | 웹페이지→마크다운 변환 저장 | 한국어 | [my-skills](https://github.com/bear2u/my-skills/tree/main/.claude/skills/web-to-markdown) |
 | draw-diagram | CC | Draw.io XML 다이어그램 (아키텍처, ERD, AWS) | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/development/skills/draw-diagram) |
 
 ## ⚡ Commands

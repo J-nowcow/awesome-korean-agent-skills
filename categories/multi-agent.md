@@ -28,7 +28,5 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| devfleet | CC | 멀티 Claude를 워크트리에 병렬 배포 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/commands/devfleet.md) |
-| orchestrate | CC | 순차·tmux·워크트리 오케스트레이션 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/commands/orchestrate.md) |
 | multi-workflow | CC | 프론트→Gemini, 백엔드→Codex 라우팅 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/commands/multi-workflow.md) |
 | tth | CC | 토스 사일로 + 머스크 5-Step + Ralph Loop | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/commands/tth.md) |

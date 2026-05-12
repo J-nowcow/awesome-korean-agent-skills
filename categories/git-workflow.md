@@ -16,7 +16,6 @@
 |------|------|------|------|------|
 | commit-push-pr | CC | 커밋→푸시→PR 한 번에 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/commit-push-pr) |
 | git-workflow | CC | 브랜칭, 커밋 컨벤션, PR 관리 가이드 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/workflow/skills/git-workflow) |
-| finishing-a-development-branch | CC | merge/PR/cleanup 옵션 제시 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/superpowers/finishing-a-development-branch) |
 | project-session-manager | CC | 워크트리 기반 이슈·PR 개발 환경 관리 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/project-session-manager) |
 
 ## ⚡ Commands
