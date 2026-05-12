@@ -48,7 +48,7 @@
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 6+ |
 | [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 15+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 7+ |
-| [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 11+ |
+| [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 12+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 5+ |
 | [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 5+ |
 | [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 4+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>198+</h2></td>
-<td><h2>94</h2></td>
+<td><h2>199+</h2></td>
+<td><h2>134</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -181,8 +181,8 @@ pie showData
     "종합 스킬 컬렉션" : 14
     "코드 리뷰" : 14
     "DevOps & 배포" : 13
+    "웹 프론트엔드" : 12
     "프로젝트 초기화" : 12
-    "웹 프론트엔드" : 11
     "Git & 워크플로우" : 10
     "문서화" : 10
     "프레임워크" : 9
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>2</b> run · <b>+45</b> 스킬</td>
+<td><b>3</b> run · <b>+46</b> 스킬</td>
 <td><b>2</b> run · <b>-0</b> dead link</td>
 <td><b>6</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-05-09 | · | · | **1** | · |
 | 2026-05-10 | · | · | **1** | · |
 | 2026-05-11 | · | · | · | **1** |
-| 2026-05-12 | **2** | **2** | **1** | · |
+| 2026-05-12 | **3** | **2** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

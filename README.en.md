@@ -104,7 +104,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 6+ |
 | [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 15+ |
 | [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 7+ |
-| [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 11+ |
+| [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 12+ |
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 5+ |
 | [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 5+ |
 | [Game Development](categories/game-dev.md) | Unity, Blender, C# | 4+ |
