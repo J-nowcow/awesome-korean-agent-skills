@@ -54,22 +54,26 @@ jobs:
           DEAD_COUNT="$(cat /tmp/dead-link-count 2>/dev/null || echo 0)"
           DEAD_LOG_BODY="$(cat /tmp/dead-links.log 2>/dev/null || echo '(없음)')"
 
+          {
+            echo "## 변경 내용"
+            echo ""
+            echo "자동으로 탐지된 죽은 링크를 제거했습니다."
+            echo ""
+            echo "**제거된 링크 수:** ${DEAD_COUNT}개"
+            echo ""
+            echo "### 죽은 링크 목록"
+            echo ""
+            echo '```'
+            echo "${DEAD_LOG_BODY}"
+            echo '```'
+            echo ""
+            echo "---"
+            echo "🤖 *link-checker 워크플로우에 의해 자동 생성됨*"
+          } > /tmp/pr-body.md
+
           gh pr create \
             --title "🤖 [auto] 죽은 링크 ${DEAD_COUNT}개 제거 (${DATE})" \
-            --body "## 변경 내용
-
-자동으로 탐지된 죽은 링크를 제거했습니다.
-
-**제거된 링크 수:** ${DEAD_COUNT}개
-
-### 죽은 링크 목록
-
-\`\`\`
-${DEAD_LOG_BODY}
-\`\`\`
-
----
-🤖 *link-checker 워크플로우에 의해 자동 생성됨*" \
+            --body-file /tmp/pr-body.md \
             --label "auto-merge" --label "link-check" \
             --head "$BRANCH" \
             --base main
