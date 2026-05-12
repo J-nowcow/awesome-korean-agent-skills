@@ -24,6 +24,9 @@
 |------|------|------|------|------|
 | loop-operator | CC | 자율 에이전트 루프 운영, 모니터링 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/loop-operator.md) |
 
+| hermes-agent |  | 스스로 학습하고 발전하는 AI 에이전트 | 다국어(KO) | [hermes-agent](https://github.com/NousResearch/hermes-agent) |
+| ruflo | CC/OC | Claude 기반 에이전트 오케스트레이션 플랫폼 | 영+한 | [ruflo](https://github.com/ruvnet/ruflo) |
+| career-ops | CC/GC | AI 기반 다중 에이전트 채용 시스템 | 다국어(KO) | [career-ops](https://github.com/santifer/career-ops) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

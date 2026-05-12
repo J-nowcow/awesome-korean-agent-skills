@@ -17,3 +17,5 @@
 |------|------|------|------|------|
 | vercel-react-best-practices | CC | Vercel React/Next.js 성능 최적화 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/vercel-react-best-practices) |
 | aws-wa-performance | CC | AWS 리소스·스케일링·캐싱 검토 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/security/skills/aws-wa-performance) |
+
+| rtk | CC/GC | LLM 토큰 소모를 줄이는 CLI 프록시 | 다국어(KO) | [rtk](https://github.com/rtk-ai/rtk) |
