@@ -1,0 +1,116 @@
+name: Health Check
+
+# 자동화 스크립트 무결성 검증 — 매일 자동 / 모든 푸시
+# 각 generator script가 syntax/실행 정상인지 확인. 실패하면 이슈 자동 생성.
+on:
+  schedule:
+    - cron: '30 6 * * *'   # daily 06:30 UTC (sync-counts 직후)
+  pull_request:
+    paths:
+      - '.github/scripts/**'
+      - '.github/workflows/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Bash syntax check (all scripts)
+        run: |
+          set -e
+          for f in .github/scripts/*.sh; do
+            echo "▶ bash -n $f"
+            bash -n "$f"
+          done
+
+      - name: Node syntax check (.mjs)
+        run: |
+          set -e
+          for f in .github/scripts/*.mjs; do
+            echo "▶ node --check $f"
+            node --check "$f"
+          done
+
+      - name: YAML lint (workflows)
+        run: |
+          set -e
+          for f in .github/workflows/*.yml; do
+            echo "▶ python3 yaml load $f"
+            python3 -c "import yaml; yaml.safe_load(open('$f'))"
+          done
+
+      - name: Smoke test — generate-stats
+        run: bash .github/scripts/generate-stats.sh
+        env:
+          # 결과 변경되어도 PR 안 만들고 buffer만 확인
+          DRY_RUN: "1"
+
+      - name: Smoke test — generate-trends
+        run: bash .github/scripts/generate-trends.sh
+
+      - name: Smoke test — generate-digest
+        run: bash .github/scripts/generate-digest.sh
+
+      - name: Smoke test — sync-counts
+        run: bash .github/scripts/sync-counts.sh
+
+      - name: Verify no unexpected side effects
+        run: |
+          # 모든 generator는 동일 input에 대해 idempotent해야 함
+          # 두 번 실행해서 결과 동일한지 확인
+          bash .github/scripts/generate-stats.sh
+          bash .github/scripts/generate-trends.sh
+          bash .github/scripts/generate-digest.sh
+
+          # 1차 실행 결과 보존
+          cp README.md /tmp/readme-1.md
+          cp docs/trends.md /tmp/trends-1.md
+
+          # 2차 실행
+          bash .github/scripts/generate-stats.sh
+          bash .github/scripts/generate-trends.sh
+          bash .github/scripts/generate-digest.sh
+
+          # diff 비교 — 같으면 idempotent
+          if ! diff -q /tmp/readme-1.md README.md > /dev/null; then
+            echo "::error::README.md not idempotent — 2회 실행 시 결과 다름"
+            diff /tmp/readme-1.md README.md | head -30
+            exit 1
+          fi
+          if ! diff -q /tmp/trends-1.md docs/trends.md > /dev/null; then
+            echo "::error::docs/trends.md not idempotent"
+            diff /tmp/trends-1.md docs/trends.md | head -30
+            exit 1
+          fi
+          echo "✅ 모든 generator script idempotent"
+
+      - name: Create issue on failure
+        if: failure() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "🚨 [health-check] 자동화 스크립트 검증 실패 ($(date -u +%Y-%m-%d))" \
+            --body "Health check 워크플로가 실패했습니다. 자동화 스크립트 중 하나에 문제가 있을 수 있습니다.
+
+          - 실행 시간: \`$(date -u +'%Y-%m-%dT%H:%M:%SZ')\`
+          - 트리거: 정기 스케줄 (daily 06:30 UTC)
+          - [실행 로그 확인](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
+
+          ## 권장 조치
+          1. 위 로그 링크에서 어떤 step이 실패했는지 확인
+          2. 해당 script 수정 또는 input 데이터 검증
+          3. 수정 후 \`workflow_dispatch\`로 재실행
+
+          > 🤖 이 이슈는 \`health-check\` 워크플로가 자동 생성." \
+            --label "automation" \
+            --label "health-check-failure"
