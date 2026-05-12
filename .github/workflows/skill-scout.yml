@@ -29,7 +29,9 @@ jobs:
       - name: Search candidates
         timeout-minutes: 10
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Search API는 cross-org public repo 검색 결과가 GITHUB_TOKEN으로는 빈약하게 반환됨
+          # → 별도 fine-grained PAT(SEARCH_TOKEN)로 인증해야 정상 검색 가능
+          GH_TOKEN: ${{ secrets.SEARCH_TOKEN }}
         run: bash .github/scripts/search-candidates.sh
 
       - name: Check candidate count
