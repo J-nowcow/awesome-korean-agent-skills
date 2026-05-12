@@ -23,3 +23,5 @@
 | stitch 시리즈 (4종) | CC | Stitch 분석→디자인→프롬프트→React 변환 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills) — stitch-design-md, stitch-enhance-prompt, stitch-loop, stitch-react |
 | cache-components | CC | Next.js Cache Components + PPR 가이드 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/cache-components) |
 | 토스 FE Cursor Rule | CR | 토스 Frontend Fundamentals 600줄 룰 | 한국어 | [Gist](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055) |
+
+| ui-ux-pro-max-skill | CC/GC | AI 기반 UI/UX 디자인 지능 제공 | 영+한 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |

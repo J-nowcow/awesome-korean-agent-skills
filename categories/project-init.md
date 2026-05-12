@@ -29,3 +29,5 @@
 | prd | CC | PRD + SPEC 한 번에 생성 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/commands/prd.md) |
 | spec-kit (10개 커맨드) | CC | constitution→specify→plan→tasks→implement | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/spec-kit/commands) |
 | $plan / $prd / $execute | GC | 계획·PRD·실행 워크플로 | 영+한 | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
+
+| get-shit-done | CC/GC | Claude Code, Gemini CLI 등 AI 개발 시스템 | 다국어(KO) | [get-shit-done](https://github.com/gsd-build/get-shit-done) |

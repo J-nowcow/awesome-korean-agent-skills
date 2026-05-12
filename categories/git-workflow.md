@@ -18,6 +18,7 @@
 | git-workflow | CC | 브랜칭, 커밋 컨벤션, PR 관리 가이드 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/workflow/skills/git-workflow) |
 | project-session-manager | CC | 워크트리 기반 이슈·PR 개발 환경 관리 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/project-session-manager) |
 
+| cherry-studio |  | AI 생산성 스튜디오 및 300+ 어시스턴트 | 다국어(KO) | [cherry-studio](https://github.com/CherryHQ/cherry-studio) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

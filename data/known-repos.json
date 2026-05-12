@@ -119,7 +119,232 @@
       "url": "https://github.com/tantara/claude-code-korean",
       "last_scanned": "2026-04-10T04:37:23Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "last_scanned": "2026-05-12T16:37:26.868Z",
+      "skills": [
+        {
+          "name": "hermes-agent",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "last_scanned": "2026-05-12T16:37:44.562Z",
+      "skills": [
+        {
+          "name": "ui-ux-pro-max-skill",
+          "category": "web-frontend"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/thedotmack/claude-mem",
+      "last_scanned": "2026-05-12T16:37:59.347Z",
+      "skills": [
+        {
+          "name": "claude-mem",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/farion1231/cc-switch",
+      "last_scanned": "2026-05-12T16:38:10.194Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "last_scanned": "2026-05-12T16:38:31.648Z",
+      "skills": [
+        {
+          "name": "get-shit-done",
+          "category": "project-init"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "last_scanned": "2026-05-12T16:38:41.801Z",
+      "skills": [
+        {
+          "name": "learn-claude-code",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "last_scanned": "2026-05-12T16:38:56.697Z",
+      "skills": [
+        {
+          "name": "awesome-claude-skills",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "last_scanned": "2026-05-12T16:39:02.317Z",
+      "skills": [
+        {
+          "name": "caveman",
+          "category": "code-review"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "last_scanned": "2026-05-12T16:39:10.804Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ruvnet/ruflo",
+      "last_scanned": "2026-05-12T16:39:52.347Z",
+      "skills": [
+        {
+          "name": "ruflo",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+      "last_scanned": "2026-05-12T16:40:08.928Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/safishamsi/graphify",
+      "last_scanned": "2026-05-12T16:40:18.860Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/rtk-ai/rtk",
+      "last_scanned": "2026-05-12T16:40:31.394Z",
+      "skills": [
+        {
+          "name": "rtk",
+          "category": "performance"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "last_scanned": "2026-05-12T16:40:39.382Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "last_scanned": "2026-05-12T16:40:48.926Z",
+      "skills": [
+        {
+          "name": "cherry-studio",
+          "category": "git-workflow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/santifer/career-ops",
+      "last_scanned": "2026-05-12T16:41:21.900Z",
+      "skills": [
+        {
+          "name": "career-ops",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "last_scanned": "2026-05-12T16:41:29.226Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/HKUDS/nanobot",
+      "last_scanned": "2026-05-12T16:41:39.134Z",
+      "skills": [
+        {
+          "name": "nanobot",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/addyosmani/agent-skills",
+      "last_scanned": "2026-05-12T16:41:44.718Z",
+      "skills": [
+        {
+          "name": "agent-skills",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/nexu-io/open-design",
+      "last_scanned": "2026-05-12T16:41:57.935Z",
+      "skills": [
+        {
+          "name": "open-design",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "last_scanned": "2026-05-12T16:42:15.536Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/wshobson/agents",
+      "last_scanned": "2026-05-12T16:42:24.802Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/github/awesome-copilot",
+      "last_scanned": "2026-05-12T16:42:37.782Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nanocoai/nanoclaw",
+      "last_scanned": "2026-05-12T16:42:46.149Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/googleworkspace/cli",
+      "last_scanned": "2026-05-12T16:42:57.803Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "last_scanned": "2026-05-12T16:43:09.588Z",
+      "skills": [
+        {
+          "name": "AionUi",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "last_scanned": "2026-05-12T16:43:18.919Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "last_scanned": "2026-05-12T16:43:31.036Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "last_scanned": "2026-05-12T16:43:37.753Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/agentskills/agentskills",
+      "last_scanned": "2026-05-12T16:43:49.879Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-04-10T04:37:23Z"
+  "last_updated": "2026-05-12T16:43:49.879Z"
 }

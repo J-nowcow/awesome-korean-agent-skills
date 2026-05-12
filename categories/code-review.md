@@ -26,3 +26,5 @@
 | review | CC | 현재 브랜치 변경사항 코드 리뷰 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/review) |
 | eval | CC | 기능/품질/독창성/보안 4축 평가 점수 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/eval) |
 | code-review | CC | 보안, 성능, 유지보수성 중심 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/development/skills/code-review) |
+
+| caveman | CC | Claude Code 토큰 사용량을 줄이는 동굴인 말투 스킬 | 영+한 | [caveman](https://github.com/JuliusBrussee/caveman) |
