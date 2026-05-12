@@ -29,6 +29,9 @@ jobs:
       - name: Generate trends (docs/trends.md)
         run: bash .github/scripts/generate-trends.sh
 
+      - name: Generate digest (README DIGEST block)
+        run: bash .github/scripts/generate-digest.sh
+
       - name: Check for changes
         id: changes
         run: |

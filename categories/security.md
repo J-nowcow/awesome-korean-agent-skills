@@ -2,6 +2,10 @@
 
 # 보안 감사
 
+
+<!-- CAT_STATS:START -->
+> 📦 **8개 항목** · 자동 갱신: 2026-05-12
+<!-- CAT_STATS:END -->
 > OWASP, 시크릿 탐지, 위협 모델링, AWS 보안
 
 ## 🤖 Agents

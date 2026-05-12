@@ -2,6 +2,10 @@
 
 # 웹 프론트엔드
 
+
+<!-- CAT_STATS:START -->
+> 📦 **11개 항목** · 자동 갱신: 2026-05-12
+<!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
 ## 🤖 Agents

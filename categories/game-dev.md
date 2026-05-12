@@ -2,6 +2,10 @@
 
 # 게임 개발
 
+
+<!-- CAT_STATS:START -->
+> 📦 **4개 항목** · 자동 갱신: 2026-05-12
+<!-- CAT_STATS:END -->
 > Unity, Blender, C# 스크립팅
 
 ## 🤖 Agents

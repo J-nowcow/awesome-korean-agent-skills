@@ -2,6 +2,10 @@
 
 # 백엔드
 
+
+<!-- CAT_STATS:START -->
+> 📦 **5개 항목** · 자동 갱신: 2026-05-12
+<!-- CAT_STATS:END -->
 > NestJS, FastAPI, API 설계, 데이터베이스
 
 ## 🤖 Agents

@@ -2,6 +2,10 @@
 
 # 오피스 & 문서
 
+
+<!-- CAT_STATS:START -->
+> 📦 **5개 항목** · 자동 갱신: 2026-05-12
+<!-- CAT_STATS:END -->
 > Word, Excel, PPT, PDF, HWP 처리
 
 ## 🔧 Skills

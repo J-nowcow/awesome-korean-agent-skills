@@ -194,4 +194,51 @@ else
 fi
 
 rm -f "$STATS_TMP" "$TMP_ROWS" "$CATS_FILE"
+
+# ── 7. 카테고리별 mini-stats 박스 자동 갱신 ───────────────────────────────
+# 각 categories/*.md 상단에 <!-- CAT_STATS:START/END --> 마커 영역을 만들거나 교체.
+# 마커 없으면 첫 번째 '> ...' description 라인 뒤에 삽입.
+inject_cat_stats() {
+  local file="$1"
+  local total="$2"
+  local box="> 📦 **${total}개 항목** · 자동 갱신: ${TODAY}"
+
+  local marker_tmp
+  marker_tmp="$(mktemp)"
+  {
+    echo "<!-- CAT_STATS:START -->"
+    echo "${box}"
+    echo "<!-- CAT_STATS:END -->"
+  } > "$marker_tmp"
+
+  if grep -q '<!-- CAT_STATS:START' "$file"; then
+    awk -v mfile="$marker_tmp" '
+      /<!-- CAT_STATS:START/ { in_block=1; while ((getline line < mfile) > 0) print line; close(mfile); next }
+      /<!-- CAT_STATS:END/   { in_block=0; next }
+      !in_block { print }
+    ' "$file" > "${file}.new" && mv "${file}.new" "$file"
+  else
+    # 첫 번째 '> ' description 라인 뒤에 삽입. 없으면 H1 뒤에 삽입.
+    awk -v mfile="$marker_tmp" '
+      !inserted && /^> / {
+        print
+        print ""
+        while ((getline line < mfile) > 0) print line
+        close(mfile)
+        inserted=1; next
+      }
+      { print }
+    ' "$file" > "${file}.new" && mv "${file}.new" "$file"
+  fi
+  rm -f "$marker_tmp"
+}
+
+# 각 카테고리 파일에 mini-stats 적용
+for file in "$CATEGORIES_DIR"/*.md; do
+  [[ -f "$file" ]] || continue
+  total="$(count_rows "$file")"
+  [[ "$total" -gt 0 ]] || continue
+  inject_cat_stats "$file" "$total"
+done
+
 echo "[generate-stats] 완료. total_skills=${total_skills}, known_repos=${known_count}, categories=${n_categories}"

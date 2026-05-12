@@ -2,6 +2,10 @@
 
 # DevOps & 배포
 
+
+<!-- CAT_STATS:START -->
+> 📦 **13개 항목** · 자동 갱신: 2026-05-12
+<!-- CAT_STATS:END -->
 > CI/CD, 릴리즈 자동화, 모니터링, 세션 관리
 
 ## 🔧 Skills
