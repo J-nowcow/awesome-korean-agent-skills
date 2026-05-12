@@ -38,19 +38,19 @@
 
 | 카테고리 | 설명 | 항목 수 |
 |----------|------|:-------:|
-| [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 15+ |
+| [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 14+ |
 | [테스트 & TDD](categories/testing.md) | 테스트 주도 개발, E2E, 커버리지 | 19+ |
-| [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 10+ |
-| [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 14+ |
-| [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 10+ |
-| [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 12+ |
+| [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 8+ |
+| [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 12+ |
+| [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 7+ |
+| [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 10+ |
 | [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 10+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 6+ |
-| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 14+ |
-| [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 14+ |
+| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 15+ |
+| [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 7+ |
 | [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 11+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 5+ |
-| [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 4+ |
+| [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 5+ |
 | [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 4+ |
 | [DevOps & 배포](categories/devops.md) | CI/CD, 릴리즈, 모니터링, 세션 관리 | 13+ |
 
@@ -60,10 +60,10 @@
 |----------|------|:-------:|
 | [한국 생활 서비스](categories/korean-services.md) | SRT/KTX, 택배, 로또, KBO, 카카오톡 | 6+ |
 | [커뮤니케이션](categories/communication.md) | 이메일·슬랙 트리아지, 알림 설정 | 2+ |
-| [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 6+ |
+| [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 2+ |
 | [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 5+ |
 | [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 5+ |
-| [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 4+ |
+| [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 2+ |
 
 ## 종합 레포
 
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>197+</h2></td>
-<td><h2>54</h2></td>
+<td><h2>198+</h2></td>
+<td><h2>94</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -185,7 +185,7 @@ pie showData
     "웹 프론트엔드" : 11
     "Git & 워크플로우" : 10
     "문서화" : 10
-    "보안 감사" : 8
+    "프레임워크" : 9
 ```
 
 ### 도구별 호환성 등장 빈도
@@ -193,8 +193,8 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 170
-    "GC" : 10
+    "CC" : 171
+    "GC" : 11
     "CX" : 9
     "CP" : 1
     "OC" : 10
