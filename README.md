@@ -40,9 +40,9 @@
 |----------|------|:-------:|
 | [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 15+ |
 | [테스트 & TDD](categories/testing.md) | 테스트 주도 개발, E2E, 커버리지 | 19+ |
-| [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 8+ |
+| [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 9+ |
 | [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 12+ |
-| [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 7+ |
+| [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 8+ |
 | [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 12+ |
 | [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 10+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 6+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>213+</h2></td>
-<td><h2>334</h2></td>
+<td><h2>215+</h2></td>
+<td><h2>374</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -185,7 +185,7 @@ pie showData
     "프로젝트 초기화" : 12
     "문서화" : 12
     "Git & 워크플로우" : 10
-    "프레임워크" : 9
+    "보안 감사" : 9
 ```
 
 ### 도구별 호환성 등장 빈도
@@ -193,10 +193,10 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 182
-    "GC" : 13
+    "CC" : 184
+    "GC" : 14
     "CX" : 10
-    "CP" : 1
+    "CP" : 2
     "OC" : 11
     "CR" : 4
     "WS" : 3
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>8</b> run · <b>+61</b> 스킬</td>
+<td><b>9</b> run · <b>+61</b> 스킬</td>
 <td><b>3</b> run · <b>-0</b> dead link</td>
 <td><b>7</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-05-10 | · | · | **1** | · |
 | 2026-05-11 | · | · | · | **1** |
 | 2026-05-12 | **5** | **2** | **2** | · |
-| 2026-05-13 | **3** | **1** | **1** | · |
+| 2026-05-13 | **4** | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

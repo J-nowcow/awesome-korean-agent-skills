@@ -1824,7 +1824,217 @@
       "url": "https://github.com/hjsh200219/fortuneteller",
       "last_scanned": "2026-05-13T20:06:08.212Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "last_scanned": "2026-05-13T20:46:12.215Z",
+      "skills": [
+        {
+          "name": "hexstrike-ai",
+          "category": "security"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/mrexodia/ida-pro-mcp",
+      "last_scanned": "2026-05-13T20:47:11.355Z",
+      "skills": [
+        {
+          "name": "ida-pro-mcp",
+          "category": "debugging"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+      "last_scanned": "2026-05-13T20:49:19.465Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/xixu-me/xget",
+      "last_scanned": "2026-05-13T20:50:09.421Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jlcodes99/cockpit-tools",
+      "last_scanned": "2026-05-13T20:50:32.863Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nidhinjs/prompt-master",
+      "last_scanned": "2026-05-13T20:50:56.314Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/htmlstreamofficial/preline",
+      "last_scanned": "2026-05-13T20:51:19.687Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ikaijua/Awesome-AITools",
+      "last_scanned": "2026-05-13T20:51:43.077Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ThinkInAIXYZ/deepchat",
+      "last_scanned": "2026-05-13T20:52:06.719Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/trailofbits/skills",
+      "last_scanned": "2026-05-13T20:52:30.174Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/breaking-brake/cc-wf-studio",
+      "last_scanned": "2026-05-13T20:52:53.535Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/antfu/skills",
+      "last_scanned": "2026-05-13T20:53:16.973Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/deanpeters/Product-Manager-Skills",
+      "last_scanned": "2026-05-13T20:53:40.339Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/zebbern/claude-code-guide",
+      "last_scanned": "2026-05-13T20:54:03.736Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "last_scanned": "2026-05-13T20:54:27.142Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tiann/hapi",
+      "last_scanned": "2026-05-13T20:54:50.648Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/parcadei/Continuous-Claude-v3",
+      "last_scanned": "2026-05-13T20:55:14.182Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/badrisnarayanan/antigravity-claude-proxy",
+      "last_scanned": "2026-05-13T20:55:37.683Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gemini-cli-extensions/conductor",
+      "last_scanned": "2026-05-13T20:56:01.074Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/gotalab/cc-sdd",
+      "last_scanned": "2026-05-13T20:56:24.502Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/glitternetwork/pinme",
+      "last_scanned": "2026-05-13T20:56:47.798Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/haydenbleasel/ultracite",
+      "last_scanned": "2026-05-13T20:57:11.184Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/davepoon/buildwithclaude",
+      "last_scanned": "2026-05-13T20:57:34.746Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/junhoyeo/tokscale",
+      "last_scanned": "2026-05-13T20:57:58.222Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mikeyobrien/ralph-orchestrator",
+      "last_scanned": "2026-05-13T20:58:21.604Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/IvanMurzak/Unity-MCP",
+      "last_scanned": "2026-05-13T20:58:45.117Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/intellectronica/ruler",
+      "last_scanned": "2026-05-13T20:59:08.491Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/lackeyjb/playwright-skill",
+      "last_scanned": "2026-05-13T20:59:31.805Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/folke/sidekick.nvim",
+      "last_scanned": "2026-05-13T20:59:55.155Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/codeaashu/claude-code",
+      "last_scanned": "2026-05-13T21:00:18.664Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/asheshgoplani/agent-deck",
+      "last_scanned": "2026-05-13T21:00:42.324Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/KhazP/vibe-coding-prompt-template",
+      "last_scanned": "2026-05-13T21:01:05.793Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/addyosmani/gemini-cli-tips",
+      "last_scanned": "2026-05-13T21:01:29.352Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/dwgx/WindsurfAPI",
+      "last_scanned": "2026-05-13T21:01:52.810Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "last_scanned": "2026-05-13T21:02:16.622Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/geekjourneyx/md2wechat-skill",
+      "last_scanned": "2026-05-13T21:02:40.227Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/lxf746/any-auto-register",
+      "last_scanned": "2026-05-13T21:03:03.613Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/cjo4m06/mcp-shrimp-task-manager",
+      "last_scanned": "2026-05-13T21:03:27.036Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/cyberagiinc/DevDocs",
+      "last_scanned": "2026-05-13T21:03:50.659Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nowork-studio/toprank",
+      "last_scanned": "2026-05-13T21:04:14.037Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-13T20:06:08.212Z"
+  "last_updated": "2026-05-13T21:04:14.037Z"
 }

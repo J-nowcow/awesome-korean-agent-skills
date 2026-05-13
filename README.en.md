@@ -96,9 +96,9 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 |----------|------|:-------:|
 | [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 15+ |
 | [Testing & TDD](categories/testing.md) | Test-driven development, E2E, coverage | 19+ |
-| [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 8+ |
+| [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 9+ |
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 12+ |
-| [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 7+ |
+| [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 8+ |
 | [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 12+ |
 | [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 10+ |
 | [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 6+ |
