@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **5개 항목** · 자동 갱신: 2026-05-13
+> 📦 **6개 항목** · 자동 갱신: 2026-05-13
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -20,3 +20,5 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | andrej-karpathy-skills | CC | Claude Code 개선을 위한 LLM 코딩 함정 가이드 | 영+한 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
+
+| prepare_frontend_interview | CC | 프론트엔드 면접 준비 핸드북 | 영+한 | [prepare_frontend_interview](https://github.com/junh0328/prepare_frontend_interview) |
