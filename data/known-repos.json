@@ -1624,7 +1624,207 @@
       "url": "https://github.com/rickiepark/the-lm-book",
       "last_scanned": "2026-05-13T19:15:25.470Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/filipecalegario/awesome-generative-ai",
+      "last_scanned": "2026-05-13T19:49:13.667Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/THUDM/AgentBench",
+      "last_scanned": "2026-05-13T19:50:19.266Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/DSXiangLi/DecryptPrompt",
+      "last_scanned": "2026-05-13T19:50:48.781Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/liu-ziting/what-to-eat",
+      "last_scanned": "2026-05-13T19:52:09.400Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/stravu/crystal",
+      "last_scanned": "2026-05-13T19:52:32.750Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/chaterm/Chaterm",
+      "last_scanned": "2026-05-13T19:52:56.119Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jnMetaCode/superpowers-zh",
+      "last_scanned": "2026-05-13T19:53:19.477Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/chaitin/MonkeyCode",
+      "last_scanned": "2026-05-13T19:53:42.776Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/HolmesGPT/holmesgpt",
+      "last_scanned": "2026-05-13T19:54:06.189Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/AGI-Edgerunners/LLM-Agents-Papers",
+      "last_scanned": "2026-05-13T19:54:29.415Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/genieincodebottle/generative-ai",
+      "last_scanned": "2026-05-13T19:54:52.730Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/CoderLuii/HolyClaude",
+      "last_scanned": "2026-05-13T19:55:15.886Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/njbrake/agent-of-empires",
+      "last_scanned": "2026-05-13T19:55:39.267Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/rohitg00/pro-workflow",
+      "last_scanned": "2026-05-13T19:56:02.491Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/AgentsMesh/AgentsMesh",
+      "last_scanned": "2026-05-13T19:56:25.895Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/vercel-labs/opensrc",
+      "last_scanned": "2026-05-13T19:56:49.028Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Nano-Collective/nanocoder",
+      "last_scanned": "2026-05-13T19:57:12.400Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/SqueezeAILab/LLMCompiler",
+      "last_scanned": "2026-05-13T19:57:35.486Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/timescale/pg-aiguide",
+      "last_scanned": "2026-05-13T19:57:58.701Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "last_scanned": "2026-05-13T19:58:21.979Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/maxritter/pilot-shell",
+      "last_scanned": "2026-05-13T19:58:45.288Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ai-for-developers/awesome-ai-coding-tools",
+      "last_scanned": "2026-05-13T19:59:08.472Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/xingyaoww/code-act",
+      "last_scanned": "2026-05-13T19:59:31.809Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/yvgude/lean-ctx",
+      "last_scanned": "2026-05-13T19:59:55.031Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/asinghcsu/AgenticRAG-Survey",
+      "last_scanned": "2026-05-13T20:00:18.191Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/AgentEra/Agently",
+      "last_scanned": "2026-05-13T20:00:41.515Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/stakpak/agent",
+      "last_scanned": "2026-05-13T20:01:04.845Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Mirascope/mirascope",
+      "last_scanned": "2026-05-13T20:01:28.208Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/myshell-ai/AIlice",
+      "last_scanned": "2026-05-13T20:01:51.443Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/m0n0x41d/haft",
+      "last_scanned": "2026-05-13T20:02:15.009Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/OpenCoworkAI/open-cowork",
+      "last_scanned": "2026-05-13T20:02:38.331Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/wuji-labs/nopua",
+      "last_scanned": "2026-05-13T20:03:01.583Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/open-mercato/open-mercato",
+      "last_scanned": "2026-05-13T20:03:25.100Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/guanyang/antigravity-skills",
+      "last_scanned": "2026-05-13T20:03:48.424Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Classic298/open-webui-plugins",
+      "last_scanned": "2026-05-13T20:04:11.591Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ilang-ai/autocode",
+      "last_scanned": "2026-05-13T20:04:34.892Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/breath57/dingtalk-skills",
+      "last_scanned": "2026-05-13T20:04:58.108Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Mann1988/awesome-claude-skills",
+      "last_scanned": "2026-05-13T20:05:21.360Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/doncheli/don-cheli-sdd",
+      "last_scanned": "2026-05-13T20:05:44.877Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/hjsh200219/fortuneteller",
+      "last_scanned": "2026-05-13T20:06:08.212Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-13T19:15:25.470Z"
+  "last_updated": "2026-05-13T20:06:08.212Z"
 }
