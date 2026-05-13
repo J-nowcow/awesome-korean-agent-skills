@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **16개 항목** · 자동 갱신: 2026-05-13
+> 📦 **17개 항목** · 자동 갱신: 2026-05-13
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -30,6 +30,7 @@
 | AionUi | CC/GC/OC | 다양한 AI 에이전트 스킬을 제공하는 코워크 앱 | 다국어(KO) | [AionUi](https://github.com/iOfficeAI/AionUi) |
 | awesome-claude-skills |  | Claude 스킬 모음집 | 영+한 | [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) |
 | skills | CC | 창업가를 위한 Claude Code 스킬 모음 | 영+한 | [skills](https://github.com/slavingia/skills) |
+| kit | CC | Claude Code용 플러그인 및 스킬 마켓플레이스 | 영+한 | [kit](https://github.com/hamsurang/kit) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
