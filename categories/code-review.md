@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **14개 항목** · 자동 갱신: 2026-05-13
+> 📦 **15개 항목** · 자동 갱신: 2026-05-13
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -32,3 +32,5 @@
 | code-review | CC | 보안, 성능, 유지보수성 중심 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/development/skills/code-review) |
 
 | caveman | CC | Claude Code 토큰 사용량을 줄이는 동굴인 말투 스킬 | 영+한 | [caveman](https://github.com/JuliusBrussee/caveman) |
+
+| pipecat |  | 코드 리뷰 및 문서 자동화 스킬 | 영+한 | [pipecat](https://github.com/pipecat-ai/pipecat) |

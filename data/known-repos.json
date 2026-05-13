@@ -954,7 +954,262 @@
       "url": "https://github.com/Jeffallan/claude-skills",
       "last_scanned": "2026-05-12T20:48:21.297Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "last_scanned": "2026-05-13T17:07:14.829Z",
+      "skills": [
+        {
+          "name": "andrej-karpathy-skills",
+          "category": "guides"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/WEIFENG2333/VideoCaptioner",
+      "last_scanned": "2026-05-13T17:07:48.738Z",
+      "skills": [
+        {
+          "name": "VideoCaptioner",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/coleam00/context-engineering-intro",
+      "last_scanned": "2026-05-13T17:08:17.301Z",
+      "skills": [
+        {
+          "name": "context-engineering-intro",
+          "category": "documentation"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/markmap/markmap",
+      "last_scanned": "2026-05-13T17:08:45.146Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/elastic/beats",
+      "last_scanned": "2026-05-13T17:09:13.652Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/pipecat-ai/pipecat",
+      "last_scanned": "2026-05-13T17:09:38.397Z",
+      "skills": [
+        {
+          "name": "pipecat",
+          "category": "code-review"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/sanbuphy/learn-coding-agent",
+      "last_scanned": "2026-05-13T17:10:04.528Z",
+      "skills": [
+        {
+          "name": "learn-coding-agent",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/hangwin/mcp-chrome",
+      "last_scanned": "2026-05-13T17:10:41.425Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/KKKKhazix/khazix-skills",
+      "last_scanned": "2026-05-13T17:11:40.464Z",
+      "skills": [
+        {
+          "name": "khazix-skills",
+          "category": "documentation"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/Piebald-AI/claude-code-system-prompts",
+      "last_scanned": "2026-05-13T17:12:05.262Z",
+      "skills": [
+        {
+          "name": "claude-code-system-prompts",
+          "category": "ai-prompt"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/numman-ali/openskills",
+      "last_scanned": "2026-05-13T17:12:35.163Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/pycaret/pycaret",
+      "last_scanned": "2026-05-13T17:13:03.452Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/langchain-ai/open-swe",
+      "last_scanned": "2026-05-13T17:13:34.856Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/modelcontextprotocol/inspector",
+      "last_scanned": "2026-05-13T17:14:01.503Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
+      "last_scanned": "2026-05-13T17:14:30.074Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/BehiSecc/awesome-claude-skills",
+      "last_scanned": "2026-05-13T17:14:58.064Z",
+      "skills": [
+        {
+          "name": "awesome-claude-skills",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/slavingia/skills",
+      "last_scanned": "2026-05-13T17:15:28.136Z",
+      "skills": [
+        {
+          "name": "skills",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/lastmile-ai/mcp-agent",
+      "last_scanned": "2026-05-13T17:15:55.663Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/google/skills",
+      "last_scanned": "2026-05-13T17:16:24.624Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/telepresenceio/telepresence",
+      "last_scanned": "2026-05-13T17:16:53.633Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kohya-ss/sd-scripts",
+      "last_scanned": "2026-05-13T17:17:20.798Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "last_scanned": "2026-05-13T17:17:48.510Z",
+      "skills": [
+        {
+          "name": "claude-seo",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/PleasePrompto/notebooklm-skill",
+      "last_scanned": "2026-05-13T17:20:18.608Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/punkpeye/awesome-mcp-clients",
+      "last_scanned": "2026-05-13T17:20:51.789Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/eze-is/web-access",
+      "last_scanned": "2026-05-13T17:21:20.769Z",
+      "skills": [
+        {
+          "name": "web-access",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ChrisWiles/claude-code-showcase",
+      "last_scanned": "2026-05-13T17:21:55.350Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/farzaa/clicky",
+      "last_scanned": "2026-05-13T17:22:25.163Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Klavis-AI/klavis",
+      "last_scanned": "2026-05-13T17:22:59.769Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "last_scanned": "2026-05-13T17:23:28.080Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "last_scanned": "2026-05-13T17:23:54.939Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/appcypher/awesome-mcp-servers",
+      "last_scanned": "2026-05-13T17:24:25.042Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "last_scanned": "2026-05-13T17:24:53.886Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "last_scanned": "2026-05-13T17:25:21.969Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/shareAI-lab/Kode-CLI",
+      "last_scanned": "2026-05-13T17:25:53.618Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/czlonkowski/n8n-skills",
+      "last_scanned": "2026-05-13T17:26:25.082Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/lijigang/ljg-skills",
+      "last_scanned": "2026-05-13T17:26:58.579Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Martian-Engineering/lossless-claw",
+      "last_scanned": "2026-05-13T17:27:29.848Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-codex-subagents",
+      "last_scanned": "2026-05-13T17:27:56.729Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/OTRF/ThreatHunter-Playbook",
+      "last_scanned": "2026-05-13T17:28:29.978Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/phodal/auto-dev",
+      "last_scanned": "2026-05-13T17:29:02.613Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-12T20:48:21.297Z"
+  "last_updated": "2026-05-13T17:29:02.613Z"
 }

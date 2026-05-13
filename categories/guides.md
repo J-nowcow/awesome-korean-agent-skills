@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **4개 항목** · 자동 갱신: 2026-05-13
+> 📦 **5개 항목** · 자동 갱신: 2026-05-13
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -14,3 +14,9 @@
 | [vibecoding](https://github.com/taehojo/vibecoding) | 81 | "혼자 공부하는 바이브코딩" 도서 공식 레포 | 한국어 |
 | [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) | 3.5K | 크로스 도구 스킬 큐레이션 디렉토리 | 영+한 |
 | [ai-coding-guidelines](https://github.com/SongJohnhawk/ai-coding-guidelines) | 0 | AI 코딩 가이드 v8.0 | 한국어 |
+
+## ⚡ Commands
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| andrej-karpathy-skills | CC | Claude Code 개선을 위한 LLM 코딩 함정 가이드 | 영+한 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |

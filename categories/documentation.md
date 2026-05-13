@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **10개 항목** · 자동 갱신: 2026-05-13
+> 📦 **12개 항목** · 자동 갱신: 2026-05-13
 <!-- CAT_STATS:END -->
 > 기술 문서 생성, 한국어 문서 작성, 코드맵
 
@@ -27,6 +27,8 @@
 | handoff | CC | 세션 종료 전 HANDOFF.md 인계 문서 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/handoff) |
 | draw-diagram | CC | Draw.io XML 다이어그램 (아키텍처, ERD, AWS) | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/development/skills/draw-diagram) |
 
+| context-engineering-intro | CC | AI 코딩 도우미를 위한 컨텍스트 엔지니어링 템플릿 | 영+한 | [context-engineering-intro](https://github.com/coleam00/context-engineering-intro) |
+| khazix-skills | CC/GC | AI 에이전트의 문서 및 기억 동기화 도구 | 영+한 | [khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
