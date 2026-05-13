@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **14개 항목** · 자동 갱신: 2026-05-13
+> 📦 **16개 항목** · 자동 갱신: 2026-05-13
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -28,6 +28,8 @@
 | agent-skills | CC/GC/CX | AI 코딩 에이전트용 프로덕션 엔지니어링 스킬 | 영+한 | [agent-skills](https://github.com/addyosmani/agent-skills) |
 | open-design | CC/GC/CX/CP/OC | 다양한 AI 에이전트 및 디자인 시스템 컬렉션 | 영+한 | [open-design](https://github.com/nexu-io/open-design) |
 | AionUi | CC/GC/OC | 다양한 AI 에이전트 스킬을 제공하는 코워크 앱 | 다국어(KO) | [AionUi](https://github.com/iOfficeAI/AionUi) |
+| awesome-claude-skills |  | Claude 스킬 모음집 | 영+한 | [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) |
+| skills | CC | 창업가를 위한 Claude Code 스킬 모음 | 영+한 | [skills](https://github.com/slavingia/skills) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
