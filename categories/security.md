@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **9개 항목** · 자동 갱신: 2026-05-14
+> 📦 **11개 항목** · 자동 갱신: 2026-05-14
 <!-- CAT_STATS:END -->
 > OWASP, 시크릿 탐지, 위협 모델링, AWS 보안
 
@@ -24,11 +24,13 @@
 | aws-well-architected (6개 필러) | CC | 보안·안정성·성능·비용·운영·지속가능성 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/security/skills) |
 | security-pipeline | CC | CWE Top 25 + STRIDE 자동 보안 파이프라인 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/security-pipeline) |
 
+| ctf-skills | CC | CTF 챌린지 해결을 위한 AI 스킬 모음 | 영+한 | [ctf-skills](https://github.com/ljagiello/ctf-skills) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 
+| vibekit | CC/GC | 코딩 에이전트 실행을 위한 안전한 샌드박스 | 영+한 | [vibekit](https://github.com/superagent-ai/vibekit) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

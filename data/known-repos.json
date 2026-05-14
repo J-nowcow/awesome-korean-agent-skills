@@ -2034,7 +2034,257 @@
       "url": "https://github.com/nowork-studio/toprank",
       "last_scanned": "2026-05-13T21:04:14.037Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/RAIT-09/obsidian-agent-client",
+      "last_scanned": "2026-05-14T16:56:10.741Z",
+      "skills": [
+        {
+          "name": "obsidian-agent-client",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/catlog22/Claude-Code-Workflow",
+      "last_scanned": "2026-05-14T16:56:41.489Z",
+      "skills": [
+        {
+          "name": "Claude-Code-Workflow",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ljagiello/ctf-skills",
+      "last_scanned": "2026-05-14T16:57:05.718Z",
+      "skills": [
+        {
+          "name": "ctf-skills",
+          "category": "security"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-github-actions/run-gemini-cli",
+      "last_scanned": "2026-05-14T16:57:30.169Z",
+      "skills": [
+        {
+          "name": "run-gemini-cli",
+          "category": "git-workflow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/romgX/openrelay",
+      "last_scanned": "2026-05-14T16:57:57.451Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/addyosmani/web-quality-skills",
+      "last_scanned": "2026-05-14T16:58:21.817Z",
+      "skills": [
+        {
+          "name": "web-quality-skills",
+          "category": "performance"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/flyeric0212/cursor-rules",
+      "last_scanned": "2026-05-14T16:58:47.359Z",
+      "skills": [
+        {
+          "name": "cursor-rules",
+          "category": "frameworks"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/superagent-ai/vibekit",
+      "last_scanned": "2026-05-14T16:59:12.363Z",
+      "skills": [
+        {
+          "name": "vibekit",
+          "category": "security"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/CoderGamester/mcp-unity",
+      "last_scanned": "2026-05-14T16:59:37.155Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Prismer-AI/PrismerCloud",
+      "last_scanned": "2026-05-14T17:00:03.813Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/qdrant/mcp-server-qdrant",
+      "last_scanned": "2026-05-14T17:00:28.330Z",
+      "skills": [
+        {
+          "name": "mcp-server-qdrant",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ciembor/agent-rules-books",
+      "last_scanned": "2026-05-14T17:00:55.357Z",
+      "skills": [
+        {
+          "name": "agent-rules-books",
+          "category": "refactoring"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ntegrals/10x",
+      "last_scanned": "2026-05-14T17:01:23.249Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/arabold/docs-mcp-server",
+      "last_scanned": "2026-05-14T17:01:48.008Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/pmndrs/triplex",
+      "last_scanned": "2026-05-14T17:02:13.579Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Prat011/awesome-llm-skills",
+      "last_scanned": "2026-05-14T17:02:37.951Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Priivacy-ai/spec-kitty",
+      "last_scanned": "2026-05-14T17:03:12.844Z",
+      "skills": [
+        {
+          "name": "spec-kitty",
+          "category": "git-workflow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/xllm-go/bypass",
+      "last_scanned": "2026-05-14T17:05:26.161Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/study8677/antigravity-workspace-template",
+      "last_scanned": "2026-05-14T17:05:57.347Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/browser-act/skills",
+      "last_scanned": "2026-05-14T17:06:26.849Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/todo-for-ai/todo-for-ai",
+      "last_scanned": "2026-05-14T17:07:00.561Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/instructa/ai-prompts",
+      "last_scanned": "2026-05-14T17:07:30.193Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+      "last_scanned": "2026-05-14T17:08:04.424Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp",
+      "last_scanned": "2026-05-14T17:08:38.731Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/wondelai/skills",
+      "last_scanned": "2026-05-14T17:09:11.843Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/pathintegral-institute/mcpm.sh",
+      "last_scanned": "2026-05-14T17:09:41.240Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/alioshr/memory-bank-mcp",
+      "last_scanned": "2026-05-14T17:10:19.299Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/perrypixel/10x-Tool-Calls",
+      "last_scanned": "2026-05-14T17:10:53.596Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/a5c-ai/babysitter",
+      "last_scanned": "2026-05-14T17:11:23.019Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Weizhena/Deep-Research-skills",
+      "last_scanned": "2026-05-14T17:11:53.096Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/theDakshJaitly/mex",
+      "last_scanned": "2026-05-14T17:12:26.812Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/keskinonur/claude-code-ios-dev-guide",
+      "last_scanned": "2026-05-14T17:12:55.324Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/23blocks-OS/ai-maestro",
+      "last_scanned": "2026-05-14T17:13:24.199Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/devtoolsd/awesome-devtools",
+      "last_scanned": "2026-05-14T17:14:02.807Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jiweiyeah/Skills-Manager",
+      "last_scanned": "2026-05-14T17:15:09.481Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mliu98/awesome-human-distillation",
+      "last_scanned": "2026-05-14T17:15:33.312Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/decebals/claude-code-java",
+      "last_scanned": "2026-05-14T17:15:56.880Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/JuneYaooo/gpt-image2-ppt-skills",
+      "last_scanned": "2026-05-14T17:16:20.448Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nWave-ai/nWave",
+      "last_scanned": "2026-05-14T17:16:44.386Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/HoangNguyen0403/agent-skills-standard",
+      "last_scanned": "2026-05-14T17:17:08.398Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-13T21:04:14.037Z"
+  "last_updated": "2026-05-14T17:17:08.398Z"
 }

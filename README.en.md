@@ -96,17 +96,17 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 |----------|------|:-------:|
 | [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 15+ |
 | [Testing & TDD](categories/testing.md) | Test-driven development, E2E, coverage | 19+ |
-| [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 9+ |
+| [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 11+ |
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 12+ |
 | [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 8+ |
 | [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 12+ |
-| [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 10+ |
-| [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 6+ |
-| [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 15+ |
+| [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 12+ |
+| [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 7+ |
+| [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 17+ |
 | [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 9+ |
 | [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 12+ |
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 5+ |
-| [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 5+ |
+| [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 6+ |
 | [Game Development](categories/game-dev.md) | Unity, Blender, C# | 4+ |
 | [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 13+ |
 

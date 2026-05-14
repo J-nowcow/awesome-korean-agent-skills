@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **6개 항목** · 자동 갱신: 2026-05-14
+> 📦 **7개 항목** · 자동 갱신: 2026-05-14
 <!-- CAT_STATS:END -->
 > 데드 코드 제거, 기술 부채 해소, 코드 간소화
 
@@ -28,3 +28,5 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | refactor-clean | CC | 테스트 검증으로 안전하게 데드 코드 제거 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/commands/refactor-clean.md) |
+
+| agent-rules-books | CC/GC/CX/OC | 소프트웨어 설계 원칙 기반 AI 코딩 에이전트 규칙 | 영+한 | [agent-rules-books](https://github.com/ciembor/agent-rules-books) |
