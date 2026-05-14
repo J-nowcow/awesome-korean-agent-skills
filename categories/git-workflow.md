@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-05-14
+> 📦 **13개 항목** · 자동 갱신: 2026-05-14
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -33,6 +33,7 @@
 | worktree-start / worktree-cleanup | CC | 병렬 개발용 Worktree 생성 + PR 후 정리 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/commands) — worktree-start.md, worktree-cleanup.md |
 
 | spec-kitty | CC/GC | AI 코딩 에이전트 워크플로우 CLI | 영+한 | [spec-kitty](https://github.com/Priivacy-ai/spec-kitty) |
+| cursor-rules | CX/CP | Cursor AI 코딩 어시스턴트 규칙 모음 | 영+한 | [cursor-rules](https://github.com/AndreRatzenberger/cursor-rules) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

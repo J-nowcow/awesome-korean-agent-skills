@@ -2754,7 +2754,167 @@
       "url": "https://github.com/ytrofr/ai-intelligence-hub",
       "last_scanned": "2026-05-14T19:53:36.171Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Aaronontheweb/dotnet-cursor-rules",
+      "last_scanned": "2026-05-14T20:28:10.842Z",
+      "skills": [
+        {
+          "name": "dotnet-cursor-rules",
+          "category": "devops"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/AndreRatzenberger/cursor-rules",
+      "last_scanned": "2026-05-14T20:28:36.055Z",
+      "skills": [
+        {
+          "name": "cursor-rules",
+          "category": "git-workflow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/Common-ka/ai-agent-unity-rules",
+      "last_scanned": "2026-05-14T20:29:00.125Z",
+      "skills": [
+        {
+          "name": "ai-agent-unity-rules",
+          "category": "game-dev"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/MiguelAxcar/ai-rpi-protocol",
+      "last_scanned": "2026-05-14T20:32:09.453Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/MohamedAbdallah-14/unslop",
+      "last_scanned": "2026-05-14T20:32:33.172Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/SalesforceAIResearch/agentforce-adlc",
+      "last_scanned": "2026-05-14T20:32:56.503Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/SkeneTechnologies/skene-cookbook",
+      "last_scanned": "2026-05-14T20:33:20.240Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/VikashLoomba/copilot-mcp",
+      "last_scanned": "2026-05-14T20:33:43.646Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/adriannoes/awesome-vibe-coding",
+      "last_scanned": "2026-05-14T20:34:07.187Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/aiurda/cursor10x",
+      "last_scanned": "2026-05-14T20:34:30.721Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/aiurda/devcontext",
+      "last_scanned": "2026-05-14T20:34:54.235Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ajhcs/healthcare-agents",
+      "last_scanned": "2026-05-14T20:35:17.804Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/blefnk/awesome-cursor-rules",
+      "last_scanned": "2026-05-14T20:35:41.290Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/chihebnabil/lovable-boilerplate",
+      "last_scanned": "2026-05-14T20:36:04.935Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/devallibus/shiplog",
+      "last_scanned": "2026-05-14T20:36:28.481Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/golid-ai/golid",
+      "last_scanned": "2026-05-14T20:36:52.110Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ivangrynenko/cursorrules",
+      "last_scanned": "2026-05-14T20:37:16.024Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jabrena/cursor-rules-java",
+      "last_scanned": "2026-05-14T20:37:39.919Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jon-makinen/cursor-local-remote",
+      "last_scanned": "2026-05-14T20:38:03.489Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/levnikolaevich/claude-code-skills",
+      "last_scanned": "2026-05-14T20:38:27.322Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/madebyaris/advance-minimax-m2-cursor-rules",
+      "last_scanned": "2026-05-14T20:38:50.673Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/matank001/cursor-security-rules",
+      "last_scanned": "2026-05-14T20:39:14.121Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/matlab/rules",
+      "last_scanned": "2026-05-14T20:39:37.619Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
+      "last_scanned": "2026-05-14T20:40:01.034Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nedcodes-ok/cursorrules-collection",
+      "last_scanned": "2026-05-14T20:40:24.655Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/rhino-acoustic/NeuronFS",
+      "last_scanned": "2026-05-14T20:40:48.782Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/shanraisshan/claude-code-hooks",
+      "last_scanned": "2026-05-14T20:41:12.215Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tzachbon/smart-ralph",
+      "last_scanned": "2026-05-14T20:41:35.675Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/virastack/nextjs-boilerplate",
+      "last_scanned": "2026-05-14T20:41:59.199Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-14T19:53:36.171Z"
+  "last_updated": "2026-05-14T20:41:59.199Z"
 }
