@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **10개 항목** · 자동 갱신: 2026-05-14
+> 📦 **12개 항목** · 자동 갱신: 2026-05-14
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -14,6 +14,7 @@
 |------|------|------|------|------|
 | git-master | CC | 원자적 커밋, 스타일 감지, 리베이스·히스토리 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/git-master.md) |
 
+| run-gemini-cli | GC | Gemini CLI를 GitHub 액션으로 실행 | 영+한 | [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
@@ -31,6 +32,7 @@
 | git-worktree | CC | worktree 안전 관리 (add/remove/list/sync) | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/blob/main/plugins/git-workflows/commands/git-worktree.md) |
 | worktree-start / worktree-cleanup | CC | 병렬 개발용 Worktree 생성 + PR 후 정리 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/commands) — worktree-start.md, worktree-cleanup.md |
 
+| spec-kitty | CC/GC | AI 코딩 에이전트 워크플로우 CLI | 영+한 | [spec-kitty](https://github.com/Priivacy-ai/spec-kitty) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

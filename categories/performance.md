@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **5개 항목** · 자동 갱신: 2026-05-14
+> 📦 **6개 항목** · 자동 갱신: 2026-05-14
 <!-- CAT_STATS:END -->
 > 프로파일링, 캐싱, 번들 크기, AWS 성능
 
@@ -23,3 +23,5 @@
 | aws-wa-performance | CC | AWS 리소스·스케일링·캐싱 검토 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/security/skills/aws-wa-performance) |
 
 | rtk | CC/GC | LLM 토큰 소모를 줄이는 CLI 프록시 | 다국어(KO) | [rtk](https://github.com/rtk-ai/rtk) |
+
+| web-quality-skills | CC/CX | 웹 품질 최적화를 위한 에이전트 스킬 모음 | 영+한 | [web-quality-skills](https://github.com/addyosmani/web-quality-skills) |

@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **15개 항목** · 자동 갱신: 2026-05-14
+> 📦 **17개 항목** · 자동 갱신: 2026-05-14
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -31,6 +31,8 @@
 | hermes-agent |  | 스스로 학습하고 발전하는 AI 에이전트 | 다국어(KO) | [hermes-agent](https://github.com/NousResearch/hermes-agent) |
 | ruflo | CC/OC | Claude 기반 에이전트 오케스트레이션 플랫폼 | 영+한 | [ruflo](https://github.com/ruvnet/ruflo) |
 | career-ops | CC/GC | AI 기반 다중 에이전트 채용 시스템 | 다국어(KO) | [career-ops](https://github.com/santifer/career-ops) |
+| obsidian-agent-client | CC/GC | Obsidian에서 AI 에이전트를 통합하는 플러그인 | 영+한 | [obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) |
+| Claude-Code-Workflow | CC/GC | JSON 기반 멀티 에이전트 개발 프레임워크 | 영+한 | [Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

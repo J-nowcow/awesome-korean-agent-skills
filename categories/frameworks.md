@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **9개 항목** · 자동 갱신: 2026-05-14
+> 📦 **10개 항목** · 자동 갱신: 2026-05-14
 <!-- CAT_STATS:END -->
 > 설치하면 에이전트·스킬·훅·커맨드가 한꺼번에 세팅되는 도구
 
@@ -24,3 +24,9 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | superpowers | CC/GC | 에이전트용 코딩 스킬 프레임워크 | 영+한 | [superpowers](https://github.com/obra/superpowers) |
+
+## 🔧 Skills
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| cursor-rules | CX | 다양한 언어 및 프레임워크 Cursor 규칙 모음 | 영+한 | [cursor-rules](https://github.com/flyeric0212/cursor-rules) |
