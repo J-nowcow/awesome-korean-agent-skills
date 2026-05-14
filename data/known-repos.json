@@ -2284,7 +2284,212 @@
       "url": "https://github.com/HoangNguyen0403/agent-skills-standard",
       "last_scanned": "2026-05-14T17:17:08.398Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "last_scanned": "2026-05-14T17:50:12.979Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/libukai/awesome-agent-skills",
+      "last_scanned": "2026-05-14T17:51:11.311Z",
+      "skills": [
+        {
+          "name": "awesome-agent-skills",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/zarazhangrui/codebase-to-course",
+      "last_scanned": "2026-05-14T17:53:15.196Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/makenotion/notion-mcp-server",
+      "last_scanned": "2026-05-14T17:54:16.409Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mistralai/mistral-vibe",
+      "last_scanned": "2026-05-14T17:55:09.660Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/google/mcp",
+      "last_scanned": "2026-05-14T17:55:32.670Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/wong2/awesome-mcp-servers",
+      "last_scanned": "2026-05-14T17:55:55.676Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/erxes/erxes",
+      "last_scanned": "2026-05-14T17:56:19.140Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "last_scanned": "2026-05-14T17:56:42.049Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/disler/claude-code-hooks-mastery",
+      "last_scanned": "2026-05-14T17:57:05.078Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+      "last_scanned": "2026-05-14T17:57:28.483Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/microsoft/mcp",
+      "last_scanned": "2026-05-14T17:57:51.706Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/coleam00/excalidraw-diagram-skill",
+      "last_scanned": "2026-05-14T17:58:14.708Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/audreyt/ethercalc",
+      "last_scanned": "2026-05-14T17:58:37.763Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mongodb/mongo-java-driver",
+      "last_scanned": "2026-05-14T17:59:00.870Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/MiniMax-AI/Mini-Agent",
+      "last_scanned": "2026-05-14T17:59:23.829Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills",
+      "last_scanned": "2026-05-14T17:59:46.683Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kingkongshot/Pensieve",
+      "last_scanned": "2026-05-14T18:00:09.600Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "last_scanned": "2026-05-14T18:00:32.625Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/dominikmartn/nothing-design-skill",
+      "last_scanned": "2026-05-14T18:00:55.520Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ArcReel/ArcReel",
+      "last_scanned": "2026-05-14T18:01:18.613Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/leilei926524-tech/anti-distill",
+      "last_scanned": "2026-05-14T18:01:41.621Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+      "last_scanned": "2026-05-14T18:02:05.398Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/RKiding/Awesome-finance-skills",
+      "last_scanned": "2026-05-14T18:02:28.346Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/supabase/agent-skills",
+      "last_scanned": "2026-05-14T18:02:52.076Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/apify/agent-skills",
+      "last_scanned": "2026-05-14T18:03:15.114Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/carlvellotti/claude-code-pm-course",
+      "last_scanned": "2026-05-14T18:03:38.219Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Mentra-Community/MentraOS",
+      "last_scanned": "2026-05-14T18:04:01.421Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/glittercowboy/taches-cc-resources",
+      "last_scanned": "2026-05-14T18:04:24.469Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/badlogic/pi-skills",
+      "last_scanned": "2026-05-14T18:04:47.414Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/leochlon/hallbayes",
+      "last_scanned": "2026-05-14T18:05:10.310Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+      "last_scanned": "2026-05-14T18:05:33.323Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/jinchenma94/bazi-skill",
+      "last_scanned": "2026-05-14T18:05:56.294Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nicobailon/pi-subagents",
+      "last_scanned": "2026-05-14T18:06:19.350Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Danau5tin/multi-agent-coding-system",
+      "last_scanned": "2026-05-14T18:06:42.271Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/CloudAI-X/claude-workflow-v2",
+      "last_scanned": "2026-05-14T18:07:05.120Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/lidangzzz/goal-driven",
+      "last_scanned": "2026-05-14T18:07:28.038Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/skills-directory/skill-codex",
+      "last_scanned": "2026-05-14T18:07:51.078Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+      "last_scanned": "2026-05-14T18:08:14.245Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/itsmostafa/aws-agent-skills",
+      "last_scanned": "2026-05-14T18:08:37.137Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-14T17:17:08.398Z"
+  "last_updated": "2026-05-14T18:08:37.137Z"
 }
