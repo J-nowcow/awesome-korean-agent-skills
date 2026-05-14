@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **4개 항목** · 자동 갱신: 2026-05-14
+> 📦 **5개 항목** · 자동 갱신: 2026-05-14
 <!-- CAT_STATS:END -->
 > Unity, Blender, C# 스크립팅
 
@@ -14,6 +14,7 @@
 |------|------|------|------|------|
 | unity 에이전트 4종 | CC | 아키텍트, 퍼포먼스, 리팩토링, 스크립팅 | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/unity-dev-toolkit/agents) |
 
+| ai-agent-unity-rules | CX/GC | Unity AI 에이전트 규칙 | 영+한 | [ai-agent-unity-rules](https://github.com/Common-ka/ai-agent-unity-rules) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
