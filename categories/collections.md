@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **19개 항목** · 자동 갱신: 2026-05-15
+> 📦 **22개 항목** · 자동 갱신: 2026-05-15
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -33,6 +33,9 @@
 | kit | CC | Claude Code용 플러그인 및 스킬 마켓플레이스 | 영+한 | [kit](https://github.com/hamsurang/kit) |
 | mcp-server-qdrant |  | Qdrant 벡터 DB에 정보를 저장하고 검색하는 MCP 서버 | 영+한 | [mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) |
 | awesome-agent-skills | CC/GC | 에이전트 스킬 모음 및 가이드 | 영+한 | [awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) |
+| personal-os-skills | CC | Obsidian 워크플로우를 위한 Claude Code 스킬 모음 | 영+한 | [personal-os-skills](https://github.com/ArtemXTech/personal-os-skills) |
+| claude-code-skills | CC | Claude Code 스킬 모음집 | 영+한 | [claude-code-skills](https://github.com/NanmiCoder/claude-code-skills) |
+| claude-skill-app-onboarding-questionnaire | CC | 앱 온보딩 플로우를 설계하고 구축하는 Claude Code 스킬 | 영+한 | [claude-skill-app-onboarding-questionnaire](https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

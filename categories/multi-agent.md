@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **17개 항목** · 자동 갱신: 2026-05-15
+> 📦 **19개 항목** · 자동 갱신: 2026-05-15
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -33,6 +33,8 @@
 | career-ops | CC/GC | AI 기반 다중 에이전트 채용 시스템 | 다국어(KO) | [career-ops](https://github.com/santifer/career-ops) |
 | obsidian-agent-client | CC/GC | Obsidian에서 AI 에이전트를 통합하는 플러그인 | 영+한 | [obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) |
 | Claude-Code-Workflow | CC/GC | JSON 기반 멀티 에이전트 개발 프레임워크 | 영+한 | [Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) |
+| claude-code-agents-wizard-v2 | CC | Claude Code 기반 복잡한 프로젝트 관리 시스템 | 영+한 | [claude-code-agents-wizard-v2](https://github.com/IncomeStreamSurfer/claude-code-agents-wizard-v2) |
+| copilot-orchestra | CP | AI 기반 소프트웨어 개발 워크플로우 시스템 | 영+한 | [copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
