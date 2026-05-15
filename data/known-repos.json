@@ -3159,7 +3159,22 @@
           "category": "web-frontend"
         }
       ]
+    },
+    {
+      "url": "https://github.com/joshua-zyy/academic-paper-writer",
+      "last_scanned": "2026-05-15T19:24:10.553Z",
+      "skills": [
+        {
+          "name": "academic-paper-writer",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/kevinnft/ai-agent-skills",
+      "last_scanned": "2026-05-15T19:24:34.840Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-15T18:25:10.696Z"
+  "last_updated": "2026-05-15T19:24:34.840Z"
 }
