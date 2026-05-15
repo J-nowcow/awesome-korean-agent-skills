@@ -2924,7 +2924,232 @@
       "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
       "last_scanned": "2026-05-15T16:32:44.527Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/AlexPEClub/ai-coding-starter-kit",
+      "last_scanned": "2026-05-15T17:28:11.739Z",
+      "skills": [
+        {
+          "name": "ai-coding-starter-kit",
+          "category": "project-init"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ArtemXTech/personal-os-skills",
+      "last_scanned": "2026-05-15T17:28:36.441Z",
+      "skills": [
+        {
+          "name": "personal-os-skills",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/BayramAnnakov/claude-reflect",
+      "last_scanned": "2026-05-15T17:29:06.022Z",
+      "skills": [
+        {
+          "name": "claude-reflect",
+          "category": "git-workflow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ClaytonFarr/ralph-playbook",
+      "last_scanned": "2026-05-15T17:29:29.962Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "last_scanned": "2026-05-15T17:29:54.365Z",
+      "skills": [
+        {
+          "name": "next-ai-draw-io",
+          "category": "utilities"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/FrancyJGLisboa/agent-skill-creator",
+      "last_scanned": "2026-05-15T17:30:18.372Z",
+      "skills": [
+        {
+          "name": "agent-skill-creator",
+          "category": "utilities"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/HazAT/pi-interactive-subagents",
+      "last_scanned": "2026-05-15T17:30:42.541Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/IncomeStreamSurfer/claude-code-agents-wizard-v2",
+      "last_scanned": "2026-05-15T17:31:09.036Z",
+      "skills": [
+        {
+          "name": "claude-code-agents-wizard-v2",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
+      "last_scanned": "2026-05-15T17:31:33.001Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/NanmiCoder/claude-code-skills",
+      "last_scanned": "2026-05-15T17:31:57.164Z",
+      "skills": [
+        {
+          "name": "claude-code-skills",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/Sfedfcv/redesigned-pancake",
+      "last_scanned": "2026-05-15T17:32:31.971Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ShepAlderson/copilot-orchestra",
+      "last_scanned": "2026-05-15T17:32:58.476Z",
+      "skills": [
+        {
+          "name": "copilot-orchestra",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/SynaLinks/synalinks-skills",
+      "last_scanned": "2026-05-15T17:33:23.917Z",
+      "skills": [
+        {
+          "name": "synalinks-skills",
+          "category": "frameworks"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/Wechat-ggGitHub/wechat-claude-code",
+      "last_scanned": "2026-05-15T17:33:47.716Z",
+      "skills": [
+        {
+          "name": "wechat-claude-code",
+          "category": "communication"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+      "last_scanned": "2026-05-15T17:34:11.510Z",
+      "skills": [
+        {
+          "name": "claude-skill-app-onboarding-questionnaire",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
+      "last_scanned": "2026-05-15T17:34:35.372Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/disler/the-library",
+      "last_scanned": "2026-05-15T17:34:59.122Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/firecrawl/web-agent",
+      "last_scanned": "2026-05-15T17:35:22.975Z",
+      "skills": [
+        {
+          "name": "web-agent",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/jqueryscript/awesome-claude-code",
+      "last_scanned": "2026-05-15T17:36:10.454Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/meleantonio/ChernyCode",
+      "last_scanned": "2026-05-15T17:36:34.926Z",
+      "skills": [
+        {
+          "name": "ChernyCode",
+          "category": "git-workflow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/clarity",
+      "last_scanned": "2026-05-15T17:38:16.901Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/obra/superpowers-marketplace",
+      "last_scanned": "2026-05-15T17:38:45.947Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/pedrohcgs/claude-code-my-workflow",
+      "last_scanned": "2026-05-15T17:39:20.487Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/rjs/shaping-skills",
+      "last_scanned": "2026-05-15T17:39:49.004Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/robrohan/WebArchiveExtractor",
+      "last_scanned": "2026-05-15T17:40:16.151Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/rokpiy/auto-commenter",
+      "last_scanned": "2026-05-15T17:40:55.925Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/runesleo/x-reader",
+      "last_scanned": "2026-05-15T17:41:24.170Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/sandeco/reversa",
+      "last_scanned": "2026-05-15T17:41:57.319Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/simonw/claude-skills",
+      "last_scanned": "2026-05-15T17:42:30.486Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/trustwallet/developer",
+      "last_scanned": "2026-05-15T17:43:04.229Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/vinayaksavle/UploadDownloadPDF",
+      "last_scanned": "2026-05-15T17:43:31.968Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/will2025btc/buffett-perspective",
+      "last_scanned": "2026-05-15T17:44:03.825Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-15T16:32:44.527Z"
+  "last_updated": "2026-05-15T17:44:03.826Z"
 }

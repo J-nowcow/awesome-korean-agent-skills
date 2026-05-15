@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **13개 항목** · 자동 갱신: 2026-05-15
+> 📦 **15개 항목** · 자동 갱신: 2026-05-15
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -24,6 +24,7 @@
 | project-session-manager | CC | 워크트리 기반 이슈·PR 개발 환경 관리 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/project-session-manager) |
 
 | cherry-studio |  | AI 생산성 스튜디오 및 300+ 어시스턴트 | 다국어(KO) | [cherry-studio](https://github.com/CherryHQ/cherry-studio) |
+| ChernyCode | CC/CX | AI 코딩 생산성 팁 모음 | 영+한 | [ChernyCode](https://github.com/meleantonio/ChernyCode) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
@@ -40,3 +41,5 @@
 |------|------|------|------|------|
 | hook-git-auto-backup | CC | 세션 종료 시 자동 git 커밋 백업 | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/hook-git-auto-backup) |
 | worktree-tracker | CC | 워크트리 라이프사이클 추적, 고아 방지 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/hooks/worktree-tracker.sh) |
+
+| claude-reflect | CC | Claude Code의 학습 및 스킬 관리를 위한 시스템 | 영+한 | [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) |
