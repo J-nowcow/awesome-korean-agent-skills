@@ -3149,7 +3149,17 @@
       "url": "https://github.com/will2025btc/buffett-perspective",
       "last_scanned": "2026-05-15T17:44:03.825Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/claude-code-expert/todo-app",
+      "last_scanned": "2026-05-15T18:25:10.696Z",
+      "skills": [
+        {
+          "name": "todo-app",
+          "category": "web-frontend"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-15T17:44:03.826Z"
+  "last_updated": "2026-05-15T18:25:10.696Z"
 }

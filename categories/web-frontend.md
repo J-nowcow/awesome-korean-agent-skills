@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-05-15
+> 📦 **13개 항목** · 자동 갱신: 2026-05-15
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -30,3 +30,5 @@
 | 토스 FE Cursor Rule | CR | 토스 Frontend Fundamentals 600줄 룰 | 한국어 | [Gist](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055) |
 
 | ui-ux-pro-max-skill | CC/GC | AI 기반 UI/UX 디자인 지능 제공 | 영+한 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
+
+| todo-app | CC | 티켓 기반 칸반 보드 할 일 관리 앱 | 영+한 | [todo-app](https://github.com/claude-code-expert/todo-app) |
