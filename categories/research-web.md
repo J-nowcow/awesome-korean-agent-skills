@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **6개 항목** · 자동 갱신: 2026-05-15
+> 📦 **7개 항목** · 자동 갱신: 2026-05-15
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -24,3 +24,5 @@
 | learn-coding-agent | CC | Claude Code 아키텍처 연구 및 분석 | 다국어(KO) | [learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) |
 
 | web-agent |  | 구조화된 웹 리서치를 위한 오픈소스 에이전트 | 영+한 | [web-agent](https://github.com/firecrawl/web-agent) |
+
+| academic-paper-writer |  | CS/AI/ML 논문 작성을 위한 에이전트 | 영+한 | [academic-paper-writer](https://github.com/joshua-zyy/academic-paper-writer) |
