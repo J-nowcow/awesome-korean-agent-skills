@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **3개 항목** · 자동 갱신: 2026-05-16
+> 📦 **4개 항목** · 자동 갱신: 2026-05-16
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -16,3 +16,9 @@
 | youtube-kr-subtitle | CC | 유튜브 한글 자막 자동 생성 | 한국어 | [claude-skill-youtube-kr-subtitle](https://github.com/Koomook/claude-skill-youtube-kr-subtitle) |
 
 | VideoCaptioner | CC | LLM 기반 영상 자막 생성 및 처리 도구 | 영+한 | [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) |
+
+## 🤖 Agents
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| html-anything | CC/GC | AI 기반 에이전트 HTML 편집기 | 영+한 | [html-anything](https://github.com/nexu-io/html-anything) |

@@ -3174,7 +3174,32 @@
       "url": "https://github.com/kevinnft/ai-agent-skills",
       "last_scanned": "2026-05-15T19:24:34.840Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
+      "last_scanned": "2026-05-16T16:59:11.048Z",
+      "skills": [
+        {
+          "name": "claude-design-system-hooks",
+          "category": "web-frontend"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ahacker-1/cre-agent-skills",
+      "last_scanned": "2026-05-16T16:59:35.549Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nexu-io/html-anything",
+      "last_scanned": "2026-05-16T17:00:00.018Z",
+      "skills": [
+        {
+          "name": "html-anything",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-15T19:24:34.840Z"
+  "last_updated": "2026-05-16T17:00:00.018Z"
 }

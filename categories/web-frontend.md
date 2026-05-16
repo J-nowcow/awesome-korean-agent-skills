@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **13개 항목** · 자동 갱신: 2026-05-16
+> 📦 **14개 항목** · 자동 갱신: 2026-05-16
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -32,3 +32,9 @@
 | ui-ux-pro-max-skill | CC/GC | AI 기반 UI/UX 디자인 지능 제공 | 영+한 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
 
 | todo-app | CC | 티켓 기반 칸반 보드 할 일 관리 앱 | 영+한 | [todo-app](https://github.com/claude-code-expert/todo-app) |
+
+## 🪝 Hooks
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| claude-design-system-hooks | CC | Claude AI 기반 디자인 시스템 훅 번들 | 영+한 | [claude-design-system-hooks](https://github.com/BharathKumarSuresh/claude-design-system-hooks) |
