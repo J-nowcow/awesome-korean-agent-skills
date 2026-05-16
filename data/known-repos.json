@@ -3199,7 +3199,22 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/executeautomation/mcp-playwright",
+      "last_scanned": "2026-05-16T17:57:10.104Z",
+      "skills": [
+        {
+          "name": "mcp-playwright",
+          "category": "testing"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/lichess-org/mobile",
+      "last_scanned": "2026-05-16T17:57:34.185Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-16T17:00:00.018Z"
+  "last_updated": "2026-05-16T17:57:34.185Z"
 }
