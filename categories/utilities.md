@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **5개 항목** · 자동 갱신: 2026-05-17
+> 📦 **6개 항목** · 자동 갱신: 2026-05-17
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -25,3 +25,9 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | agent-skill-creator | CC/GC/CX/CP/OC | 워크플로우를 AI 에이전트 스킬로 변환 | 영+한 | [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) |
+
+## 🤖 Agents
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| opencode |  | 오픈소스 AI 코딩 에이전트 | 다국어(KO) | [opencode](https://github.com/anomalyco/opencode) |

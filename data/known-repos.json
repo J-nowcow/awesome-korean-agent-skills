@@ -3234,7 +3234,32 @@
           "category": "devops"
         }
       ]
+    },
+    {
+      "url": "https://github.com/anomalyco/opencode",
+      "last_scanned": "2026-05-17T17:59:10.347Z",
+      "skills": [
+        {
+          "name": "opencode",
+          "category": "utilities"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "last_scanned": "2026-05-17T17:59:34.794Z",
+      "skills": [
+        {
+          "name": "pm-claude-skills",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/spiculedata/saiku",
+      "last_scanned": "2026-05-17T17:59:59.064Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-17T16:58:10.697Z"
+  "last_updated": "2026-05-17T17:59:59.064Z"
 }
