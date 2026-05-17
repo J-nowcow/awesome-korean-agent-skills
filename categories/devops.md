@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **14개 항목** · 자동 갱신: 2026-05-17
+> 📦 **15개 항목** · 자동 갱신: 2026-05-17
 <!-- CAT_STATS:END -->
 > CI/CD, 릴리즈 자동화, 모니터링, 세션 관리
 
@@ -18,6 +18,7 @@
 | harness-diagnostics | CC | 12원칙 기반 자가 진단·개선 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/harness-diagnostics) |
 | session-wrap | CC | 세션 종료 전 4개 병렬 서브에이전트 정리 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/session-wrap) |
 
+| terrashark | CC/OC | Terraform 코드의 환각 현상을 수정하는 Claude/Codex 스킬 | 영+한 | [terrashark](https://github.com/LukasNiessen/terrashark) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
