@@ -3224,7 +3224,17 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/LukasNiessen/terrashark",
+      "last_scanned": "2026-05-17T16:58:10.697Z",
+      "skills": [
+        {
+          "name": "terrashark",
+          "category": "devops"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-17T15:48:10.813Z"
+  "last_updated": "2026-05-17T16:58:10.697Z"
 }
