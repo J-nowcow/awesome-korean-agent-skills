@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-05-17
+> 📦 **8개 항목** · 자동 갱신: 2026-05-17
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -26,3 +26,5 @@
 | web-agent |  | 구조화된 웹 리서치를 위한 오픈소스 에이전트 | 영+한 | [web-agent](https://github.com/firecrawl/web-agent) |
 
 | academic-paper-writer |  | CS/AI/ML 논문 작성을 위한 에이전트 | 영+한 | [academic-paper-writer](https://github.com/joshua-zyy/academic-paper-writer) |
+
+| llm-for-zotero | CC | Zotero 라이브러리 기반 연구 에이전트 시스템 | 영+한 | [llm-for-zotero](https://github.com/yilewang/llm-for-zotero) |

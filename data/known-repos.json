@@ -3214,7 +3214,17 @@
       "url": "https://github.com/lichess-org/mobile",
       "last_scanned": "2026-05-16T17:57:34.185Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/yilewang/llm-for-zotero",
+      "last_scanned": "2026-05-17T15:48:10.813Z",
+      "skills": [
+        {
+          "name": "llm-for-zotero",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-16T17:57:34.185Z"
+  "last_updated": "2026-05-17T15:48:10.813Z"
 }
