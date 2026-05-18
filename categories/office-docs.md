@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **5개 항목** · 자동 갱신: 2026-05-17
+> 📦 **6개 항목** · 자동 갱신: 2026-05-18
 <!-- CAT_STATS:END -->
 > Word, Excel, PPT, PDF, HWP 처리
 
@@ -17,3 +17,5 @@
 | pptx `공식` | CC | 슬라이드 레이아웃·템플릿 조정 | 영어 | [anthropics/skills](https://github.com/anthropics/skills) |
 | pdf `공식` | CC | 텍스트·표·메타데이터 추출 | 영어 | [anthropics/skills](https://github.com/anthropics/skills) |
 | HWP 처리 | CC/CX/OC | 한글 파일 처리 | 한국어 | [k-skill](https://github.com/NomaDamas/k-skill) |
+
+| alhangeul-macos |  | macOS에서 HWP/HWPX 파일 미리보기 및 편집 | 영+한 | [alhangeul-macos](https://github.com/postmelee/alhangeul-macos) |

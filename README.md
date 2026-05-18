@@ -24,7 +24,7 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-05-17
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-05-18
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
@@ -44,7 +44,7 @@
 | [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 13+ |
 | [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 8+ |
 | [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 12+ |
-| [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 15+ |
+| [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 16+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 7+ |
 | [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 19+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 9+ |
@@ -62,7 +62,7 @@
 | [커뮤니케이션](categories/communication.md) | 이메일·슬랙 트리아지, 알림 설정 | 3+ |
 | [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 4+ |
 | [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 5+ |
-| [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 5+ |
+| [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 6+ |
 | [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 8+ |
 
 ## 종합 레포
@@ -156,7 +156,7 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 
 ## 📊 통계 한눈에
 
-<sub>마지막 갱신: 2026-05-17 · 자동 생성 · 데이터는 [categories/](categories/) 표에서 직접 카운트</sub>
+<sub>마지막 갱신: 2026-05-18 · 자동 생성 · 데이터는 [categories/](categories/) 표에서 직접 카운트</sub>
 
 <table>
 <tr align="center">
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>251+</h2></td>
-<td><h2>584</h2></td>
+<td><h2>253+</h2></td>
+<td><h2>586</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -179,7 +179,7 @@ pie showData
     "종합 스킬 컬렉션" : 23
     "테스트 & TDD" : 20
     "멀티에이전트" : 19
-    "Git & 워크플로우" : 15
+    "Git & 워크플로우" : 16
     "DevOps & 배포" : 15
     "코드 리뷰" : 15
     "웹 프론트엔드" : 14
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 209
+    "CC" : 210
     "GC" : 25
     "CX" : 18
     "CP" : 5
@@ -220,7 +220,7 @@ pie showData
 
 ## 🤖 최근 자동화 활동
 
-<sub>지난 7일 (since 2026-05-10T00:00:00Z UTC) · 자동 생성 · 마지막 갱신 2026-05-17</sub>
+<sub>지난 7일 (since 2026-05-11T00:00:00Z UTC) · 자동 생성 · 마지막 갱신 2026-05-18</sub>
 
 <table>
 <tr align="center">
@@ -241,13 +241,13 @@ pie showData
 
 | 날짜 | 🔍 신규 | 🔗 정리 | 📊 동기화 | ⭐ 추천 |
 |------|:---:|:---:|:---:|:---:|
-| 2026-05-11 | · | · | · | **1** |
 | 2026-05-12 | **5** | **2** | **2** | · |
 | 2026-05-13 | **5** | **1** | **2** | · |
 | 2026-05-14 | **5** | **1** | **2** | · |
 | 2026-05-15 | **4** | · | **2** | · |
 | 2026-05-16 | **2** | **1** | **2** | · |
-| 2026-05-17 | **4** | **1** | **1** | · |
+| 2026-05-17 | **4** | **1** | **2** | · |
+| 2026-05-18 | · | · | · | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
