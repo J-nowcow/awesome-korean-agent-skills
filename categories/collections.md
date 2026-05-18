@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **24개 항목** · 자동 갱신: 2026-05-18
+> 📦 **25개 항목** · 자동 갱신: 2026-05-18
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -38,6 +38,7 @@
 | claude-skill-app-onboarding-questionnaire | CC | 앱 온보딩 플로우를 설계하고 구축하는 Claude Code 스킬 | 영+한 | [claude-skill-app-onboarding-questionnaire](https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire) |
 | pm-claude-skills | CC | 다양한 직업군을 위한 Claude 스킬 모음 | 영+한 | [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) |
 | beatai | CC | AI 학습 및 개발을 위한 스킬 모음 | 영+한 | [beatai](https://github.com/beatai-org/beatai) |
+| claude-running-coach | CC | Claude Code 기반 AI 러닝 코치 | 영+한 | [claude-running-coach](https://github.com/ColinEberhardt/claude-running-coach) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
