@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-05-18
+> 📦 **13개 항목** · 자동 갱신: 2026-05-18
 <!-- CAT_STATS:END -->
 > 기술 문서 생성, 한국어 문서 작성, 코드맵
 
@@ -29,6 +29,7 @@
 
 | context-engineering-intro | CC | AI 코딩 도우미를 위한 컨텍스트 엔지니어링 템플릿 | 영+한 | [context-engineering-intro](https://github.com/coleam00/context-engineering-intro) |
 | khazix-skills | CC/GC | AI 에이전트의 문서 및 기억 동기화 도구 | 영+한 | [khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
+| apps-in-toss-skills | CC/OC | Toss 문서 검색 및 프로젝트 검증 스킬 | 영+한 | [apps-in-toss-skills](https://github.com/toss/apps-in-toss-skills) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

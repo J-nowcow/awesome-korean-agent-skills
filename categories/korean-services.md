@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **6개 항목** · 자동 갱신: 2026-05-18
+> 📦 **7개 항목** · 자동 갱신: 2026-05-18
 <!-- CAT_STATS:END -->
 > 한국에서 일상적으로 쓰는 서비스 자동화
 
@@ -18,3 +18,9 @@
 | 로또 확인 | CC/CX/OC | 당첨 번호 조회 | 한국어 | [k-skill](https://github.com/NomaDamas/k-skill) |
 | 택배 조회 | CC/CX/OC | 배송 추적 | 한국어 | [k-skill](https://github.com/NomaDamas/k-skill) |
 | 토스증권 | CC/CX/OC | 토스증권 연동 | 한국어 | [k-skill](https://github.com/NomaDamas/k-skill) |
+
+## 🤖 Agents
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| kakaopay | CC | 카카오페이 결제 연동을 위한 3인 에이전트 팀 | 한국어 | [kakaopay](https://github.com/revfactory/kakaopay) |
