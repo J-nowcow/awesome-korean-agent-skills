@@ -3359,7 +3359,27 @@
           "category": "backend"
         }
       ]
+    },
+    {
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "last_scanned": "2026-05-18T20:26:11.083Z",
+      "skills": [
+        {
+          "name": "claude-obsidian",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/swapperfinance/swapper-toolkit",
+      "last_scanned": "2026-05-18T20:26:44.887Z",
+      "skills": [
+        {
+          "name": "swapper-toolkit",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-18T19:31:47.685Z"
+  "last_updated": "2026-05-18T20:26:44.887Z"
 }
