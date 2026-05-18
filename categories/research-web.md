@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **8개 항목** · 자동 갱신: 2026-05-18
+> 📦 **9개 항목** · 자동 갱신: 2026-05-18
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -28,3 +28,5 @@
 | academic-paper-writer |  | CS/AI/ML 논문 작성을 위한 에이전트 | 영+한 | [academic-paper-writer](https://github.com/joshua-zyy/academic-paper-writer) |
 
 | llm-for-zotero | CC | Zotero 라이브러리 기반 연구 에이전트 시스템 | 영+한 | [llm-for-zotero](https://github.com/yilewang/llm-for-zotero) |
+
+| claude-obsidian | CC | Claude 기반 지식 관리 및 자동화 에이전트 | 영+한 | [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) |
