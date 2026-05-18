@@ -3309,7 +3309,37 @@
       "url": "https://github.com/tursodatabase/turso",
       "last_scanned": "2026-05-18T17:25:15.009Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/revfactory/kakaopay",
+      "last_scanned": "2026-05-18T18:02:11.153Z",
+      "skills": [
+        {
+          "name": "kakaopay",
+          "category": "korean-services"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/revfactory/wedding-letter",
+      "last_scanned": "2026-05-18T18:03:19.846Z",
+      "skills": [
+        {
+          "name": "wedding-letter",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/toss/apps-in-toss-skills",
+      "last_scanned": "2026-05-18T18:03:50.293Z",
+      "skills": [
+        {
+          "name": "apps-in-toss-skills",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-18T17:25:15.009Z"
+  "last_updated": "2026-05-18T18:03:50.293Z"
 }

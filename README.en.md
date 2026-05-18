@@ -99,10 +99,10 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 11+ |
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 13+ |
 | [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 8+ |
-| [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 12+ |
+| [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 13+ |
 | [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 16+ |
 | [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 7+ |
-| [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 19+ |
+| [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 20+ |
 | [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 9+ |
 | [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 15+ |
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 5+ |
@@ -114,7 +114,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 | Category | Description | Items |
 |----------|------|:-------:|
-| [Korean Life Services](categories/korean-services.md) | SRT/KTX, parcel tracking, lotto, KBO, KakaoTalk | 6+ |
+| [Korean Life Services](categories/korean-services.md) | SRT/KTX, parcel tracking, lotto, KBO, KakaoTalk | 7+ |
 | [Communication](categories/communication.md) | Email & Slack triage, notification settings | 3+ |
 | [Content & Marketing](categories/content-marketing.md) | Card news, design prompts, image generation | 4+ |
 | [Writing & Korean Language](categories/korean-writing.md) | AI style transfer, spell checking, technical docs | 5+ |

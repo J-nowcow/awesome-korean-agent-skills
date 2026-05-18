@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **19개 항목** · 자동 갱신: 2026-05-18
+> 📦 **20개 항목** · 자동 갱신: 2026-05-18
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -22,6 +22,7 @@
 | autodev / autodev-parallel | CC | Ralph Loop 자율 개발 (순차/병렬) | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/autodev) |
 | subagent-driven-development | CC | 독립 작업마다 fresh 서브에이전트 디스패치 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/.claude/skills/subagent-driven-development) |
 
+| wedding-letter | CC | Claude Code 기반 한국 모바일 청첩장 자동 제작 | 한국어 | [wedding-letter](https://github.com/revfactory/wedding-letter) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
