@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **15개 항목** · 자동 갱신: 2026-05-17
+> 📦 **16개 항목** · 자동 갱신: 2026-05-18
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -25,6 +25,7 @@
 
 | cherry-studio |  | AI 생산성 스튜디오 및 300+ 어시스턴트 | 다국어(KO) | [cherry-studio](https://github.com/CherryHQ/cherry-studio) |
 | ChernyCode | CC/CX | AI 코딩 생산성 팁 모음 | 영+한 | [ChernyCode](https://github.com/meleantonio/ChernyCode) |
+| dont-git-afraid | CC | Git 사용법을 쉽게 알려주는 AI 에이전트 스킬 | 한국어 | [dont-git-afraid](https://github.com/rubric-dev/dont-git-afraid) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

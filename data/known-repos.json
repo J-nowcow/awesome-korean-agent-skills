@@ -3264,7 +3264,27 @@
       "url": "https://github.com/colchuck-ai/ai-resource-manager",
       "last_scanned": "2026-05-17T20:05:10.994Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/postmelee/alhangeul-macos",
+      "last_scanned": "2026-05-18T06:55:11.178Z",
+      "skills": [
+        {
+          "name": "alhangeul-macos",
+          "category": "office-docs"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/rubric-dev/dont-git-afraid",
+      "last_scanned": "2026-05-18T06:55:35.345Z",
+      "skills": [
+        {
+          "name": "dont-git-afraid",
+          "category": "git-workflow"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-17T20:05:10.995Z"
+  "last_updated": "2026-05-18T06:55:35.345Z"
 }
