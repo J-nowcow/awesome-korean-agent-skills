@@ -181,6 +181,32 @@
           "tools": "AI 코딩 가이드 v8.0"
         }
       ]
+    },
+    {
+      "date": "2026-05-18",
+      "items": [
+        {
+          "name": "oh-my-openagent",
+          "repo": "code-yeongyu/oh-my-openagent",
+          "category": "frameworks",
+          "type": "📦",
+          "tools": "OC"
+        },
+        {
+          "name": "html-anything",
+          "repo": "nexu-io/html-anything",
+          "category": "content-media",
+          "type": "🤖",
+          "tools": "CC/GC"
+        },
+        {
+          "name": "agent-skill-creator",
+          "repo": "FrancyJGLisboa/agent-skill-creator",
+          "category": "utilities",
+          "type": "🔧",
+          "tools": "CC/GC/CX/CP/OC"
+        }
+      ]
     }
   ]
 }
