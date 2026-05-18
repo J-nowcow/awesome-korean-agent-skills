@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-05-11
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-05-18
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 📦 bkit-codex | CX | Supports multiple languages with excellent Korean support, and is highly practical as a framework including 27 skills. | [bkit-codex](https://github.com/popup-studio-ai/bkit-codex) |
-| 📦 awesome-agent-skills | 크로스 도구 스킬 큐레이션 디렉토리 | A cross-tool skill curation directory supporting both Korean and English, useful for exploring various agent skills. | [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) |
-| 📦 ai-coding-guidelines | AI 코딩 가이드 v8.0 | An AI coding guideline provided in Korean, offering practical assistance to Korean users. | [ai-coding-guidelines](https://github.com/SongJohnhawk/ai-coding-guidelines) |
+| 📦 oh-my-openagent | OC | A framework spanning various categories with explicit Korean support, making it highly practical. It allows for a mix of useful tools for Agent development. | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) |
+| 🤖 html-anything | CC/GC | An AI-powered HTML editor offering high practicality in the content and media domain. It supports Korean and, as an Agent type, promises diverse applications. | [html-anything](https://github.com/nexu-io/html-anything) |
+| 🔧 agent-skill-creator | CC/GC/CX/CP/OC | A utility that transforms workflows into AI agent skills, offering excellent practicality with support for various tools. It's useful for developing and managing Agent skills. | [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) |
 
 ---
 

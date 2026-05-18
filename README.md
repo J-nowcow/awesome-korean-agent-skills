@@ -28,9 +28,9 @@
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 📦 bkit-codex | CX | 다양한 언어를 지원하며 한국어 지원이 우수하고, 27개의 스킬을 포함하는 프레임워크로 실용성이 높습니다. | [bkit-codex](https://github.com/popup-studio-ai/bkit-codex) |
-| 📦 awesome-agent-skills | 크로스 도구 스킬 큐레이션 디렉토리 | 한국어와 영어를 모두 지원하는 크로스 도구 스킬 큐레이션 디렉토리로, 다양한 에이전트 스킬을 탐색하는 데 유용합니다. | [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) |
-| 📦 ai-coding-guidelines | AI 코딩 가이드 v8.0 | 한국어로 제공되는 AI 코딩 가이드라인으로, 한국어 사용자에게 실질적인 도움을 줄 수 있는 실용적인 자료입니다. | [ai-coding-guidelines](https://github.com/SongJohnhawk/ai-coding-guidelines) |
+| 📦 oh-my-openagent | OC | 다양한 카테고리를 아우르는 프레임워크로, 한국어 지원이 명시되어 있어 실용성이 높습니다. Agent 개발에 유용한 도구들을 혼합하여 사용할 수 있습니다. | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) |
+| 🤖 html-anything | CC/GC | AI 기반 HTML 편집기로, 콘텐츠 및 미디어 분야에서 높은 실용성을 제공합니다. 한국어 지원이 가능하며, Agent 타입으로 다양한 활용이 기대됩니다. | [html-anything](https://github.com/nexu-io/html-anything) |
+| 🔧 agent-skill-creator | CC/GC/CX/CP/OC | 워크플로우를 AI 에이전트 스킬로 변환하는 유틸리티로, 다양한 도구를 지원하여 실용성이 뛰어납니다. Agent 스킬 개발 및 관리에 유용합니다. | [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) |
 
 ---
 
