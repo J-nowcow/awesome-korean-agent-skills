@@ -3339,7 +3339,27 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ColinEberhardt/claude-running-coach",
+      "last_scanned": "2026-05-18T19:31:14.109Z",
+      "skills": [
+        {
+          "name": "claude-running-coach",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/FitTruck/Isajjim-AI",
+      "last_scanned": "2026-05-18T19:31:47.685Z",
+      "skills": [
+        {
+          "name": "Isajjim-AI",
+          "category": "backend"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-18T18:03:50.293Z"
+  "last_updated": "2026-05-18T19:31:47.685Z"
 }
