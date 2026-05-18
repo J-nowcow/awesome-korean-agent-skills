@@ -3284,7 +3284,32 @@
           "category": "git-workflow"
         }
       ]
+    },
+    {
+      "url": "https://github.com/beatai-org/beatai",
+      "last_scanned": "2026-05-18T17:24:20.219Z",
+      "skills": [
+        {
+          "name": "beatai",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/heroui-inc/heroui",
+      "last_scanned": "2026-05-18T17:24:45.321Z",
+      "skills": [
+        {
+          "name": "heroui",
+          "category": "web-frontend"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/tursodatabase/turso",
+      "last_scanned": "2026-05-18T17:25:15.009Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-18T06:55:35.345Z"
+  "last_updated": "2026-05-18T17:25:15.009Z"
 }

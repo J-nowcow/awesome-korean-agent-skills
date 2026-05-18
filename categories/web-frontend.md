@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **14개 항목** · 자동 갱신: 2026-05-18
+> 📦 **15개 항목** · 자동 갱신: 2026-05-18
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -33,6 +33,7 @@
 
 | todo-app | CC | 티켓 기반 칸반 보드 할 일 관리 앱 | 영+한 | [todo-app](https://github.com/claude-code-expert/todo-app) |
 
+| heroui | CC/GC | AI 네이티브 React UI 라이브러리 | 영+한 | [heroui](https://github.com/heroui-inc/heroui) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
