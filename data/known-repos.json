@@ -3379,7 +3379,22 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/affaan-m/ECC",
+      "last_scanned": "2026-05-19T17:34:15.139Z",
+      "skills": [
+        {
+          "name": "ECC",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/garrytan/gbrain",
+      "last_scanned": "2026-05-19T17:34:48.178Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-18T20:26:44.887Z"
+  "last_updated": "2026-05-19T17:34:48.178Z"
 }
