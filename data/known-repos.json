@@ -3394,7 +3394,17 @@
       "url": "https://github.com/garrytan/gbrain",
       "last_scanned": "2026-05-19T17:34:48.178Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/revfactory/unreal-idol",
+      "last_scanned": "2026-05-19T18:06:17.667Z",
+      "skills": [
+        {
+          "name": "unreal-idol",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-19T17:34:48.178Z"
+  "last_updated": "2026-05-19T18:06:17.667Z"
 }

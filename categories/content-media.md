@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **4개 항목** · 자동 갱신: 2026-05-19
+> 📦 **5개 항목** · 자동 갱신: 2026-05-19
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -17,6 +17,7 @@
 
 | VideoCaptioner | CC | LLM 기반 영상 자막 생성 및 처리 도구 | 영+한 | [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) |
 
+| unreal-idol | CC/GC | K팝 드라마 대본 제작 AI 에이전트 스킬 | 영+한 | [unreal-idol](https://github.com/revfactory/unreal-idol) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
