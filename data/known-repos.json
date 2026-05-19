@@ -3404,7 +3404,17 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+      "last_scanned": "2026-05-19T20:46:10.011Z",
+      "skills": [
+        {
+          "name": "Claude-Mythos-AI-Anthropic-App",
+          "category": "ai-prompt"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-19T18:06:17.667Z"
+  "last_updated": "2026-05-19T20:46:10.012Z"
 }
