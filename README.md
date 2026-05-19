@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>262+</h2></td>
-<td><h2>596</h2></td>
+<td><h2>263+</h2></td>
+<td><h2>598</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -176,7 +176,7 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 ```mermaid
 pie showData
     title 카테고리별 스킬 수
-    "종합 스킬 컬렉션" : 25
+    "종합 스킬 컬렉션" : 26
     "테스트 & TDD" : 20
     "멀티에이전트" : 20
     "Git & 워크플로우" : 16
@@ -193,11 +193,11 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 218
-    "GC" : 26
-    "CX" : 19
-    "CP" : 6
-    "OC" : 15
+    "CC" : 219
+    "GC" : 27
+    "CX" : 20
+    "CP" : 7
+    "OC" : 16
     "CR" : 4
     "WS" : 3
 ```
@@ -232,7 +232,7 @@ pie showData
 <tr align="center">
 <td><b>30</b> run · <b>+110</b> 스킬</td>
 <td><b>8</b> run · <b>-0</b> dead link</td>
-<td><b>14</b> run</td>
+<td><b>15</b> run</td>
 <td><b>1</b> run</td>
 </tr>
 </table>
@@ -247,7 +247,7 @@ pie showData
 | 2026-05-16 | **2** | **1** | **2** | · |
 | 2026-05-17 | **4** | **1** | **2** | · |
 | 2026-05-18 | **5** | **1** | **2** | **1** |
-| 2026-05-19 | · | **1** | · | · |
+| 2026-05-19 | · | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
