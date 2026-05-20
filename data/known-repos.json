@@ -3414,7 +3414,12 @@
           "category": "ai-prompt"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ColorlibHQ/email-templates",
+      "last_scanned": "2026-05-20T17:49:11.071Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-19T20:46:10.012Z"
+  "last_updated": "2026-05-20T17:49:11.071Z"
 }
