@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-05-20
+> 📦 **21개 항목** · 자동 갱신: 2026-05-20
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -23,6 +23,7 @@
 | subagent-driven-development | CC | 독립 작업마다 fresh 서브에이전트 디스패치 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/.claude/skills/subagent-driven-development) |
 
 | wedding-letter | CC | Claude Code 기반 한국 모바일 청첩장 자동 제작 | 한국어 | [wedding-letter](https://github.com/revfactory/wedding-letter) |
+| third-brain-v5-skills | CC/GC | Claude, Gemini 등 AI 코딩 에이전트 스킬 모음 | 영+한 | [third-brain-v5-skills](https://github.com/Mark393295827/third-brain-v5-skills) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
