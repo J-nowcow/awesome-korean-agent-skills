@@ -3449,7 +3449,22 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/egalano/build-a-skill",
+      "last_scanned": "2026-05-21T19:48:19.757Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mjason/long",
+      "last_scanned": "2026-05-21T19:48:54.875Z",
+      "skills": [
+        {
+          "name": "long",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-21T19:00:10.713Z"
+  "last_updated": "2026-05-21T19:48:54.875Z"
 }
