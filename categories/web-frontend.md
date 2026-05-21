@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **15개 항목** · 자동 갱신: 2026-05-20
+> 📦 **14개 항목** · 자동 갱신: 2026-05-21
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -38,4 +38,3 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| claude-design-system-hooks | CC | Claude AI 기반 디자인 시스템 훅 번들 | 영+한 | [claude-design-system-hooks](https://github.com/BharathKumarSuresh/claude-design-system-hooks) |

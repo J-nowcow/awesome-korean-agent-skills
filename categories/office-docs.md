@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **6개 항목** · 자동 갱신: 2026-05-20
+> 📦 **6개 항목** · 자동 갱신: 2026-05-21
 <!-- CAT_STATS:END -->
 > Word, Excel, PPT, PDF, HWP 처리
 
