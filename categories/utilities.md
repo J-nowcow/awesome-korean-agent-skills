@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-05-21
+> 📦 **8개 항목** · 자동 갱신: 2026-05-21
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -32,3 +32,5 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | opencode |  | 오픈소스 AI 코딩 에이전트 | 다국어(KO) | [opencode](https://github.com/anomalyco/opencode) |
+
+| long |  | Elixir 기반 LLM 에이전트 런타임 | 영+한 | [long](https://github.com/mjason/long) |
