@@ -24,7 +24,7 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-05-20
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-05-21
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
@@ -48,7 +48,7 @@
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 7+ |
 | [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 21+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 10+ |
-| [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 15+ |
+| [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 14+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 6+ |
 | [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 6+ |
 | [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 5+ |
@@ -156,7 +156,7 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 
 ## 📊 통계 한눈에
 
-<sub>마지막 갱신: 2026-05-20 · 자동 생성 · 데이터는 [categories/](categories/) 표에서 직접 카운트</sub>
+<sub>마지막 갱신: 2026-05-21 · 자동 생성 · 데이터는 [categories/](categories/) 표에서 직접 카운트</sub>
 
 <table>
 <tr align="center">
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>266+</h2></td>
-<td><h2>602</h2></td>
+<td><h2>265+</h2></td>
+<td><h2>601</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -180,9 +180,9 @@ pie showData
     "멀티에이전트" : 21
     "테스트 & TDD" : 20
     "Git & 워크플로우" : 16
-    "웹 프론트엔드" : 15
     "DevOps & 배포" : 15
     "코드 리뷰" : 15
+    "웹 프론트엔드" : 14
     "프로젝트 초기화" : 13
     "문서화" : 13
     "보안 감사" : 11
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 222
+    "CC" : 221
     "GC" : 29
     "CX" : 20
     "CP" : 7
@@ -220,7 +220,7 @@ pie showData
 
 ## 🤖 최근 자동화 활동
 
-<sub>지난 7일 (since 2026-05-13T00:00:00Z UTC) · 자동 생성 · 마지막 갱신 2026-05-20</sub>
+<sub>지난 7일 (since 2026-05-14T00:00:00Z UTC) · 자동 생성 · 마지막 갱신 2026-05-21</sub>
 
 <table>
 <tr align="center">
@@ -230,10 +230,10 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>30</b> run · <b>+67</b> 스킬</td>
-<td><b>7</b> run · <b>-0</b> dead link</td>
-<td><b>15</b> run</td>
+<td><b>0</b> run · <b>+0</b> 스킬</td>
+<td><b>0</b> run · <b>-0</b> dead link</td>
 <td><b>1</b> run</td>
+<td><b>0</b> run</td>
 </tr>
 </table>
 
@@ -241,13 +241,13 @@ pie showData
 
 | 날짜 | 🔍 신규 | 🔗 정리 | 📊 동기화 | ⭐ 추천 |
 |------|:---:|:---:|:---:|:---:|
-| 2026-05-14 | **5** | **1** | **2** | · |
-| 2026-05-15 | **4** | · | **2** | · |
-| 2026-05-16 | **2** | **1** | **2** | · |
-| 2026-05-17 | **4** | **1** | **2** | · |
-| 2026-05-18 | **5** | **1** | **2** | **1** |
-| 2026-05-19 | **3** | **1** | **2** | · |
-| 2026-05-20 | **2** | **1** | **1** | · |
+| 2026-05-15 | · | · | · | · |
+| 2026-05-16 | · | · | · | · |
+| 2026-05-17 | · | · | · | · |
+| 2026-05-18 | · | · | · | · |
+| 2026-05-19 | · | · | · | · |
+| 2026-05-20 | · | · | **1** | · |
+| 2026-05-21 | · | · | · | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
