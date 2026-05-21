@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **9개 항목** · 자동 갱신: 2026-05-21
+> 📦 **10개 항목** · 자동 갱신: 2026-05-21
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -17,6 +17,7 @@
 
 | claude-seo | CC | Claude Code를 위한 SEO 분석 스킬 | 영+한 | [claude-seo](https://github.com/AgriciDaniel/claude-seo) |
 | web-access | CC/GC/CX/OC | AI 에이전트의 고급 웹 접근 및 브라우저 자동화 스킬 | 다국어(KO) | [web-access](https://github.com/eze-is/web-access) |
+| claude-scholar | CC | 학술 연구 및 SW 개발 보조 도구 | 다국어(KO) | [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

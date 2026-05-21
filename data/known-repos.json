@@ -3419,7 +3419,27 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/AgriciDaniel/claude-blog",
+      "last_scanned": "2026-05-21T17:27:21.381Z",
+      "skills": [
+        {
+          "name": "claude-blog",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/Galaxy-Dawn/claude-scholar",
+      "last_scanned": "2026-05-21T17:27:59.695Z",
+      "skills": [
+        {
+          "name": "claude-scholar",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-20T20:07:10.608Z"
+  "last_updated": "2026-05-21T17:27:59.695Z"
 }
