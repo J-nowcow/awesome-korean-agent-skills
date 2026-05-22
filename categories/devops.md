@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **15개 항목** · 자동 갱신: 2026-05-22
+> 📦 **16개 항목** · 자동 갱신: 2026-05-22
 <!-- CAT_STATS:END -->
 > CI/CD, 릴리즈 자동화, 모니터링, 세션 관리
 
@@ -29,6 +29,7 @@
 | harness-audit | CC | 하네스 감사 스코어카드 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/commands/harness-audit.md) |
 
 | dotnet-cursor-rules | CX | .NET 프로젝트를 위한 Cursor AI 규칙 모음 | 영+한 | [dotnet-cursor-rules](https://github.com/Aaronontheweb/dotnet-cursor-rules) |
+| infracost | CC/GC | 클라우드 비용 예측 및 최적화 도구 | 영+한 | [infracost](https://github.com/infracost/infracost) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

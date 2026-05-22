@@ -3474,7 +3474,27 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "last_scanned": "2026-05-21T20:53:04.465Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "last_scanned": "2026-05-22T17:02:12.998Z",
+      "skills": [
+        {
+          "name": "marketingskills",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/infracost/infracost",
+      "last_scanned": "2026-05-22T17:02:40.798Z",
+      "skills": [
+        {
+          "name": "infracost",
+          "category": "devops"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-21T20:53:04.465Z"
+  "last_updated": "2026-05-22T17:02:40.798Z"
 }
