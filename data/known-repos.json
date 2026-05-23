@@ -3494,7 +3494,17 @@
           "category": "devops"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ai-agent-kr/agent-tutorial",
+      "last_scanned": "2026-05-23T18:03:10.384Z",
+      "skills": [
+        {
+          "name": "agent-tutorial",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-22T17:02:40.798Z"
+  "last_updated": "2026-05-23T18:03:10.384Z"
 }
