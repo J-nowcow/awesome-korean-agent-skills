@@ -3539,7 +3539,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/dotnet/skills",
+      "last_scanned": "2026-05-24T18:00:13.170Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/skillmatic-ai/awesome-agent-skills",
+      "last_scanned": "2026-05-24T18:00:36.821Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-24T17:03:02.309Z"
+  "last_updated": "2026-05-24T18:00:36.821Z"
 }
