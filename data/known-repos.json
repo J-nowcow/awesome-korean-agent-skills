@@ -3504,7 +3504,42 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/larajuniorlara/Claude-Design-Studio",
+      "last_scanned": "2026-05-24T17:01:23.081Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/modelscope/FunASR",
+      "last_scanned": "2026-05-24T17:01:46.802Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nowork-studio/NotFair",
+      "last_scanned": "2026-05-24T17:02:13.144Z",
+      "skills": [
+        {
+          "name": "NotFair",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/rayhayqal/Mythos-Claude-Skill-Forge",
+      "last_scanned": "2026-05-24T17:02:38.648Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/zhayujie/CowAgent",
+      "last_scanned": "2026-05-24T17:03:02.309Z",
+      "skills": [
+        {
+          "name": "CowAgent",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-23T18:03:10.384Z"
+  "last_updated": "2026-05-24T17:03:02.309Z"
 }

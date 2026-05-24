@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **26개 항목** · 자동 갱신: 2026-05-24
+> 📦 **27개 항목** · 자동 갱신: 2026-05-24
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -52,3 +52,5 @@
 | nanobot |  | 초경량 개인 AI 에이전트 | 영+한 | [nanobot](https://github.com/HKUDS/nanobot) |
 
 | ECC | CC/GC/CX/CP/OC | 에이전트 작업용 하네스 네이티브 운영체제 | 다국어(KO) | [ECC](https://github.com/affaan-m/ECC) |
+
+| CowAgent |  | 다양한 LLM을 지원하는 AI 에이전트 | 다국어(KO) | [CowAgent](https://github.com/zhayujie/CowAgent) |
