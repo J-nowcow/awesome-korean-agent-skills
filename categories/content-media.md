@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-05-24
+> 📦 **8개 항목** · 자동 갱신: 2026-05-24
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -20,6 +20,7 @@
 | unreal-idol | CC/GC | K팝 드라마 대본 제작 AI 에이전트 스킬 | 영+한 | [unreal-idol](https://github.com/revfactory/unreal-idol) |
 | claude-blog | CC | Claude Code 기반 블로그 작성 및 SEO 최적화 스킬 | 영+한 | [claude-blog](https://github.com/AgriciDaniel/claude-blog) |
 | marketingskills | CC/OC/CX/WS | AI 에이전트용 마케팅 스킬 모음 | 영+한 | [marketingskills](https://github.com/coreyhaines31/marketingskills) |
+| NotFair | CC/GC | 광고 및 SEO 스킬 컬렉션 | 영+한 | [NotFair](https://github.com/nowork-studio/NotFair) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
