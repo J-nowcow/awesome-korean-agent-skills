@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **8개 항목** · 자동 갱신: 2026-05-24
+> 📦 **9개 항목** · 자동 갱신: 2026-05-25
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -20,6 +20,7 @@
 |------|------|------|------|------|
 | next-ai-draw-io |  | AI로 다이어그램을 생성하고 수정하는 도구 | 영+한 | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
 
+| meridian | CC | Claude Code SDK를 다양한 도구와 연동 | 영+한 | [meridian](https://github.com/rynfar/meridian) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
