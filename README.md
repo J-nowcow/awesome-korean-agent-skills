@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-05-24
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-05-25
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 📦 oh-my-openagent | OC | 다양한 카테고리를 아우르는 프레임워크로, 한국어 지원이 명시되어 있어 실용성이 높습니다. Agent 개발에 유용한 도구들을 혼합하여 사용할 수 있습니다. | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) |
-| 🤖 html-anything | CC/GC | AI 기반 HTML 편집기로, 콘텐츠 및 미디어 분야에서 높은 실용성을 제공합니다. 한국어 지원이 가능하며, Agent 타입으로 다양한 활용이 기대됩니다. | [html-anything](https://github.com/nexu-io/html-anything) |
-| 🔧 agent-skill-creator | CC/GC/CX/CP/OC | 워크플로우를 AI 에이전트 스킬로 변환하는 유틸리티로, 다양한 도구를 지원하여 실용성이 뛰어납니다. Agent 스킬 개발 및 관리에 유용합니다. | [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) |
+| 🤖 kakaopay | CC | 한국어 서비스 카테고리에서 실용성이 높은 카카오페이 결제 연동 에이전트 팀입니다. 다양한 타입의 스킬을 혼합하는 권장 사항에도 부합합니다. | [kakaopay](https://github.com/revfactory/kakaopay) |
+| 🤖 superpowers | CC/GC | 에이전트 개발에 필수적인 코딩 스킬 프레임워크로, 다양한 언어와 프레임워크를 지원하며 실용성이 높습니다. | [superpowers](https://github.com/obra/superpowers) |
+| 🤖 Wanted-Pre-Onboarding-AI-2407 |  | LLM Agent 제작 실습을 위한 AI 프롬프트 카테고리의 스킬로, 초보자에게 유용하며 한국어 지원이 잘 되어 있습니다. | [Wanted-Pre-Onboarding-AI-2407](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407) |
 
 ---
 

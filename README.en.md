@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-05-18
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-05-25
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 📦 oh-my-openagent | OC | A framework spanning various categories with explicit Korean support, making it highly practical. It allows for a mix of useful tools for Agent development. | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) |
-| 🤖 html-anything | CC/GC | An AI-powered HTML editor offering high practicality in the content and media domain. It supports Korean and, as an Agent type, promises diverse applications. | [html-anything](https://github.com/nexu-io/html-anything) |
-| 🔧 agent-skill-creator | CC/GC/CX/CP/OC | A utility that transforms workflows into AI agent skills, offering excellent practicality with support for various tools. It's useful for developing and managing Agent skills. | [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) |
+| 🤖 kakaopay | CC | This is a practical KakaoPay payment integration agent team from the Korean services category. It also aligns with the recommendation to mix various types of skills. | [kakaopay](https://github.com/revfactory/kakaopay) |
+| 🤖 superpowers | CC/GC | This is an essential coding skills framework for agent development, supporting various languages and frameworks with high practicality. | [superpowers](https://github.com/obra/superpowers) |
+| 🤖 Wanted-Pre-Onboarding-AI-2407 |  | This skill in the AI prompt category is for practicing LLM Agent creation, useful for beginners, and has good Korean language support. | [Wanted-Pre-Onboarding-AI-2407](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407) |
 
 ---
 

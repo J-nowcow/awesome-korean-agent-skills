@@ -207,6 +207,32 @@
           "tools": "CC/GC/CX/CP/OC"
         }
       ]
+    },
+    {
+      "date": "2026-05-25",
+      "items": [
+        {
+          "name": "kakaopay",
+          "repo": "revfactory/kakaopay",
+          "category": "korean-services",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "superpowers",
+          "repo": "obra/superpowers",
+          "category": "frameworks",
+          "type": "🤖",
+          "tools": "CC/GC"
+        },
+        {
+          "name": "Wanted-Pre-Onboarding-AI-2407",
+          "repo": "lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407",
+          "category": "ai-prompt",
+          "type": "🤖",
+          "tools": ""
+        }
+      ]
     }
   ]
 }
