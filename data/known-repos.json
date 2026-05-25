@@ -3559,7 +3559,17 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/mxyhi/ok-skills",
+      "last_scanned": "2026-05-25T20:24:10.871Z",
+      "skills": [
+        {
+          "name": "ok-skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-25T19:21:15.668Z"
+  "last_updated": "2026-05-25T20:24:10.871Z"
 }
