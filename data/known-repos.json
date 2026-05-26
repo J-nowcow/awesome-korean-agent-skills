@@ -3569,7 +3569,22 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/dexhunter/seedance2-skill",
+      "last_scanned": "2026-05-26T17:51:10.562Z",
+      "skills": [
+        {
+          "name": "seedance2-skill",
+          "category": "ai-prompt"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/steipete/agent-scripts",
+      "last_scanned": "2026-05-26T17:51:34.655Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-25T20:24:10.871Z"
+  "last_updated": "2026-05-26T17:51:34.656Z"
 }
