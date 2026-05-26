@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **10개 항목** · 자동 갱신: 2026-05-26
+> 📦 **11개 항목** · 자동 갱신: 2026-05-26
 <!-- CAT_STATS:END -->
 > 프롬프트 최적화, 모델 간 협업, 자기 학습
 
@@ -28,6 +28,7 @@
 | claude-code-system-prompts | CC | Claude Code 시스템 프롬프트 모음 | 영+한 | [claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) |
 
 | Claude-Mythos-AI-Anthropic-App | CC | Claude 모델을 위한 데스크톱/모바일 클라이언트 | 영+한 | [Claude-Mythos-AI-Anthropic-App](https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App) |
+| seedance2-skill | CC/CX/CR | Seedance 2.0 영상 프롬프트 작성 스킬 | 영+한 | [seedance2-skill](https://github.com/dexhunter/seedance2-skill) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
