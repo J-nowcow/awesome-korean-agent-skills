@@ -3579,7 +3579,17 @@
       "url": "https://github.com/karanb192/awesome-claude-skills",
       "last_scanned": "2026-05-26T20:03:10.841Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/tobyilee/team-bigfive",
+      "last_scanned": "2026-05-27T18:27:10.761Z",
+      "skills": [
+        {
+          "name": "team-bigfive",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-26T20:03:10.841Z"
+  "last_updated": "2026-05-27T18:27:10.761Z"
 }
