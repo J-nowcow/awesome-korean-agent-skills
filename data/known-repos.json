@@ -3604,7 +3604,17 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/lhfer/claude-howto-zh-cn",
+      "last_scanned": "2026-05-27T21:03:10.026Z",
+      "skills": [
+        {
+          "name": "claude-howto-zh-cn",
+          "category": "code-review"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-27T20:08:10.416Z"
+  "last_updated": "2026-05-27T21:03:10.026Z"
 }
