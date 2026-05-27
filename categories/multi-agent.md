@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **23개 항목** · 자동 갱신: 2026-05-27
+> 📦 **24개 항목** · 자동 갱신: 2026-05-27
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -39,6 +39,7 @@
 | claude-code-agents-wizard-v2 | CC | Claude Code 기반 복잡한 프로젝트 관리 시스템 | 영+한 | [claude-code-agents-wizard-v2](https://github.com/IncomeStreamSurfer/claude-code-agents-wizard-v2) |
 | copilot-orchestra | CP | AI 기반 소프트웨어 개발 워크플로우 시스템 | 영+한 | [copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra) |
 | agent-tutorial | CC | AI 에이전트 개발 실전 입문서 예제 코드 | 한국어 | [agent-tutorial](https://github.com/ai-agent-kr/agent-tutorial) |
+| codeg | CC/GC | 다양한 AI 코딩 에이전트 통합 워크스페이스 | 다국어(KO) | [codeg](https://github.com/xintaofei/codeg) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

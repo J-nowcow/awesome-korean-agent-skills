@@ -3594,7 +3594,17 @@
       "url": "https://github.com/agent-of-empires/agent-of-empires",
       "last_scanned": "2026-05-27T19:27:10.344Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/xintaofei/codeg",
+      "last_scanned": "2026-05-27T20:08:10.416Z",
+      "skills": [
+        {
+          "name": "codeg",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-27T19:27:10.344Z"
+  "last_updated": "2026-05-27T20:08:10.416Z"
 }
