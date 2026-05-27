@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-05-27
+> 📦 **23개 항목** · 자동 갱신: 2026-05-27
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -24,6 +24,7 @@
 
 | wedding-letter | CC | Claude Code 기반 한국 모바일 청첩장 자동 제작 | 한국어 | [wedding-letter](https://github.com/revfactory/wedding-letter) |
 | third-brain-v5-skills | CC/GC | Claude, Gemini 등 AI 코딩 에이전트 스킬 모음 | 영+한 | [third-brain-v5-skills](https://github.com/Mark393295827/third-brain-v5-skills) |
+| team-bigfive | CC | 팀워크 빅파이브 기반 에이전트 팀 협업 하네스 | 영+한 | [team-bigfive](https://github.com/tobyilee/team-bigfive) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
