@@ -3589,7 +3589,12 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/agent-of-empires/agent-of-empires",
+      "last_scanned": "2026-05-27T19:27:10.344Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-27T18:27:10.761Z"
+  "last_updated": "2026-05-27T19:27:10.344Z"
 }
