@@ -3614,7 +3614,17 @@
           "category": "code-review"
         }
       ]
+    },
+    {
+      "url": "https://github.com/wshuyi/remotion-video-skill",
+      "last_scanned": "2026-05-28T17:56:09.991Z",
+      "skills": [
+        {
+          "name": "remotion-video-skill",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-27T21:03:10.026Z"
+  "last_updated": "2026-05-28T17:56:09.991Z"
 }
