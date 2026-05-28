@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **8개 항목** · 자동 갱신: 2026-05-28
+> 📦 **9개 항목** · 자동 갱신: 2026-05-28
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -21,6 +21,7 @@
 | claude-blog | CC | Claude Code 기반 블로그 작성 및 SEO 최적화 스킬 | 영+한 | [claude-blog](https://github.com/AgriciDaniel/claude-blog) |
 | marketingskills | CC/OC/CX/WS | AI 에이전트용 마케팅 스킬 모음 | 영+한 | [marketingskills](https://github.com/coreyhaines31/marketingskills) |
 | NotFair | CC/GC | 광고 및 SEO 스킬 컬렉션 | 영+한 | [NotFair](https://github.com/nowork-studio/NotFair) |
+| remotion-video-skill | CC | Remotion 프레임워크로 프로그래밍 방식 비디오 생성 | 영+한 | [remotion-video-skill](https://github.com/wshuyi/remotion-video-skill) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
