@@ -3624,7 +3624,32 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ant-design/ant-design-pro",
+      "last_scanned": "2026-05-29T18:00:11.450Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/greensock/gsap-skills",
+      "last_scanned": "2026-05-29T18:00:35.637Z",
+      "skills": [
+        {
+          "name": "gsap-skills",
+          "category": "web-frontend"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/piomin/claude-ai-spring-boot",
+      "last_scanned": "2026-05-29T18:00:59.888Z",
+      "skills": [
+        {
+          "name": "claude-ai-spring-boot",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-28T17:56:09.991Z"
+  "last_updated": "2026-05-29T18:00:59.888Z"
 }
