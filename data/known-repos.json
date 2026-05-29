@@ -3649,7 +3649,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/HeegyuKim/ko-rm-judge",
+      "last_scanned": "2026-05-29T18:33:11.048Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/ajou-hack/library-new-books-rss",
+      "last_scanned": "2026-05-29T18:33:36.007Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-29T18:00:59.888Z"
+  "last_updated": "2026-05-29T18:33:36.007Z"
 }
