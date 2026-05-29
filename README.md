@@ -52,7 +52,7 @@
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 6+ |
 | [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 6+ |
 | [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 5+ |
-| [DevOps & 배포](categories/devops.md) | CI/CD, 릴리즈, 모니터링, 세션 관리 | 16+ |
+| [DevOps & 배포](categories/devops.md) | CI/CD, 릴리즈, 모니터링, 세션 관리 | 17+ |
 
 ## 일상 · 업무 스킬
 
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>282+</h2></td>
-<td><h2>632</h2></td>
+<td><h2>284+</h2></td>
+<td><h2>634</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -179,8 +179,8 @@ pie showData
     "종합 스킬 컬렉션" : 29
     "멀티에이전트" : 24
     "테스트 & TDD" : 20
+    "DevOps & 배포" : 17
     "Git & 워크플로우" : 16
-    "DevOps & 배포" : 16
     "코드 리뷰" : 16
     "웹 프론트엔드" : 15
     "문서화" : 14
@@ -193,8 +193,8 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 236
-    "GC" : 33
+    "CC" : 237
+    "GC" : 34
     "CX" : 24
     "CP" : 8
     "OC" : 18
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>14</b> run · <b>+14</b> 스킬</td>
+<td><b>15</b> run · <b>+14</b> 스킬</td>
 <td><b>7</b> run · <b>-1</b> dead link</td>
 <td><b>15</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-05-26 | **2** | **1** | **2** | · |
 | 2026-05-27 | **4** | **1** | **2** | · |
 | 2026-05-28 | **1** | **1** | **2** | · |
-| 2026-05-29 | **1** | **1** | **1** | · |
+| 2026-05-29 | **2** | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

@@ -3659,7 +3659,27 @@
       "url": "https://github.com/ajou-hack/library-new-books-rss",
       "last_scanned": "2026-05-29T18:33:36.007Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/microsoft/azure-devops-mcp",
+      "last_scanned": "2026-05-29T21:09:10.521Z",
+      "skills": [
+        {
+          "name": "azure-devops-mcp",
+          "category": "devops"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ykdojo/claude-code-tips",
+      "last_scanned": "2026-05-29T21:09:34.739Z",
+      "skills": [
+        {
+          "name": "claude-code-tips",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-29T18:33:36.007Z"
+  "last_updated": "2026-05-29T21:09:34.739Z"
 }
