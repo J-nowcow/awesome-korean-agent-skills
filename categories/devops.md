@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **16개 항목** · 자동 갱신: 2026-05-29
+> 📦 **17개 항목** · 자동 갱신: 2026-05-29
 <!-- CAT_STATS:END -->
 > CI/CD, 릴리즈 자동화, 모니터링, 세션 관리
 
@@ -30,6 +30,7 @@
 
 | dotnet-cursor-rules | CX | .NET 프로젝트를 위한 Cursor AI 규칙 모음 | 영+한 | [dotnet-cursor-rules](https://github.com/Aaronontheweb/dotnet-cursor-rules) |
 | infracost | CC/GC | 클라우드 비용 예측 및 최적화 도구 | 영+한 | [infracost](https://github.com/infracost/infracost) |
+| azure-devops-mcp |  | Azure DevOps 기능을 AI 에이전트에 제공 | 영+한 | [azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
