@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **10개 항목** · 자동 갱신: 2026-05-29
+> 📦 **9개 항목** · 자동 갱신: 2026-05-30
 <!-- CAT_STATS:END -->
 > 프롬프트 최적화, 모델 간 협업, 자기 학습
 
@@ -17,7 +17,6 @@
 | continuous-learning-v2 | CC | Instinct 기반 학습, 신뢰도 원자적 instinct | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/continuous-learning-v2) |
 | skill-factory | CC | 세션 패턴→재사용 스킬 자동 변환 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/skill-factory) |
 | prompt-engineering | CC | 커맨드·훅·스킬 프롬프트 최적화 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/.claude/skills/prompt-engineering) |
-| compact-guide | CC | 컨텍스트 윈도우·토큰 최적화 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/compact-guide) |
 
 ## ⚡ Commands
 
