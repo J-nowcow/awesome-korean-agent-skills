@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **15개 항목** · 자동 갱신: 2026-05-30
+> 📦 **16개 항목** · 자동 갱신: 2026-05-30
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -35,6 +35,7 @@
 
 | heroui | CC/GC | AI 네이티브 React UI 라이브러리 | 영+한 | [heroui](https://github.com/heroui-inc/heroui) |
 | gsap-skills | CC/CX/CP | GSAP 애니메이션 라이브러리 사용법 학습 | 영+한 | [gsap-skills](https://github.com/greensock/gsap-skills) |
+| taste-skill | CC/GC/CX/OC | AI 생성 UI의 레이아웃, 타이포그래피 개선 | 영+한 | [taste-skill](https://github.com/Leonxlnx/taste-skill) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
