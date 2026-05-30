@@ -3679,7 +3679,17 @@
           "category": "guides"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "last_scanned": "2026-05-30T20:10:10.597Z",
+      "skills": [
+        {
+          "name": "taste-skill",
+          "category": "web-frontend"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-05-29T21:09:34.739Z"
+  "last_updated": "2026-05-30T20:10:10.597Z"
 }
