@@ -3689,7 +3689,12 @@
           "category": "web-frontend"
         }
       ]
+    },
+    {
+      "url": "https://github.com/oliver-kriska/claude-elixir-phoenix",
+      "last_scanned": "2026-05-31T20:09:10.754Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-05-30T20:10:10.597Z"
+  "last_updated": "2026-05-31T20:09:10.754Z"
 }
