@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-05-25
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-06-01
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 kakaopay | CC | This is a practical KakaoPay payment integration agent team from the Korean services category. It also aligns with the recommendation to mix various types of skills. | [kakaopay](https://github.com/revfactory/kakaopay) |
-| 🤖 superpowers | CC/GC | This is an essential coding skills framework for agent development, supporting various languages and frameworks with high practicality. | [superpowers](https://github.com/obra/superpowers) |
-| 🤖 Wanted-Pre-Onboarding-AI-2407 |  | This skill in the AI prompt category is for practicing LLM Agent creation, useful for beginners, and has good Korean language support. | [Wanted-Pre-Onboarding-AI-2407](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407) |
+| 📦 vibecoding | "혼자 공부하는 바이브코딩" 도서 공식 레포 | This is the official repository for the "VibeCoding" book, offering high practical value as a Korean learning resource. It's the only Korean content available in the Guides category. | [vibecoding](https://github.com/taehojo/vibecoding) |
+| 🤖 nanobot |  | Nanobot, an ultra-lightweight personal AI agent, is a highly practical Agent type with diverse application potential. It stands out from other memory-related skills in the Collections category. | [nanobot](https://github.com/HKUDS/nanobot) |
+| ⚡ next-ai-draw-io |  | This tool uses AI to generate and modify diagrams, proving useful for creating visual outputs. It's a Tool type in the Utilities category offering a unique functionality. | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
 
 ---
 

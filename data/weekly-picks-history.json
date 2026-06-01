@@ -233,6 +233,32 @@
           "tools": ""
         }
       ]
+    },
+    {
+      "date": "2026-06-01",
+      "items": [
+        {
+          "name": "vibecoding",
+          "repo": "taehojo/vibecoding",
+          "category": "guides",
+          "type": "📦",
+          "tools": "\"혼자 공부하는 바이브코딩\" 도서 공식 레포"
+        },
+        {
+          "name": "nanobot",
+          "repo": "HKUDS/nanobot",
+          "category": "collections",
+          "type": "🤖",
+          "tools": ""
+        },
+        {
+          "name": "next-ai-draw-io",
+          "repo": "DayuanJiang/next-ai-draw-io",
+          "category": "utilities",
+          "type": "⚡",
+          "tools": ""
+        }
+      ]
     }
   ]
 }
