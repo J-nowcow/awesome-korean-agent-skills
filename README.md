@@ -28,9 +28,9 @@
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 kakaopay | CC | 한국어 서비스 카테고리에서 실용성이 높은 카카오페이 결제 연동 에이전트 팀입니다. 다양한 타입의 스킬을 혼합하는 권장 사항에도 부합합니다. | [kakaopay](https://github.com/revfactory/kakaopay) |
-| 🤖 superpowers | CC/GC | 에이전트 개발에 필수적인 코딩 스킬 프레임워크로, 다양한 언어와 프레임워크를 지원하며 실용성이 높습니다. | [superpowers](https://github.com/obra/superpowers) |
-| 🤖 Wanted-Pre-Onboarding-AI-2407 |  | LLM Agent 제작 실습을 위한 AI 프롬프트 카테고리의 스킬로, 초보자에게 유용하며 한국어 지원이 잘 되어 있습니다. | [Wanted-Pre-Onboarding-AI-2407](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407) |
+| 📦 vibecoding | "혼자 공부하는 바이브코딩" 도서 공식 레포 | "혼자 공부하는 바이브코딩" 도서의 공식 레포지토리로, 한국어 학습 자료로서 실용성이 높습니다. Guides 카테고리에서 유일하게 한국어 콘텐츠를 제공합니다. | [vibecoding](https://github.com/taehojo/vibecoding) |
+| 🤖 nanobot |  | 초경량 개인 AI 에이전트인 nanobot은 다양한 활용 가능성을 가진 Agent 타입으로, 실용성이 높습니다. Collections 카테고리에서 다른 메모리 관련 스킬과 차별화됩니다. | [nanobot](https://github.com/HKUDS/nanobot) |
+| ⚡ next-ai-draw-io |  | AI를 활용하여 다이어그램을 생성하고 수정하는 도구로, 시각적인 결과물을 만드는 데 유용합니다. Utilities 카테고리에서 독창적인 기능을 제공하는 Tool 타입입니다. | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
 
 ---
 
