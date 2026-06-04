@@ -3724,7 +3724,12 @@
           "category": "korean-writing"
         }
       ]
+    },
+    {
+      "url": "https://github.com/teaql/teaql-agent-kit",
+      "last_scanned": "2026-06-04T19:25:10.885Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-06-04T18:15:10.060Z"
+  "last_updated": "2026-06-04T19:25:10.885Z"
 }
