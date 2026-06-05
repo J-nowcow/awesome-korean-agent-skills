@@ -3734,7 +3734,17 @@
       "url": "https://github.com/liaohch3/claude-tap",
       "last_scanned": "2026-06-04T20:57:10.498Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/WordPress/agent-skills",
+      "last_scanned": "2026-06-05T17:08:11.681Z",
+      "skills": [
+        {
+          "name": "agent-skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-04T20:57:10.498Z"
+  "last_updated": "2026-06-05T17:08:11.681Z"
 }
