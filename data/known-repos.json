@@ -3764,7 +3764,12 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ThomasMoreAI/legal-skills-open",
+      "last_scanned": "2026-06-06T19:12:10.540Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-06-06T17:14:10.548Z"
+  "last_updated": "2026-06-06T19:12:10.540Z"
 }
