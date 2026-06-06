@@ -3754,7 +3754,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/kkoppenhaver/cc-nano-banana",
+      "last_scanned": "2026-06-06T17:14:10.548Z",
+      "skills": [
+        {
+          "name": "cc-nano-banana",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-05T20:49:09.953Z"
+  "last_updated": "2026-06-06T17:14:10.548Z"
 }
