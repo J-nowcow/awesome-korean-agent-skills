@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-06-01
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-06-08
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 📦 vibecoding | "혼자 공부하는 바이브코딩" 도서 공식 레포 | This is the official repository for the "VibeCoding" book, offering high practical value as a Korean learning resource. It's the only Korean content available in the Guides category. | [vibecoding](https://github.com/taehojo/vibecoding) |
-| 🤖 nanobot |  | Nanobot, an ultra-lightweight personal AI agent, is a highly practical Agent type with diverse application potential. It stands out from other memory-related skills in the Collections category. | [nanobot](https://github.com/HKUDS/nanobot) |
-| ⚡ next-ai-draw-io |  | This tool uses AI to generate and modify diagrams, proving useful for creating visual outputs. It's a Tool type in the Utilities category offering a unique functionality. | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
+| 🔧 claude-mem | CC/GC | claude-mem offers persistent agent memory compression across sessions, making it practical for enhancing agent performance and efficiency. It's expected to have good Korean support within the 'collections' category. | [claude-mem](https://github.com/thedotmack/claude-mem) |
+| 🔧 cursor-rules | CX | cursor-rules provides a collection of Cursor rules for various languages and frameworks, which is useful for improving development productivity. It has high practicality in the 'frameworks' category. | [cursor-rules](https://github.com/flyeric0212/cursor-rules) |
+| 🤖 opencode |  | opencode is an open-source AI coding agent that can contribute to collaboration among various developers and enhance coding efficiency. It is practical in the 'utilities' category and suitable for mixing diverse types (🤖 Agent). | [opencode](https://github.com/anomalyco/opencode) |
 
 ---
 

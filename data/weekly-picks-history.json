@@ -259,6 +259,32 @@
           "tools": ""
         }
       ]
+    },
+    {
+      "date": "2026-06-08",
+      "items": [
+        {
+          "name": "claude-mem",
+          "repo": "thedotmack/claude-mem",
+          "category": "collections",
+          "type": "🔧",
+          "tools": "CC/GC"
+        },
+        {
+          "name": "cursor-rules",
+          "repo": "flyeric0212/cursor-rules",
+          "category": "frameworks",
+          "type": "🔧",
+          "tools": "CX"
+        },
+        {
+          "name": "opencode",
+          "repo": "anomalyco/opencode",
+          "category": "utilities",
+          "type": "🤖",
+          "tools": ""
+        }
+      ]
     }
   ]
 }
