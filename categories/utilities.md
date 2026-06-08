@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **9개 항목** · 자동 갱신: 2026-06-08
+> 📦 **10개 항목** · 자동 갱신: 2026-06-08
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -28,6 +28,7 @@
 | agent-skill-creator | CC/GC/CX/CP/OC | 워크플로우를 AI 에이전트 스킬로 변환 | 영+한 | [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) |
 
 | swapper-toolkit | CC/CX/CP | AI 에이전트용 DeFi 결제 레이어 | 영+한 | [swapper-toolkit](https://github.com/swapperfinance/swapper-toolkit) |
+| drawio-skill | CC | 자연어로 draw.io 다이어그램 생성 및 코드 시각화 | 영+한 | [drawio-skill](https://github.com/Agents365-ai/drawio-skill) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

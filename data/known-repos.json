@@ -3809,7 +3809,37 @@
       "url": "https://github.com/guanyang/open-agent-hub",
       "last_scanned": "2026-06-08T19:23:34.762Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Agents365-ai/drawio-skill",
+      "last_scanned": "2026-06-08T20:07:10.542Z",
+      "skills": [
+        {
+          "name": "drawio-skill",
+          "category": "utilities"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill",
+      "last_scanned": "2026-06-08T20:07:34.233Z",
+      "skills": [
+        {
+          "name": "narrator-ai-cli-skill",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/topoteretes/cognee",
+      "last_scanned": "2026-06-08T20:07:58.097Z",
+      "skills": [
+        {
+          "name": "cognee",
+          "category": "git-workflow"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-08T19:23:34.762Z"
+  "last_updated": "2026-06-08T20:07:58.097Z"
 }
