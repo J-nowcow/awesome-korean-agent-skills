@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-06-08
+> 📦 **21개 항목** · 자동 갱신: 2026-06-08
 <!-- CAT_STATS:END -->
 > 테스트 주도 개발, E2E 테스트, 커버리지 분석
 
@@ -34,6 +34,7 @@
 | test-driven-development | CC | TDD 구현 전 테스트 먼저 작성 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/.claude/skills/test-driven-development) |
 | testing-patterns | CC | Suites 3.x NestJS 테스트 패턴 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/plugins/code-quality/skills/testing-patterns) |
 
+| Claude-Certified-Architect-Foundations-Certification-Exam | CC | Claude Code 기반 자격증 시험 연습 | 영+한 | [Claude-Certified-Architect-Foundations-Certification-Exam](https://github.com/OlivierAlter/Claude-Certified-Architect-Foundations-Certification-Exam) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

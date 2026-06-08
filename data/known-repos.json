@@ -3784,7 +3784,17 @@
           "category": "ai-prompt"
         }
       ]
+    },
+    {
+      "url": "https://github.com/OlivierAlter/Claude-Certified-Architect-Foundations-Certification-Exam",
+      "last_scanned": "2026-06-08T17:43:09.826Z",
+      "skills": [
+        {
+          "name": "Claude-Certified-Architect-Foundations-Certification-Exam",
+          "category": "testing"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-08T07:28:10.640Z"
+  "last_updated": "2026-06-08T17:43:09.826Z"
 }
