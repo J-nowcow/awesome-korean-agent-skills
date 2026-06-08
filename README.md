@@ -28,9 +28,9 @@
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 📦 vibecoding | "혼자 공부하는 바이브코딩" 도서 공식 레포 | "혼자 공부하는 바이브코딩" 도서의 공식 레포지토리로, 한국어 학습 자료로서 실용성이 높습니다. Guides 카테고리에서 유일하게 한국어 콘텐츠를 제공합니다. | [vibecoding](https://github.com/taehojo/vibecoding) |
-| 🤖 nanobot |  | 초경량 개인 AI 에이전트인 nanobot은 다양한 활용 가능성을 가진 Agent 타입으로, 실용성이 높습니다. Collections 카테고리에서 다른 메모리 관련 스킬과 차별화됩니다. | [nanobot](https://github.com/HKUDS/nanobot) |
-| ⚡ next-ai-draw-io |  | AI를 활용하여 다이어그램을 생성하고 수정하는 도구로, 시각적인 결과물을 만드는 데 유용합니다. Utilities 카테고리에서 독창적인 기능을 제공하는 Tool 타입입니다. | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
+| 🔧 claude-mem | CC/GC | claude-mem은 세션 간 지속적인 에이전트 메모리 압축 기능을 제공하여 에이전트의 성능과 효율성을 높이는 데 실용적입니다. 'collections' 카테고리에서 한국어 지원이 잘 될 것으로 기대됩니다. | [claude-mem](https://github.com/thedotmack/claude-mem) |
+| 🔧 cursor-rules | CX | cursor-rules는 다양한 언어 및 프레임워크에 대한 Cursor 규칙 모음을 제공하여 개발 생산성을 향상시키는 데 유용합니다. 'frameworks' 카테고리에서 실용성이 높습니다. | [cursor-rules](https://github.com/flyeric0212/cursor-rules) |
+| 🤖 opencode |  | opencode는 오픈소스 AI 코딩 에이전트로, 다양한 개발자들이 협업하고 코딩 효율성을 높이는 데 기여할 수 있습니다. 'utilities' 카테고리에서 실용적이고 다양한 타입(🤖 Agent)을 혼합하는 데 적합합니다. | [opencode](https://github.com/anomalyco/opencode) |
 
 ---
 
