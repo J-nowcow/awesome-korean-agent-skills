@@ -3774,7 +3774,17 @@
       "url": "https://github.com/EmbraceAGI/awesome-chatgpt-zh",
       "last_scanned": "2026-06-07T17:17:10.702Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/samibajwaisking/Token-Optimizer-Skill",
+      "last_scanned": "2026-06-08T07:28:10.639Z",
+      "skills": [
+        {
+          "name": "Token-Optimizer-Skill",
+          "category": "ai-prompt"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-07T17:17:10.702Z"
+  "last_updated": "2026-06-08T07:28:10.640Z"
 }
