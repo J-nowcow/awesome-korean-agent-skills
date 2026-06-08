@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **10개 항목** · 자동 갱신: 2026-06-08
+> 📦 **11개 항목** · 자동 갱신: 2026-06-08
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -23,6 +23,7 @@
 | NotFair | CC/GC | 광고 및 SEO 스킬 컬렉션 | 영+한 | [NotFair](https://github.com/nowork-studio/NotFair) |
 | remotion-video-skill | CC | Remotion 프레임워크로 프로그래밍 방식 비디오 생성 | 영+한 | [remotion-video-skill](https://github.com/wshuyi/remotion-video-skill) |
 | cc-nano-banana | CC/GC | Gemini CLI를 이용한 이미지 생성/편집 스킬 | 영+한 | [cc-nano-banana](https://github.com/kkoppenhaver/cc-nano-banana) |
+| narrator-ai-cli-skill | CC/GC/CX | AI 기반 영상 자동 제작 스킬 | 영+한 | [narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
