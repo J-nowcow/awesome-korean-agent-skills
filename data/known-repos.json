@@ -3794,7 +3794,22 @@
           "category": "testing"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Egonex-AI/Understand-Anything",
+      "last_scanned": "2026-06-08T19:23:10.265Z",
+      "skills": [
+        {
+          "name": "Understand-Anything",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/guanyang/open-agent-hub",
+      "last_scanned": "2026-06-08T19:23:34.762Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-06-08T17:43:09.826Z"
+  "last_updated": "2026-06-08T19:23:34.762Z"
 }
