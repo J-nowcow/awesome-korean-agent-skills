@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **9개 항목** · 자동 갱신: 2026-06-07
+> 📦 **10개 항목** · 자동 갱신: 2026-06-08
 <!-- CAT_STATS:END -->
 > 프롬프트 최적화, 모델 간 협업, 자기 학습
 
@@ -27,6 +27,7 @@
 | claude-code-system-prompts | CC | Claude Code 시스템 프롬프트 모음 | 영+한 | [claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) |
 
 | seedance2-skill | CC/CX/CR | Seedance 2.0 영상 프롬프트 작성 스킬 | 영+한 | [seedance2-skill](https://github.com/dexhunter/seedance2-skill) |
+| Token-Optimizer-Skill | CC | Claude 토큰 사용량 최적화 스킬 | 영+한 | [Token-Optimizer-Skill](https://github.com/samibajwaisking/Token-Optimizer-Skill) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
