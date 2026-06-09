@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **10개 항목** · 자동 갱신: 2026-06-09
+> 📦 **11개 항목** · 자동 갱신: 2026-06-09
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -21,6 +21,7 @@
 | next-ai-draw-io |  | AI로 다이어그램을 생성하고 수정하는 도구 | 영+한 | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
 
 | meridian | CC | Claude Code SDK를 다양한 도구와 연동 | 영+한 | [meridian](https://github.com/rynfar/meridian) |
+| TranslatePanel | CC/GC | 화면 어디서든 LLM 번역 기능을 제공하는 툴 | 영+한 | [TranslatePanel](https://github.com/hyuunnn/TranslatePanel) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

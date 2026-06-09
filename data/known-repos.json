@@ -3859,7 +3859,17 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/hyuunnn/TranslatePanel",
+      "last_scanned": "2026-06-09T18:05:10.523Z",
+      "skills": [
+        {
+          "name": "TranslatePanel",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-09T17:18:34.350Z"
+  "last_updated": "2026-06-09T18:05:10.524Z"
 }
