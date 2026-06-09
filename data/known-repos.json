@@ -3839,7 +3839,27 @@
           "category": "git-workflow"
         }
       ]
+    },
+    {
+      "url": "https://github.com/https-deeplearning-ai/sc-agent-skills-files",
+      "last_scanned": "2026-06-09T17:18:10.106Z",
+      "skills": [
+        {
+          "name": "sc-agent-skills-files",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/op7418/CodePilot",
+      "last_scanned": "2026-06-09T17:18:34.350Z",
+      "skills": [
+        {
+          "name": "CodePilot",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-08T20:07:58.097Z"
+  "last_updated": "2026-06-09T17:18:34.350Z"
 }
