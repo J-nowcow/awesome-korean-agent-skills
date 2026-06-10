@@ -3884,7 +3884,17 @@
           "category": "web-frontend"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ramido99/agentic-company",
+      "last_scanned": "2026-06-10T18:31:10.063Z",
+      "skills": [
+        {
+          "name": "agentic-company",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-10T17:49:10.814Z"
+  "last_updated": "2026-06-10T18:31:10.064Z"
 }
