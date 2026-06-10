@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **26개 항목** · 자동 갱신: 2026-06-10
+> 📦 **27개 항목** · 자동 갱신: 2026-06-10
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -42,6 +42,7 @@
 | agent-tutorial | CC | AI 에이전트 개발 실전 입문서 예제 코드 | 한국어 | [agent-tutorial](https://github.com/ai-agent-kr/agent-tutorial) |
 | codeg | CC/GC | 다양한 AI 코딩 에이전트 통합 워크스페이스 | 다국어(KO) | [codeg](https://github.com/xintaofei/codeg) |
 | CodePilot |  | 다양한 AI 모델을 연결하는 데스크톱 클라이언트 | 영+한 | [CodePilot](https://github.com/op7418/CodePilot) |
+| agentic-company |  | AI 에이전트가 회사를 대신해 업무 자동화 | 영+한 | [agentic-company](https://github.com/ramido99/agentic-company) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
