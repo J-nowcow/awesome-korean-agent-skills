@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **13개 항목** · 자동 갱신: 2026-06-11
+> 📦 **14개 항목** · 자동 갱신: 2026-06-11
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -26,6 +26,7 @@
 | deepinit | CC | 코드베이스에 계층적 AGENTS.md 문서 생성 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/deepinit) |
 
 | ai-coding-starter-kit | CC | AI 기반 프로젝트 초기 설정 및 기능 개발 | 영+한 | [ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) |
+| spree | CC/CX/CP | AI 코딩 에이전트용 Spree 스킬 | 영+한 | [spree](https://github.com/spree/spree) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

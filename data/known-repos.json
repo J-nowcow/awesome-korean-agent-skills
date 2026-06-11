@@ -3894,7 +3894,37 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "last_scanned": "2026-06-11T18:01:10.298Z",
+      "skills": [
+        {
+          "name": "MiMo-Code",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/cli/cli",
+      "last_scanned": "2026-06-11T18:01:34.590Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/elementalsouls/Claude-OSINT",
+      "last_scanned": "2026-06-11T18:01:58.803Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/spree/spree",
+      "last_scanned": "2026-06-11T18:02:23.328Z",
+      "skills": [
+        {
+          "name": "spree",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-10T18:31:10.064Z"
+  "last_updated": "2026-06-11T18:02:23.328Z"
 }
