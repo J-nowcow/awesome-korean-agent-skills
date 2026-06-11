@@ -3924,7 +3924,12 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/anyshift-io/sre-skills",
+      "last_scanned": "2026-06-11T19:37:10.502Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-06-11T18:02:23.328Z"
+  "last_updated": "2026-06-11T19:37:10.502Z"
 }
