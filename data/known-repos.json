@@ -3929,7 +3929,17 @@
       "url": "https://github.com/anyshift-io/sre-skills",
       "last_scanned": "2026-06-11T19:37:10.502Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/specstoryai/getspecstory",
+      "last_scanned": "2026-06-11T20:14:10.274Z",
+      "skills": [
+        {
+          "name": "getspecstory",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-11T19:37:10.502Z"
+  "last_updated": "2026-06-11T20:14:10.275Z"
 }
