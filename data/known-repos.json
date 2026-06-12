@@ -3954,7 +3954,47 @@
       "url": "https://github.com/awesome-opencode/awesome-opencode",
       "last_scanned": "2026-06-12T17:31:33.956Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/ggombee/code-forge",
+      "last_scanned": "2026-06-12T18:07:10.524Z",
+      "skills": [
+        {
+          "name": "code-forge",
+          "category": "project-init"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ggplab/claude-agentic-study",
+      "last_scanned": "2026-06-12T18:07:34.375Z",
+      "skills": [
+        {
+          "name": "claude-agentic-study",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/puk0806/gugbab-claude",
+      "last_scanned": "2026-06-12T18:07:58.591Z",
+      "skills": [
+        {
+          "name": "gugbab-claude",
+          "category": "project-init"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/sysnet4admin/notiflex-platform",
+      "last_scanned": "2026-06-12T18:08:22.325Z",
+      "skills": [
+        {
+          "name": "notiflex-platform",
+          "category": "devops"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-12T17:31:33.956Z"
+  "last_updated": "2026-06-12T18:08:22.325Z"
 }
