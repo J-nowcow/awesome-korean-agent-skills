@@ -3999,7 +3999,37 @@
       "url": "https://github.com/strands-agents/harness-sdk",
       "last_scanned": "2026-06-12T19:07:10.696Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "last_scanned": "2026-06-12T20:02:10.484Z",
+      "skills": [
+        {
+          "name": "ponytail",
+          "category": "code-review"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+      "last_scanned": "2026-06-12T20:02:34.519Z",
+      "skills": [
+        {
+          "name": "Generative-Media-Skills",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/SkillOpt",
+      "last_scanned": "2026-06-12T20:02:58.850Z",
+      "skills": [
+        {
+          "name": "SkillOpt",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-12T19:07:10.696Z"
+  "last_updated": "2026-06-12T20:02:58.850Z"
 }
