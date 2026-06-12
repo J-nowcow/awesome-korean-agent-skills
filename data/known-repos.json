@@ -3939,7 +3939,22 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Dammyjay93/interface-design",
+      "last_scanned": "2026-06-12T17:31:10.084Z",
+      "skills": [
+        {
+          "name": "interface-design",
+          "category": "web-frontend"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/awesome-opencode/awesome-opencode",
+      "last_scanned": "2026-06-12T17:31:33.956Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-06-11T20:14:10.275Z"
+  "last_updated": "2026-06-12T17:31:33.956Z"
 }
