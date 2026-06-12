@@ -97,7 +97,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 16+ |
 | [Testing & TDD](categories/testing.md) | Test-driven development, E2E, coverage | 21+ |
 | [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 11+ |
-| [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 14+ |
+| [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 16+ |
 | [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 8+ |
 | [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 14+ |
 | [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 17+ |
@@ -108,7 +108,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 6+ |
 | [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 6+ |
 | [Game Development](categories/game-dev.md) | Unity, Blender, C# | 5+ |
-| [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 17+ |
+| [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 18+ |
 
 ## Daily & Productivity Skills
 

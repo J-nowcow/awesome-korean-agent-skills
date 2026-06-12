@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **32개 항목** · 자동 갱신: 2026-06-12
+> 📦 **33개 항목** · 자동 갱신: 2026-06-12
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -44,6 +44,7 @@
 | agent-skills | CC/CP/CX/OC | AI 코딩 도우미를 위한 워드프레스 전문 지식 모음 | 영+한 | [agent-skills](https://github.com/WordPress/agent-skills) |
 | nihaisha-nishi-tcm | CC/GC | 倪海厦中医课程资料检索Agent Skill | 영+한 | [nihaisha-nishi-tcm](https://github.com/JuneYaooo/nihaisha-nishi-tcm) |
 | sc-agent-skills-files | CC | Anthropic Claude 에이전트 스킬 모음 | 영+한 | [sc-agent-skills-files](https://github.com/https-deeplearning-ai/sc-agent-skills-files) |
+| claude-agentic-study | CC | Claude Code 스킬 컬렉션 | 영+한 | [claude-agentic-study](https://github.com/ggplab/claude-agentic-study) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

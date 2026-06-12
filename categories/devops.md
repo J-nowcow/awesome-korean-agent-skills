@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **17개 항목** · 자동 갱신: 2026-06-12
+> 📦 **18개 항목** · 자동 갱신: 2026-06-12
 <!-- CAT_STATS:END -->
 > CI/CD, 릴리즈 자동화, 모니터링, 세션 관리
 
@@ -39,3 +39,9 @@
 | hook-sound-notifications | CC | 이벤트별 오디오 알림 | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/hook-sound-notifications) |
 | hook-complexity-monitor | CC | 코드 복잡도 모니터링 (14개 언어) | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/hook-complexity-monitor) |
 | aws-wa-cost / operational-excellence | CC | AWS 비용·운영 검토 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/security/skills) |
+
+## 🤖 Agents
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| notiflex-platform | CC | AI 에이전트가 구축한 B2B 알림 SaaS 플랫폼 | 영+한 | [notiflex-platform](https://github.com/sysnet4admin/notiflex-platform) |

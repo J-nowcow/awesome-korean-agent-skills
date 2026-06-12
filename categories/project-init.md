@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **14개 항목** · 자동 갱신: 2026-06-12
+> 📦 **16개 항목** · 자동 갱신: 2026-06-12
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -16,6 +16,7 @@
 | analyst | CC | 제품 범위→인수 조건, 갭·엣지케이스 식별 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/analyst.md) |
 | planner | CC | 복잡한 기능/리팩토링 구현 계획 수립 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/planner.md) |
 
+| gugbab-claude | CC | Claude Code 에이전트, 스킬, 설정 모음 | 영+한 | [gugbab-claude](https://github.com/puk0806/gugbab-claude) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
@@ -27,6 +28,7 @@
 
 | ai-coding-starter-kit | CC | AI 기반 프로젝트 초기 설정 및 기능 개발 | 영+한 | [ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) |
 | spree | CC/CX/CP | AI 코딩 에이전트용 Spree 스킬 | 영+한 | [spree](https://github.com/spree/spree) |
+| code-forge | CC | AI 에이전트 스킬/에이전트 조합 및 설정 | 영+한 | [code-forge](https://github.com/ggombee/code-forge) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
