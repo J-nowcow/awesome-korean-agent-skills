@@ -3994,7 +3994,12 @@
           "category": "devops"
         }
       ]
+    },
+    {
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "last_scanned": "2026-06-12T19:07:10.696Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-06-12T18:08:22.325Z"
+  "last_updated": "2026-06-12T19:07:10.696Z"
 }
