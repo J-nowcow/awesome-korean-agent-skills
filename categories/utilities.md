@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-06-12
+> 📦 **13개 항목** · 자동 갱신: 2026-06-12
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -31,6 +31,7 @@
 | swapper-toolkit | CC/CX/CP | AI 에이전트용 DeFi 결제 레이어 | 영+한 | [swapper-toolkit](https://github.com/swapperfinance/swapper-toolkit) |
 | drawio-skill | CC | 자연어로 draw.io 다이어그램 생성 및 코드 시각화 | 영+한 | [drawio-skill](https://github.com/Agents365-ai/drawio-skill) |
 | getspecstory |  | AI 대화 기록을 검색 가능한 지식으로 저장 | 영+한 | [getspecstory](https://github.com/specstoryai/getspecstory) |
+| SkillOpt | CC/OC | LLM 에이전트의 재사용 가능한 자연어 스킬 최적화 | 영+한 | [SkillOpt](https://github.com/microsoft/SkillOpt) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
