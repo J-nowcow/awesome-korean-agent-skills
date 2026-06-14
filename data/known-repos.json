@@ -4034,7 +4034,17 @@
       "url": "https://github.com/vijaythecoder/awesome-claude-agents",
       "last_scanned": "2026-06-13T17:23:09.997Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Octane0411/open-vibe-island",
+      "last_scanned": "2026-06-14T16:16:09.921Z",
+      "skills": [
+        {
+          "name": "open-vibe-island",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-13T17:23:09.997Z"
+  "last_updated": "2026-06-14T16:16:09.921Z"
 }
