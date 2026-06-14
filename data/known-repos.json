@@ -4044,7 +4044,17 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/SeemSeam/claude_codex_bridge",
+      "last_scanned": "2026-06-14T19:17:10.223Z",
+      "skills": [
+        {
+          "name": "claude_codex_bridge",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-14T16:16:09.921Z"
+  "last_updated": "2026-06-14T19:17:10.223Z"
 }
