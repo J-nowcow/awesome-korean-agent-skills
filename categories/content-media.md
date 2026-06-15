@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-06-15
+> 📦 **13개 항목** · 자동 갱신: 2026-06-15
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -30,3 +30,9 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | html-anything | CC/GC | AI 기반 에이전트 HTML 편집기 | 영+한 | [html-anything](https://github.com/nexu-io/html-anything) |
+
+## ⚡ Commands
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| rallylens | GC | 배드민턴 경기 분석 CLI 파이프라인 | 영+한 | [rallylens](https://github.com/YeonSeong-Lee/rallylens) |
