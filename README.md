@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-06-14
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-06-15
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🔧 claude-mem | CC/GC | claude-mem은 세션 간 지속적인 에이전트 메모리 압축 기능을 제공하여 에이전트의 성능과 효율성을 높이는 데 실용적입니다. 'collections' 카테고리에서 한국어 지원이 잘 될 것으로 기대됩니다. | [claude-mem](https://github.com/thedotmack/claude-mem) |
-| 🔧 cursor-rules | CX | cursor-rules는 다양한 언어 및 프레임워크에 대한 Cursor 규칙 모음을 제공하여 개발 생산성을 향상시키는 데 유용합니다. 'frameworks' 카테고리에서 실용성이 높습니다. | [cursor-rules](https://github.com/flyeric0212/cursor-rules) |
-| 🤖 opencode |  | opencode는 오픈소스 AI 코딩 에이전트로, 다양한 개발자들이 협업하고 코딩 효율성을 높이는 데 기여할 수 있습니다. 'utilities' 카테고리에서 실용적이고 다양한 타입(🤖 Agent)을 혼합하는 데 적합합니다. | [opencode](https://github.com/anomalyco/opencode) |
+| 🪝 learn-claude-code | CC | Claude Code 에이전트 구축 프레임워크로, 다양한 AI 에이전트 개발에 활용될 수 있는 실용적인 도구입니다. 'collections' 카테고리에서 유일하게 프레임워크 타입으로 다양한 카테고리 균형을 맞추는 데 기여합니다. | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) |
+| 🤖 notiflex-platform | CC | AI 에이전트가 구축한 B2B 알림 SaaS 플랫폼으로, 실제 서비스에 적용된 사례를 보여주어 높은 실용성을 가집니다. 'devops' 카테고리에서 에이전트 타입으로, 기술적인 구현과 서비스 연동 측면에서 유용합니다. | [notiflex-platform](https://github.com/sysnet4admin/notiflex-platform) |
+| 📦 claude-code-korean | undefined | 한국어 지원에 특화된 것으로 보이는 'claude-code-korean'은 한국어 AI 에이전트 개발에 필수적인 요소입니다. 'utilities' 카테고리에서 한국어 지원의 중요성을 강조하며, 실용적인 측면에서 추천합니다. | [claude-code-korean](https://github.com/tantara/claude-code-korean) |
 
 ---
 

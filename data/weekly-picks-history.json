@@ -285,6 +285,31 @@
           "tools": ""
         }
       ]
+    },
+    {
+      "date": "2026-06-15",
+      "items": [
+        {
+          "name": "learn-claude-code",
+          "repo": "shareAI-lab/learn-claude-code",
+          "category": "collections",
+          "type": "🪝",
+          "tools": "CC"
+        },
+        {
+          "name": "notiflex-platform",
+          "repo": "sysnet4admin/notiflex-platform",
+          "category": "devops",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "claude-code-korean",
+          "repo": "tantara/claude-code-korean",
+          "category": "utilities",
+          "type": "📦"
+        }
+      ]
     }
   ]
 }
