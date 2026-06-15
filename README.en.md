@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-06-08
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-06-15
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🔧 claude-mem | CC/GC | claude-mem offers persistent agent memory compression across sessions, making it practical for enhancing agent performance and efficiency. It's expected to have good Korean support within the 'collections' category. | [claude-mem](https://github.com/thedotmack/claude-mem) |
-| 🔧 cursor-rules | CX | cursor-rules provides a collection of Cursor rules for various languages and frameworks, which is useful for improving development productivity. It has high practicality in the 'frameworks' category. | [cursor-rules](https://github.com/flyeric0212/cursor-rules) |
-| 🤖 opencode |  | opencode is an open-source AI coding agent that can contribute to collaboration among various developers and enhance coding efficiency. It is practical in the 'utilities' category and suitable for mixing diverse types (🤖 Agent). | [opencode](https://github.com/anomalyco/opencode) |
+| 🪝 learn-claude-code | CC | A framework for building Claude Code agents, offering a practical tool for developing various AI agents. It's the only framework type in the 'collections' category, contributing to category balance. | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) |
+| 🤖 notiflex-platform | CC | A B2B notification SaaS platform built by AI agents, demonstrating high practicality through a real-world application. As an agent type in the 'devops' category, it's useful for technical implementation and service integration. | [notiflex-platform](https://github.com/sysnet4admin/notiflex-platform) |
+| 📦 claude-code-korean | undefined | 'claude-code-korean', appearing to specialize in Korean language support, is essential for developing Korean AI agents. It's recommended from the 'utilities' category for its practicality, emphasizing the importance of Korean language support. | [claude-code-korean](https://github.com/tantara/claude-code-korean) |
 
 ---
 
