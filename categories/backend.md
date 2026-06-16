@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **6개 항목** · 자동 갱신: 2026-06-16
+> 📦 **7개 항목** · 자동 갱신: 2026-06-16
 <!-- CAT_STATS:END -->
 > NestJS, FastAPI, API 설계, 데이터베이스
 
@@ -24,3 +24,5 @@
 | api-design | CC | RESTful API·GraphQL 스키마 설계 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/development/skills/api-design) |
 
 | Isajjim-AI |  | 이사 가능한 객체 탐지 및 3D 모델 생성 API | 영+한 | [Isajjim-AI](https://github.com/FitTruck/Isajjim-AI) |
+
+| raillo-backend | CC | 코레일 클론코딩 백엔드 프로젝트 | 영+한 | [raillo-backend](https://github.com/penggu-dev/raillo-backend) |
