@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **18개 항목** · 자동 갱신: 2026-06-17
+> 📦 **19개 항목** · 자동 갱신: 2026-06-17
 <!-- CAT_STATS:END -->
 > CI/CD, 릴리즈 자동화, 모니터링, 세션 관리
 
@@ -45,3 +45,5 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | notiflex-platform | CC | AI 에이전트가 구축한 B2B 알림 SaaS 플랫폼 | 영+한 | [notiflex-platform](https://github.com/sysnet4admin/notiflex-platform) |
+
+| _Book_GitAIOps | CC | Claude Code 기반 GitAIOps 인프라 배포 | 한국어 | [_Book_GitAIOps](https://github.com/sysnet4admin/_Book_GitAIOps) |
