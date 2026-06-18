@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **11개 항목** · 자동 갱신: 2026-06-18
+> 📦 **12개 항목** · 자동 갱신: 2026-06-18
 <!-- CAT_STATS:END -->
 > 설치하면 에이전트·스킬·훅·커맨드가 한꺼번에 세팅되는 도구
 
@@ -32,3 +32,5 @@
 | cursor-rules | CX | 다양한 언어 및 프레임워크 Cursor 규칙 모음 | 영+한 | [cursor-rules](https://github.com/flyeric0212/cursor-rules) |
 
 | synalinks-skills | CC | Synalinks 프레임워크 사용법을 Claude에 학습시키는 스킬 모음 | 영+한 | [synalinks-skills](https://github.com/SynaLinks/synalinks-skills) |
+
+| zep | CC | Zep Cloud를 위한 에이전트 메모리 빌드 예제 | 영+한 | [zep](https://github.com/getzep/zep) |

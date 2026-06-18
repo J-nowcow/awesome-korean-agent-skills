@@ -4119,7 +4119,32 @@
           "category": "devops"
         }
       ]
+    },
+    {
+      "url": "https://github.com/QwenLM/qwen-code",
+      "last_scanned": "2026-06-18T17:52:11.844Z",
+      "skills": [
+        {
+          "name": "qwen-code",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/getzep/zep",
+      "last_scanned": "2026-06-18T17:52:36.321Z",
+      "skills": [
+        {
+          "name": "zep",
+          "category": "frameworks"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/mindsdb/minds",
+      "last_scanned": "2026-06-18T17:53:01.126Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-06-17T18:16:10.441Z"
+  "last_updated": "2026-06-18T17:53:01.126Z"
 }
