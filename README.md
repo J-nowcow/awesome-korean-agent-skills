@@ -46,7 +46,7 @@
 | [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 14+ |
 | [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 17+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 7+ |
-| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 30+ |
+| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 31+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 10+ |
 | [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 18+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 7+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>317+</h2></td>
-<td><h2>688</h2></td>
+<td><h2>319+</h2></td>
+<td><h2>691</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -177,7 +177,7 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 pie showData
     title 카테고리별 스킬 수
     "종합 스킬 컬렉션" : 33
-    "멀티에이전트" : 30
+    "멀티에이전트" : 31
     "테스트 & TDD" : 22
     "DevOps & 배포" : 19
     "웹 프론트엔드" : 18
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 264
+    "CC" : 265
     "GC" : 46
     "CX" : 29
     "CP" : 10
@@ -232,7 +232,7 @@ pie showData
 <tr align="center">
 <td><b>17</b> run · <b>+18</b> 스킬</td>
 <td><b>8</b> run · <b>-0</b> dead link</td>
-<td><b>13</b> run</td>
+<td><b>14</b> run</td>
 <td><b>1</b> run</td>
 </tr>
 </table>
@@ -247,7 +247,7 @@ pie showData
 | 2026-06-15 | **3** | **1** | **2** | **1** |
 | 2026-06-16 | **3** | **1** | **1** | · |
 | 2026-06-17 | **1** | **1** | **2** | · |
-| 2026-06-18 | · | **1** | · | · |
+| 2026-06-18 | · | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
