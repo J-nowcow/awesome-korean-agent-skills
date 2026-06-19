@@ -4144,7 +4144,22 @@
       "url": "https://github.com/mindsdb/minds",
       "last_scanned": "2026-06-18T17:53:01.126Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/chopratejas/headroom",
+      "last_scanned": "2026-06-19T20:27:10.628Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "last_scanned": "2026-06-19T20:27:34.890Z",
+      "skills": [
+        {
+          "name": "arc-kit",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-18T17:53:01.126Z"
+  "last_updated": "2026-06-19T20:27:34.890Z"
 }
