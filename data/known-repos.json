@@ -4149,7 +4149,22 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/mex-memory/mex",
+      "last_scanned": "2026-06-21T16:25:10.510Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "last_scanned": "2026-06-21T16:25:34.526Z",
+      "skills": [
+        {
+          "name": "oh-story-claudecode",
+          "category": "korean-writing"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-19T20:27:34.890Z"
+  "last_updated": "2026-06-21T16:25:34.526Z"
 }

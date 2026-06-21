@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **6개 항목** · 자동 갱신: 2026-06-21
+> 📦 **7개 항목** · 자동 갱신: 2026-06-21
 <!-- CAT_STATS:END -->
 > AI 글 교정, 문체 변환, 한국어 문서 작성
 
@@ -19,3 +19,5 @@
 | writer-memory | CC | 캐릭터·관계·테마 추적 한국어 창작 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/writer-memory) |
 
 | stop-slop-ko | CC | 한국어 AI 문체(slop) 제거 스킬 | 한국어 | [stop-slop-ko](https://github.com/limleesol/stop-slop-ko) |
+
+| oh-story-claudecode | CC | 네트워크 소설 작성을 위한 Claude Code 스킬 팩 | 영+한 | [oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) |
