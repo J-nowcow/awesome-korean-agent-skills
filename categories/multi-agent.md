@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **31개 항목** · 자동 갱신: 2026-06-20
+> 📦 **30개 항목** · 자동 갱신: 2026-06-21
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -44,7 +44,6 @@
 | CodePilot |  | 다양한 AI 모델을 연결하는 데스크톱 클라이언트 | 영+한 | [CodePilot](https://github.com/op7418/CodePilot) |
 | agentic-company |  | AI 에이전트가 회사를 대신해 업무 자동화 | 영+한 | [agentic-company](https://github.com/ramido99/agentic-company) |
 | MiMo-Code |  | 세션 간 기억을 가진 AI 코딩 비서 | 영+한 | [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) |
-| open-vibe-island | CC/GC | AI 코딩 에이전트용 macOS 메뉴바 앱 | 영+한 | [open-vibe-island](https://github.com/Octane0411/open-vibe-island) |
 | claude_codex_bridge | CC/GC | 다양한 AI 코딩 에이전트 통합 CLI 워크스페이스 | 다국어(KO) | [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) |
 | qwen-code |  | 터미널 기반 AI 코딩 에이전트 | 다국어(KO) | [qwen-code](https://github.com/QwenLM/qwen-code) |
 ## ⚡ Commands
