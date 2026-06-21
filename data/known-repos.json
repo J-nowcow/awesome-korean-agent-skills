@@ -4164,7 +4164,27 @@
           "category": "korean-writing"
         }
       ]
+    },
+    {
+      "url": "https://github.com/KAOPU-XiaoPu/web-design",
+      "last_scanned": "2026-06-21T17:28:10.326Z",
+      "skills": [
+        {
+          "name": "web-design",
+          "category": "web-frontend"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/rullerzhou-afk/clawd-on-desk",
+      "last_scanned": "2026-06-21T17:28:35.676Z",
+      "skills": [
+        {
+          "name": "clawd-on-desk",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-21T16:25:34.526Z"
+  "last_updated": "2026-06-21T17:28:35.676Z"
 }

@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **18개 항목** · 자동 갱신: 2026-06-21
+> 📦 **19개 항목** · 자동 갱신: 2026-06-21
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -38,6 +38,7 @@
 | taste-skill | CC/GC/CX/OC | AI 생성 UI의 레이아웃, 타이포그래피 개선 | 영+한 | [taste-skill](https://github.com/Leonxlnx/taste-skill) |
 | frappe-ui | CC/GC | Vue 3 및 Tailwind 기반 UI 컴포넌트 라이브러리 | 영+한 | [frappe-ui](https://github.com/frappe/frappe-ui) |
 | interface-design | CC/OC | 일관된 UI 디자인을 위한 Claude Code 스킬 | 영+한 | [interface-design](https://github.com/Dammyjay93/interface-design) |
+| web-design | CC | PRD, URL, 스크린샷으로 웹 디자인 생성 | 영+한 | [web-design](https://github.com/KAOPU-XiaoPu/web-design) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
