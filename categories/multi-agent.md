@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **30개 항목** · 자동 갱신: 2026-06-21
+> 📦 **31개 항목** · 자동 갱신: 2026-06-21
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -52,3 +52,9 @@
 |------|------|------|------|------|
 | multi-workflow | CC | 프론트→Gemini, 백엔드→Codex 라우팅 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/commands/multi-workflow.md) |
 | tth | CC | 토스 사일로 + 머스크 5-Step + Ralph Loop | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/commands/tth.md) |
+
+## 🪝 Hooks
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| clawd-on-desk | CC/GC/CX/CP/OC | AI 코딩 에이전트 반응 데스크탑 펫 | 다국어(KO) | [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) |
