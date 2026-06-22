@@ -310,6 +310,32 @@
           "type": "📦"
         }
       ]
+    },
+    {
+      "date": "2026-06-22",
+      "items": [
+        {
+          "name": "clawd-on-desk",
+          "repo": "rullerzhou-afk/clawd-on-desk",
+          "category": "multi-agent",
+          "type": "🪝",
+          "tools": "CC/GC/CX/CP/OC"
+        },
+        {
+          "name": "learn-coding-agent",
+          "repo": "sanbuphy/learn-coding-agent",
+          "category": "research-web",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "rallylens",
+          "repo": "YeonSeong-Lee/rallylens",
+          "category": "content-media",
+          "type": "⚡",
+          "tools": "GC"
+        }
+      ]
     }
   ]
 }

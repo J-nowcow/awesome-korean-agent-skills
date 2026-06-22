@@ -28,9 +28,9 @@
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🪝 learn-claude-code | CC | Claude Code 에이전트 구축 프레임워크로, 다양한 AI 에이전트 개발에 활용될 수 있는 실용적인 도구입니다. 'collections' 카테고리에서 유일하게 프레임워크 타입으로 다양한 카테고리 균형을 맞추는 데 기여합니다. | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) |
-| 🤖 notiflex-platform | CC | AI 에이전트가 구축한 B2B 알림 SaaS 플랫폼으로, 실제 서비스에 적용된 사례를 보여주어 높은 실용성을 가집니다. 'devops' 카테고리에서 에이전트 타입으로, 기술적인 구현과 서비스 연동 측면에서 유용합니다. | [notiflex-platform](https://github.com/sysnet4admin/notiflex-platform) |
-| 📦 claude-code-korean | undefined | 한국어 지원에 특화된 것으로 보이는 'claude-code-korean'은 한국어 AI 에이전트 개발에 필수적인 요소입니다. 'utilities' 카테고리에서 한국어 지원의 중요성을 강조하며, 실용적인 측면에서 추천합니다. | [claude-code-korean](https://github.com/tantara/claude-code-korean) |
+| 🪝 clawd-on-desk | CC/GC/CX/CP/OC | 다양한 AI 도구를 지원하는 멀티 에이전트 타입으로, 사용자 경험을 흥미롭게 만들 수 있는 실용적인 스킬입니다. | [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) |
+| 🤖 learn-coding-agent | CC | Claude Code 아키텍처를 연구하고 분석하는 에이전트 타입으로, 개발자에게 유용한 정보를 제공할 수 있습니다. | [learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) |
+| ⚡ rallylens | GC | 배드민턴 경기 분석이라는 특정 분야에 특화된 CLI 파이프라인으로, 스포츠 애호가에게 실용적인 가치를 제공합니다. | [rallylens](https://github.com/YeonSeong-Lee/rallylens) |
 
 ---
 
