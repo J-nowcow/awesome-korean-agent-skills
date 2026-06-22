@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-06-15
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-06-22
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🪝 learn-claude-code | CC | A framework for building Claude Code agents, offering a practical tool for developing various AI agents. It's the only framework type in the 'collections' category, contributing to category balance. | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) |
-| 🤖 notiflex-platform | CC | A B2B notification SaaS platform built by AI agents, demonstrating high practicality through a real-world application. As an agent type in the 'devops' category, it's useful for technical implementation and service integration. | [notiflex-platform](https://github.com/sysnet4admin/notiflex-platform) |
-| 📦 claude-code-korean | undefined | 'claude-code-korean', appearing to specialize in Korean language support, is essential for developing Korean AI agents. It's recommended from the 'utilities' category for its practicality, emphasizing the importance of Korean language support. | [claude-code-korean](https://github.com/tantara/claude-code-korean) |
+| 🪝 clawd-on-desk | CC/GC/CX/CP/OC | This is a practical skill of the multi-agent type, supporting various AI tools, which can make the user experience interesting. | [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) |
+| 🤖 learn-coding-agent | CC | This is an agent type that researches and analyzes the Claude Code architecture, which can provide useful information to developers. | [learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) |
+| ⚡ rallylens | GC | This is a CLI pipeline specialized in a specific field of badminton match analysis, offering practical value to sports enthusiasts. | [rallylens](https://github.com/YeonSeong-Lee/rallylens) |
 
 ---
 
