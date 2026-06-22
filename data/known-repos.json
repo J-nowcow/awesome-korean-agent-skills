@@ -4184,7 +4184,12 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "last_scanned": "2026-06-22T08:55:12.581Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-06-21T17:28:35.676Z"
+  "last_updated": "2026-06-22T08:55:12.581Z"
 }
