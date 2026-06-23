@@ -4194,7 +4194,17 @@
       "url": "https://github.com/majiayu000/claude-skill-registry",
       "last_scanned": "2026-06-22T21:33:10.512Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "last_scanned": "2026-06-23T21:01:10.872Z",
+      "skills": [
+        {
+          "name": "Agent-Reach",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-22T21:33:10.512Z"
+  "last_updated": "2026-06-23T21:01:10.872Z"
 }
