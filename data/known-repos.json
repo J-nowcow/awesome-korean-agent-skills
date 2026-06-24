@@ -4214,7 +4214,27 @@
           "category": "web-frontend"
         }
       ]
+    },
+    {
+      "url": "https://github.com/devstefancho/claude-code-book-sample",
+      "last_scanned": "2026-06-24T18:53:13.372Z",
+      "skills": [
+        {
+          "name": "claude-code-book-sample",
+          "category": "code-review"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/openmagi/korean-legal-doc-drafter",
+      "last_scanned": "2026-06-24T18:53:40.047Z",
+      "skills": [
+        {
+          "name": "korean-legal-doc-drafter",
+          "category": "korean-writing"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T17:55:12.838Z"
+  "last_updated": "2026-06-24T18:53:40.047Z"
 }

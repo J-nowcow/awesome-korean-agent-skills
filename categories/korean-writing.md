@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-06-24
+> 📦 **8개 항목** · 자동 갱신: 2026-06-24
 <!-- CAT_STATS:END -->
 > AI 글 교정, 문체 변환, 한국어 문서 작성
 
@@ -21,3 +21,5 @@
 | stop-slop-ko | CC | 한국어 AI 문체(slop) 제거 스킬 | 한국어 | [stop-slop-ko](https://github.com/limleesol/stop-slop-ko) |
 
 | oh-story-claudecode | CC | 네트워크 소설 작성을 위한 Claude Code 스킬 팩 | 영+한 | [oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) |
+
+| korean-legal-doc-drafter | CC | 한국 법률문서 자동 작성 에이전트 스킬 | 한국어 | [korean-legal-doc-drafter](https://github.com/openmagi/korean-legal-doc-drafter) |
