@@ -38,7 +38,7 @@
 
 | 카테고리 | 설명 | 항목 수 |
 |----------|------|:-------:|
-| [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 17+ |
+| [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 18+ |
 | [테스트 & TDD](categories/testing.md) | 테스트 주도 개발, E2E, 커버리지 | 22+ |
 | [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 11+ |
 | [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 16+ |
@@ -61,7 +61,7 @@
 | [한국 생활 서비스](categories/korean-services.md) | SRT/KTX, 택배, 로또, KBO, 카카오톡 | 7+ |
 | [커뮤니케이션](categories/communication.md) | 이메일·슬랙 트리아지, 알림 설정 | 3+ |
 | [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 13+ |
-| [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 7+ |
+| [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 8+ |
 | [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 6+ |
 | [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 11+ |
 
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>323+</h2></td>
-<td><h2>700</h2></td>
+<td><h2>325+</h2></td>
+<td><h2>702</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -181,8 +181,8 @@ pie showData
     "테스트 & TDD" : 22
     "웹 프론트엔드" : 20
     "DevOps & 배포" : 19
+    "코드 리뷰" : 18
     "Git & 워크플로우" : 17
-    "코드 리뷰" : 17
     "프로젝트 초기화" : 16
     "문서화" : 15
     "유틸리티 도구" : 14
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 269
+    "CC" : 271
     "GC" : 47
     "CX" : 30
     "CP" : 11
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>8</b> run · <b>+8</b> 스킬</td>
+<td><b>9</b> run · <b>+9</b> 스킬</td>
 <td><b>8</b> run · <b>-2</b> dead link</td>
 <td><b>14</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-06-21 | **2** | **1** | **2** | · |
 | 2026-06-22 | **2** | **1** | **2** | **1** |
 | 2026-06-23 | **1** | **1** | **2** | · |
-| 2026-06-24 | · | **1** | **1** | · |
+| 2026-06-24 | **1** | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

@@ -94,7 +94,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 | Category | Description | Items |
 |----------|------|:-------:|
-| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 17+ |
+| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 18+ |
 | [Testing & TDD](categories/testing.md) | Test-driven development, E2E, coverage | 22+ |
 | [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 11+ |
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 16+ |
@@ -117,7 +117,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Korean Life Services](categories/korean-services.md) | SRT/KTX, parcel tracking, lotto, KBO, KakaoTalk | 7+ |
 | [Communication](categories/communication.md) | Email & Slack triage, notification settings | 3+ |
 | [Content & Marketing](categories/content-marketing.md) | Card news, design prompts, image generation | 4+ |
-| [Writing & Korean Language](categories/korean-writing.md) | AI style transfer, spell checking, technical docs | 7+ |
+| [Writing & Korean Language](categories/korean-writing.md) | AI style transfer, spell checking, technical docs | 8+ |
 | [Media](categories/media.md) | YouTube subtitles, image processing | 2+ |
 | [Office & Documents](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 6+ |
 | [Research & Web](categories/research-web.md) | Web search, scraping, Markdown conversion | 11+ |
