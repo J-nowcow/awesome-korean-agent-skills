@@ -4249,7 +4249,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/alibaba/open-code-review",
+      "last_scanned": "2026-06-25T20:57:16.323Z",
+      "skills": [
+        {
+          "name": "open-code-review",
+          "category": "code-review"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T17:02:16.054Z"
+  "last_updated": "2026-06-25T20:57:16.323Z"
 }
