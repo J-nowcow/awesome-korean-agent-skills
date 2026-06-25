@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **18개 항목** · 자동 갱신: 2026-06-25
+> 📦 **19개 항목** · 자동 갱신: 2026-06-25
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -39,3 +39,5 @@
 | claude-howto-zh-cn | CC | Claude Code 코드 리뷰 전문가 스킬 | 영+한 | [claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn) |
 
 | claude-code-book-sample | CC | Claude Code 스킬을 활용한 코드 리뷰 | 영+한 | [claude-code-book-sample](https://github.com/devstefancho/claude-code-book-sample) |
+
+| open-code-review | CC | AI 기반 코드 리뷰 CLI 도구 | 다국어(KO) | [open-code-review](https://github.com/alibaba/open-code-review) |

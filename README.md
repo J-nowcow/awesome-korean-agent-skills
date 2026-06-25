@@ -38,7 +38,7 @@
 
 | 카테고리 | 설명 | 항목 수 |
 |----------|------|:-------:|
-| [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 18+ |
+| [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 19+ |
 | [테스트 & TDD](categories/testing.md) | 테스트 주도 개발, E2E, 커버리지 | 22+ |
 | [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 11+ |
 | [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 16+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>326+</h2></td>
-<td><h2>704</h2></td>
+<td><h2>327+</h2></td>
+<td><h2>705</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -181,7 +181,7 @@ pie showData
     "테스트 & TDD" : 22
     "웹 프론트엔드" : 20
     "DevOps & 배포" : 19
-    "코드 리뷰" : 18
+    "코드 리뷰" : 19
     "Git & 워크플로우" : 17
     "프로젝트 초기화" : 16
     "문서화" : 15
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 272
+    "CC" : 273
     "GC" : 47
     "CX" : 30
     "CP" : 11
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>10</b> run · <b>+10</b> 스킬</td>
+<td><b>11</b> run · <b>+11</b> 스킬</td>
 <td><b>8</b> run · <b>-2</b> dead link</td>
 <td><b>14</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-06-22 | **2** | **1** | **2** | **1** |
 | 2026-06-23 | **1** | **1** | **2** | · |
 | 2026-06-24 | **3** | **1** | **2** | · |
-| 2026-06-25 | · | **1** | **1** | · |
+| 2026-06-25 | **1** | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
