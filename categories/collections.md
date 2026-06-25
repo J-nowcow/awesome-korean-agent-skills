@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **33개 항목** · 자동 갱신: 2026-06-25
+> 📦 **34개 항목** · 자동 갱신: 2026-06-25
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -60,3 +60,5 @@
 | ECC | CC/GC/CX/CP/OC | 에이전트 작업용 하네스 네이티브 운영체제 | 다국어(KO) | [ECC](https://github.com/affaan-m/ECC) |
 
 | CowAgent |  | 다양한 LLM을 지원하는 AI 에이전트 | 다국어(KO) | [CowAgent](https://github.com/zhayujie/CowAgent) |
+
+| financial-services | CC | 금융 서비스 워크플로우 에이전트 및 스킬 모음 | 영+한 | [financial-services](https://github.com/anthropics/financial-services) |
