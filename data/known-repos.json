@@ -4239,7 +4239,17 @@
       "url": "https://github.com/jgravelle/jcodemunch-mcp",
       "last_scanned": "2026-06-24T19:30:10.378Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/anthropics/financial-services",
+      "last_scanned": "2026-06-25T17:02:16.054Z",
+      "skills": [
+        {
+          "name": "financial-services",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T19:30:10.378Z"
+  "last_updated": "2026-06-25T17:02:16.054Z"
 }
