@@ -4259,7 +4259,17 @@
           "category": "code-review"
         }
       ]
+    },
+    {
+      "url": "https://github.com/lsszz2100/Codex_King",
+      "last_scanned": "2026-06-26T18:54:16.853Z",
+      "skills": [
+        {
+          "name": "Codex_King",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T20:57:16.323Z"
+  "last_updated": "2026-06-26T18:54:16.854Z"
 }

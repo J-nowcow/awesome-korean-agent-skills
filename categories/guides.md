@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-06-26
+> 📦 **8개 항목** · 자동 갱신: 2026-06-26
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -24,3 +24,9 @@
 | prepare_frontend_interview | CC | 프론트엔드 면접 준비 핸드북 | 영+한 | [prepare_frontend_interview](https://github.com/junh0328/prepare_frontend_interview) |
 
 | claude-code-tips | CC/GC | Claude Code 활용 팁 모음 | 영+한 | [claude-code-tips](https://github.com/ykdojo/claude-code-tips) |
+
+## 🤖 Agents
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| Codex_King | OC | AI 에이전트와 함께하는 GPT & Codex 기초부터 고급까지 | 한국어 | [Codex_King](https://github.com/lsszz2100/Codex_King) |
