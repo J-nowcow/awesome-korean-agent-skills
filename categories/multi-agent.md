@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **31개 항목** · 자동 갱신: 2026-06-28
+> 📦 **32개 항목** · 자동 갱신: 2026-06-28
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -26,6 +26,7 @@
 | third-brain-v5-skills | CC/GC | Claude, Gemini 등 AI 코딩 에이전트 스킬 모음 | 영+한 | [third-brain-v5-skills](https://github.com/Mark393295827/third-brain-v5-skills) |
 | team-bigfive | CC | 팀워크 빅파이브 기반 에이전트 팀 협업 하네스 | 영+한 | [team-bigfive](https://github.com/tobyilee/team-bigfive) |
 | Understand-Anything | CC/GC | 코드베이스를 대화형 지식 그래프로 변환 | 다국어(KO) | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) |
+| webtoon-harness | CC | 27개 AI 에이전트 팀으로 웹툰 제작 자동화 | 영+한 | [webtoon-harness](https://github.com/revfactory/webtoon-harness) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

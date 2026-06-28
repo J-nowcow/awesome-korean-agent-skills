@@ -4289,7 +4289,17 @@
           "category": "git-workflow"
         }
       ]
+    },
+    {
+      "url": "https://github.com/revfactory/webtoon-harness",
+      "last_scanned": "2026-06-28T18:07:10.895Z",
+      "skills": [
+        {
+          "name": "webtoon-harness",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-28T16:03:24.083Z"
+  "last_updated": "2026-06-28T18:07:10.895Z"
 }
