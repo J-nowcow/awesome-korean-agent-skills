@@ -106,7 +106,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 9+ |
 | [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 20+ |
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 7+ |
-| [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 6+ |
+| [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 5+ |
 | [Game Development](categories/game-dev.md) | Unity, Blender, C# | 5+ |
 | [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 19+ |
 
