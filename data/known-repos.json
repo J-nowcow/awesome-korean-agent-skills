@@ -4279,7 +4279,17 @@
       "url": "https://github.com/Lolner95/AIGX",
       "last_scanned": "2026-06-27T20:09:11.205Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/KbWen/agentic-os",
+      "last_scanned": "2026-06-28T16:03:24.083Z",
+      "skills": [
+        {
+          "name": "agentic-os",
+          "category": "git-workflow"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-27T20:09:11.205Z"
+  "last_updated": "2026-06-28T16:03:24.083Z"
 }

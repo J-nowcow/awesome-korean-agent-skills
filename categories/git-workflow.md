@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **17개 항목** · 자동 갱신: 2026-06-28
+> 📦 **18개 항목** · 자동 갱신: 2026-06-28
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -45,3 +45,5 @@
 | worktree-tracker | CC | 워크트리 라이프사이클 추적, 고아 방지 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/hooks/worktree-tracker.sh) |
 
 | claude-reflect | CC | Claude Code의 학습 및 스킬 관리를 위한 시스템 | 영+한 | [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) |
+
+| agentic-os | CC | AI 코딩 에이전트 거버넌스 프레임워크 | 영+한 | [agentic-os](https://github.com/KbWen/agentic-os) |
