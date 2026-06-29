@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **34개 항목** · 자동 갱신: 2026-06-29
+> 📦 **35개 항목** · 자동 갱신: 2026-06-29
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -62,3 +62,5 @@
 | CowAgent |  | 다양한 LLM을 지원하는 AI 에이전트 | 다국어(KO) | [CowAgent](https://github.com/zhayujie/CowAgent) |
 
 | financial-services | CC | 금융 서비스 워크플로우 에이전트 및 스킬 모음 | 영+한 | [financial-services](https://github.com/anthropics/financial-services) |
+
+| ponytail-lite | CC/GC | 에이전트의 과도한 엔지니어링 방지 | 영+한 | [ponytail-lite](https://github.com/ilindaniel/ponytail-lite) |
