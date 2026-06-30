@@ -4319,7 +4319,17 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/kklimuk/docx-cli",
+      "last_scanned": "2026-06-30T19:47:12.640Z",
+      "skills": [
+        {
+          "name": "docx-cli",
+          "category": "office-docs"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-30T17:53:17.004Z"
+  "last_updated": "2026-06-30T19:47:12.640Z"
 }
