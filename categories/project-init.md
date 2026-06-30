@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **16개 항목** · 자동 갱신: 2026-06-30
+> 📦 **17개 항목** · 자동 갱신: 2026-06-30
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -29,6 +29,7 @@
 | ai-coding-starter-kit | CC | AI 기반 프로젝트 초기 설정 및 기능 개발 | 영+한 | [ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) |
 | spree | CC/CX/CP | AI 코딩 에이전트용 Spree 스킬 | 영+한 | [spree](https://github.com/spree/spree) |
 | code-forge | CC | AI 에이전트 스킬/에이전트 조합 및 설정 | 영+한 | [code-forge](https://github.com/ggombee/code-forge) |
+| dotclaude | CC | 개발 환경 설정을 위한 Claude Code 플러그인 | 영+한 | [dotclaude](https://github.com/poshan0126/dotclaude) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
