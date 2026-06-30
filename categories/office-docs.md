@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **6개 항목** · 자동 갱신: 2026-06-30
+> 📦 **7개 항목** · 자동 갱신: 2026-06-30
 <!-- CAT_STATS:END -->
 > Word, Excel, PPT, PDF, HWP 처리
 
@@ -19,3 +19,5 @@
 | HWP 처리 | CC/CX/OC | 한글 파일 처리 | 한국어 | [k-skill](https://github.com/NomaDamas/k-skill) |
 
 | alhangeul-macos |  | macOS에서 HWP/HWPX 파일 미리보기 및 편집 | 영+한 | [alhangeul-macos](https://github.com/postmelee/alhangeul-macos) |
+
+| docx-cli | CC/OC | AI 에이전트용 DOCX 파일 편집 CLI | 영+한 | [docx-cli](https://github.com/kklimuk/docx-cli) |
