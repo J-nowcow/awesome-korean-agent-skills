@@ -4309,7 +4309,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/poshan0126/dotclaude",
+      "last_scanned": "2026-06-30T17:53:17.004Z",
+      "skills": [
+        {
+          "name": "dotclaude",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-29T20:50:09.973Z"
+  "last_updated": "2026-06-30T17:53:17.004Z"
 }
