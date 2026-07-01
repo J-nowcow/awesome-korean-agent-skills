@@ -4329,7 +4329,17 @@
           "category": "office-docs"
         }
       ]
+    },
+    {
+      "url": "https://github.com/alookai/alook",
+      "last_scanned": "2026-07-01T20:49:13.692Z",
+      "skills": [
+        {
+          "name": "alook",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-30T19:47:12.640Z"
+  "last_updated": "2026-07-01T20:49:13.692Z"
 }
