@@ -4329,7 +4329,17 @@
           "category": "office-docs"
         }
       ]
+    },
+    {
+      "url": "https://github.com/taehojo/vibeclass101",
+      "last_scanned": "2026-07-01T19:00:24.207Z",
+      "skills": [
+        {
+          "name": "vibeclass101",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-30T19:47:12.640Z"
+  "last_updated": "2026-07-01T19:00:24.208Z"
 }
