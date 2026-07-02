@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-07-01
+> 📦 **20개 항목** · 자동 갱신: 2026-07-02
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
