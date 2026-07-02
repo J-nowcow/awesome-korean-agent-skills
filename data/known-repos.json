@@ -4354,7 +4354,17 @@
           "category": "guides"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ATH-MaaS/ComfyUI-Copilot",
+      "last_scanned": "2026-07-02T19:16:11.701Z",
+      "skills": [
+        {
+          "name": "ComfyUI-Copilot",
+          "category": "debugging"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-02T18:26:36.044Z"
+  "last_updated": "2026-07-02T19:16:11.701Z"
 }

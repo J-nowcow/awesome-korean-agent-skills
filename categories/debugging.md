@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **8개 항목** · 자동 갱신: 2026-07-02
+> 📦 **9개 항목** · 자동 갱신: 2026-07-02
 <!-- CAT_STATS:END -->
 > 루트 원인 분석, 빌드 에러 해결, 언어별 빌드 리졸버
 
@@ -18,6 +18,7 @@
 | C++/Go/Java/Kotlin/Rust/PyTorch Build Resolver (6종) | CC | 언어별 빌드 에러 전문 리졸버 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/tree/main/agents) — cpp-build-resolver.md 등 |
 | bug-hunter | CC | 버그 체계적 탐지·분석·수정 | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/bug-hunter.md) |
 
+| ComfyUI-Copilot |  | ComfyUI 워크플로우 자동화 및 지능형 지원 | 영+한 | [ComfyUI-Copilot](https://github.com/ATH-MaaS/ComfyUI-Copilot) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
