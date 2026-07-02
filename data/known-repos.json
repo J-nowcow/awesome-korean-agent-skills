@@ -4344,7 +4344,17 @@
       "url": "https://github.com/OffchainLabs/prysm",
       "last_scanned": "2026-07-02T17:47:16.808Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/taehojo/vibeclass101",
+      "last_scanned": "2026-07-02T18:26:36.044Z",
+      "skills": [
+        {
+          "name": "vibeclass101",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-02T17:47:16.808Z"
+  "last_updated": "2026-07-02T18:26:36.044Z"
 }
