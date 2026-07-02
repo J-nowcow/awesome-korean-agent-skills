@@ -4339,7 +4339,12 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/OffchainLabs/prysm",
+      "last_scanned": "2026-07-02T17:47:16.808Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-07-01T20:49:13.692Z"
+  "last_updated": "2026-07-02T17:47:16.808Z"
 }
