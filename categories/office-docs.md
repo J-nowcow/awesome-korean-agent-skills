@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-07-03
+> 📦 **8개 항목** · 자동 갱신: 2026-07-03
 <!-- CAT_STATS:END -->
 > Word, Excel, PPT, PDF, HWP 처리
 
@@ -21,3 +21,5 @@
 | alhangeul-macos |  | macOS에서 HWP/HWPX 파일 미리보기 및 편집 | 영+한 | [alhangeul-macos](https://github.com/postmelee/alhangeul-macos) |
 
 | docx-cli | CC/OC | AI 에이전트용 DOCX 파일 편집 CLI | 영+한 | [docx-cli](https://github.com/kklimuk/docx-cli) |
+
+| hwpx-plugins | CC/GC | AI 에이전트가 HWPX 문서를 다루도록 돕는 스킬 | 영+한 | [hwpx-plugins](https://github.com/airmang/hwpx-plugins) |

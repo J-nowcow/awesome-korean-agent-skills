@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **9개 항목** · 자동 갱신: 2026-07-03
+> 📦 **10개 항목** · 자동 갱신: 2026-07-03
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -26,6 +26,7 @@
 | claude-code-tips | CC/GC | Claude Code 활용 팁 모음 | 영+한 | [claude-code-tips](https://github.com/ykdojo/claude-code-tips) |
 
 | vibeclass101 | CC | 클로드 코드 실습 및 명령어 가이드 | 한국어 | [vibeclass101](https://github.com/taehojo/vibeclass101) |
+| KoChatGPT |  | ChatGPT RLHF 학습 한국어 데이터셋 | 한국어 | [KoChatGPT](https://github.com/airobotlab/KoChatGPT) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
