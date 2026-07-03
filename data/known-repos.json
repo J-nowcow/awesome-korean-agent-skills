@@ -4354,7 +4354,17 @@
           "category": "guides"
         }
       ]
+    },
+    {
+      "url": "https://github.com/anbeime/skill",
+      "last_scanned": "2026-07-03T16:18:10.302Z",
+      "skills": [
+        {
+          "name": "skill",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-02T18:26:36.044Z"
+  "last_updated": "2026-07-03T16:18:10.302Z"
 }
