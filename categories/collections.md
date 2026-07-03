@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **35개 항목** · 자동 갱신: 2026-07-03
+> 📦 **36개 항목** · 자동 갱신: 2026-07-03
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -45,6 +45,7 @@
 | nihaisha-nishi-tcm | CC/GC | 倪海厦中医课程资料检索Agent Skill | 영+한 | [nihaisha-nishi-tcm](https://github.com/JuneYaooo/nihaisha-nishi-tcm) |
 | sc-agent-skills-files | CC | Anthropic Claude 에이전트 스킬 모음 | 영+한 | [sc-agent-skills-files](https://github.com/https-deeplearning-ai/sc-agent-skills-files) |
 | claude-agentic-study | CC | Claude Code 스킬 컬렉션 | 영+한 | [claude-agentic-study](https://github.com/ggplab/claude-agentic-study) |
+| skill |  | 다양한 AI 에이전트 스킬 모음 | 영+한 | [skill](https://github.com/anbeime/skill) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
