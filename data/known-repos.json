@@ -4364,7 +4364,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/jbarbier/CLAUDE.md",
+      "last_scanned": "2026-07-03T17:25:11.726Z",
+      "skills": [
+        {
+          "name": "CLAUDE.md",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-03T16:18:10.302Z"
+  "last_updated": "2026-07-03T17:25:11.726Z"
 }

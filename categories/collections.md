@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **36개 항목** · 자동 갱신: 2026-07-03
+> 📦 **37개 항목** · 자동 갱신: 2026-07-03
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -65,3 +65,5 @@
 | financial-services | CC | 금융 서비스 워크플로우 에이전트 및 스킬 모음 | 영+한 | [financial-services](https://github.com/anthropics/financial-services) |
 
 | ponytail-lite | CC/GC | 에이전트의 과도한 엔지니어링 방지 | 영+한 | [ponytail-lite](https://github.com/ilindaniel/ponytail-lite) |
+
+| CLAUDE.md | CC/GC/CX/CP/OC | 코딩 에이전트 지침 모음 | 영+한 | [CLAUDE.md](https://github.com/jbarbier/CLAUDE.md) |
