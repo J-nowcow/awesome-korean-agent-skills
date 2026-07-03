@@ -4374,7 +4374,32 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/airmang/hwpx-plugins",
+      "last_scanned": "2026-07-03T18:14:11.085Z",
+      "skills": [
+        {
+          "name": "hwpx-plugins",
+          "category": "office-docs"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/airobotlab/KoChatGPT",
+      "last_scanned": "2026-07-03T18:14:40.672Z",
+      "skills": [
+        {
+          "name": "KoChatGPT",
+          "category": "guides"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/hosungseo/gonpunclaw-web",
+      "last_scanned": "2026-07-03T18:15:04.972Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-07-03T17:25:11.726Z"
+  "last_updated": "2026-07-03T18:15:04.972Z"
 }
