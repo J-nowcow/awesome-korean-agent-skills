@@ -4399,7 +4399,17 @@
       "url": "https://github.com/hosungseo/gonpunclaw-web",
       "last_scanned": "2026-07-03T18:15:04.972Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/ATH-MaaS/ComfyUI-Copilot",
+      "last_scanned": "2026-07-03T19:10:10.511Z",
+      "skills": [
+        {
+          "name": "ComfyUI-Copilot",
+          "category": "debugging"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-03T18:15:04.972Z"
+  "last_updated": "2026-07-03T19:10:10.512Z"
 }
