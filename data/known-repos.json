@@ -4409,7 +4409,17 @@
           "category": "debugging"
         }
       ]
+    },
+    {
+      "url": "https://github.com/sodam-ai/Kill-Claude_Code-Zombies",
+      "last_scanned": "2026-07-04T18:04:24.319Z",
+      "skills": [
+        {
+          "name": "Kill-Claude_Code-Zombies",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-03T19:10:10.512Z"
+  "last_updated": "2026-07-04T18:04:24.319Z"
 }

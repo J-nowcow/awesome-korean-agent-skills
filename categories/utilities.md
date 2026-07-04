@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **14개 항목** · 자동 갱신: 2026-07-04
+> 📦 **15개 항목** · 자동 갱신: 2026-07-04
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -22,6 +22,7 @@
 
 | meridian | CC | Claude Code SDK를 다양한 도구와 연동 | 영+한 | [meridian](https://github.com/rynfar/meridian) |
 | TranslatePanel | CC/GC | 화면 어디서든 LLM 번역 기능을 제공하는 툴 | 영+한 | [TranslatePanel](https://github.com/hyuunnn/TranslatePanel) |
+| Kill-Claude_Code-Zombies | CC | 클로드 코드 좀비 프로세스 정리 도구 | 영+한 | [Kill-Claude_Code-Zombies](https://github.com/sodam-ai/Kill-Claude_Code-Zombies) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
