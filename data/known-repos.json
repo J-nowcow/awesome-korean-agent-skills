@@ -4444,7 +4444,17 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/koala73/worldmonitor",
+      "last_scanned": "2026-07-05T20:14:10.578Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know",
+      "last_scanned": "2026-07-05T20:14:44.959Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-07-05T18:05:11.331Z"
+  "last_updated": "2026-07-05T20:14:44.959Z"
 }
