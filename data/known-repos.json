@@ -4424,7 +4424,17 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "last_scanned": "2026-07-04T20:09:11.095Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "last_scanned": "2026-07-05T17:09:27.285Z",
+      "skills": [
+        {
+          "name": "ai-job-search",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-04T20:09:11.096Z"
+  "last_updated": "2026-07-05T17:09:27.286Z"
 }
