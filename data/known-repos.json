@@ -4459,7 +4459,17 @@
       "url": "https://github.com/study8677/awesome-architecture",
       "last_scanned": "2026-07-06T07:09:13.555Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/claude-code-expert/spinner-to-kor",
+      "last_scanned": "2026-07-06T18:11:13.964Z",
+      "skills": [
+        {
+          "name": "spinner-to-kor",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-06T07:09:13.555Z"
+  "last_updated": "2026-07-06T18:11:13.965Z"
 }
