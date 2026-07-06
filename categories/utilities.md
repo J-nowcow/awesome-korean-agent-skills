@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **15개 항목** · 자동 갱신: 2026-07-06
+> 📦 **16개 항목** · 자동 갱신: 2026-07-06
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -41,3 +41,9 @@
 | opencode |  | 오픈소스 AI 코딩 에이전트 | 다국어(KO) | [opencode](https://github.com/anomalyco/opencode) |
 
 | long |  | Elixir 기반 LLM 에이전트 런타임 | 영+한 | [long](https://github.com/mjason/long) |
+
+## 🪝 Hooks
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| spinner-to-kor | CC | Claude Code CLI 스피너 메시지를 한국어로 변경 | 한국어 | [spinner-to-kor](https://github.com/claude-code-expert/spinner-to-kor) |
