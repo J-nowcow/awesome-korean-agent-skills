@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-07-08
+> 📦 **13개 항목** · 자동 갱신: 2026-07-08
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -33,3 +33,5 @@
 | llm-for-zotero | CC | Zotero 라이브러리 기반 연구 에이전트 시스템 | 영+한 | [llm-for-zotero](https://github.com/yilewang/llm-for-zotero) |
 
 | claude-obsidian | CC | Claude 기반 지식 관리 및 자동화 에이전트 | 영+한 | [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) |
+
+| structured-skills |  | LLM 기반 에이전트 개발 프레임워크 | 영+한 | [structured-skills](https://github.com/day50-dev/structured-skills) |

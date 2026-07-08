@@ -4484,7 +4484,22 @@
       "url": "https://github.com/HumanRhoid/hanium-lipreading",
       "last_scanned": "2026-07-08T18:19:13.135Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/day50-dev/structured-skills",
+      "last_scanned": "2026-07-08T19:16:18.577Z",
+      "skills": [
+        {
+          "name": "structured-skills",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/motiful/product-shots",
+      "last_scanned": "2026-07-08T19:16:47.127Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-07-08T18:19:13.135Z"
+  "last_updated": "2026-07-08T19:16:47.127Z"
 }
