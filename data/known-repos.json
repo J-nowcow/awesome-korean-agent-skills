@@ -4499,7 +4499,17 @@
       "url": "https://github.com/motiful/product-shots",
       "last_scanned": "2026-07-08T19:16:47.127Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "last_scanned": "2026-07-08T20:20:16.120Z",
+      "skills": [
+        {
+          "name": "agentic-awesome-skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-08T19:16:47.127Z"
+  "last_updated": "2026-07-08T20:20:16.120Z"
 }
