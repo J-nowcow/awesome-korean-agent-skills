@@ -34,6 +34,7 @@
 
 ---
 
+| 💼 linkedin-growth | CC | Import leads from LinkedIn or Sales Navigator searches, qualify them against an ideal-customer profile, schedule safe connection invites across accounts, track acceptances, and withdraw stale pending requests. | [linkedin-growth](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin-growth) |
 ## 개발 스킬
 
 | 카테고리 | 설명 | 항목 수 |
