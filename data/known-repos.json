@@ -4519,7 +4519,17 @@
       "url": "https://github.com/ilysenko/codex-desktop-linux",
       "last_scanned": "2026-07-09T19:30:20.026Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/study8677/repobrain",
+      "last_scanned": "2026-07-09T20:48:10.895Z",
+      "skills": [
+        {
+          "name": "repobrain",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-09T19:30:20.026Z"
+  "last_updated": "2026-07-09T20:48:10.896Z"
 }
