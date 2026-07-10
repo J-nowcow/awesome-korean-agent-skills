@@ -4539,7 +4539,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/agentscope-ai/agentscope-java",
+      "last_scanned": "2026-07-10T17:48:09.892Z",
+      "skills": [
+        {
+          "name": "agentscope-java",
+          "category": "frameworks"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-10T16:50:10.361Z"
+  "last_updated": "2026-07-10T17:48:09.892Z"
 }

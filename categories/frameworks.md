@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-07-10
+> 📦 **13개 항목** · 자동 갱신: 2026-07-10
 <!-- CAT_STATS:END -->
 > 설치하면 에이전트·스킬·훅·커맨드가 한꺼번에 세팅되는 도구
 
@@ -25,6 +25,7 @@
 |------|------|------|------|------|
 | superpowers | CC/GC | 에이전트용 코딩 스킬 프레임워크 | 영+한 | [superpowers](https://github.com/obra/superpowers) |
 
+| agentscope-java |  | 분산형 엔터프라이즈급 에이전트 구축 프레임워크 | 영+한 | [agentscope-java](https://github.com/agentscope-ai/agentscope-java) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
