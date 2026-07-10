@@ -4529,7 +4529,17 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/RollingGo-AI/rollinggo-hotel-skill-CN",
+      "last_scanned": "2026-07-10T16:50:10.361Z",
+      "skills": [
+        {
+          "name": "rollinggo-hotel-skill-CN",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-09T20:48:10.896Z"
+  "last_updated": "2026-07-10T16:50:10.361Z"
 }
