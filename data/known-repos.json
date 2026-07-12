@@ -4549,7 +4549,22 @@
           "category": "frameworks"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ToDealMarket/tdm-daos-agent",
+      "last_scanned": "2026-07-12T15:48:16.484Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/shiho2v/antshell",
+      "last_scanned": "2026-07-12T15:48:49.527Z",
+      "skills": [
+        {
+          "name": "antshell",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-10T17:48:09.892Z"
+  "last_updated": "2026-07-12T15:48:49.527Z"
 }
