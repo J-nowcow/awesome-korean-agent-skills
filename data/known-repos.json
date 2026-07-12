@@ -4564,7 +4564,27 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/angieruiz17/claude-fintech-skills",
+      "last_scanned": "2026-07-12T18:00:15.768Z",
+      "skills": [
+        {
+          "name": "claude-fintech-skills",
+          "category": "devops"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/starknet-io/starknet.js",
+      "last_scanned": "2026-07-12T18:00:39.603Z",
+      "skills": [
+        {
+          "name": "starknet.js",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-12T15:48:49.527Z"
+  "last_updated": "2026-07-12T18:00:39.603Z"
 }
