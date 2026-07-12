@@ -4584,7 +4584,17 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/revfactory/subtitle-pro",
+      "last_scanned": "2026-07-12T18:57:15.477Z",
+      "skills": [
+        {
+          "name": "subtitle-pro",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-12T18:00:39.603Z"
+  "last_updated": "2026-07-12T18:57:15.477Z"
 }
