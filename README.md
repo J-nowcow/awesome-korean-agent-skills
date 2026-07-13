@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-07-12
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-07-13
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🪝 clawd-on-desk | CC/GC/CX/CP/OC | 다양한 AI 도구를 지원하는 멀티 에이전트 타입으로, 사용자 경험을 흥미롭게 만들 수 있는 실용적인 스킬입니다. | [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) |
-| 🤖 learn-coding-agent | CC | Claude Code 아키텍처를 연구하고 분석하는 에이전트 타입으로, 개발자에게 유용한 정보를 제공할 수 있습니다. | [learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) |
-| ⚡ rallylens | GC | 배드민턴 경기 분석이라는 특정 분야에 특화된 CLI 파이프라인으로, 스포츠 애호가에게 실용적인 가치를 제공합니다. | [rallylens](https://github.com/YeonSeong-Lee/rallylens) |
+| ⚡ andrej-karpathy-skills | CC | LLM 코딩 함정에 대한 실용적인 가이드로, 다양한 카테고리에서 유용하며 한국어 지원이 좋습니다. | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
+| 🤖 Codex_King | OC | AI 에이전트와 함께 GPT 및 Codex를 배우는 🤖 Agent 타입의 스킬로, 기초부터 고급까지 다루어 실용성이 높습니다. | [Codex_King](https://github.com/lsszz2100/Codex_King) |
+| 🪝 spinner-to-kor | CC | Claude Code CLI 스피너 메시지를 한국어로 변경하는 🪝 Hook 타입의 유틸리티로, 한국어 사용자 경험을 향상시키는 데 실용적입니다. | [spinner-to-kor](https://github.com/claude-code-expert/spinner-to-kor) |
 
 ---
 

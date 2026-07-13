@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-06-22
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-07-13
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🪝 clawd-on-desk | CC/GC/CX/CP/OC | This is a practical skill of the multi-agent type, supporting various AI tools, which can make the user experience interesting. | [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) |
-| 🤖 learn-coding-agent | CC | This is an agent type that researches and analyzes the Claude Code architecture, which can provide useful information to developers. | [learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) |
-| ⚡ rallylens | GC | This is a CLI pipeline specialized in a specific field of badminton match analysis, offering practical value to sports enthusiasts. | [rallylens](https://github.com/YeonSeong-Lee/rallylens) |
+| ⚡ andrej-karpathy-skills | CC | A practical guide to LLM coding pitfalls, useful across various categories and with good Korean support. | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
+| 🤖 Codex_King | OC | A 🤖 Agent type skill for learning GPT and Codex with AI agents, covering basics to advanced topics, making it highly practical. | [Codex_King](https://github.com/lsszz2100/Codex_King) |
+| 🪝 spinner-to-kor | CC | A 🪝 Hook type utility that changes Claude Code CLI spinner messages to Korean, practical for improving the user experience for Korean speakers. | [spinner-to-kor](https://github.com/claude-code-expert/spinner-to-kor) |
 
 ---
 
