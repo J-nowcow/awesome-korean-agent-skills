@@ -336,6 +336,32 @@
           "tools": "GC"
         }
       ]
+    },
+    {
+      "date": "2026-07-13",
+      "items": [
+        {
+          "name": "andrej-karpathy-skills",
+          "repo": "multica-ai/andrej-karpathy-skills",
+          "category": "guides",
+          "type": "⚡",
+          "tools": "CC"
+        },
+        {
+          "name": "Codex_King",
+          "repo": "lsszz2100/Codex_King",
+          "category": "guides",
+          "type": "🤖",
+          "tools": "OC"
+        },
+        {
+          "name": "spinner-to-kor",
+          "repo": "claude-code-expert/spinner-to-kor",
+          "category": "utilities",
+          "type": "🪝",
+          "tools": "CC"
+        }
+      ]
     }
   ]
 }
