@@ -4604,7 +4604,27 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/RollingGo-AI/RollingGo-hotel-skill-CN",
+      "last_scanned": "2026-07-14T16:07:10.261Z",
+      "skills": [
+        {
+          "name": "RollingGo-hotel-skill-CN",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/danielvm-git/bigpowers",
+      "last_scanned": "2026-07-14T16:07:40.098Z",
+      "skills": [
+        {
+          "name": "bigpowers",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-13T19:17:11.239Z"
+  "last_updated": "2026-07-14T16:07:40.098Z"
 }
