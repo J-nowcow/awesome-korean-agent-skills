@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **8개 항목** · 자동 갱신: 2026-07-14
+> 📦 **9개 항목** · 자동 갱신: 2026-07-14
 <!-- CAT_STATS:END -->
 > AI 글 교정, 문체 변환, 한국어 문서 작성
 
@@ -23,3 +23,9 @@
 | oh-story-claudecode | CC | 네트워크 소설 작성을 위한 Claude Code 스킬 팩 | 영+한 | [oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) |
 
 | korean-legal-doc-drafter | CC | 한국 법률문서 자동 작성 에이전트 스킬 | 한국어 | [korean-legal-doc-drafter](https://github.com/openmagi/korean-legal-doc-drafter) |
+
+## ⚡ Commands
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| fluent-korean | CC | 클로드 코드 한국어 출력 스타일 개선 | 영+한 | [fluent-korean](https://github.com/snflkd/fluent-korean) |

@@ -4629,7 +4629,17 @@
       "url": "https://github.com/h1papc11/healthcare-ai-agent-vault",
       "last_scanned": "2026-07-14T17:14:10.435Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/snflkd/fluent-korean",
+      "last_scanned": "2026-07-14T18:05:10.272Z",
+      "skills": [
+        {
+          "name": "fluent-korean",
+          "category": "korean-writing"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-14T17:14:10.435Z"
+  "last_updated": "2026-07-14T18:05:10.272Z"
 }
