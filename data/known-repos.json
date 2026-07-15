@@ -4639,7 +4639,27 @@
           "category": "korean-writing"
         }
       ]
+    },
+    {
+      "url": "https://github.com/amondnet/yoonmoon",
+      "last_scanned": "2026-07-15T18:09:18.487Z",
+      "skills": [
+        {
+          "name": "yoonmoon",
+          "category": "korean-writing"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/teo713ko-gif/teo-skills",
+      "last_scanned": "2026-07-15T18:09:57.162Z",
+      "skills": [
+        {
+          "name": "teo-skills",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-14T18:05:10.272Z"
+  "last_updated": "2026-07-15T18:09:57.162Z"
 }
