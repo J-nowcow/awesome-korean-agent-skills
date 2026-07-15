@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **33개 항목** · 자동 갱신: 2026-07-15
+> 📦 **34개 항목** · 자동 갱신: 2026-07-15
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -27,6 +27,7 @@
 | team-bigfive | CC | 팀워크 빅파이브 기반 에이전트 팀 협업 하네스 | 영+한 | [team-bigfive](https://github.com/tobyilee/team-bigfive) |
 | Understand-Anything | CC/GC | 코드베이스를 대화형 지식 그래프로 변환 | 다국어(KO) | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) |
 | webtoon-harness | CC | 27개 AI 에이전트 팀으로 웹툰 제작 자동화 | 영+한 | [webtoon-harness](https://github.com/revfactory/webtoon-harness) |
+| council-of-high-intelligence | CC/GC | 다중 관점 토론을 통한 의사결정 지원 | 영+한 | [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

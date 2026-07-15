@@ -4659,7 +4659,17 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "last_scanned": "2026-07-15T20:09:10.390Z",
+      "skills": [
+        {
+          "name": "council-of-high-intelligence",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-15T18:09:57.162Z"
+  "last_updated": "2026-07-15T20:09:10.390Z"
 }
