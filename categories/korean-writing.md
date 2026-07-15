@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **9개 항목** · 자동 갱신: 2026-07-15
+> 📦 **10개 항목** · 자동 갱신: 2026-07-15
 <!-- CAT_STATS:END -->
 > AI 글 교정, 문체 변환, 한국어 문서 작성
 
@@ -24,6 +24,7 @@
 
 | korean-legal-doc-drafter | CC | 한국 법률문서 자동 작성 에이전트 스킬 | 한국어 | [korean-legal-doc-drafter](https://github.com/openmagi/korean-legal-doc-drafter) |
 
+| yoonmoon | CC | AI 글 윤문·탐지 Claude Code 플러그인 | 한국어 | [yoonmoon](https://github.com/amondnet/yoonmoon) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

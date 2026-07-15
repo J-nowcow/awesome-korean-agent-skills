@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **19개 항목** · 자동 갱신: 2026-07-15
+> 📦 **20개 항목** · 자동 갱신: 2026-07-15
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -32,6 +32,7 @@
 | spree | CC/CX/CP | AI 코딩 에이전트용 Spree 스킬 | 영+한 | [spree](https://github.com/spree/spree) |
 | code-forge | CC | AI 에이전트 스킬/에이전트 조합 및 설정 | 영+한 | [code-forge](https://github.com/ggombee/code-forge) |
 | dotclaude | CC | 개발 환경 설정을 위한 Claude Code 플러그인 | 영+한 | [dotclaude](https://github.com/poshan0126/dotclaude) |
+| teo-skills | CC | 1인 기업 설계 및 실행 지원 스킬 | 한국어 | [teo-skills](https://github.com/teo713ko-gif/teo-skills) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
