@@ -4669,7 +4669,22 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Marker-Inc-Korea/ko-jailbreak",
+      "last_scanned": "2026-07-16T18:08:17.337Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/choigpt-ai/naver-blog-automation",
+      "last_scanned": "2026-07-16T18:08:42.874Z",
+      "skills": [
+        {
+          "name": "naver-blog-automation",
+          "category": "korean-writing"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-15T20:09:10.390Z"
+  "last_updated": "2026-07-16T18:08:42.874Z"
 }

@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **10개 항목** · 자동 갱신: 2026-07-16
+> 📦 **11개 항목** · 자동 갱신: 2026-07-16
 <!-- CAT_STATS:END -->
 > AI 글 교정, 문체 변환, 한국어 문서 작성
 
@@ -30,3 +30,9 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | fluent-korean | CC | 클로드 코드 한국어 출력 스타일 개선 | 영+한 | [fluent-korean](https://github.com/snflkd/fluent-korean) |
+
+## 🤖 Agents
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| naver-blog-automation | CC | AI가 네이버 블로그 글 자동 작성 | 한국어 | [naver-blog-automation](https://github.com/choigpt-ai/naver-blog-automation) |
