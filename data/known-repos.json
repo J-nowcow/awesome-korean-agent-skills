@@ -4684,7 +4684,17 @@
           "category": "korean-writing"
         }
       ]
+    },
+    {
+      "url": "https://github.com/jnMetaCode/agency-orchestrator",
+      "last_scanned": "2026-07-17T16:06:10.445Z",
+      "skills": [
+        {
+          "name": "agency-orchestrator",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-16T18:08:42.874Z"
+  "last_updated": "2026-07-17T16:06:10.445Z"
 }
