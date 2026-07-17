@@ -4694,7 +4694,12 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+      "last_scanned": "2026-07-17T17:11:10.849Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-07-17T16:06:10.445Z"
+  "last_updated": "2026-07-17T17:11:10.849Z"
 }
