@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **34개 항목** · 자동 갱신: 2026-07-17
+> 📦 **35개 항목** · 자동 갱신: 2026-07-17
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -49,6 +49,7 @@
 | claude_codex_bridge | CC/GC | 다양한 AI 코딩 에이전트 통합 CLI 워크스페이스 | 다국어(KO) | [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) |
 | qwen-code |  | 터미널 기반 AI 코딩 에이전트 | 다국어(KO) | [qwen-code](https://github.com/QwenLM/qwen-code) |
 | alook |  | AI 에이전트 협업 플랫폼 | 영+한 | [alook](https://github.com/alookai/alook) |
+| agency-orchestrator | CC/GC | AI 전문가 팀을 구성하여 업무 자동화 | 영+한 | [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
