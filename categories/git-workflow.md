@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **18개 항목** · 자동 갱신: 2026-07-19
+> 📦 **19개 항목** · 자동 갱신: 2026-07-19
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -47,3 +47,5 @@
 | claude-reflect | CC | Claude Code의 학습 및 스킬 관리를 위한 시스템 | 영+한 | [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) |
 
 | agentic-os | CC | AI 코딩 에이전트 거버넌스 프레임워크 | 영+한 | [agentic-os](https://github.com/KbWen/agentic-os) |
+
+| obsidian-mind | CC/GC/OC | AI 코딩 에이전트의 지속적인 기억을 위한 Obsidian 볼트 | 영+한 | [obsidian-mind](https://github.com/breferrari/obsidian-mind) |
