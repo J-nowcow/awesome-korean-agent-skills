@@ -4709,7 +4709,17 @@
       "url": "https://github.com/taehojo/taehojo",
       "last_scanned": "2026-07-18T18:55:10.410Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/breferrari/obsidian-mind",
+      "last_scanned": "2026-07-19T16:58:10.695Z",
+      "skills": [
+        {
+          "name": "obsidian-mind",
+          "category": "git-workflow"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-18T18:55:10.410Z"
+  "last_updated": "2026-07-19T16:58:10.695Z"
 }
