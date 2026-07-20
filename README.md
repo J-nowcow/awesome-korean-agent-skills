@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-07-19
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-07-20
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| ⚡ andrej-karpathy-skills | CC | LLM 코딩 함정에 대한 실용적인 가이드로, 다양한 카테고리에서 유용하며 한국어 지원이 좋습니다. | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
-| 🤖 Codex_King | OC | AI 에이전트와 함께 GPT 및 Codex를 배우는 🤖 Agent 타입의 스킬로, 기초부터 고급까지 다루어 실용성이 높습니다. | [Codex_King](https://github.com/lsszz2100/Codex_King) |
-| 🪝 spinner-to-kor | CC | Claude Code CLI 스피너 메시지를 한국어로 변경하는 🪝 Hook 타입의 유틸리티로, 한국어 사용자 경험을 향상시키는 데 실용적입니다. | [spinner-to-kor](https://github.com/claude-code-expert/spinner-to-kor) |
+| 🤖 naver-blog-automation | CC | 네이버 블로그 자동 작성은 한국 사용자에게 매우 실용적이며, AI 에이전트 타입으로 다양한 활용이 가능합니다. | [naver-blog-automation](https://github.com/choigpt-ai/naver-blog-automation) |
+| ⚡ fluent-korean | CC | 클로드 코드의 한국어 출력 스타일을 개선하는 스킬로, 한국어 지원이 우수하고 글쓰기 관련 실용성이 높습니다. | [fluent-korean](https://github.com/snflkd/fluent-korean) |
+| 📦 rulesync | undefined | 다양한 유틸리티 기능을 제공하는 프레임워크로, 다른 스킬들과의 조합을 통해 전반적인 AI 에이전트의 기능을 확장할 수 있습니다. | [rulesync](https://github.com/dyoshikawa/rulesync) |
 
 ---
 

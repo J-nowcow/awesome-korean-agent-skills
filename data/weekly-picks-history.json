@@ -362,6 +362,31 @@
           "tools": "CC"
         }
       ]
+    },
+    {
+      "date": "2026-07-20",
+      "items": [
+        {
+          "name": "naver-blog-automation",
+          "repo": "choigpt-ai/naver-blog-automation",
+          "category": "korean-writing",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "fluent-korean",
+          "repo": "snflkd/fluent-korean",
+          "category": "korean-writing",
+          "type": "⚡",
+          "tools": "CC"
+        },
+        {
+          "name": "rulesync",
+          "repo": "dyoshikawa/rulesync",
+          "category": "utilities",
+          "type": "📦"
+        }
+      ]
     }
   ]
 }
