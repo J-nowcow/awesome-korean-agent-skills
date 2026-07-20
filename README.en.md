@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-07-13
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-07-20
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| ⚡ andrej-karpathy-skills | CC | A practical guide to LLM coding pitfalls, useful across various categories and with good Korean support. | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
-| 🤖 Codex_King | OC | A 🤖 Agent type skill for learning GPT and Codex with AI agents, covering basics to advanced topics, making it highly practical. | [Codex_King](https://github.com/lsszz2100/Codex_King) |
-| 🪝 spinner-to-kor | CC | A 🪝 Hook type utility that changes Claude Code CLI spinner messages to Korean, practical for improving the user experience for Korean speakers. | [spinner-to-kor](https://github.com/claude-code-expert/spinner-to-kor) |
+| 🤖 naver-blog-automation | CC | Naver blog automation is highly practical for Korean users and can be utilized in various ways as an AI agent type. | [naver-blog-automation](https://github.com/choigpt-ai/naver-blog-automation) |
+| ⚡ fluent-korean | CC | This skill improves the Korean output style of Claude Code, offering excellent Korean support and high practicality for writing-related tasks. | [fluent-korean](https://github.com/snflkd/fluent-korean) |
+| 📦 rulesync | undefined | As a framework offering various utility functions, it can expand the overall capabilities of AI agents through combination with other skills. | [rulesync](https://github.com/dyoshikawa/rulesync) |
 
 ---
 
