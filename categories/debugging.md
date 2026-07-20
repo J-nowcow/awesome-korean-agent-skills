@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **9개 항목** · 자동 갱신: 2026-07-20
+> 📦 **10개 항목** · 자동 갱신: 2026-07-20
 <!-- CAT_STATS:END -->
 > 루트 원인 분석, 빌드 에러 해결, 언어별 빌드 리졸버
 
@@ -26,6 +26,7 @@
 | build-fix | CC | TypeScript 빌드 에러 점진적 수정 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/build-fix) |
 
 | ida-pro-mcp | CC/GC | IDA Pro와 언어 모델을 연결하는 리버스 엔지니어링 도우미 | 영+한 | [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) |
+| i-have-adhd | CC/GC | ADHD 친화적인 Claude Code/Gemini CLI 스킬 | 영+한 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
