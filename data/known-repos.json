@@ -4729,7 +4729,12 @@
           "category": "debugging"
         }
       ]
+    },
+    {
+      "url": "https://github.com/civilian7/gostop",
+      "last_scanned": "2026-07-20T18:02:10.877Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-07-20T16:19:11.573Z"
+  "last_updated": "2026-07-20T18:02:10.877Z"
 }
