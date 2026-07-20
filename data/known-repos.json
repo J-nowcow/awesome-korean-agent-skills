@@ -4719,7 +4719,17 @@
           "category": "git-workflow"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "last_scanned": "2026-07-20T16:19:11.573Z",
+      "skills": [
+        {
+          "name": "i-have-adhd",
+          "category": "debugging"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-19T16:58:10.695Z"
+  "last_updated": "2026-07-20T16:19:11.573Z"
 }
