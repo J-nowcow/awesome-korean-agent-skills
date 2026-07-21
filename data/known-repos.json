@@ -4784,7 +4784,17 @@
           "category": "korean-services"
         }
       ]
+    },
+    {
+      "url": "https://github.com/adriannoes/awesome-agentic-ai",
+      "last_scanned": "2026-07-21T20:19:10.824Z",
+      "skills": [
+        {
+          "name": "awesome-agentic-ai",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-21T18:17:10.088Z"
+  "last_updated": "2026-07-21T20:19:10.824Z"
 }
