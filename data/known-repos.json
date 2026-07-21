@@ -4774,7 +4774,17 @@
           "category": "web-frontend"
         }
       ]
+    },
+    {
+      "url": "https://github.com/chatdaeri/ipzitalk",
+      "last_scanned": "2026-07-21T18:17:10.087Z",
+      "skills": [
+        {
+          "name": "ipzitalk",
+          "category": "korean-services"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-21T17:19:22.022Z"
+  "last_updated": "2026-07-21T18:17:10.088Z"
 }

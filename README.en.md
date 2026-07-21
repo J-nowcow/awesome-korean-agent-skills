@@ -114,7 +114,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 | Category | Description | Items |
 |----------|------|:-------:|
-| [Korean Life Services](categories/korean-services.md) | SRT/KTX, parcel tracking, lotto, KBO, KakaoTalk | 7+ |
+| [Korean Life Services](categories/korean-services.md) | SRT/KTX, parcel tracking, lotto, KBO, KakaoTalk | 8+ |
 | [Communication](categories/communication.md) | Email & Slack triage, notification settings | 3+ |
 | [Content & Marketing](categories/content-marketing.md) | Card news, design prompts, image generation | 4+ |
 | [Writing & Korean Language](categories/korean-writing.md) | AI style transfer, spell checking, technical docs | 11+ |
