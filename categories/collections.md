@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **41개 항목** · 자동 갱신: 2026-07-21
+> 📦 **42개 항목** · 자동 갱신: 2026-07-21
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -50,6 +50,7 @@
 | rollinggo-hotel-skill-CN | CC/GC/CX/CP | 글로벌 호텔 실시간 추천 및 예약 스킬 | 다국어(KO) | [rollinggo-hotel-skill-CN](https://github.com/RollingGo-AI/rollinggo-hotel-skill-CN) |
 | antshell | CC | Claude Code 스킬 컬렉션 | 한국어 | [antshell](https://github.com/shiho2v/antshell) |
 | RollingGo-hotel-skill-CN | CC/GC/CX/CP | 글로벌 호텔 검색 및 예약 스킬 | 영+한 | [RollingGo-hotel-skill-CN](https://github.com/RollingGo-AI/RollingGo-hotel-skill-CN) |
+| awesome-agentic-ai | CC/CX/OC | AI 기반 개발 리소스 모음 | 영+한 | [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
