@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-07-21
+> 📦 **21개 항목** · 자동 갱신: 2026-07-21
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -40,6 +40,7 @@
 | interface-design | CC/OC | 일관된 UI 디자인을 위한 Claude Code 스킬 | 영+한 | [interface-design](https://github.com/Dammyjay93/interface-design) |
 | web-design | CC | PRD, URL, 스크린샷으로 웹 디자인 생성 | 영+한 | [web-design](https://github.com/KAOPU-XiaoPu/web-design) |
 | web-design | CC | PRD, URL, 스크린샷으로 웹 디자인 생성 | 영+한 | [web-design](https://github.com/xiaopu-ai/web-design) |
+| claudedesignskills | CC | 3D/WebGL, 애니메이션 웹 개발 스킬 모음 | 영+한 | [claudedesignskills](https://github.com/freshtechbro/claudedesignskills) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
