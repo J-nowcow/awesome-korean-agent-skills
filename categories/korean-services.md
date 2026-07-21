@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-07-21
+> 📦 **8개 항목** · 자동 갱신: 2026-07-21
 <!-- CAT_STATS:END -->
 > 한국에서 일상적으로 쓰는 서비스 자동화
 
@@ -19,6 +19,7 @@
 | 택배 조회 | CC/CX/OC | 배송 추적 | 한국어 | [k-skill](https://github.com/NomaDamas/k-skill) |
 | 토스증권 | CC/CX/OC | 토스증권 연동 | 한국어 | [k-skill](https://github.com/NomaDamas/k-skill) |
 
+| ipzitalk | CC | 부동산 입지 분석 및 분양 정보 제공 | 한국어 | [ipzitalk](https://github.com/chatdaeri/ipzitalk) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
