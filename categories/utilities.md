@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **17개 항목** · 자동 갱신: 2026-07-21
+> 📦 **16개 항목** · 자동 갱신: 2026-07-22
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -33,7 +33,6 @@
 | drawio-skill | CC | 자연어로 draw.io 다이어그램 생성 및 코드 시각화 | 영+한 | [drawio-skill](https://github.com/Agents365-ai/drawio-skill) |
 | getspecstory |  | AI 대화 기록을 검색 가능한 지식으로 저장 | 영+한 | [getspecstory](https://github.com/specstoryai/getspecstory) |
 | SkillOpt | CC/OC | LLM 에이전트의 재사용 가능한 자연어 스킬 최적화 | 영+한 | [SkillOpt](https://github.com/microsoft/SkillOpt) |
-| agent-starter | CC | Claude Code용 스킬 팩 및 에이전트 설정 | 영+한 | [agent-starter](https://github.com/raintree-technology/agent-starter) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
