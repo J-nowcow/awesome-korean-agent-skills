@@ -4784,7 +4784,22 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/RollingGo-AI/rollinggo-hotel-skill-cn",
+      "last_scanned": "2026-07-22T16:12:11.168Z",
+      "skills": [
+        {
+          "name": "rollinggo-hotel-skill-cn",
+          "category": "utilities"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/virastack/cli",
+      "last_scanned": "2026-07-22T16:12:36.419Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-07-21T20:19:10.824Z"
+  "last_updated": "2026-07-22T16:12:36.419Z"
 }
