@@ -4834,7 +4834,17 @@
           "category": "code-review"
         }
       ]
+    },
+    {
+      "url": "https://github.com/aiden-44/aiden-resources",
+      "last_scanned": "2026-07-23T18:14:16.234Z",
+      "skills": [
+        {
+          "name": "aiden-resources",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-23T17:22:10.530Z"
+  "last_updated": "2026-07-23T18:14:16.234Z"
 }
