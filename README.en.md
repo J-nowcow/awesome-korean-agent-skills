@@ -94,7 +94,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 | Category | Description | Items |
 |----------|------|:-------:|
-| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 19+ |
+| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 20+ |
 | [Testing & TDD](categories/testing.md) | Test-driven development, E2E, coverage | 22+ |
 | [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 11+ |
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 21+ |

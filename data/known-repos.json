@@ -4824,7 +4824,17 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/can1357/oh-my-pi",
+      "last_scanned": "2026-07-23T17:22:10.530Z",
+      "skills": [
+        {
+          "name": "oh-my-pi",
+          "category": "code-review"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-23T16:18:34.873Z"
+  "last_updated": "2026-07-23T17:22:10.530Z"
 }
