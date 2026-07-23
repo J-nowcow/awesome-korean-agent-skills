@@ -4804,7 +4804,27 @@
       "url": "https://github.com/sinnarasam/gumi_portfolio",
       "last_scanned": "2026-07-22T18:09:10.621Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "last_scanned": "2026-07-23T16:18:11.046Z",
+      "skills": [
+        {
+          "name": "video-shotcraft",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/virastack/start",
+      "last_scanned": "2026-07-23T16:18:34.873Z",
+      "skills": [
+        {
+          "name": "start",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-22T18:09:10.621Z"
+  "last_updated": "2026-07-23T16:18:34.873Z"
 }
