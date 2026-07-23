@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-07-22
+> 📦 **21개 항목** · 자동 갱신: 2026-07-23
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -43,3 +43,5 @@
 | $plan / $prd / $execute | GC | 계획·PRD·실행 워크플로 | 영+한 | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
 
 | get-shit-done | CC/GC | Claude Code, Gemini CLI 등 AI 개발 시스템 | 다국어(KO) | [get-shit-done](https://github.com/gsd-build/get-shit-done) |
+
+| start |  | 프로젝트 스캐폴딩 및 ViraStack 도구 추가 | 영+한 | [start](https://github.com/virastack/start) |

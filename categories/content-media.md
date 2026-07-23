@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **15개 항목** · 자동 갱신: 2026-07-22
+> 📦 **16개 항목** · 자동 갱신: 2026-07-23
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -26,6 +26,7 @@
 | narrator-ai-cli-skill | CC/GC/CX | AI 기반 영상 자동 제작 스킬 | 영+한 | [narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) |
 | Generative-Media-Skills | CC/GC/CX | AI 에이전트용 생성 미디어 스킬 모음 | 영+한 | [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) |
 | subtitle-pro | CC | YouTube 영상 한글 자막 자동 생성 | 영+한 | [subtitle-pro](https://github.com/revfactory/subtitle-pro) |
+| video-shotcraft | CC/OC | AI 기반 영상 제작 스킬 | 영+한 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
