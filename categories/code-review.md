@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **19개 항목** · 자동 갱신: 2026-07-23
+> 📦 **20개 항목** · 자동 갱신: 2026-07-23
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -23,6 +23,7 @@
 | code-reviewer | CC | 보안, 베스트 프랙티스 전문 리뷰 | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/code-reviewer.md) |
 
 | ponytail | CC/GC | 가장 게으른 시니어 개발자처럼 생각하는 AI 에이전트 | 영+한 | [ponytail](https://github.com/DietrichGebert/ponytail) |
+| oh-my-pi |  | 터미널용 AI 코딩 에이전트 | 영+한 | [oh-my-pi](https://github.com/can1357/oh-my-pi) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
