@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **35개 항목** · 자동 갱신: 2026-07-25
+> 📦 **36개 항목** · 자동 갱신: 2026-07-25
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -28,6 +28,7 @@
 | Understand-Anything | CC/GC | 코드베이스를 대화형 지식 그래프로 변환 | 다국어(KO) | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) |
 | webtoon-harness | CC | 27개 AI 에이전트 팀으로 웹툰 제작 자동화 | 영+한 | [webtoon-harness](https://github.com/revfactory/webtoon-harness) |
 | council-of-high-intelligence | CC/GC | 다중 관점 토론을 통한 의사결정 지원 | 영+한 | [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) |
+| third-brain-v7-skills | CC/GC/CX | AI 에이전트용 지속 가능한 지식 OS 구축 스킬 | 영+한 | [third-brain-v7-skills](https://github.com/Mark393295827/third-brain-v7-skills) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
