@@ -4854,7 +4854,17 @@
       "url": "https://github.com/medusajs/medusa",
       "last_scanned": "2026-07-25T15:54:10.102Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Mark393295827/third-brain-v7-skills",
+      "last_scanned": "2026-07-25T16:56:10.122Z",
+      "skills": [
+        {
+          "name": "third-brain-v7-skills",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-25T15:54:10.102Z"
+  "last_updated": "2026-07-25T16:56:10.123Z"
 }
