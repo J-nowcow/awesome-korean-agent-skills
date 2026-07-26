@@ -4864,7 +4864,12 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/wikibook/mastering-claude-code",
+      "last_scanned": "2026-07-26T18:03:10.683Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-07-25T16:56:10.123Z"
+  "last_updated": "2026-07-26T18:03:10.683Z"
 }
