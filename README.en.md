@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-07-20
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-07-27
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 naver-blog-automation | CC | Naver blog automation is highly practical for Korean users and can be utilized in various ways as an AI agent type. | [naver-blog-automation](https://github.com/choigpt-ai/naver-blog-automation) |
-| ⚡ fluent-korean | CC | This skill improves the Korean output style of Claude Code, offering excellent Korean support and high practicality for writing-related tasks. | [fluent-korean](https://github.com/snflkd/fluent-korean) |
-| 📦 rulesync | undefined | As a framework offering various utility functions, it can expand the overall capabilities of AI agents through combination with other skills. | [rulesync](https://github.com/dyoshikawa/rulesync) |
+| 🤖 code-reviewer | CC | Code review is essential for improving development productivity and quality. 'code-reviewer' is highly practical as it considers various aspects like SOLID principles, security, and performance. It also has good Korean support, making it recommended. | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/code-reviewer.md) |
+| 🔧 youtube-kr-subtitle | CC | Generating Korean subtitles for YouTube content is very useful for improving accessibility and usability. 'youtube-kr-subtitle' has good Korean support and high practicality, making it recommended. | [claude-skill-youtube-kr-subtitle](https://github.com/Koomook/claude-skill-youtube-kr-subtitle) |
+| 📦 k-skill | CC/CX/OC | 'k-skill', which collects skills from various categories, is practical as it includes Korea-specific skills. It offers a mix of different skill types, catering to diverse needs. | [k-skill](https://github.com/NomaDamas/k-skill) |
 
 ---
 
