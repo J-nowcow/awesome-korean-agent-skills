@@ -4869,7 +4869,32 @@
       "url": "https://github.com/wikibook/mastering-claude-code",
       "last_scanned": "2026-07-26T18:03:10.683Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/agentclientprotocol/claude-agent-acp",
+      "last_scanned": "2026-07-27T17:42:10.702Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "last_scanned": "2026-07-27T17:42:34.402Z",
+      "skills": [
+        {
+          "name": "aidlc-workflows",
+          "category": "devops"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "last_scanned": "2026-07-27T17:42:58.596Z",
+      "skills": [
+        {
+          "name": "openinterpreter",
+          "category": "code-review"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-26T18:03:10.683Z"
+  "last_updated": "2026-07-27T17:42:58.596Z"
 }
