@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-07-26
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-07-27
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 naver-blog-automation | CC | 네이버 블로그 자동 작성은 한국 사용자에게 매우 실용적이며, AI 에이전트 타입으로 다양한 활용이 가능합니다. | [naver-blog-automation](https://github.com/choigpt-ai/naver-blog-automation) |
-| ⚡ fluent-korean | CC | 클로드 코드의 한국어 출력 스타일을 개선하는 스킬로, 한국어 지원이 우수하고 글쓰기 관련 실용성이 높습니다. | [fluent-korean](https://github.com/snflkd/fluent-korean) |
-| 📦 rulesync | undefined | 다양한 유틸리티 기능을 제공하는 프레임워크로, 다른 스킬들과의 조합을 통해 전반적인 AI 에이전트의 기능을 확장할 수 있습니다. | [rulesync](https://github.com/dyoshikawa/rulesync) |
+| 🤖 code-reviewer | CC | 코드 리뷰는 개발 생산성과 품질 향상에 필수적이며, SOLID 원칙, 보안, 성능 등 다양한 측면을 고려하는 'code-reviewer'는 실용성이 높습니다. 한국어 지원도 잘 되어 있어 추천합니다. | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/code-reviewer.md) |
+| 🔧 youtube-kr-subtitle | CC | 유튜브 콘텐츠 제작 시 한글 자막 생성은 접근성과 활용도를 높이는 데 매우 유용합니다. 'youtube-kr-subtitle'은 한국어 지원이 잘 되며 실용성이 높아 추천합니다. | [claude-skill-youtube-kr-subtitle](https://github.com/Koomook/claude-skill-youtube-kr-subtitle) |
+| 📦 k-skill | CC/CX/OC | 다양한 카테고리의 스킬을 모아놓은 'k-skill'은 한국 특화 스킬을 포함하고 있어 실용적입니다. 여러 유형의 스킬을 혼합하여 제공하므로 다양한 요구에 부응할 수 있습니다. | [k-skill](https://github.com/NomaDamas/k-skill) |
 
 ---
 
