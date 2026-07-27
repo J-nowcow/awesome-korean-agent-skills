@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-07-27
+> 📦 **21개 항목** · 자동 갱신: 2026-07-27
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -24,6 +24,7 @@
 
 | ponytail | CC/GC | 가장 게으른 시니어 개발자처럼 생각하는 AI 에이전트 | 영+한 | [ponytail](https://github.com/DietrichGebert/ponytail) |
 | oh-my-pi |  | 터미널용 AI 코딩 에이전트 | 영+한 | [oh-my-pi](https://github.com/can1357/oh-my-pi) |
+| openinterpreter |  | 저비용 모델에 최적화된 코딩 에이전트 | 다국어(KO) | [openinterpreter](https://github.com/openinterpreter/openinterpreter) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

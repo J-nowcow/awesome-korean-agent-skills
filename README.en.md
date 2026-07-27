@@ -94,7 +94,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 | Category | Description | Items |
 |----------|------|:-------:|
-| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 20+ |
+| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 21+ |
 | [Testing & TDD](categories/testing.md) | Test-driven development, E2E, coverage | 22+ |
 | [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 11+ |
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 21+ |
@@ -108,7 +108,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 7+ |
 | [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 5+ |
 | [Game Development](categories/game-dev.md) | Unity, Blender, C# | 5+ |
-| [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 20+ |
+| [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 21+ |
 
 ## Daily & Productivity Skills
 
