@@ -4899,7 +4899,27 @@
       "url": "https://github.com/0xwilliamortiz/ponytail-improved",
       "last_scanned": "2026-07-28T16:28:15.587Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/irinabuht12-oss/marketing-skills",
+      "last_scanned": "2026-07-28T17:26:10.355Z",
+      "skills": [
+        {
+          "name": "marketing-skills",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/prisma/prisma",
+      "last_scanned": "2026-07-28T17:26:34.610Z",
+      "skills": [
+        {
+          "name": "prisma",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-28T16:28:15.587Z"
+  "last_updated": "2026-07-28T17:26:34.610Z"
 }
