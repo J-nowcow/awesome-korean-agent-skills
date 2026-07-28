@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **21개 항목** · 자동 갱신: 2026-07-28
+> 📦 **22개 항목** · 자동 갱신: 2026-07-28
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -19,6 +19,7 @@
 | gugbab-claude | CC | Claude Code 에이전트, 스킬, 설정 모음 | 영+한 | [gugbab-claude](https://github.com/puk0806/gugbab-claude) |
 | repobrain | CC/GC/CX/CP/OC/CR/WS | 코드베이스에 AI 두뇌를 부여하는 도구 | 영+한 | [repobrain](https://github.com/study8677/repobrain) |
 | bigpowers | CC/GC | AI 에이전트 개발 방법론 및 스킬 컬렉션 | 영+한 | [bigpowers](https://github.com/danielvm-git/bigpowers) |
+| prisma | CC/GC | AI 에이전트 친화적인 차세대 ORM | 영+한 | [prisma](https://github.com/prisma/prisma) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
