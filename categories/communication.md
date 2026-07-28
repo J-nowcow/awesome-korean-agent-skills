@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **3개 항목** · 자동 갱신: 2026-07-28
+> 📦 **4개 항목** · 자동 갱신: 2026-07-28
 <!-- CAT_STATS:END -->
 > 이메일, 메신저, 알림 관리
 
@@ -21,3 +21,5 @@
 | configure-notifications | CC | Telegram·Discord·Slack 알림 자연어 설정 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/configure-notifications) |
 
 | wechat-claude-code | CC | 위챗으로 Claude Code와 대화하는 스킬 | 영+한 | [wechat-claude-code](https://github.com/Wechat-ggGitHub/wechat-claude-code) |
+
+| kmsg | CC/OC | macOS 카카오톡 CLI 및 MCP 서버 | 영+한 | [kmsg](https://github.com/channprj/kmsg) |

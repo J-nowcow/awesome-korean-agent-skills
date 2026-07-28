@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **14개 항목** · 자동 갱신: 2026-07-28
+> 📦 **15개 항목** · 자동 갱신: 2026-07-28
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -21,6 +21,7 @@
 | Agent-Reach | CC/GC | AI 에이전트의 인터넷 접근 및 정보 검색 기능 제공 | 다국어(KO) | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) |
 | ai-job-search | CC | AI 기반 채용 지원 프레임워크 | 영+한 | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) |
 | open-seo | CC/GC | AI 에이전트용 오픈소스 SEO 도구 | 영+한 | [open-seo](https://github.com/every-app/open-seo) |
+| patent-search-skill | CC/GC/CX/OC | 발명 선행 특허 조사 리포트 생성 | 영+한 | [patent-search-skill](https://github.com/djfksjd/patent-search-skill) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
