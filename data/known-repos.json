@@ -4919,7 +4919,37 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/channprj/kmsg",
+      "last_scanned": "2026-07-28T18:16:11.307Z",
+      "skills": [
+        {
+          "name": "kmsg",
+          "category": "communication"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/djfksjd/patent-search-skill",
+      "last_scanned": "2026-07-28T18:16:35.823Z",
+      "skills": [
+        {
+          "name": "patent-search-skill",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/eisenjimmy/autoTHREADS",
+      "last_scanned": "2026-07-28T18:16:59.813Z",
+      "skills": [
+        {
+          "name": "autoTHREADS",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-28T17:26:34.610Z"
+  "last_updated": "2026-07-28T18:16:59.814Z"
 }
