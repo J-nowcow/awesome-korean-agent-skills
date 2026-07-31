@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-07-31
+> 📦 **8개 항목** · 자동 갱신: 2026-07-31
 <!-- CAT_STATS:END -->
 > NestJS, FastAPI, API 설계, 데이터베이스
 
@@ -26,3 +26,5 @@
 | Isajjim-AI |  | 이사 가능한 객체 탐지 및 3D 모델 생성 API | 영+한 | [Isajjim-AI](https://github.com/FitTruck/Isajjim-AI) |
 
 | raillo-backend | CC | 코레일 클론코딩 백엔드 프로젝트 | 영+한 | [raillo-backend](https://github.com/penggu-dev/raillo-backend) |
+
+| dotnet-claude-kit | CC | .NET 프로젝트를 위한 Claude Code 전문가 도구 | 영+한 | [dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit) |
