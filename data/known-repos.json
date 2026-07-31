@@ -4964,7 +4964,17 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/codewithmukesh/dotnet-claude-kit",
+      "last_scanned": "2026-07-31T17:28:10.119Z",
+      "skills": [
+        {
+          "name": "dotnet-claude-kit",
+          "category": "backend"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-31T16:29:10.310Z"
+  "last_updated": "2026-07-31T17:28:10.119Z"
 }
