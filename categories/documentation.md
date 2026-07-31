@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **17개 항목** · 자동 갱신: 2026-07-31
+> 📦 **18개 항목** · 자동 갱신: 2026-07-31
 <!-- CAT_STATS:END -->
 > 기술 문서 생성, 한국어 문서 작성, 코드맵
 
@@ -33,6 +33,7 @@
 | arc-kit | CC | 엔터프라이즈 아키텍처 거버넌스 도구 | 영+한 | [arc-kit](https://github.com/tractorjuice/arc-kit) |
 | starknet.js | CC/GC/CX | Starknet.js JavaScript 라이브러리 스킬 | 영+한 | [starknet.js](https://github.com/starknet-io/starknet.js) |
 | note-organizer | CC | 문서, PDF, PPT 등을 마크다운 노트로 정리 | 영+한 | [note-organizer](https://github.com/Renakoni/note-organizer) |
+| archify | CC/GC/CX/OC | 코드베이스를 인터랙티브한 시스템 지도로 변환 | 영+한 | [archify](https://github.com/tt-a1i/archify) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

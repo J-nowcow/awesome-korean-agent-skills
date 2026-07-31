@@ -4954,7 +4954,17 @@
       "url": "https://github.com/dbt-labs/docs.getdbt.com",
       "last_scanned": "2026-07-30T17:26:10.479Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/tt-a1i/archify",
+      "last_scanned": "2026-07-31T16:29:10.310Z",
+      "skills": [
+        {
+          "name": "archify",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-07-30T17:26:10.479Z"
+  "last_updated": "2026-07-31T16:29:10.310Z"
 }
