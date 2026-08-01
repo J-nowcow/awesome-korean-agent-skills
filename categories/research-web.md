@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **15개 항목** · 자동 갱신: 2026-08-01
+> 📦 **16개 항목** · 자동 갱신: 2026-08-01
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -22,6 +22,7 @@
 | ai-job-search | CC | AI 기반 채용 지원 프레임워크 | 영+한 | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) |
 | open-seo | CC/GC | AI 에이전트용 오픈소스 SEO 도구 | 영+한 | [open-seo](https://github.com/every-app/open-seo) |
 | patent-search-skill | CC/GC/CX/OC | 발명 선행 특허 조사 리포트 생성 | 영+한 | [patent-search-skill](https://github.com/djfksjd/patent-search-skill) |
+| apostle-skills |  | 진지한 사고, 독서, 연구, 번역을 위한 스킬 | 영+한 | [apostle-skills](https://github.com/kaile9/apostle-skills) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

@@ -63,7 +63,7 @@
 | [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 18+ |
 | [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 11+ |
 | [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 8+ |
-| [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 15+ |
+| [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 16+ |
 
 ## 종합 레포
 
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>383+</h2></td>
-<td><h2>791</h2></td>
+<td><h2>384+</h2></td>
+<td><h2>792</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -232,7 +232,7 @@ pie showData
 <tr align="center">
 <td><b>10</b> run · <b>+10</b> 스킬</td>
 <td><b>6</b> run · <b>-0</b> dead link</td>
-<td><b>14</b> run</td>
+<td><b>15</b> run</td>
 <td><b>1</b> run</td>
 </tr>
 </table>
@@ -247,7 +247,7 @@ pie showData
 | 2026-07-29 | · | **1** | **2** | · |
 | 2026-07-30 | **1** | · | **2** | · |
 | 2026-07-31 | **2** | **1** | **2** | · |
-| 2026-08-01 | · | **1** | · | · |
+| 2026-08-01 | · | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
