@@ -4984,7 +4984,17 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/joshephan/claude-code-master-class",
+      "last_scanned": "2026-08-01T18:04:09.940Z",
+      "skills": [
+        {
+          "name": "claude-code-master-class",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-01T15:49:10.557Z"
+  "last_updated": "2026-08-01T18:04:09.940Z"
 }
