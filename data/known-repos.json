@@ -5004,7 +5004,12 @@
           "category": "web-frontend"
         }
       ]
+    },
+    {
+      "url": "https://github.com/leaf-kit/book-graph-engineering",
+      "last_scanned": "2026-08-02T18:02:10.446Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-08-02T16:57:10.072Z"
+  "last_updated": "2026-08-02T18:02:10.446Z"
 }
