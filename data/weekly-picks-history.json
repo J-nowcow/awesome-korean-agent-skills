@@ -25,6 +25,32 @@
           "tools": "CC/CX/OC"
         }
       ]
+    },
+    {
+      "date": "2026-08-03",
+      "items": [
+        {
+          "name": "code-reviewer",
+          "repo": "affaan-m/everything-claude-code",
+          "category": "code-review",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "my-claude-code-asset",
+          "repo": "jh941213/my-claude-code-asset",
+          "category": "collections",
+          "type": "📦",
+          "tools": "CC"
+        },
+        {
+          "name": "chief-of-staff",
+          "repo": "affaan-m/everything-claude-code",
+          "category": "communication",
+          "type": "🤖",
+          "tools": "CC"
+        }
+      ]
     }
   ]
 }

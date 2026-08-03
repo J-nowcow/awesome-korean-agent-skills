@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-07-27
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-08-03
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | Code review is essential for improving development productivity and quality. 'code-reviewer' is highly practical as it considers various aspects like SOLID principles, security, and performance. It also has good Korean support, making it recommended. | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/code-reviewer.md) |
-| 🔧 youtube-kr-subtitle | CC | Generating Korean subtitles for YouTube content is very useful for improving accessibility and usability. 'youtube-kr-subtitle' has good Korean support and high practicality, making it recommended. | [claude-skill-youtube-kr-subtitle](https://github.com/Koomook/claude-skill-youtube-kr-subtitle) |
-| 📦 k-skill | CC/CX/OC | 'k-skill', which collects skills from various categories, is practical as it includes Korea-specific skills. It offers a mix of different skill types, catering to diverse needs. | [k-skill](https://github.com/NomaDamas/k-skill) |
+| 🤖 code-reviewer | CC | The 'code-reviewer' is a practical agent essential for all code changes, comprehensively reviewing code quality and security. It supports various languages and has good Korean descriptions. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/code-reviewer.md) |
+| 📦 my-claude-code-asset | CC | 'my-claude-code-asset' is a vast collection including 34 skills and 12 agents, covering diverse categories with excellent Korean support, making it highly practical. | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset) |
+| 🤖 chief-of-staff | CC | 'chief-of-staff' is a practical agent that assists with triaging and drafting replies for communication tools like email and Slack. It supports various channels and has clear Korean descriptions. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/chief-of-staff.md) |
 
 ---
 
