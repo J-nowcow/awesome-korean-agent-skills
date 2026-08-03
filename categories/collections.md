@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **43개 항목** · 자동 갱신: 2026-08-03
+> 📦 **44개 항목** · 자동 갱신: 2026-08-03
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -52,6 +52,7 @@
 | RollingGo-hotel-skill-CN | CC/GC/CX/CP | 글로벌 호텔 검색 및 예약 스킬 | 영+한 | [RollingGo-hotel-skill-CN](https://github.com/RollingGo-AI/RollingGo-hotel-skill-CN) |
 | awesome-agentic-ai | CC/CX/OC | AI 기반 개발 리소스 모음 | 영+한 | [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) |
 | claude-code-master-class | CC | 클로드 코드 마스터 클래스 스킬 모음 | 영+한 | [claude-code-master-class](https://github.com/joshephan/claude-code-master-class) |
+| skills | CC/GC | Remotion 프로젝트를 위한 AI 에이전트 스킬 모음 | 영+한 | [skills](https://github.com/remotion-dev/skills) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
