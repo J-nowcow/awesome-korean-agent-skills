@@ -5009,7 +5009,27 @@
       "url": "https://github.com/leaf-kit/book-graph-engineering",
       "last_scanned": "2026-08-02T18:02:10.446Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/AI-Builder-Club/skills",
+      "last_scanned": "2026-08-03T17:04:10.437Z",
+      "skills": [
+        {
+          "name": "skills",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/remotion-dev/skills",
+      "last_scanned": "2026-08-03T17:04:34.794Z",
+      "skills": [
+        {
+          "name": "skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-02T18:02:10.446Z"
+  "last_updated": "2026-08-03T17:04:34.794Z"
 }
