@@ -5034,7 +5034,17 @@
       "url": "https://github.com/modelcontextprotocol/typescript-sdk",
       "last_scanned": "2026-08-03T20:28:09.805Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "last_scanned": "2026-08-04T16:46:10.882Z",
+      "skills": [
+        {
+          "name": "academic-research-skills",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-03T20:28:09.805Z"
+  "last_updated": "2026-08-04T16:46:10.882Z"
 }
