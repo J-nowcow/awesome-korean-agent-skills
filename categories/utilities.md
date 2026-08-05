@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **17개 항목** · 자동 갱신: 2026-08-05
+> 📦 **18개 항목** · 자동 갱신: 2026-08-05
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -34,6 +34,7 @@
 | getspecstory |  | AI 대화 기록을 검색 가능한 지식으로 저장 | 영+한 | [getspecstory](https://github.com/specstoryai/getspecstory) |
 | SkillOpt | CC/OC | LLM 에이전트의 재사용 가능한 자연어 스킬 최적화 | 영+한 | [SkillOpt](https://github.com/microsoft/SkillOpt) |
 | rollinggo-hotel-skill-cn | CC/CX/CP | 글로벌 호텔 예약 및 가격 모니터링 | 영+한 | [rollinggo-hotel-skill-cn](https://github.com/RollingGo-AI/rollinggo-hotel-skill-cn) |
+| attention-control | CC/OC | 에이전트 출력 제어를 위한 도구 | 영+한 | [attention-control](https://github.com/aaddrick/attention-control) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

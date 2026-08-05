@@ -5044,7 +5044,22 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "last_scanned": "2026-08-05T16:25:10.597Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/aaddrick/attention-control",
+      "last_scanned": "2026-08-05T16:25:40.389Z",
+      "skills": [
+        {
+          "name": "attention-control",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-04T16:46:10.882Z"
+  "last_updated": "2026-08-05T16:25:40.389Z"
 }
