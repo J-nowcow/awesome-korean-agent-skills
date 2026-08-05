@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **37개 항목** · 자동 갱신: 2026-08-05
+> 📦 **38개 항목** · 자동 갱신: 2026-08-05
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -52,6 +52,7 @@
 | alook |  | AI 에이전트 협업 플랫폼 | 영+한 | [alook](https://github.com/alookai/alook) |
 | agency-orchestrator | CC/GC | AI 전문가 팀을 구성하여 업무 자동화 | 영+한 | [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) |
 | skills | CC | 자율 실행 에이전트 루프 구축 | 영+한 | [skills](https://github.com/AI-Builder-Club/skills) |
+| cc-haha | CC | 다양한 AI 모델을 지원하는 데스크톱 에이전트 워크스페이스 | 다국어(KO) | [cc-haha](https://github.com/NanmiCoder/cc-haha) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

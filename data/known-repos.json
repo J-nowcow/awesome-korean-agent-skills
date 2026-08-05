@@ -5059,7 +5059,17 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/NanmiCoder/cc-haha",
+      "last_scanned": "2026-08-05T17:29:10.269Z",
+      "skills": [
+        {
+          "name": "cc-haha",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-05T16:25:40.389Z"
+  "last_updated": "2026-08-05T17:29:10.269Z"
 }
