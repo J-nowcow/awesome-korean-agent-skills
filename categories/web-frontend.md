@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-08-06
+> 📦 **23개 항목** · 자동 갱신: 2026-08-07
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -42,6 +42,7 @@
 | web-design | CC | PRD, URL, 스크린샷으로 웹 디자인 생성 | 영+한 | [web-design](https://github.com/xiaopu-ai/web-design) |
 | claudedesignskills | CC | 3D/WebGL, 애니메이션 웹 개발 스킬 모음 | 영+한 | [claudedesignskills](https://github.com/freshtechbro/claudedesignskills) |
 | impeccable-lite | CC/GC | AI 디자인 품질 향상 스킬 | 영+한 | [impeccable-lite](https://github.com/ilindaniel/impeccable-lite) |
+| auteur | CC/GC | 웹사이트를 영화처럼 연출하는 Claude Code 스킬 | 영+한 | [auteur](https://github.com/agiwhitelist/auteur) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

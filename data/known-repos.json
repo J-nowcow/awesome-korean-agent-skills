@@ -5079,7 +5079,17 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/agiwhitelist/auteur",
+      "last_scanned": "2026-08-07T00:41:10.227Z",
+      "skills": [
+        {
+          "name": "auteur",
+          "category": "web-frontend"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-06T23:54:10.335Z"
+  "last_updated": "2026-08-07T00:41:10.227Z"
 }
