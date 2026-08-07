@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-08-07
+> 📦 **14개 항목** · 자동 갱신: 2026-08-07
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -28,12 +28,14 @@
 | vibeclass101 | CC | 클로드 코드 실습 및 명령어 가이드 | 한국어 | [vibeclass101](https://github.com/taehojo/vibeclass101) |
 | KoChatGPT |  | ChatGPT RLHF 학습 한국어 데이터셋 | 한국어 | [KoChatGPT](https://github.com/airobotlab/KoChatGPT) |
 | aiden-resources | CC | Aiden의 친절한 AI 영상 가이드 모음 | 한국어 | [aiden-resources](https://github.com/aiden-44/aiden-resources) |
+| aiden-resources | CC | AI 도구 사용법 및 프롬프트 모음 | 한국어 | [aiden-resources](https://github.com/aiden-organization/aiden-resources) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | Codex_King | OC | AI 에이전트와 함께하는 GPT & Codex 기초부터 고급까지 | 한국어 | [Codex_King](https://github.com/lsszz2100/Codex_King) |
 
+| ai_service_engineering | GC | AI 서비스 엔지니어링 VOD 강의 자료 | 영+한 | [ai_service_engineering](https://github.com/CodeCompose7/ai_service_engineering) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

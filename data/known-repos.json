@@ -5109,7 +5109,27 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/CodeCompose7/ai_service_engineering",
+      "last_scanned": "2026-08-07T18:45:10.214Z",
+      "skills": [
+        {
+          "name": "ai_service_engineering",
+          "category": "guides"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/aiden-organization/aiden-resources",
+      "last_scanned": "2026-08-07T18:45:34.111Z",
+      "skills": [
+        {
+          "name": "aiden-resources",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-07T17:51:10.293Z"
+  "last_updated": "2026-08-07T18:45:34.111Z"
 }
