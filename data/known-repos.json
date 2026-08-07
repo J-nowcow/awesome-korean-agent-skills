@@ -5089,7 +5089,17 @@
           "category": "web-frontend"
         }
       ]
+    },
+    {
+      "url": "https://github.com/jcottam/agent-resources",
+      "last_scanned": "2026-08-07T16:54:10.701Z",
+      "skills": [
+        {
+          "name": "agent-resources",
+          "category": "git-workflow"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-07T00:41:10.227Z"
+  "last_updated": "2026-08-07T16:54:10.701Z"
 }
