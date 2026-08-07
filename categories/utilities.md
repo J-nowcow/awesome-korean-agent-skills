@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **18개 항목** · 자동 갱신: 2026-08-07
+> 📦 **19개 항목** · 자동 갱신: 2026-08-07
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -44,6 +44,7 @@
 | long |  | Elixir 기반 LLM 에이전트 런타임 | 영+한 | [long](https://github.com/mjason/long) |
 
 | kimi-cli |  | 터미널 기반 AI 개발 에이전트 | 영+한 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli) |
+| prime-agent |  | 코딩 및 자율 작업용 RLM 에이전트 | 영+한 | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

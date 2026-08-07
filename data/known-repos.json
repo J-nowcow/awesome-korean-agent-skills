@@ -5099,7 +5099,17 @@
           "category": "git-workflow"
         }
       ]
+    },
+    {
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "last_scanned": "2026-08-07T17:51:10.293Z",
+      "skills": [
+        {
+          "name": "prime-agent",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-07T16:54:10.701Z"
+  "last_updated": "2026-08-07T17:51:10.293Z"
 }
