@@ -5129,7 +5129,17 @@
           "category": "guides"
         }
       ]
+    },
+    {
+      "url": "https://github.com/amElnagdy/delegate-skills",
+      "last_scanned": "2026-08-08T16:32:09.923Z",
+      "skills": [
+        {
+          "name": "delegate-skills",
+          "category": "git-workflow"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-07T18:45:34.111Z"
+  "last_updated": "2026-08-08T16:32:09.923Z"
 }

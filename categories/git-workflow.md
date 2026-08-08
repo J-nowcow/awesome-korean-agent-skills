@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-08-08
+> 📦 **21개 항목** · 자동 갱신: 2026-08-08
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -28,6 +28,7 @@
 | dont-git-afraid | CC | Git 사용법을 쉽게 알려주는 AI 에이전트 스킬 | 한국어 | [dont-git-afraid](https://github.com/rubric-dev/dont-git-afraid) |
 | cognee |  | AI 에이전트용 오픈소스 AI 메모리 플랫폼 | 다국어(KO) | [cognee](https://github.com/topoteretes/cognee) |
 | agent-resources | CC/CX | 다양한 AI 에이전트용 재사용 가능한 워크플로우 모음 | 영+한 | [agent-resources](https://github.com/jcottam/agent-resources) |
+| delegate-skills | CC | 코딩 작업을 AI 에이전트에게 위임 | 영+한 | [delegate-skills](https://github.com/amElnagdy/delegate-skills) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
