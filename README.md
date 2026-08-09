@@ -232,7 +232,7 @@ pie showData
 <tr align="center">
 <td><b>13</b> run · <b>+13</b> 스킬</td>
 <td><b>8</b> run · <b>-0</b> dead link</td>
-<td><b>14</b> run</td>
+<td><b>15</b> run</td>
 <td><b>1</b> run</td>
 </tr>
 </table>
@@ -247,7 +247,7 @@ pie showData
 | 2026-08-06 | **1** | **1** | **1** | · |
 | 2026-08-07 | **4** | **1** | **3** | · |
 | 2026-08-08 | **1** | **1** | **2** | · |
-| 2026-08-09 | · | **1** | · | · |
+| 2026-08-09 | · | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
