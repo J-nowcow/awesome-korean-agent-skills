@@ -51,6 +51,32 @@
           "tools": "CC"
         }
       ]
+    },
+    {
+      "date": "2026-08-10",
+      "items": [
+        {
+          "name": "code-reviewer",
+          "repo": "sangrokjung/claude-forge",
+          "category": "code-review",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "ci-cd-patterns",
+          "repo": "m16khb/claude-integration",
+          "category": "devops",
+          "type": "🔧",
+          "tools": "CC"
+        },
+        {
+          "name": "humanizer",
+          "repo": "daleseo/korean-skills",
+          "category": "korean-writing",
+          "type": "🔧",
+          "tools": "CC/CR/WS"
+        }
+      ]
     }
   ]
 }

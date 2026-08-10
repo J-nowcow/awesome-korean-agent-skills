@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-08-09
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-08-10
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | 코드 품질과 보안을 종합적으로 검토하는 'code-reviewer'는 모든 코드 변경에 필수적인 실용적인 에이전트입니다. 다양한 언어를 지원하며 한국어 설명이 잘 되어 있습니다. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/code-reviewer.md) |
-| 📦 my-claude-code-asset | CC | 'my-claude-code-asset'은 34개의 스킬과 12개의 에이전트를 포함하는 방대한 컬렉션으로, 다양한 카테고리를 아우르며 한국어 지원이 우수하여 실용성이 높습니다. | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset) |
-| 🤖 chief-of-staff | CC | 'chief-of-staff'는 이메일, Slack 등 커뮤니케이션 도구의 트리아지 및 답장 초안 작성을 돕는 실용적인 에이전트입니다. 다양한 채널을 지원하며 한국어 설명이 명확합니다. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/chief-of-staff.md) |
+| 🤖 code-reviewer | CC | 다양한 카테고리에서 고르게 선택하기 위해 코드 리뷰 분야에서 실용성이 높은 'code-reviewer'를 추천합니다. 보안과 품질을 통합적으로 검토하여 개발 생산성을 높일 수 있습니다. | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/agents/code-reviewer.md) |
+| 🔧 ci-cd-patterns | CC | DevOps 분야에서 실용성이 높은 'ci-cd-patterns'를 추천합니다. GitHub Actions 및 배포 전략 패턴을 다루어 CI/CD 파이프라인 구축에 도움을 줄 수 있습니다. | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/plugins/full-stack-orchestration/skills/ci-cd-patterns) |
+| 🔧 humanizer | CC/CR/WS | 한국어 지원이 우수하고 실용성이 높은 'humanizer'를 추천합니다. AI가 작성한 글을 사람 문체로 변환하여 자연스러운 결과물을 얻는 데 유용합니다. | [korean-skills](https://github.com/daleseo/korean-skills) |
 
 ---
 
