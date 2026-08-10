@@ -5159,7 +5159,17 @@
           "category": "korean-services"
         }
       ]
+    },
+    {
+      "url": "https://github.com/tutti-os/tutti",
+      "last_scanned": "2026-08-10T19:56:10.080Z",
+      "skills": [
+        {
+          "name": "tutti",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-10T18:48:10.403Z"
+  "last_updated": "2026-08-10T19:56:10.080Z"
 }
