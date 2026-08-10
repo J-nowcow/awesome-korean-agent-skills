@@ -5149,7 +5149,17 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/pblsketch/worksheet-grab",
+      "last_scanned": "2026-08-10T18:48:10.403Z",
+      "skills": [
+        {
+          "name": "worksheet-grab",
+          "category": "korean-services"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-10T17:53:10.721Z"
+  "last_updated": "2026-08-10T18:48:10.403Z"
 }

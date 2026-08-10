@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **8개 항목** · 자동 갱신: 2026-08-10
+> 📦 **9개 항목** · 자동 갱신: 2026-08-10
 <!-- CAT_STATS:END -->
 > 한국에서 일상적으로 쓰는 서비스 자동화
 
@@ -20,6 +20,7 @@
 | 토스증권 | CC/CX/OC | 토스증권 연동 | 한국어 | [k-skill](https://github.com/NomaDamas/k-skill) |
 
 | ipzitalk | CC | 부동산 입지 분석 및 분양 정보 제공 | 한국어 | [ipzitalk](https://github.com/chatdaeri/ipzitalk) |
+| worksheet-grab | CC/GC | AI 기반 활동지 생성 및 편집 도구 | 한국어 | [worksheet-grab](https://github.com/pblsketch/worksheet-grab) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
