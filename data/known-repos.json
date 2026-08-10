@@ -5139,7 +5139,17 @@
           "category": "git-workflow"
         }
       ]
+    },
+    {
+      "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+      "last_scanned": "2026-08-10T17:53:10.721Z",
+      "skills": [
+        {
+          "name": "geo-seo-claude",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-08T16:32:09.923Z"
+  "last_updated": "2026-08-10T17:53:10.721Z"
 }
