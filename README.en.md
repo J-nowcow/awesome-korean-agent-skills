@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-08-03
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-08-10
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | The 'code-reviewer' is a practical agent essential for all code changes, comprehensively reviewing code quality and security. It supports various languages and has good Korean descriptions. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/code-reviewer.md) |
-| 📦 my-claude-code-asset | CC | 'my-claude-code-asset' is a vast collection including 34 skills and 12 agents, covering diverse categories with excellent Korean support, making it highly practical. | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset) |
-| 🤖 chief-of-staff | CC | 'chief-of-staff' is a practical agent that assists with triaging and drafting replies for communication tools like email and Slack. It supports various channels and has clear Korean descriptions. | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/chief-of-staff.md) |
+| 🤖 code-reviewer | CC | To ensure a balanced selection across categories, I recommend 'code-reviewer' for its high practicality in the code review domain. It integrates security and quality checks, enhancing development productivity. | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/agents/code-reviewer.md) |
+| 🔧 ci-cd-patterns | CC | I recommend 'ci-cd-patterns' for its high practicality in the DevOps field. It covers GitHub Actions and deployment strategy patterns, which can aid in building CI/CD pipelines. | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/plugins/full-stack-orchestration/skills/ci-cd-patterns) |
+| 🔧 humanizer | CC/CR/WS | I recommend 'humanizer' for its excellent Korean support and high practicality. It's useful for transforming AI-generated text into a human-like style, resulting in more natural outputs. | [korean-skills](https://github.com/daleseo/korean-skills) |
 
 ---
 
