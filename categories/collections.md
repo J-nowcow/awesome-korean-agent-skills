@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **45개 항목** · 자동 갱신: 2026-08-11
+> 📦 **46개 항목** · 자동 갱신: 2026-08-11
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -53,6 +53,7 @@
 | awesome-agentic-ai | CC/CX/OC | AI 기반 개발 리소스 모음 | 영+한 | [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) |
 | claude-code-master-class | CC | 클로드 코드 마스터 클래스 스킬 모음 | 영+한 | [claude-code-master-class](https://github.com/joshephan/claude-code-master-class) |
 | skills | CC/GC | Remotion 프로젝트를 위한 AI 에이전트 스킬 모음 | 영+한 | [skills](https://github.com/remotion-dev/skills) |
+| claude-cowork-book | CC | 클로드 에이전트 협업 스킬 모음 | 한국어 | [claude-cowork-book](https://github.com/uxjoseph/claude-cowork-book) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

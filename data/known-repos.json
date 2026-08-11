@@ -5214,7 +5214,17 @@
           "category": "web-frontend"
         }
       ]
+    },
+    {
+      "url": "https://github.com/uxjoseph/claude-cowork-book",
+      "last_scanned": "2026-08-11T18:53:53.445Z",
+      "skills": [
+        {
+          "name": "claude-cowork-book",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-11T17:57:34.777Z"
+  "last_updated": "2026-08-11T18:53:53.445Z"
 }
