@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **44개 항목** · 자동 갱신: 2026-08-11
+> 📦 **45개 항목** · 자동 갱신: 2026-08-11
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -74,3 +74,5 @@
 | ponytail-lite | CC/GC | 에이전트의 과도한 엔지니어링 방지 | 영+한 | [ponytail-lite](https://github.com/ilindaniel/ponytail-lite) |
 
 | CLAUDE.md | CC/GC/CX/CP/OC | 코딩 에이전트 지침 모음 | 영+한 | [CLAUDE.md](https://github.com/jbarbier/CLAUDE.md) |
+
+| nihaixia | CC | 倪海厦中医思维AI 에이전트 스킬 컬렉션 | 다국어(KO) | [nihaixia](https://github.com/jangviktor-web/nihaixia) |

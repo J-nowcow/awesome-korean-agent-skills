@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **39개 항목** · 자동 갱신: 2026-08-11
+> 📦 **40개 항목** · 자동 갱신: 2026-08-11
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -54,6 +54,7 @@
 | skills | CC | 자율 실행 에이전트 루프 구축 | 영+한 | [skills](https://github.com/AI-Builder-Club/skills) |
 | cc-haha | CC | 다양한 AI 모델을 지원하는 데스크톱 에이전트 워크스페이스 | 다국어(KO) | [cc-haha](https://github.com/NanmiCoder/cc-haha) |
 | tutti |  | AI 에이전트 협업 및 워크스페이스 | 다국어(KO) | [tutti](https://github.com/tutti-os/tutti) |
+| orca |  | 병렬 에이전트 실행을 위한 AI 오케스트레이터 | 다국어(KO) | [orca](https://github.com/stablyai/orca) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

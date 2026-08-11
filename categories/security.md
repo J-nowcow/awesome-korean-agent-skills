@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **11개 항목** · 자동 갱신: 2026-08-11
+> 📦 **12개 항목** · 자동 갱신: 2026-08-11
 <!-- CAT_STATS:END -->
 > OWASP, 시크릿 탐지, 위협 모델링, AWS 보안
 
@@ -25,6 +25,7 @@
 | security-pipeline | CC | CWE Top 25 + STRIDE 자동 보안 파이프라인 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/security-pipeline) |
 
 | ctf-skills | CC | CTF 챌린지 해결을 위한 AI 스킬 모음 | 영+한 | [ctf-skills](https://github.com/ljagiello/ctf-skills) |
+| Claude-BugHunter | CC | 버그 헌팅 및 레드팀 작업을 위한 Claude 코드 스킬 번들 | 영+한 | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
