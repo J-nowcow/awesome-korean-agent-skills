@@ -5204,7 +5204,17 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/CloudAI-X/threejs-skills",
+      "last_scanned": "2026-08-11T17:57:34.776Z",
+      "skills": [
+        {
+          "name": "threejs-skills",
+          "category": "web-frontend"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-11T16:58:10.241Z"
+  "last_updated": "2026-08-11T17:57:34.777Z"
 }
