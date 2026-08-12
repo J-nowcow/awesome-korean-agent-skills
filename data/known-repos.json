@@ -5224,7 +5224,22 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/claude-code-expert/tika",
+      "last_scanned": "2026-08-12T18:54:18.114Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/geniuskey/vibe-coding",
+      "last_scanned": "2026-08-12T18:54:52.896Z",
+      "skills": [
+        {
+          "name": "vibe-coding",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-11T18:53:53.445Z"
+  "last_updated": "2026-08-12T18:54:52.896Z"
 }
