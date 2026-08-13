@@ -5239,7 +5239,22 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/kleosr/cursorkleosr",
+      "last_scanned": "2026-08-13T16:55:12.876Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/titanwings/colleague-skill",
+      "last_scanned": "2026-08-13T16:55:46.943Z",
+      "skills": [
+        {
+          "name": "colleague-skill",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-12T18:54:52.896Z"
+  "last_updated": "2026-08-13T16:55:46.943Z"
 }
