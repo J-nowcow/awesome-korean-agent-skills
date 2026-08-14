@@ -5254,7 +5254,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Nexters/Git-It-iOS",
+      "last_scanned": "2026-08-14T18:44:36.108Z",
+      "skills": [
+        {
+          "name": "Git-It-iOS",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-13T16:55:46.943Z"
+  "last_updated": "2026-08-14T18:44:36.108Z"
 }
