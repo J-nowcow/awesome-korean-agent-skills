@@ -5264,7 +5264,12 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "last_scanned": "2026-08-15T15:08:32.939Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-08-14T18:44:36.108Z"
+  "last_updated": "2026-08-15T15:08:32.939Z"
 }
