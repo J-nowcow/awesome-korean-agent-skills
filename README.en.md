@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-08-10
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-08-17
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | To ensure a balanced selection across categories, I recommend 'code-reviewer' for its high practicality in the code review domain. It integrates security and quality checks, enhancing development productivity. | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/agents/code-reviewer.md) |
-| 🔧 ci-cd-patterns | CC | I recommend 'ci-cd-patterns' for its high practicality in the DevOps field. It covers GitHub Actions and deployment strategy patterns, which can aid in building CI/CD pipelines. | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/plugins/full-stack-orchestration/skills/ci-cd-patterns) |
-| 🔧 humanizer | CC/CR/WS | I recommend 'humanizer' for its excellent Korean support and high practicality. It's useful for transforming AI-generated text into a human-like style, resulting in more natural outputs. | [korean-skills](https://github.com/daleseo/korean-skills) |
+| 🤖 code-reviewer | CC | Code review is essential for improving development productivity and quality, and this skill is highly practical as it specializes in security and best practices. It also has excellent Korean support. | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/code-reviewer.md) |
+| 🔧 korean-docs | CC | Creating professional Korean technical documentation is a great help to the developer community, and this skill supports various documents such as README, API, and guides. It is highly practical. | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills/korean-docs) |
+| 🤖 naver-blog-automation | CC | AI-based automatic writing of Naver blog posts is a practical skill that can dramatically increase content productivity. It has excellent Korean support and can be applied to various fields. | [naver-blog-automation](https://github.com/choigpt-ai/naver-blog-automation) |
 
 ---
 
