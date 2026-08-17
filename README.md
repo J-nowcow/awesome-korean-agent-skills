@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-08-16
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-08-17
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | 다양한 카테고리에서 고르게 선택하기 위해 코드 리뷰 분야에서 실용성이 높은 'code-reviewer'를 추천합니다. 보안과 품질을 통합적으로 검토하여 개발 생산성을 높일 수 있습니다. | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/agents/code-reviewer.md) |
-| 🔧 ci-cd-patterns | CC | DevOps 분야에서 실용성이 높은 'ci-cd-patterns'를 추천합니다. GitHub Actions 및 배포 전략 패턴을 다루어 CI/CD 파이프라인 구축에 도움을 줄 수 있습니다. | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/plugins/full-stack-orchestration/skills/ci-cd-patterns) |
-| 🔧 humanizer | CC/CR/WS | 한국어 지원이 우수하고 실용성이 높은 'humanizer'를 추천합니다. AI가 작성한 글을 사람 문체로 변환하여 자연스러운 결과물을 얻는 데 유용합니다. | [korean-skills](https://github.com/daleseo/korean-skills) |
+| 🤖 code-reviewer | CC | 코드 리뷰는 개발 생산성과 품질 향상에 필수적이며, 이 스킬은 보안 및 베스트 프랙티스에 특화되어 있어 실용성이 높습니다. 한국어 지원도 우수합니다. | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/code-reviewer.md) |
+| 🔧 korean-docs | CC | 전문적인 한국어 기술 문서 작성은 개발자 커뮤니티에 큰 도움이 되며, 이 스킬은 README, API, 가이드 등 다양한 문서를 지원합니다. 실용성이 매우 높습니다. | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills/korean-docs) |
+| 🤖 naver-blog-automation | CC | AI 기반 네이버 블로그 글 자동 작성은 콘텐츠 생산성을 혁신적으로 높일 수 있는 실용적인 스킬입니다. 한국어 지원이 뛰어나며, 다양한 분야에 적용 가능합니다. | [naver-blog-automation](https://github.com/choigpt-ai/naver-blog-automation) |
 
 ---
 

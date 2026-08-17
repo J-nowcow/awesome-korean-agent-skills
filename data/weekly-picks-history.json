@@ -77,6 +77,32 @@
           "tools": "CC/CR/WS"
         }
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "items": [
+        {
+          "name": "code-reviewer",
+          "repo": "Dev-GOM/claude-code-marketplace",
+          "category": "code-review",
+          "type": "🤖",
+          "tools": "CC"
+        },
+        {
+          "name": "korean-docs",
+          "repo": "roboco-io/plugins",
+          "category": "documentation",
+          "type": "🔧",
+          "tools": "CC"
+        },
+        {
+          "name": "naver-blog-automation",
+          "repo": "choigpt-ai/naver-blog-automation",
+          "category": "korean-writing",
+          "type": "🤖",
+          "tools": "CC"
+        }
+      ]
     }
   ]
 }
