@@ -5284,7 +5284,17 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "last_scanned": "2026-08-18T16:29:29.009Z",
+      "skills": [
+        {
+          "name": "book-to-skill",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-18T15:19:06.501Z"
+  "last_updated": "2026-08-18T16:29:29.009Z"
 }
