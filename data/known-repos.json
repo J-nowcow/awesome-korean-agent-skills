@@ -5294,7 +5294,12 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/gitaiops/notiflex-platform",
+      "last_scanned": "2026-08-18T18:28:17.704Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-08-18T16:29:29.009Z"
+  "last_updated": "2026-08-18T18:28:17.704Z"
 }
