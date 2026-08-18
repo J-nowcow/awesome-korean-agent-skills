@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-08-18
+> 📦 **21개 항목** · 자동 갱신: 2026-08-18
 <!-- CAT_STATS:END -->
 > 기술 문서 생성, 한국어 문서 작성, 코드맵
 
@@ -36,6 +36,7 @@
 | archify | CC/GC/CX/OC | 코드베이스를 인터랙티브한 시스템 지도로 변환 | 영+한 | [archify](https://github.com/tt-a1i/archify) |
 | vibe-coding |  | 바이브 코딩 세미나 슬라이드 모음 | 영+한 | [vibe-coding](https://github.com/geniuskey/vibe-coding) |
 | AI-driven-work | CC | Claude Code로 Jira/Confluence 연동 업무 자동화 | 한국어 | [AI-driven-work](https://github.com/ww-w-ai/AI-driven-work) |
+| book-to-skill | CC/GC/CP | 기술 서적을 Claude Code 스킬로 변환 | 영+한 | [book-to-skill](https://github.com/virgiliojr94/book-to-skill) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
