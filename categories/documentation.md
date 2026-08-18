@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **19개 항목** · 자동 갱신: 2026-08-18
+> 📦 **20개 항목** · 자동 갱신: 2026-08-18
 <!-- CAT_STATS:END -->
 > 기술 문서 생성, 한국어 문서 작성, 코드맵
 
@@ -35,6 +35,7 @@
 | note-organizer | CC | 문서, PDF, PPT 등을 마크다운 노트로 정리 | 영+한 | [note-organizer](https://github.com/Renakoni/note-organizer) |
 | archify | CC/GC/CX/OC | 코드베이스를 인터랙티브한 시스템 지도로 변환 | 영+한 | [archify](https://github.com/tt-a1i/archify) |
 | vibe-coding |  | 바이브 코딩 세미나 슬라이드 모음 | 영+한 | [vibe-coding](https://github.com/geniuskey/vibe-coding) |
+| AI-driven-work | CC | Claude Code로 Jira/Confluence 연동 업무 자동화 | 한국어 | [AI-driven-work](https://github.com/ww-w-ai/AI-driven-work) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
