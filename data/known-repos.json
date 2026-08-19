@@ -5299,7 +5299,27 @@
       "url": "https://github.com/gitaiops/notiflex-platform",
       "last_scanned": "2026-08-18T18:28:17.704Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Octane0411/open-vibe-island",
+      "last_scanned": "2026-08-19T16:29:42.814Z",
+      "skills": [
+        {
+          "name": "open-vibe-island",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/amruthpillai/reactive-resume",
+      "last_scanned": "2026-08-19T16:30:16.959Z",
+      "skills": [
+        {
+          "name": "reactive-resume",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-18T18:28:17.704Z"
+  "last_updated": "2026-08-19T16:30:16.959Z"
 }
