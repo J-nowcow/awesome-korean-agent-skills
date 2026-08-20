@@ -46,7 +46,7 @@
 | [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 21+ |
 | [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 21+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 7+ |
-| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 40+ |
+| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 41+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 9+ |
 | [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 24+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 8+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>412+</h2></td>
-<td><h2>830</h2></td>
+<td><h2>415+</h2></td>
+<td><h2>833</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -177,15 +177,15 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 pie showData
     title 카테고리별 스킬 수
     "종합 스킬 컬렉션" : 47
-    "멀티에이전트" : 40
+    "멀티에이전트" : 41
     "웹 프론트엔드" : 24
     "프로젝트 초기화" : 24
     "테스트 & TDD" : 22
+    "유틸리티 도구" : 21
     "Git & 워크플로우" : 21
     "문서화" : 21
     "DevOps & 배포" : 21
     "코드 리뷰" : 21
-    "유틸리티 도구" : 19
 ```
 
 ### 도구별 호환성 등장 빈도
@@ -193,8 +193,8 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 338
-    "GC" : 71
+    "CC" : 340
+    "GC" : 73
     "CX" : 41
     "CP" : 17
     "OC" : 35
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>8</b> run · <b>+4</b> 스킬</td>
+<td><b>9</b> run · <b>+5</b> 스킬</td>
 <td><b>8</b> run · <b>-0</b> dead link</td>
 <td><b>15</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-08-17 | · | **1** | **2** | **1** |
 | 2026-08-18 | **3** | **1** | **2** | · |
 | 2026-08-19 | **1** | **1** | **2** | · |
-| 2026-08-20 | · | **1** | **1** | · |
+| 2026-08-20 | **1** | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **40개 항목** · 자동 갱신: 2026-08-20
+> 📦 **41개 항목** · 자동 갱신: 2026-08-20
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -55,6 +55,7 @@
 | cc-haha | CC | 다양한 AI 모델을 지원하는 데스크톱 에이전트 워크스페이스 | 다국어(KO) | [cc-haha](https://github.com/NanmiCoder/cc-haha) |
 | tutti |  | AI 에이전트 협업 및 워크스페이스 | 다국어(KO) | [tutti](https://github.com/tutti-os/tutti) |
 | orca |  | 병렬 에이전트 실행을 위한 AI 오케스트레이터 | 다국어(KO) | [orca](https://github.com/stablyai/orca) |
+| open-vibe-island | CC/GC | AI 코딩 에이전트용 macOS 제어 센터 | 영+한 | [open-vibe-island](https://github.com/Octane0411/open-vibe-island) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
