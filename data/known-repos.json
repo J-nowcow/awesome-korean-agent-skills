@@ -5314,7 +5314,37 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Octane0411/open-vibe-island",
+      "last_scanned": "2026-08-20T16:33:21.488Z",
+      "skills": [
+        {
+          "name": "open-vibe-island",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/amruthpillai/reactive-resume",
+      "last_scanned": "2026-08-20T16:34:00.489Z",
+      "skills": [
+        {
+          "name": "reactive-resume",
+          "category": "utilities"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "last_scanned": "2026-08-20T16:34:34.573Z",
+      "skills": [
+        {
+          "name": "diagram-design",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-20T15:21:52.142Z"
+  "last_updated": "2026-08-20T16:34:34.573Z"
 }

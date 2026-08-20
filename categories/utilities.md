@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **19개 항목** · 자동 갱신: 2026-08-20
+> 📦 **21개 항목** · 자동 갱신: 2026-08-20
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -23,6 +23,7 @@
 | meridian | CC | Claude Code SDK를 다양한 도구와 연동 | 영+한 | [meridian](https://github.com/rynfar/meridian) |
 | TranslatePanel | CC/GC | 화면 어디서든 LLM 번역 기능을 제공하는 툴 | 영+한 | [TranslatePanel](https://github.com/hyuunnn/TranslatePanel) |
 | Kill-Claude_Code-Zombies | CC | 클로드 코드 좀비 프로세스 정리 도구 | 영+한 | [Kill-Claude_Code-Zombies](https://github.com/sodam-ai/Kill-Claude_Code-Zombies) |
+| diagram-design | CC/GC | 다양한 편집 다이어그램을 생성하는 도구 | 영+한 | [diagram-design](https://github.com/cathrynlavery/diagram-design) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
@@ -35,6 +36,7 @@
 | SkillOpt | CC/OC | LLM 에이전트의 재사용 가능한 자연어 스킬 최적화 | 영+한 | [SkillOpt](https://github.com/microsoft/SkillOpt) |
 | rollinggo-hotel-skill-cn | CC/CX/CP | 글로벌 호텔 예약 및 가격 모니터링 | 영+한 | [rollinggo-hotel-skill-cn](https://github.com/RollingGo-AI/rollinggo-hotel-skill-cn) |
 | attention-control | CC/OC | 에이전트 출력 제어를 위한 도구 | 영+한 | [attention-control](https://github.com/aaddrick/attention-control) |
+| reactive-resume |  | 개인 정보 보호를 중시하는 이력서 빌더 | 영+한 | [reactive-resume](https://github.com/amruthpillai/reactive-resume) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
