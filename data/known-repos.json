@@ -5344,7 +5344,17 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/LeeYudok/agents-scaffold",
+      "last_scanned": "2026-08-22T18:19:57.339Z",
+      "skills": [
+        {
+          "name": "agents-scaffold",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-20T16:34:34.573Z"
+  "last_updated": "2026-08-22T18:19:57.340Z"
 }

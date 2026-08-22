@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **24개 항목** · 자동 갱신: 2026-08-22
+> 📦 **25개 항목** · 자동 갱신: 2026-08-22
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -36,6 +36,7 @@
 | dotclaude | CC | 개발 환경 설정을 위한 Claude Code 플러그인 | 영+한 | [dotclaude](https://github.com/poshan0126/dotclaude) |
 | teo-skills | CC | 1인 기업 설계 및 실행 지원 스킬 | 한국어 | [teo-skills](https://github.com/teo713ko-gif/teo-skills) |
 | Git-It-iOS |  | iOS 프로젝트 초기화 및 개발 도구 | 영+한 | [Git-It-iOS](https://github.com/Nexters/Git-It-iOS) |
+| agents-scaffold | CC/GC | AI 코딩 에이전트 스킬 컬렉션 | 다국어(KO) | [agents-scaffold](https://github.com/LeeYudok/agents-scaffold) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
