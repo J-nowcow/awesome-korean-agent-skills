@@ -44,6 +44,7 @@
 | impeccable-lite | CC/GC | AI 디자인 품질 향상 스킬 | 영+한 | [impeccable-lite](https://github.com/ilindaniel/impeccable-lite) |
 | auteur | CC/GC | 웹사이트를 영화처럼 연출하는 Claude Code 스킬 | 영+한 | [auteur](https://github.com/agiwhitelist/auteur) |
 | threejs-skills | CC | Claude Code를 위한 Three.js 스킬 모음 | 영+한 | [threejs-skills](https://github.com/CloudAI-X/threejs-skills) |
+| threeui | CX/CR | ThreeUI 컴포넌트 50개를 해시 검증 후 설치 | 영+한 | [threeui-cli](https://github.com/sjh9714/threeui-cli) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
