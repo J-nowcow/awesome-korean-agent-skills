@@ -5364,7 +5364,17 @@
       "url": "https://github.com/seoan1024/Korean-llm-v3",
       "last_scanned": "2026-08-23T18:19:42.376Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/titanwings/distilly",
+      "last_scanned": "2026-08-23T19:21:24.462Z",
+      "skills": [
+        {
+          "name": "distilly",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-23T18:19:42.376Z"
+  "last_updated": "2026-08-23T19:21:24.462Z"
 }
