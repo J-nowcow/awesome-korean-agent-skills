@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **8개 항목** · 자동 갱신: 2026-08-24
+> 📦 **9개 항목** · 자동 갱신: 2026-08-24
 <!-- CAT_STATS:END -->
 > Word, Excel, PPT, PDF, HWP 처리
 
@@ -23,3 +23,5 @@
 | docx-cli | CC/OC | AI 에이전트용 DOCX 파일 편집 CLI | 영+한 | [docx-cli](https://github.com/kklimuk/docx-cli) |
 
 | hwpx-plugins | CC/GC | AI 에이전트가 HWPX 문서를 다루도록 돕는 스킬 | 영+한 | [hwpx-plugins](https://github.com/airmang/hwpx-plugins) |
+
+| PPT-Design-Skill | CC/GC | AI 기반 PPT 디자인 스킬 | 영+한 | [PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) |

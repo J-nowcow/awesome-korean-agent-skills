@@ -61,8 +61,8 @@
 | [한국 생활 서비스](categories/korean-services.md) | SRT/KTX, 택배, 로또, KBO, 카카오톡 | 9+ |
 | [커뮤니케이션](categories/communication.md) | 이메일·슬랙 트리아지, 알림 설정 | 4+ |
 | [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 18+ |
-| [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 10+ |
-| [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 8+ |
+| [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 11+ |
+| [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 9+ |
 | [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 19+ |
 
 ## 종합 레포
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>411+</h2></td>
-<td><h2>837</h2></td>
+<td><h2>413+</h2></td>
+<td><h2>839</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -193,8 +193,8 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 335
-    "GC" : 74
+    "CC" : 337
+    "GC" : 75
     "CX" : 41
     "CP" : 17
     "OC" : 35
@@ -232,7 +232,7 @@ pie showData
 <tr align="center">
 <td><b>10</b> run · <b>+8</b> 스킬</td>
 <td><b>8</b> run · <b>-6</b> dead link</td>
-<td><b>13</b> run</td>
+<td><b>14</b> run</td>
 <td><b>2</b> run</td>
 </tr>
 </table>
@@ -247,7 +247,7 @@ pie showData
 | 2026-08-21 | · | **1** | **2** | · |
 | 2026-08-22 | **1** | **1** | **2** | · |
 | 2026-08-23 | **3** | **1** | **2** | · |
-| 2026-08-24 | · | **1** | · | **1** |
+| 2026-08-24 | · | **1** | **1** | **1** |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
