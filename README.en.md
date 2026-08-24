@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-08-17
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-08-24
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | Code review is essential for improving development productivity and quality, and this skill is highly practical as it specializes in security and best practices. It also has excellent Korean support. | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/code-reviewer.md) |
-| 🔧 korean-docs | CC | Creating professional Korean technical documentation is a great help to the developer community, and this skill supports various documents such as README, API, and guides. It is highly practical. | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills/korean-docs) |
-| 🤖 naver-blog-automation | CC | AI-based automatic writing of Naver blog posts is a practical skill that can dramatically increase content productivity. It has excellent Korean support and can be applied to various fields. | [naver-blog-automation](https://github.com/choigpt-ai/naver-blog-automation) |
+| 🤖 kakaopay | CC | A 3-agent team for KakaoPay payment integration, it is highly practical in the Korean services category and utilizes various agent types (🤖). | [kakaopay](https://github.com/revfactory/kakaopay) |
+| 📦 bkit-claude-code | CC | A multilingual (Korean supported) framework with 37 skills and 32 agents, offering diverse functionalities and excellent Korean language support. | [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code) |
+| 🔧 docx `공식` | CC | An official skill for Word document creation, editing, and change tracking, enhancing the practicality of office document tasks with good Korean support. | [anthropics/skills](https://github.com/anthropics/skills) |
 
 ---
 
