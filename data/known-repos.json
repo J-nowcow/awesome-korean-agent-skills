@@ -5374,7 +5374,27 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/sunchaokun/PPT-Design-Skill",
+      "last_scanned": "2026-08-24T16:35:33.773Z",
+      "skills": [
+        {
+          "name": "PPT-Design-Skill",
+          "category": "office-docs"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/zenstory-ai/oh-story-claudecode",
+      "last_scanned": "2026-08-24T16:36:07.947Z",
+      "skills": [
+        {
+          "name": "oh-story-claudecode",
+          "category": "korean-writing"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-23T19:21:24.462Z"
+  "last_updated": "2026-08-24T16:36:07.947Z"
 }
