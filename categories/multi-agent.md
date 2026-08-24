@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **41개 항목** · 자동 갱신: 2026-08-23
+> 📦 **38개 항목** · 자동 갱신: 2026-08-24
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -15,9 +15,6 @@
 | autopilot | CC | 아이디어→설계→계획→구현→QA 전 주기 자율 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/autopilot) |
 | team | CC | 공유 태스크 목록에서 N개 에이전트 조율 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/team) |
 | ralph | CC | 완료 조건까지 자기 참조 루프 반복 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/ralph) |
-| ultrawork | CC | 독립 태스크 동시 처리 병렬 엔진 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/ultrawork) |
-| ccg | CC | Claude-Codex-Gemini 3중 모델 병렬 후 종합 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/ccg) |
-| omc-teams | CC | tmux에서 Claude/Codex/Gemini 워커 병렬 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/omc-teams) |
 | team-orchestrator | CC | 팀 구성, 작업 분배, 의존성 관리, 결과 집계 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/team-orchestrator) |
 | autodev / autodev-parallel | CC | Ralph Loop 자율 개발 (순차/병렬) | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/autodev) |
 | subagent-driven-development | CC | 독립 작업마다 fresh 서브에이전트 디스패치 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/.claude/skills/subagent-driven-development) |
