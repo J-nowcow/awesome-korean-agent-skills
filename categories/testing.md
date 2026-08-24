@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-08-23
+> 📦 **21개 항목** · 자동 갱신: 2026-08-24
 <!-- CAT_STATS:END -->
 > 테스트 주도 개발, E2E 테스트, 커버리지 분석
 
@@ -22,7 +22,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| ultraqa | CC | 목표까지 테스트→검증→수정 반복 QA 사이클 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/ultraqa) |
 | visual-verdict | CC | 스크린샷 vs 레퍼런스 비교 시각적 QA | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/visual-verdict) |
 | tdd | CC | RED-GREEN-REFACTOR 테스트 주도 개발 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/tdd) |
 | e2e-verify | CC | 피처 기반 E2E 테스트 작성 및 실행 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/e2e-verify) |
