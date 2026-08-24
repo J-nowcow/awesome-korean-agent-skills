@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-08-23
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-08-24
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 code-reviewer | CC | 코드 리뷰는 개발 생산성과 품질 향상에 필수적이며, 이 스킬은 보안 및 베스트 프랙티스에 특화되어 있어 실용성이 높습니다. 한국어 지원도 우수합니다. | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/code-reviewer.md) |
-| 🔧 korean-docs | CC | 전문적인 한국어 기술 문서 작성은 개발자 커뮤니티에 큰 도움이 되며, 이 스킬은 README, API, 가이드 등 다양한 문서를 지원합니다. 실용성이 매우 높습니다. | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills/korean-docs) |
-| 🤖 naver-blog-automation | CC | AI 기반 네이버 블로그 글 자동 작성은 콘텐츠 생산성을 혁신적으로 높일 수 있는 실용적인 스킬입니다. 한국어 지원이 뛰어나며, 다양한 분야에 적용 가능합니다. | [naver-blog-automation](https://github.com/choigpt-ai/naver-blog-automation) |
+| 🤖 kakaopay | CC | 카카오페이 결제 연동을 위한 3인 에이전트 팀으로, 한국어 서비스 카테고리에서 실용성이 높고 다양한 에이전트 타입(🤖)을 활용합니다. | [kakaopay](https://github.com/revfactory/kakaopay) |
+| 📦 bkit-claude-code | CC | 37개의 스킬과 32개의 에이전트를 포함하는 다국어(한국어 지원) 프레임워크로, 다양한 기능을 제공하며 한국어 지원이 우수합니다. | [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code) |
+| 🔧 docx `공식` | CC | Word 문서 생성, 편집, 변경 추적 기능을 제공하는 공식 스킬로, 오피스 문서 작업의 실용성을 높여주며 한국어 지원이 좋습니다. | [anthropics/skills](https://github.com/anthropics/skills) |
 
 ---
 
