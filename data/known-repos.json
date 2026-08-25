@@ -5394,7 +5394,22 @@
           "category": "korean-writing"
         }
       ]
+    },
+    {
+      "url": "https://github.com/docker/mcp-registry",
+      "last_scanned": "2026-08-25T17:32:19.534Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/nicobailon/visual-explainer",
+      "last_scanned": "2026-08-25T17:32:54.334Z",
+      "skills": [
+        {
+          "name": "visual-explainer",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-24T16:36:07.947Z"
+  "last_updated": "2026-08-25T17:32:54.334Z"
 }
