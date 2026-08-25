@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **19개 항목** · 자동 갱신: 2026-08-25
+> 📦 **20개 항목** · 자동 갱신: 2026-08-25
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -41,3 +41,5 @@
 | claude-obsidian | CC | Claude 기반 지식 관리 및 자동화 에이전트 | 영+한 | [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) |
 
 | structured-skills |  | LLM 기반 에이전트 개발 프레임워크 | 영+한 | [structured-skills](https://github.com/day50-dev/structured-skills) |
+
+| AAWS |  | AI 에이전트 기반 웹 스크래핑 및 자동화 시스템 | 영+한 | [AAWS](https://github.com/hukim1112/AAWS) |

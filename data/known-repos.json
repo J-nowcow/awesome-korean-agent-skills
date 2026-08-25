@@ -5409,7 +5409,42 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/calmtiger86/prd-to-onepager",
+      "last_scanned": "2026-08-25T18:30:17.925Z",
+      "skills": [
+        {
+          "name": "prd-to-onepager",
+          "category": "documentation"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/citizendev9c/supabase-dashboard-starterkit",
+      "last_scanned": "2026-08-25T18:30:53.263Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/hukim1112/AAWS",
+      "last_scanned": "2026-08-25T18:31:27.785Z",
+      "skills": [
+        {
+          "name": "AAWS",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/marc-ko/daily-trending-repo",
+      "last_scanned": "2026-08-25T18:32:02.545Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/next-step/my-claude-code-os",
+      "last_scanned": "2026-08-25T18:32:37.495Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-08-25T17:32:54.334Z"
+  "last_updated": "2026-08-25T18:32:37.495Z"
 }
