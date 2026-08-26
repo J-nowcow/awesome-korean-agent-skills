@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **25개 항목** · 자동 갱신: 2026-08-26
+> 📦 **26개 항목** · 자동 갱신: 2026-08-26
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -21,6 +21,7 @@
 | bigpowers | CC/GC | AI 에이전트 개발 방법론 및 스킬 컬렉션 | 영+한 | [bigpowers](https://github.com/danielvm-git/bigpowers) |
 | prisma | CC/GC | AI 에이전트 친화적인 차세대 ORM | 영+한 | [prisma](https://github.com/prisma/prisma) |
 | Startup_builder_pro | CC/OC | 제품 아이디어를 프로덕션 레디 SaaS 앱으로 자동 빌드 | 영+한 | [Startup_builder_pro](https://github.com/Faizalimam990/Startup_builder_pro) |
+| orm | CC/GC | AI 에이전트 친화적인 차세대 ORM | 영+한 | [orm](https://github.com/prisma/orm) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
