@@ -5444,7 +5444,17 @@
       "url": "https://github.com/next-step/my-claude-code-os",
       "last_scanned": "2026-08-25T18:32:37.495Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/prisma/orm",
+      "last_scanned": "2026-08-26T21:41:28.336Z",
+      "skills": [
+        {
+          "name": "orm",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-25T18:32:37.495Z"
+  "last_updated": "2026-08-26T21:41:28.337Z"
 }
