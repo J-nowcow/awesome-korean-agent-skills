@@ -5454,7 +5454,17 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/promptwhat/promptwhat-soul2-skill",
+      "last_scanned": "2026-08-28T02:26:22.086Z",
+      "skills": [
+        {
+          "name": "promptwhat-soul2-skill",
+          "category": "ai-prompt"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-26T21:41:28.337Z"
+  "last_updated": "2026-08-28T02:26:22.086Z"
 }
