@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **8개 항목** · 자동 갱신: 2026-08-27
+> 📦 **9개 항목** · 자동 갱신: 2026-08-28
 <!-- CAT_STATS:END -->
 > 프롬프트 최적화, 모델 간 협업, 자기 학습
 
@@ -16,6 +16,7 @@
 | skill-factory | CC | 세션 패턴→재사용 스킬 자동 변환 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/skill-factory) |
 | prompt-engineering | CC | 커맨드·훅·스킬 프롬프트 최적화 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/.claude/skills/prompt-engineering) |
 
+| promptwhat-soul2-skill | CC | 한국어 한 줄로 고품질 이미지 프롬프트 생성 | 영+한 | [promptwhat-soul2-skill](https://github.com/promptwhat/promptwhat-soul2-skill) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
