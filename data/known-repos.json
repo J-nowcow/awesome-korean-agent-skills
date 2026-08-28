@@ -5464,7 +5464,17 @@
           "category": "ai-prompt"
         }
       ]
+    },
+    {
+      "url": "https://github.com/fuxicodex/Fuxi",
+      "last_scanned": "2026-08-28T23:44:29.112Z",
+      "skills": [
+        {
+          "name": "Fuxi",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-28T02:26:22.086Z"
+  "last_updated": "2026-08-28T23:44:29.112Z"
 }
