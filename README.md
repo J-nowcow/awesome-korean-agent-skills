@@ -34,6 +34,7 @@
 
 ---
 
+| 💼 linkedin-skills | CC | Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. | [linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) |
 ## 개발 스킬
 
 | 카테고리 | 설명 | 항목 수 |
