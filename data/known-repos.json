@@ -5484,7 +5484,27 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/selfishclub/privacy-build",
+      "last_scanned": "2026-08-31T22:16:46.605Z",
+      "skills": [
+        {
+          "name": "privacy-build",
+          "category": "korean-services"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/wnghdcjfe/claude",
+      "last_scanned": "2026-08-31T22:17:21.209Z",
+      "skills": [
+        {
+          "name": "claude",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-31T20:26:24.625Z"
+  "last_updated": "2026-08-31T22:17:21.209Z"
 }

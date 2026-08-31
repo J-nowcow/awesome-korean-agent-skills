@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **49개 항목** · 자동 갱신: 2026-08-31
+> 📦 **50개 항목** · 자동 갱신: 2026-08-31
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -57,6 +57,7 @@
 | colleague-skill | CC | 사람의 사고방식을 AI 스킬로 추출 | 다국어(KO) | [colleague-skill](https://github.com/titanwings/colleague-skill) |
 | distilly |  | AI 에이전트용 재사용 가능한 스킬 컬렉션 | 다국어(KO) | [distilly](https://github.com/titanwings/distilly) |
 | eCommerce-Skills | CC/GC | AI 에이전트용 전자상거래 스킬 모음 | 영+한 | [eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) |
+| claude | CC | Claude Code 플러그인 설치 및 스킬 관리 | 한국어 | [claude](https://github.com/wnghdcjfe/claude) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

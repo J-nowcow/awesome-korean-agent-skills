@@ -58,7 +58,7 @@
 
 | 카테고리 | 설명 | 항목 수 |
 |----------|------|:-------:|
-| [한국 생활 서비스](categories/korean-services.md) | SRT/KTX, 택배, 로또, KBO, 카카오톡 | 9+ |
+| [한국 생활 서비스](categories/korean-services.md) | SRT/KTX, 택배, 로또, KBO, 카카오톡 | 10+ |
 | [커뮤니케이션](categories/communication.md) | 이메일·슬랙 트리아지, 알림 설정 | 4+ |
 | [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 18+ |
 | [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 11+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>420+</h2></td>
-<td><h2>850</h2></td>
+<td><h2>422+</h2></td>
+<td><h2>852</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -176,7 +176,7 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 ```mermaid
 pie showData
     title 카테고리별 스킬 수
-    "종합 스킬 컬렉션" : 49
+    "종합 스킬 컬렉션" : 50
     "멀티에이전트" : 38
     "프로젝트 초기화" : 26
     "웹 프론트엔드" : 24
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 342
+    "CC" : 344
     "GC" : 79
     "CX" : 41
     "CP" : 17
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>6</b> run · <b>+8</b> 스킬</td>
+<td><b>7</b> run · <b>+9</b> 스킬</td>
 <td><b>8</b> run · <b>-6</b> dead link</td>
 <td><b>14</b> run</td>
 <td><b>2</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-08-28 | **2** | **1** | **2** | · |
 | 2026-08-29 | · | **1** | **3** | · |
 | 2026-08-30 | · | **1** | **2** | · |
-| 2026-08-31 | · | **1** | **1** | **1** |
+| 2026-08-31 | **1** | **1** | **1** | **1** |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
