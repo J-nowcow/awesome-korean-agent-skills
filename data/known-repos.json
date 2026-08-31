@@ -5474,7 +5474,17 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/nexscope-ai/eCommerce-Skills",
+      "last_scanned": "2026-08-31T20:26:24.625Z",
+      "skills": [
+        {
+          "name": "eCommerce-Skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-08-28T23:44:29.112Z"
+  "last_updated": "2026-08-31T20:26:24.625Z"
 }
