@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-08-30
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-08-31
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 kakaopay | CC | 카카오페이 결제 연동을 위한 3인 에이전트 팀으로, 한국어 서비스 카테고리에서 실용성이 높고 다양한 에이전트 타입(🤖)을 활용합니다. | [kakaopay](https://github.com/revfactory/kakaopay) |
-| 📦 bkit-claude-code | CC | 37개의 스킬과 32개의 에이전트를 포함하는 다국어(한국어 지원) 프레임워크로, 다양한 기능을 제공하며 한국어 지원이 우수합니다. | [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code) |
-| 🔧 docx `공식` | CC | Word 문서 생성, 편집, 변경 추적 기능을 제공하는 공식 스킬로, 오피스 문서 작업의 실용성을 높여주며 한국어 지원이 좋습니다. | [anthropics/skills](https://github.com/anthropics/skills) |
+| 📦 my-skills | CC | 다양한 스킬을 한국어로 모아놓은 컬렉션으로, 한국어 지원이 우수하고 실용성이 높습니다. 또한 'collections' 카테고리에서 다양한 스킬을 탐색할 수 있습니다. | [my-skills](https://github.com/bear2u/my-skills) |
+| 🤖 notiflex-platform | CC | AI 에이전트가 구축한 B2B 알림 SaaS 플랫폼으로, 'devops' 카테고리에서 실질적인 서비스 구축 사례를 보여줍니다. Agent 타입으로 다양한 기술 스택을 혼합하여 실용성을 높였습니다. | [notiflex-platform](https://github.com/sysnet4admin/notiflex-platform) |
+| ⚡ fluent-korean | CC | Claude Code의 한국어 출력 스타일을 개선하는 스킬로, 한국어 지원이 뛰어나고 특정 언어 모델의 성능을 향상시키는 실용적인 목적을 가집니다. 'korean-writing' 카테고리에서 독특한 가치를 제공합니다. | [fluent-korean](https://github.com/snflkd/fluent-korean) |
 
 ---
 
