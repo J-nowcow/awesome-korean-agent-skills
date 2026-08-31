@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-08-24
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-08-31
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 kakaopay | CC | A 3-agent team for KakaoPay payment integration, it is highly practical in the Korean services category and utilizes various agent types (🤖). | [kakaopay](https://github.com/revfactory/kakaopay) |
-| 📦 bkit-claude-code | CC | A multilingual (Korean supported) framework with 37 skills and 32 agents, offering diverse functionalities and excellent Korean language support. | [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code) |
-| 🔧 docx `공식` | CC | An official skill for Word document creation, editing, and change tracking, enhancing the practicality of office document tasks with good Korean support. | [anthropics/skills](https://github.com/anthropics/skills) |
+| 📦 my-skills | CC | A collection of various skills in Korean, with excellent Korean support and high practicality. It also allows exploration of diverse skills within the 'collections' category. | [my-skills](https://github.com/bear2u/my-skills) |
+| 🤖 notiflex-platform | CC | A B2B notification SaaS platform built by an AI agent, showcasing a practical service construction case in the 'devops' category. The Agent type mixes various tech stacks to enhance practicality. | [notiflex-platform](https://github.com/sysnet4admin/notiflex-platform) |
+| ⚡ fluent-korean | CC | A skill that improves the Korean output style of Claude Code, offering excellent Korean support and a practical purpose of enhancing the performance of a specific language model. It provides unique value in the 'korean-writing' category. | [fluent-korean](https://github.com/snflkd/fluent-korean) |
 
 ---
 
