@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **48개 항목** · 자동 갱신: 2026-08-31
+> 📦 **49개 항목** · 자동 갱신: 2026-08-31
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -56,6 +56,7 @@
 | claude-cowork-book | CC | 클로드 에이전트 협업 스킬 모음 | 한국어 | [claude-cowork-book](https://github.com/uxjoseph/claude-cowork-book) |
 | colleague-skill | CC | 사람의 사고방식을 AI 스킬로 추출 | 다국어(KO) | [colleague-skill](https://github.com/titanwings/colleague-skill) |
 | distilly |  | AI 에이전트용 재사용 가능한 스킬 컬렉션 | 다국어(KO) | [distilly](https://github.com/titanwings/distilly) |
+| eCommerce-Skills | CC/GC | AI 에이전트용 전자상거래 스킬 모음 | 영+한 | [eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
