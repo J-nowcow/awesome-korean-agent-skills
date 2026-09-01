@@ -5509,7 +5509,22 @@
       "url": "https://github.com/kyungseo/learnstead",
       "last_scanned": "2026-09-01T18:01:20.309Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/budtmo/docker-android",
+      "last_scanned": "2026-09-01T20:23:46.065Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/career-ops-hq/career-ops",
+      "last_scanned": "2026-09-01T20:24:21.275Z",
+      "skills": [
+        {
+          "name": "career-ops",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-01T18:01:20.309Z"
+  "last_updated": "2026-09-01T20:24:21.275Z"
 }
