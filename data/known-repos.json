@@ -5529,7 +5529,17 @@
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "last_scanned": "2026-09-02T20:23:33.076Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/amosblomqvist/learn",
+      "last_scanned": "2026-09-02T21:37:14.938Z",
+      "skills": [
+        {
+          "name": "learn",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-02T20:23:33.076Z"
+  "last_updated": "2026-09-02T21:37:14.939Z"
 }
