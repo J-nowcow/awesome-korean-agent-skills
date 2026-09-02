@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **14개 항목** · 자동 갱신: 2026-09-02
+> 📦 **15개 항목** · 자동 갱신: 2026-09-02
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -41,3 +41,5 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | free-ai-courses | CC | 제품 관리자를 위한 Claude Code 활용 가이드 | 영+한 | [free-ai-courses](https://github.com/carlvellotti/free-ai-courses) |
+
+| learn |  | AI 학습 시스템 구축 가이드 | 영+한 | [learn](https://github.com/amosblomqvist/learn) |
