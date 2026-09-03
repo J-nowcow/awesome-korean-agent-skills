@@ -5554,7 +5554,17 @@
       "url": "https://github.com/ucx0204/CarrotMangaTranslator",
       "last_scanned": "2026-09-03T18:10:11.955Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/danny-avila/LibreChat",
+      "last_scanned": "2026-09-03T21:35:09.175Z",
+      "skills": [
+        {
+          "name": "LibreChat",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-03T18:10:11.955Z"
+  "last_updated": "2026-09-03T21:35:09.175Z"
 }

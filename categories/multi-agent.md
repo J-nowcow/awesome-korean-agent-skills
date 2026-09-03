@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **39개 항목** · 자동 갱신: 2026-09-03
+> 📦 **40개 항목** · 자동 갱신: 2026-09-03
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -54,6 +54,7 @@
 | orca |  | 병렬 에이전트 실행을 위한 AI 오케스트레이터 | 다국어(KO) | [orca](https://github.com/stablyai/orca) |
 | open-vibe-island | CC/GC | AI 코딩 에이전트용 macOS 제어 센터 | 영+한 | [open-vibe-island](https://github.com/Octane0411/open-vibe-island) |
 | career-ops | CC/GC | AI 기반 채용 공고 분석 및 지원 관리 | 다국어(KO) | [career-ops](https://github.com/career-ops-hq/career-ops) |
+| LibreChat |  | 다양한 AI 모델을 지원하는 챗봇 클론 | 다국어(KO) | [LibreChat](https://github.com/danny-avila/LibreChat) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
