@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **9개 항목** · 자동 갱신: 2026-09-03
+> 📦 **10개 항목** · 자동 갱신: 2026-09-03
 <!-- CAT_STATS:END -->
 > Word, Excel, PPT, PDF, HWP 처리
 
@@ -25,3 +25,5 @@
 | hwpx-plugins | CC/GC | AI 에이전트가 HWPX 문서를 다루도록 돕는 스킬 | 영+한 | [hwpx-plugins](https://github.com/airmang/hwpx-plugins) |
 
 | PPT-Design-Skill | CC/GC | AI 기반 PPT 디자인 스킬 | 영+한 | [PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) |
+
+| antigravity-vibe | CC/GC | AI 업무 역량 강화 실습 자료 | 한국어 | [antigravity-vibe](https://github.com/antigravity-books/antigravity-vibe) |

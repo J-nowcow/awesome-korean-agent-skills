@@ -5539,7 +5539,22 @@
           "category": "guides"
         }
       ]
+    },
+    {
+      "url": "https://github.com/antigravity-books/antigravity-vibe",
+      "last_scanned": "2026-09-03T18:09:36.725Z",
+      "skills": [
+        {
+          "name": "antigravity-vibe",
+          "category": "office-docs"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ucx0204/CarrotMangaTranslator",
+      "last_scanned": "2026-09-03T18:10:11.955Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-09-02T21:37:14.939Z"
+  "last_updated": "2026-09-03T18:10:11.955Z"
 }
