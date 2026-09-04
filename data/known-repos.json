@@ -5564,7 +5564,17 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Razshy/Wiggle",
+      "last_scanned": "2026-09-04T19:19:58.389Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/feder-cr/AIHawk",
+      "last_scanned": "2026-09-04T19:20:32.745Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-09-03T21:35:09.175Z"
+  "last_updated": "2026-09-04T19:20:32.745Z"
 }
