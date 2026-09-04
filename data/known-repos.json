@@ -5574,7 +5574,17 @@
       "url": "https://github.com/feder-cr/AIHawk",
       "last_scanned": "2026-09-04T19:20:32.745Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/axelfreeman/marketing-mindset",
+      "last_scanned": "2026-09-04T20:09:16.632Z",
+      "skills": [
+        {
+          "name": "marketing-mindset",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-04T19:20:32.745Z"
+  "last_updated": "2026-09-04T20:09:16.632Z"
 }
