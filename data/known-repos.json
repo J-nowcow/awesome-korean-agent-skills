@@ -5584,7 +5584,17 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/humanlayer/skills",
+      "last_scanned": "2026-09-05T17:55:47.609Z",
+      "skills": [
+        {
+          "name": "skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-04T20:09:16.632Z"
+  "last_updated": "2026-09-05T17:55:47.609Z"
 }
