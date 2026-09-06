@@ -5594,7 +5594,27 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "last_scanned": "2026-09-06T19:52:13.596Z",
+      "skills": [
+        {
+          "name": "gentle-ai",
+          "category": "git-workflow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "last_scanned": "2026-09-06T19:52:47.401Z",
+      "skills": [
+        {
+          "name": "m3e-canvas",
+          "category": "web-frontend"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-05T17:55:47.609Z"
+  "last_updated": "2026-09-06T19:52:47.401Z"
 }
