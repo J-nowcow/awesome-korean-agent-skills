@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **21개 항목** · 자동 갱신: 2026-09-06
+> 📦 **22개 항목** · 자동 갱신: 2026-09-06
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -29,6 +29,7 @@
 | cognee |  | AI 에이전트용 오픈소스 AI 메모리 플랫폼 | 다국어(KO) | [cognee](https://github.com/topoteretes/cognee) |
 | agent-resources | CC/CX | 다양한 AI 에이전트용 재사용 가능한 워크플로우 모음 | 영+한 | [agent-resources](https://github.com/jcottam/agent-resources) |
 | delegate-skills | CC | 코딩 작업을 AI 에이전트에게 위임 | 영+한 | [delegate-skills](https://github.com/amElnagdy/delegate-skills) |
+| gentle-ai | CC | AI 코딩 에이전트 환경 설정 및 스킬 관리 | 영+한 | [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
