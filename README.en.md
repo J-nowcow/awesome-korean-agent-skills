@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-08-31
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-09-07
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 📦 my-skills | CC | A collection of various skills in Korean, with excellent Korean support and high practicality. It also allows exploration of diverse skills within the 'collections' category. | [my-skills](https://github.com/bear2u/my-skills) |
-| 🤖 notiflex-platform | CC | A B2B notification SaaS platform built by an AI agent, showcasing a practical service construction case in the 'devops' category. The Agent type mixes various tech stacks to enhance practicality. | [notiflex-platform](https://github.com/sysnet4admin/notiflex-platform) |
-| ⚡ fluent-korean | CC | A skill that improves the Korean output style of Claude Code, offering excellent Korean support and a practical purpose of enhancing the performance of a specific language model. It provides unique value in the 'korean-writing' category. | [fluent-korean](https://github.com/snflkd/fluent-korean) |
+| 📦 bkit-gemini | GC | A framework offering diverse skills with excellent Korean support, useful for building practical AI agents. | [bkit-gemini](https://github.com/popup-studio-ai/bkit-gemini) |
+| 🤖 html-anything | CC/GC | An AI-powered HTML editor offering high practicality in content and media, with Korean language support. | [html-anything](https://github.com/nexu-io/html-anything) |
+| 🔧 agent-skill-creator | CC/GC/CX/CP/OC | A utility that converts workflows into AI agent skills, supporting various tools and showing promising practical applications. | [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) |
 
 ---
 

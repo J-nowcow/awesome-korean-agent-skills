@@ -155,6 +155,32 @@
           "tools": "CC"
         }
       ]
+    },
+    {
+      "date": "2026-09-07",
+      "items": [
+        {
+          "name": "bkit-gemini",
+          "repo": "popup-studio-ai/bkit-gemini",
+          "category": "frameworks",
+          "type": "📦",
+          "tools": "GC"
+        },
+        {
+          "name": "html-anything",
+          "repo": "nexu-io/html-anything",
+          "category": "content-media",
+          "type": "🤖",
+          "tools": "CC/GC"
+        },
+        {
+          "name": "agent-skill-creator",
+          "repo": "FrancyJGLisboa/agent-skill-creator",
+          "category": "utilities",
+          "type": "🔧",
+          "tools": "CC/GC/CX/CP/OC"
+        }
+      ]
     }
   ]
 }
