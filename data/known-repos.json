@@ -5619,7 +5619,27 @@
       "url": "https://github.com/oksure/vibecoding",
       "last_scanned": "2026-09-07T18:54:33.676Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+      "last_scanned": "2026-09-07T20:23:07.124Z",
+      "skills": [
+        {
+          "name": "awesome-gamedev-agent-skills",
+          "category": "game-dev"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/spec-kitty/spec-kitty",
+      "last_scanned": "2026-09-07T20:23:41.970Z",
+      "skills": [
+        {
+          "name": "spec-kitty",
+          "category": "git-workflow"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-07T18:54:33.676Z"
+  "last_updated": "2026-09-07T20:23:41.970Z"
 }

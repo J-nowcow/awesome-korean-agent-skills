@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **5개 항목** · 자동 갱신: 2026-09-07
+> 📦 **6개 항목** · 자동 갱신: 2026-09-07
 <!-- CAT_STATS:END -->
 > Unity, Blender, C# 스크립팅
 
@@ -22,3 +22,5 @@
 | unity-dev-toolkit (7 스킬) | CC | 컴파일 수정, 씬 최적화, 스크립트 검증, 템플릿, 테스트, UI 선택, UIToolkit | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/unity-dev-toolkit/skills) |
 | unity-editor-toolkit | CC | WebSocket 실시간 Unity Editor 제어 (500+ 기능) | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/unity-editor-toolkit/skills) |
 | blender-toolkit | CC | Blender 실시간 제어, Mixamo 애니메이션 | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/blender-toolkit/skills) |
+
+| awesome-gamedev-agent-skills | CC/GC/CX/CP/OC/CR/WS | AI 코딩 에이전트를 위한 게임 개발 스킬 컬렉션 | 영+한 | [awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) |
