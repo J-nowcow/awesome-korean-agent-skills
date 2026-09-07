@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-09-07
+> 📦 **23개 항목** · 자동 갱신: 2026-09-07
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -15,6 +15,7 @@
 | git-master | CC | 원자적 커밋, 스타일 감지, 리베이스·히스토리 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/git-master.md) |
 
 | run-gemini-cli | GC | Gemini CLI를 GitHub 액션으로 실행 | 영+한 | [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) |
+| spec-kitty | CC/GC/CX/CP/OC/WS | AI 코딩 에이전트 워크플로우 관리 | 영+한 | [spec-kitty](https://github.com/spec-kitty/spec-kitty) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

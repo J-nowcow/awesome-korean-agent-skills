@@ -100,14 +100,14 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 26+ |
 | [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 10+ |
 | [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 23+ |
-| [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 22+ |
+| [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 23+ |
 | [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 7+ |
 | [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 40+ |
 | [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 9+ |
 | [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 25+ |
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 8+ |
 | [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 5+ |
-| [Game Development](categories/game-dev.md) | Unity, Blender, C# | 5+ |
+| [Game Development](categories/game-dev.md) | Unity, Blender, C# | 6+ |
 | [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 21+ |
 
 ## Daily & Productivity Skills
