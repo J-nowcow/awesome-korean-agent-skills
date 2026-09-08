@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-09-08
+> 📦 **21개 항목** · 자동 갱신: 2026-09-08
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -26,6 +26,7 @@
 | academic-research-skills | CC | Claude Code 기반 학술 연구 스킬 모음 | 다국어(KO) | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) |
 | geo-seo-claude | CC | AI 검색 엔진 최적화 도구 | 영+한 | [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) |
 | apostle-skills |  | 진지한 사고, 독서, 연구, 번역을 위한 에이전트 스킬 | 영+한 | [apostle-skills](https://github.com/Luciole-Studio/apostle-skills) |
+| ai | CC | 다양한 플랫폼 조사 및 요약 | 영+한 | [ai](https://github.com/tylerprogramming/ai) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

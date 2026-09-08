@@ -5639,7 +5639,17 @@
           "category": "git-workflow"
         }
       ]
+    },
+    {
+      "url": "https://github.com/tylerprogramming/ai",
+      "last_scanned": "2026-09-08T21:35:59.550Z",
+      "skills": [
+        {
+          "name": "ai",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-07T20:23:41.970Z"
+  "last_updated": "2026-09-08T21:35:59.550Z"
 }
