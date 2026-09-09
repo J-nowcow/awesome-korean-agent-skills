@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **15개 항목** · 자동 갱신: 2026-09-09
+> 📦 **16개 항목** · 자동 갱신: 2026-09-09
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -29,6 +29,7 @@
 | KoChatGPT |  | ChatGPT RLHF 학습 한국어 데이터셋 | 한국어 | [KoChatGPT](https://github.com/airobotlab/KoChatGPT) |
 | aiden-resources | CC | Aiden의 친절한 AI 영상 가이드 모음 | 한국어 | [aiden-resources](https://github.com/aiden-44/aiden-resources) |
 | aiden-resources | CC | AI 도구 사용법 및 프롬프트 모음 | 한국어 | [aiden-resources](https://github.com/aiden-organization/aiden-resources) |
+| agentic-workflow-playbook | CC | 에이전트 워크플로우 플레이북 및 실습 자료 | 영+한 | [agentic-workflow-playbook](https://github.com/jha0313/agentic-workflow-playbook) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

@@ -5649,7 +5649,17 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/jha0313/agentic-workflow-playbook",
+      "last_scanned": "2026-09-09T18:04:20.096Z",
+      "skills": [
+        {
+          "name": "agentic-workflow-playbook",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-08T21:35:59.550Z"
+  "last_updated": "2026-09-09T18:04:20.096Z"
 }
