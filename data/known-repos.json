@@ -5674,7 +5674,12 @@
           "category": "office-docs"
         }
       ]
+    },
+    {
+      "url": "https://github.com/pascalorg/editor",
+      "last_scanned": "2026-09-10T20:19:19.416Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-09-10T18:57:44.175Z"
+  "last_updated": "2026-09-10T20:19:19.416Z"
 }
