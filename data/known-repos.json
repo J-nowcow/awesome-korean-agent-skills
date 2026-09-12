@@ -5699,7 +5699,17 @@
       "url": "https://github.com/reactive-resume/app",
       "last_scanned": "2026-09-11T20:20:57.486Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Charismagreat/SheetBot",
+      "last_scanned": "2026-09-12T18:06:16.283Z",
+      "skills": [
+        {
+          "name": "SheetBot",
+          "category": "office-docs"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-11T20:20:57.486Z"
+  "last_updated": "2026-09-12T18:06:16.283Z"
 }
