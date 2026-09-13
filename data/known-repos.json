@@ -5724,7 +5724,37 @@
           "category": "ai-prompt"
         }
       ]
+    },
+    {
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "last_scanned": "2026-09-13T20:07:03.889Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/reactive-resume/reactive-resume",
+      "last_scanned": "2026-09-13T20:07:37.994Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/roedyrustam/vibes-plug",
+      "last_scanned": "2026-09-13T20:08:12.417Z",
+      "skills": [
+        {
+          "name": "vibes-plug",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/zenstory-ai/drama-skills",
+      "last_scanned": "2026-09-13T20:08:46.550Z",
+      "skills": [
+        {
+          "name": "drama-skills",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-13T17:45:55.539Z"
+  "last_updated": "2026-09-13T20:08:46.550Z"
 }
