@@ -47,7 +47,7 @@
 | [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 23+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 7+ |
 | [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 40+ |
-| [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 9+ |
+| [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 10+ |
 | [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 25+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 8+ |
 | [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 5+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>437+</h2></td>
-<td><h2>879</h2></td>
+<td><h2>438+</h2></td>
+<td><h2>880</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 355
+    "CC" : 356
     "GC" : 85
     "CX" : 44
     "CP" : 19
@@ -232,7 +232,7 @@ pie showData
 <tr align="center">
 <td><b>11</b> run · <b>+9</b> 스킬</td>
 <td><b>8</b> run · <b>-0</b> dead link</td>
-<td><b>14</b> run</td>
+<td><b>15</b> run</td>
 <td><b>1</b> run</td>
 </tr>
 </table>
@@ -247,7 +247,7 @@ pie showData
 | 2026-09-10 | **2** | **1** | **2** | · |
 | 2026-09-11 | **1** | **1** | **2** | · |
 | 2026-09-12 | **2** | **1** | **2** | · |
-| 2026-09-13 | · | **1** | · | · |
+| 2026-09-13 | · | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

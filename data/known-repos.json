@@ -5714,7 +5714,17 @@
       "url": "https://github.com/tradecatlabs/vibe-coding-cn",
       "last_scanned": "2026-09-12T20:00:39.758Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/DreambigOu/ELI5",
+      "last_scanned": "2026-09-13T17:45:55.539Z",
+      "skills": [
+        {
+          "name": "ELI5",
+          "category": "ai-prompt"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-12T20:00:39.759Z"
+  "last_updated": "2026-09-13T17:45:55.539Z"
 }
