@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **9개 항목** · 자동 갱신: 2026-09-13
+> 📦 **10개 항목** · 자동 갱신: 2026-09-13
 <!-- CAT_STATS:END -->
 > 프롬프트 최적화, 모델 간 협업, 자기 학습
 
@@ -27,6 +27,7 @@
 
 | seedance2-skill | CC/CX/CR | Seedance 2.0 영상 프롬프트 작성 스킬 | 영+한 | [seedance2-skill](https://github.com/dexhunter/seedance2-skill) |
 | Token-Optimizer-Skill | CC | Claude 토큰 사용량 최적화 스킬 | 영+한 | [Token-Optimizer-Skill](https://github.com/samibajwaisking/Token-Optimizer-Skill) |
+| ELI5 | CC | 다양한 대상에 맞춰 설명하는 Claude Code 스킬 | 영+한 | [ELI5](https://github.com/DreambigOu/ELI5) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
