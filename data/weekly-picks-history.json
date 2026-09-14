@@ -181,6 +181,32 @@
           "tools": "CC/GC/CX/CP/OC"
         }
       ]
+    },
+    {
+      "date": "2026-09-14",
+      "items": [
+        {
+          "name": "bkit-codex",
+          "repo": "popup-studio-ai/bkit-codex",
+          "category": "frameworks",
+          "type": "📦",
+          "tools": "CX"
+        },
+        {
+          "name": "claude-code-mastering",
+          "repo": "revfactory/claude-code-mastering",
+          "category": "guides",
+          "type": "📦",
+          "tools": "Claude Code 한국어 가이드북 13장"
+        },
+        {
+          "name": "spinner-to-kor",
+          "repo": "claude-code-expert/spinner-to-kor",
+          "category": "utilities",
+          "type": "🪝",
+          "tools": "CC"
+        }
+      ]
     }
   ]
 }
