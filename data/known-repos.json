@@ -5754,7 +5754,17 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/treylom/kakao-wiki",
+      "last_scanned": "2026-09-14T22:16:42.865Z",
+      "skills": [
+        {
+          "name": "kakao-wiki",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-13T20:08:46.550Z"
+  "last_updated": "2026-09-14T22:16:42.865Z"
 }
