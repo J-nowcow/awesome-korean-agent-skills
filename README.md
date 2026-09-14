@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-09-13
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-09-14
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 📦 bkit-gemini | GC | 다양한 스킬을 제공하는 프레임워크로 한국어 지원이 우수하며, 실용적인 AI 에이전트 구축에 도움이 됩니다. | [bkit-gemini](https://github.com/popup-studio-ai/bkit-gemini) |
-| 🤖 html-anything | CC/GC | AI 기반 HTML 편집기로, 콘텐츠 및 미디어 분야에서 높은 실용성을 제공하며 한국어 지원도 가능합니다. | [html-anything](https://github.com/nexu-io/html-anything) |
-| 🔧 agent-skill-creator | CC/GC/CX/CP/OC | 워크플로우를 AI 에이전트 스킬로 변환하는 유틸리티로, 다양한 도구를 지원하며 실용적인 활용이 기대됩니다. | [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) |
+| 📦 bkit-codex | CX | 다양한 언어(한국어 포함)를 지원하는 프레임워크로, 실용성이 높고 한국어 지원이 우수하여 추천합니다. | [bkit-codex](https://github.com/popup-studio-ai/bkit-codex) |
+| 📦 claude-code-mastering | Claude Code 한국어 가이드북 13장 | Claude Code에 대한 한국어 가이드북으로, 한국어 사용자에게 매우 유용하며 실질적인 학습 자료를 제공합니다. | [claude-code-mastering](https://github.com/revfactory/claude-code-mastering) |
+| 🪝 spinner-to-kor | CC | Claude Code CLI 스피너 메시지를 한국어로 변경해주는 유틸리티로, 한국어 사용자 경험을 개선하는 데 실용적입니다. | [spinner-to-kor](https://github.com/claude-code-expert/spinner-to-kor) |
 
 ---
 

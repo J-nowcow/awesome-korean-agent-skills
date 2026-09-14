@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-09-07
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-09-14
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 📦 bkit-gemini | GC | A framework offering diverse skills with excellent Korean support, useful for building practical AI agents. | [bkit-gemini](https://github.com/popup-studio-ai/bkit-gemini) |
-| 🤖 html-anything | CC/GC | An AI-powered HTML editor offering high practicality in content and media, with Korean language support. | [html-anything](https://github.com/nexu-io/html-anything) |
-| 🔧 agent-skill-creator | CC/GC/CX/CP/OC | A utility that converts workflows into AI agent skills, supporting various tools and showing promising practical applications. | [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) |
+| 📦 bkit-codex | CX | This framework supports various languages, including Korean, making it highly practical and recommended for its excellent Korean language support. | [bkit-codex](https://github.com/popup-studio-ai/bkit-codex) |
+| 📦 claude-code-mastering | Claude Code 한국어 가이드북 13장 | This is a Korean guidebook for Claude Code, offering very useful and practical learning materials for Korean users. | [claude-code-mastering](https://github.com/revfactory/claude-code-mastering) |
+| 🪝 spinner-to-kor | CC | This utility changes Claude Code CLI spinner messages to Korean, making it practical for improving the user experience for Korean speakers. | [spinner-to-kor](https://github.com/claude-code-expert/spinner-to-kor) |
 
 ---
 
