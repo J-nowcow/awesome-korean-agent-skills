@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **41개 항목** · 자동 갱신: 2026-09-15
+> 📦 **42개 항목** · 자동 갱신: 2026-09-15
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -56,6 +56,7 @@
 | career-ops | CC/GC | AI 기반 채용 공고 분석 및 지원 관리 | 다국어(KO) | [career-ops](https://github.com/career-ops-hq/career-ops) |
 | LibreChat |  | 다양한 AI 모델을 지원하는 챗봇 클론 | 다국어(KO) | [LibreChat](https://github.com/danny-avila/LibreChat) |
 | vibes-plug | CC/CX | 다양한 AI 플랫폼을 위한 범용 에이전트 스웜 | 영+한 | [vibes-plug](https://github.com/roedyrustam/vibes-plug) |
+| Auto-Company | CC/OC | 24시간 자율 운영 AI 회사 | 영+한 | [Auto-Company](https://github.com/MaxMiksa/Auto-Company) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

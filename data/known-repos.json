@@ -5764,7 +5764,22 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/MaxMiksa/Auto-Company",
+      "last_scanned": "2026-09-15T21:56:10.314Z",
+      "skills": [
+        {
+          "name": "Auto-Company",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/truefoundry/trueforge",
+      "last_scanned": "2026-09-15T21:56:45.011Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-09-14T22:16:42.865Z"
+  "last_updated": "2026-09-15T21:56:45.011Z"
 }
