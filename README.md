@@ -51,7 +51,7 @@
 | [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 25+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 8+ |
 | [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 5+ |
-| [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 6+ |
+| [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 7+ |
 | [DevOps & 배포](categories/devops.md) | CI/CD, 릴리즈, 모니터링, 세션 관리 | 21+ |
 
 ## 일상 · 업무 스킬
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>442+</h2></td>
-<td><h2>887</h2></td>
+<td><h2>443+</h2></td>
+<td><h2>892</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 359
+    "CC" : 360
     "GC" : 85
     "CX" : 45
     "CP" : 19
@@ -232,7 +232,7 @@ pie showData
 <tr align="center">
 <td><b>11</b> run · <b>+9</b> 스킬</td>
 <td><b>8</b> run · <b>-0</b> dead link</td>
-<td><b>14</b> run</td>
+<td><b>15</b> run</td>
 <td><b>1</b> run</td>
 </tr>
 </table>
@@ -247,7 +247,7 @@ pie showData
 | 2026-09-13 | **2** | **1** | **2** | · |
 | 2026-09-14 | **1** | **1** | **2** | **1** |
 | 2026-09-15 | **1** | **1** | **2** | · |
-| 2026-09-16 | · | **1** | · | · |
+| 2026-09-16 | · | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

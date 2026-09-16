@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **6개 항목** · 자동 갱신: 2026-09-16
+> 📦 **7개 항목** · 자동 갱신: 2026-09-16
 <!-- CAT_STATS:END -->
 > Unity, Blender, C# 스크립팅
 
@@ -24,3 +24,9 @@
 | blender-toolkit | CC | Blender 실시간 제어, Mixamo 애니메이션 | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/blender-toolkit/skills) |
 
 | awesome-gamedev-agent-skills | CC/GC/CX/CP/OC/CR/WS | AI 코딩 에이전트를 위한 게임 개발 스킬 컬렉션 | 영+한 | [awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) |
+
+## ⚡ Commands
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| mcp-for-blender | CC | Blender를 LLM으로 제어하는 커뮤니티 플러그인 | 영+한 | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) |

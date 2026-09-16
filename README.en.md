@@ -107,7 +107,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 25+ |
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 8+ |
 | [Performance Optimization](categories/performance.md) | Profiling, caching, bundle size | 5+ |
-| [Game Development](categories/game-dev.md) | Unity, Blender, C# | 6+ |
+| [Game Development](categories/game-dev.md) | Unity, Blender, C# | 7+ |
 | [DevOps & Deployment](categories/devops.md) | CI/CD, releases, monitoring, session management | 21+ |
 
 ## Daily & Productivity Skills

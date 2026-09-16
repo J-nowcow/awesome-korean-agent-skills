@@ -5779,7 +5779,37 @@
       "url": "https://github.com/truefoundry/trueforge",
       "last_scanned": "2026-09-15T21:56:45.011Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "last_scanned": "2026-09-16T21:54:30.525Z",
+      "skills": [
+        {
+          "name": "mcp-for-blender",
+          "category": "game-dev"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "last_scanned": "2026-09-16T21:55:04.649Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "last_scanned": "2026-09-16T21:55:38.902Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/trailofbits/claude-code-config",
+      "last_scanned": "2026-09-16T21:56:13.025Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/twentyhq/twenty",
+      "last_scanned": "2026-09-16T21:56:47.920Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-09-15T21:56:45.011Z"
+  "last_updated": "2026-09-16T21:56:47.920Z"
 }
