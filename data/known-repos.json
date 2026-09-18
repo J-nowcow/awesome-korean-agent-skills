@@ -5809,7 +5809,27 @@
       "url": "https://github.com/twentyhq/twenty",
       "last_scanned": "2026-09-16T21:56:47.920Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "last_scanned": "2026-09-18T17:56:31.631Z",
+      "skills": [
+        {
+          "name": "ai-website-cloner-template",
+          "category": "project-init"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/latent-spaces/brag",
+      "last_scanned": "2026-09-18T17:57:06.076Z",
+      "skills": [
+        {
+          "name": "brag",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-16T21:56:47.920Z"
+  "last_updated": "2026-09-18T17:57:06.076Z"
 }

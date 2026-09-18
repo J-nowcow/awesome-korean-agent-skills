@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **26개 항목** · 자동 갱신: 2026-09-18
+> 📦 **27개 항목** · 자동 갱신: 2026-09-18
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -50,3 +50,5 @@
 | get-shit-done | CC/GC | Claude Code, Gemini CLI 등 AI 개발 시스템 | 다국어(KO) | [get-shit-done](https://github.com/gsd-build/get-shit-done) |
 
 | start |  | 프로젝트 스캐폴딩 및 ViraStack 도구 추가 | 영+한 | [start](https://github.com/virastack/start) |
+
+| ai-website-cloner-template | CC/GC/CX/OC | AI로 웹사이트 클론하는 템플릿 | 영+한 | [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) |

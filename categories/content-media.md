@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **21개 항목** · 자동 갱신: 2026-09-18
+> 📦 **22개 항목** · 자동 갱신: 2026-09-18
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -30,6 +30,7 @@
 | marketing-mindset | CC/CX/OC | AI 에이전트를 위한 마케팅 사고방식 OS | 영+한 | [marketing-mindset](https://github.com/axelfreeman/marketing-mindset) |
 | modlens |  | 텍스트 모델에 시각 능력 부여 | 영+한 | [modlens](https://github.com/liustack/modlens) |
 | drama-skills | CC/OC | AI 단편 드라마/만화 제작 스킬 모음 | 영+한 | [drama-skills](https://github.com/zenstory-ai/drama-skills) |
+| brag | CC/GC | 프로젝트를 짧은 홍보 영상으로 만들어주는 스킬 | 영+한 | [brag](https://github.com/latent-spaces/brag) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
