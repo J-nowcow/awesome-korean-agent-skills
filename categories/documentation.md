@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **23개 항목** · 자동 갱신: 2026-09-18
+> 📦 **22개 항목** · 자동 갱신: 2026-09-19
 <!-- CAT_STATS:END -->
 > 기술 문서 생성, 한국어 문서 작성, 코드맵
 
@@ -22,7 +22,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| korean-docs | CC | 전문 한국어 기술 문서 (README, API, 가이드) | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills/korean-docs) |
 | qa / qa-list / qa-merge (3종) | CC | Q&A 문서 기록·목록·통합 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills) |
 | handoff | CC | 세션 종료 전 HANDOFF.md 인계 문서 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/handoff) |
 | draw-diagram | CC | Draw.io XML 다이어그램 (아키텍처, ERD, AWS) | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/development/skills/draw-diagram) |
