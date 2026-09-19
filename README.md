@@ -24,7 +24,7 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-09-18
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-09-19
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
@@ -43,8 +43,8 @@
 | [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 12+ |
 | [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 27+ |
 | [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 10+ |
-| [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 23+ |
-| [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 23+ |
+| [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 22+ |
+| [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 22+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 7+ |
 | [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 42+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 10+ |
@@ -61,7 +61,7 @@
 | [한국 생활 서비스](categories/korean-services.md) | SRT/KTX, 택배, 로또, KBO, 카카오톡 | 10+ |
 | [커뮤니케이션](categories/communication.md) | 이메일·슬랙 트리아지, 알림 설정 | 4+ |
 | [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 22+ |
-| [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 11+ |
+| [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 10+ |
 | [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 12+ |
 | [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 21+ |
 
@@ -156,7 +156,7 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 
 ## 📊 통계 한눈에
 
-<sub>마지막 갱신: 2026-09-18 · 자동 생성 · 데이터는 [categories/](categories/) 표에서 직접 카운트</sub>
+<sub>마지막 갱신: 2026-09-19 · 자동 생성 · 데이터는 [categories/](categories/) 표에서 직접 카운트</sub>
 
 <table>
 <tr align="center">
@@ -165,7 +165,7 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>446+</h2></td>
+<td><h2>443+</h2></td>
 <td><h2>896</h2></td>
 <td><h2>25</h2></td>
 </tr>
@@ -180,9 +180,9 @@ pie showData
     "멀티에이전트" : 42
     "프로젝트 초기화" : 27
     "웹 프론트엔드" : 25
-    "Git & 워크플로우" : 23
-    "문서화" : 23
     "유틸리티 도구" : 22
+    "Git & 워크플로우" : 22
+    "문서화" : 22
     "콘텐츠 & 미디어" : 22
     "테스트 & TDD" : 21
     "리서치 & 웹" : 21
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 363
+    "CC" : 360
     "GC" : 87
     "CX" : 46
     "CP" : 19
@@ -220,7 +220,7 @@ pie showData
 
 ## 🤖 최근 자동화 활동
 
-<sub>지난 7일 (since 2026-09-11T00:00:00Z UTC) · 자동 생성 · 마지막 갱신 2026-09-18</sub>
+<sub>지난 7일 (since 2026-09-12T00:00:00Z UTC) · 자동 생성 · 마지막 갱신 2026-09-19</sub>
 
 <table>
 <tr align="center">
@@ -230,10 +230,10 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>11</b> run · <b>+11</b> 스킬</td>
-<td><b>8</b> run · <b>-0</b> dead link</td>
-<td><b>15</b> run</td>
+<td><b>0</b> run · <b>+0</b> 스킬</td>
+<td><b>0</b> run · <b>-0</b> dead link</td>
 <td><b>1</b> run</td>
+<td><b>0</b> run</td>
 </tr>
 </table>
 
@@ -241,13 +241,13 @@ pie showData
 
 | 날짜 | 🔍 신규 | 🔗 정리 | 📊 동기화 | ⭐ 추천 |
 |------|:---:|:---:|:---:|:---:|
-| 2026-09-12 | **2** | **1** | **2** | · |
-| 2026-09-13 | **2** | **1** | **2** | · |
-| 2026-09-14 | **1** | **1** | **2** | **1** |
-| 2026-09-15 | **1** | **1** | **2** | · |
-| 2026-09-16 | **1** | **1** | **2** | · |
-| 2026-09-17 | · | **1** | **2** | · |
-| 2026-09-18 | **3** | **1** | **1** | · |
+| 2026-09-13 | · | · | · | · |
+| 2026-09-14 | · | · | · | · |
+| 2026-09-15 | · | · | · | · |
+| 2026-09-16 | · | · | · | · |
+| 2026-09-17 | · | · | · | · |
+| 2026-09-18 | · | · | **1** | · |
+| 2026-09-19 | · | · | · | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
