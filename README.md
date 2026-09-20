@@ -105,7 +105,6 @@ npx oh-my-gemini-cli@latest init
 <summary><strong>범례 · 도구 호환성 · 용어 설명</strong> (클릭하여 펼치기)</summary>
 
 ### AI 에이전트 스킬이란?
-- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI agent runs for debugging, diffing and model comparison.
 
 AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 가르치는 지침 파일**입니다. 마크다운(`SKILL.md`)으로 작성하며, AI가 필요할 때 자동으로 불러와서 사용합니다.
 
