@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-09-20
+> 📦 **23개 항목** · 자동 갱신: 2026-09-20
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -37,6 +37,7 @@
 | rollinggo-hotel-skill-cn | CC/CX/CP | 글로벌 호텔 예약 및 가격 모니터링 | 영+한 | [rollinggo-hotel-skill-cn](https://github.com/RollingGo-AI/rollinggo-hotel-skill-cn) |
 | attention-control | CC/OC | 에이전트 출력 제어를 위한 도구 | 영+한 | [attention-control](https://github.com/aaddrick/attention-control) |
 | reactive-resume |  | 개인 정보 보호를 중시하는 이력서 빌더 | 영+한 | [reactive-resume](https://github.com/amruthpillai/reactive-resume) |
+| open-codex-computer-use | GC | Codex Computer Use의 오픈소스 대안 | 영+한 | [open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
