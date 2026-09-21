@@ -5854,7 +5854,27 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/jha0313/skills_repo",
+      "last_scanned": "2026-09-21T22:28:05.936Z",
+      "skills": [
+        {
+          "name": "skills_repo",
+          "category": "testing"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/wapj/yozm-vibe",
+      "last_scanned": "2026-09-21T22:28:40.194Z",
+      "skills": [
+        {
+          "name": "yozm-vibe",
+          "category": "git-workflow"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-20T20:08:36.649Z"
+  "last_updated": "2026-09-21T22:28:40.195Z"
 }
