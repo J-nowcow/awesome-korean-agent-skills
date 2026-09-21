@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-09-20
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-09-21
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 📦 bkit-codex | CX | 다양한 언어(한국어 포함)를 지원하는 프레임워크로, 실용성이 높고 한국어 지원이 우수하여 추천합니다. | [bkit-codex](https://github.com/popup-studio-ai/bkit-codex) |
-| 📦 claude-code-mastering | Claude Code 한국어 가이드북 13장 | Claude Code에 대한 한국어 가이드북으로, 한국어 사용자에게 매우 유용하며 실질적인 학습 자료를 제공합니다. | [claude-code-mastering](https://github.com/revfactory/claude-code-mastering) |
-| 🪝 spinner-to-kor | CC | Claude Code CLI 스피너 메시지를 한국어로 변경해주는 유틸리티로, 한국어 사용자 경험을 개선하는 데 실용적입니다. | [spinner-to-kor](https://github.com/claude-code-expert/spinner-to-kor) |
+| 📦 oh-my-openagent | OC | 다양한 카테고리에서 고르게 선택하기 위해 프레임워크 카테고리에서 'oh-my-openagent'를 추천합니다. 한국어 지원이 좋고 실용성이 높으며, 프레임워크 타입으로 다양한 타입 혼합 권장 기준에도 부합합니다. | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) |
+| ⚡ next-ai-draw-io |  | 실용성이 높은 유틸리티 카테고리에서 'next-ai-draw-io'를 추천합니다. AI를 활용하여 다이어그램을 생성하고 수정하는 기능은 개발 및 문서 작업에 매우 유용하며, 한국어 지원도 기대할 수 있습니다. | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
+| 📦 vibecoding | "혼자 공부하는 바이브코딩" 도서 공식 레포 | 가이드 카테고리에서 'vibecoding'을 추천합니다. 한국어로 된 도서 공식 레포지토리로, 한국어 지원이 뛰어나고 실용적인 코딩 학습 가이드 역할을 할 수 있습니다. | [vibecoding](https://github.com/taehojo/vibecoding) |
 
 ---
 

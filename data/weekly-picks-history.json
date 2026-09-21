@@ -207,6 +207,32 @@
           "tools": "CC"
         }
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "items": [
+        {
+          "name": "oh-my-openagent",
+          "repo": "code-yeongyu/oh-my-openagent",
+          "category": "frameworks",
+          "type": "📦",
+          "tools": "OC"
+        },
+        {
+          "name": "next-ai-draw-io",
+          "repo": "DayuanJiang/next-ai-draw-io",
+          "category": "utilities",
+          "type": "⚡",
+          "tools": ""
+        },
+        {
+          "name": "vibecoding",
+          "repo": "taehojo/vibecoding",
+          "category": "guides",
+          "type": "📦",
+          "tools": "\"혼자 공부하는 바이브코딩\" 도서 공식 레포"
+        }
+      ]
     }
   ]
 }
