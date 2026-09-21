@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-09-14
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-09-21
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 📦 bkit-codex | CX | This framework supports various languages, including Korean, making it highly practical and recommended for its excellent Korean language support. | [bkit-codex](https://github.com/popup-studio-ai/bkit-codex) |
-| 📦 claude-code-mastering | Claude Code 한국어 가이드북 13장 | This is a Korean guidebook for Claude Code, offering very useful and practical learning materials for Korean users. | [claude-code-mastering](https://github.com/revfactory/claude-code-mastering) |
-| 🪝 spinner-to-kor | CC | This utility changes Claude Code CLI spinner messages to Korean, making it practical for improving the user experience for Korean speakers. | [spinner-to-kor](https://github.com/claude-code-expert/spinner-to-kor) |
+| 📦 oh-my-openagent | OC | To ensure a balanced selection across categories, 'oh-my-openagent' from the frameworks category is recommended. It offers good Korean support, high practicality, and fits the recommendation for mixed types with its framework type. | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) |
+| ⚡ next-ai-draw-io |  | From the highly practical utilities category, 'next-ai-draw-io' is recommended. Its ability to generate and modify diagrams using AI is very useful for development and documentation tasks, and Korean support can be expected. | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
+| 📦 vibecoding | "혼자 공부하는 바이브코딩" 도서 공식 레포 | From the guides category, 'vibecoding' is recommended. As an official repository for a book in Korean, it offers excellent Korean support and can serve as a practical coding learning guide. | [vibecoding](https://github.com/taehojo/vibecoding) |
 
 ---
 
