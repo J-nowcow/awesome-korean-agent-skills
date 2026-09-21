@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **21개 항목** · 자동 갱신: 2026-09-21
+> 📦 **22개 항목** · 자동 갱신: 2026-09-21
 <!-- CAT_STATS:END -->
 > 테스트 주도 개발, E2E 테스트, 커버리지 분석
 
@@ -35,6 +35,7 @@
 
 | Claude-Certified-Architect-Foundations-Certification-Exam | CC | Claude Code 기반 자격증 시험 연습 | 영+한 | [Claude-Certified-Architect-Foundations-Certification-Exam](https://github.com/OlivierAlter/Claude-Certified-Architect-Foundations-Certification-Exam) |
 | gomega | CC | Ginkgo 테스트 프레임워크용 매처 라이브러리 | 영+한 | [gomega](https://github.com/onsi/gomega) |
+| skills_repo | CC | 평가 및 워크플로우 조율 스킬 모음 | 한국어 | [skills_repo](https://github.com/jha0313/skills_repo) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

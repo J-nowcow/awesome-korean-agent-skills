@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-09-21
+> 📦 **23개 항목** · 자동 갱신: 2026-09-21
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -30,6 +30,7 @@
 | agent-resources | CC/CX | 다양한 AI 에이전트용 재사용 가능한 워크플로우 모음 | 영+한 | [agent-resources](https://github.com/jcottam/agent-resources) |
 | delegate-skills | CC | 코딩 작업을 AI 에이전트에게 위임 | 영+한 | [delegate-skills](https://github.com/amElnagdy/delegate-skills) |
 | gentle-ai | CC | AI 코딩 에이전트 환경 설정 및 스킬 관리 | 영+한 | [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) |
+| yozm-vibe | GC | Git 커밋 및 PR 리뷰 자동화 | 영+한 | [yozm-vibe](https://github.com/wapj/yozm-vibe) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
