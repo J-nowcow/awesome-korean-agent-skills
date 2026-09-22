@@ -5879,7 +5879,17 @@
       "url": "https://github.com/sodam-ai/SoDam_GitHub_Fork_List",
       "last_scanned": "2026-09-22T18:23:09.713Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+      "last_scanned": "2026-09-22T19:34:56.433Z",
+      "skills": [
+        {
+          "name": "invisible_playwright_mcp",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-22T18:23:09.713Z"
+  "last_updated": "2026-09-22T19:34:56.433Z"
 }
