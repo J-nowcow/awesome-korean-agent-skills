@@ -166,7 +166,7 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 </tr>
 <tr align="center">
 <td><h2>446+</h2></td>
-<td><h2>899</h2></td>
+<td><h2>900</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -232,7 +232,7 @@ pie showData
 <tr align="center">
 <td><b>7</b> run · <b>+8</b> 스킬</td>
 <td><b>8</b> run · <b>-3</b> dead link</td>
-<td><b>13</b> run</td>
+<td><b>14</b> run</td>
 <td><b>1</b> run</td>
 </tr>
 </table>
@@ -247,7 +247,7 @@ pie showData
 | 2026-09-19 | · | **1** | **2** | · |
 | 2026-09-20 | **1** | **1** | **1** | · |
 | 2026-09-21 | **1** | **1** | **2** | **1** |
-| 2026-09-22 | · | **1** | · | · |
+| 2026-09-22 | · | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
