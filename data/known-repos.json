@@ -5889,7 +5889,17 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/lguz/humanize-writing-skill",
+      "last_scanned": "2026-09-25T20:18:26.995Z",
+      "skills": [
+        {
+          "name": "humanize-writing-skill",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-22T19:34:56.433Z"
+  "last_updated": "2026-09-25T20:18:26.995Z"
 }
