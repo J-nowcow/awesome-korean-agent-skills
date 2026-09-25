@@ -5899,7 +5899,12 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/mindsdb/mindshub",
+      "last_scanned": "2026-09-25T21:59:57.885Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-09-25T20:18:26.995Z"
+  "last_updated": "2026-09-25T21:59:57.885Z"
 }
