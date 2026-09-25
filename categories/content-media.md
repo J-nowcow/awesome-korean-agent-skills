@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-09-25
+> 📦 **23개 항목** · 자동 갱신: 2026-09-25
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -46,3 +46,5 @@
 | rallylens | GC | 배드민턴 경기 분석 CLI 파이프라인 | 영+한 | [rallylens](https://github.com/YeonSeong-Lee/rallylens) |
 
 | marketing-skills | CC | Claude를 활용한 마케팅 보조 스킬 모음 | 영+한 | [marketing-skills](https://github.com/irinabuht12-oss/marketing-skills) |
+
+| humanize-writing-skill | CC/GC/CX/WS | AI 생성 글을 인간적인 문체로 재작성 | 영+한 | [humanize-writing-skill](https://github.com/lguz/humanize-writing-skill) |
