@@ -5904,7 +5904,17 @@
       "url": "https://github.com/mindsdb/mindshub",
       "last_scanned": "2026-09-25T21:59:57.885Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/revfactory/harness",
+      "last_scanned": "2026-09-26T21:51:45.698Z",
+      "skills": [
+        {
+          "name": "harness",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-25T21:59:57.885Z"
+  "last_updated": "2026-09-26T21:51:45.698Z"
 }
