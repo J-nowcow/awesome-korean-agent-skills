@@ -5914,7 +5914,17 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/kharmanskyi/open-steps",
+      "last_scanned": "2026-09-28T20:52:51.051Z",
+      "skills": [
+        {
+          "name": "open-steps",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-26T21:51:45.698Z"
+  "last_updated": "2026-09-28T20:52:51.051Z"
 }

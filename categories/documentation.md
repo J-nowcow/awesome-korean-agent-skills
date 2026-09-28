@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-09-28
+> 📦 **23개 항목** · 자동 갱신: 2026-09-28
 <!-- CAT_STATS:END -->
 > 기술 문서 생성, 한국어 문서 작성, 코드맵
 
@@ -38,6 +38,7 @@
 | book-to-skill | CC/GC/CP | 기술 서적을 Claude Code 스킬로 변환 | 영+한 | [book-to-skill](https://github.com/virgiliojr94/book-to-skill) |
 | visual-explainer | CC/GC | 터미널 출력을 읽기 쉬운 HTML로 변환 | 영+한 | [visual-explainer](https://github.com/nicobailon/visual-explainer) |
 | prd-to-onepager | CC/GC | PRD를 AI가 실행 가능한 one-pager로 요약 | 한국어 | [prd-to-onepager](https://github.com/calmtiger86/prd-to-onepager) |
+| open-steps | CC/GC | 코딩 에이전트의 출력을 쉬운 언어로 번역 | 영+한 | [open-steps](https://github.com/kharmanskyi/open-steps) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
