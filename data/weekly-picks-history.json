@@ -233,6 +233,32 @@
           "tools": "\"혼자 공부하는 바이브코딩\" 도서 공식 레포"
         }
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "items": [
+        {
+          "name": "oh-my-gemini-cli",
+          "repo": "Joonghyun-Lee-Frieren/oh-my-gemini-cli",
+          "category": "frameworks",
+          "type": "📦",
+          "tools": "GC"
+        },
+        {
+          "name": "clawd-on-desk",
+          "repo": "rullerzhou-afk/clawd-on-desk",
+          "category": "multi-agent",
+          "type": "🪝",
+          "tools": "CC/GC/CX/CP/OC"
+        },
+        {
+          "name": "토스 FE Cursor Rule",
+          "repo": "toy-crane/dde6258997519d954063a536fc72d055",
+          "category": "web-frontend",
+          "type": "🔧",
+          "tools": "CR"
+        }
+      ]
     }
   ]
 }

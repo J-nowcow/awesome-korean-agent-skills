@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-09-21
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-09-28
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 📦 oh-my-openagent | OC | To ensure a balanced selection across categories, 'oh-my-openagent' from the frameworks category is recommended. It offers good Korean support, high practicality, and fits the recommendation for mixed types with its framework type. | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) |
-| ⚡ next-ai-draw-io |  | From the highly practical utilities category, 'next-ai-draw-io' is recommended. Its ability to generate and modify diagrams using AI is very useful for development and documentation tasks, and Korean support can be expected. | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
-| 📦 vibecoding | "혼자 공부하는 바이브코딩" 도서 공식 레포 | From the guides category, 'vibecoding' is recommended. As an official repository for a book in Korean, it offers excellent Korean support and can serve as a practical coding learning guide. | [vibecoding](https://github.com/taehojo/vibecoding) |
+| 📦 oh-my-gemini-cli | GC | A CLI framework supporting various skills, with explicit Korean language support, making it highly practical. It allows for a mix of Agent and Framework type skills. | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
+| 🪝 clawd-on-desk | CC/GC/CX/CP/OC | This skill implements AI coding agent responses as a desktop pet, showcasing a unique idea. It supports various tools and offers interesting applications as an Agent type. | [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) |
+| 🔧 토스 FE Cursor Rule | CR | This Cursor Rule, based on Toss Frontend Fundamentals, can provide practical assistance in web frontend development. It is a highly practical and specialized skill for a specific domain. | [Gist](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055) |
 
 ---
 
