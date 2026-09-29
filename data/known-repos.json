@@ -5934,7 +5934,12 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/yetone/magpie",
+      "last_scanned": "2026-09-29T20:28:30.042Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-09-28T21:36:23.367Z"
+  "last_updated": "2026-09-29T20:28:30.042Z"
 }
