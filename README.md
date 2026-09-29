@@ -28,9 +28,9 @@
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 📦 oh-my-openagent | OC | 다양한 카테고리에서 고르게 선택하기 위해 프레임워크 카테고리에서 'oh-my-openagent'를 추천합니다. 한국어 지원이 좋고 실용성이 높으며, 프레임워크 타입으로 다양한 타입 혼합 권장 기준에도 부합합니다. | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) |
-| ⚡ next-ai-draw-io |  | 실용성이 높은 유틸리티 카테고리에서 'next-ai-draw-io'를 추천합니다. AI를 활용하여 다이어그램을 생성하고 수정하는 기능은 개발 및 문서 작업에 매우 유용하며, 한국어 지원도 기대할 수 있습니다. | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
-| 📦 vibecoding | "혼자 공부하는 바이브코딩" 도서 공식 레포 | 가이드 카테고리에서 'vibecoding'을 추천합니다. 한국어로 된 도서 공식 레포지토리로, 한국어 지원이 뛰어나고 실용적인 코딩 학습 가이드 역할을 할 수 있습니다. | [vibecoding](https://github.com/taehojo/vibecoding) |
+| 📦 oh-my-gemini-cli | GC | 다양한 스킬을 지원하는 CLI 프레임워크로, 한국어 지원이 명시되어 있어 실용성이 높습니다. Agent, Framework 등 다양한 타입의 스킬을 혼합하여 사용할 수 있습니다. | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
+| 🪝 clawd-on-desk | CC/GC/CX/CP/OC | AI 코딩 에이전트 반응을 데스크탑 펫으로 구현한 독특한 아이디어의 스킬입니다. 다양한 도구를 지원하며, Agent 타입으로 흥미로운 활용이 가능합니다. | [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) |
+| 🔧 토스 FE Cursor Rule | CR | 토스 Frontend Fundamentals를 기반으로 한 Cursor Rule로, 웹 프론트엔드 개발에 실질적인 도움을 줄 수 있습니다. 실용성이 높고 특정 분야에 특화된 스킬입니다. | [Gist](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055) |
 
 ---
 
