@@ -5939,7 +5939,27 @@
       "url": "https://github.com/yetone/magpie",
       "last_scanned": "2026-09-29T20:28:30.042Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/feder-cr/dots",
+      "last_scanned": "2026-09-30T19:41:16.991Z",
+      "skills": [
+        {
+          "name": "dots",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/mvschwarz/openrig",
+      "last_scanned": "2026-09-30T19:41:51.313Z",
+      "skills": [
+        {
+          "name": "openrig",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-29T20:28:30.042Z"
+  "last_updated": "2026-09-30T19:41:51.313Z"
 }

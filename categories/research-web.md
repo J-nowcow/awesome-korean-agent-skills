@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-09-30
+> 📦 **23개 항목** · 자동 갱신: 2026-09-30
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -46,3 +46,5 @@
 | AAWS |  | AI 에이전트 기반 웹 스크래핑 및 자동화 시스템 | 영+한 | [AAWS](https://github.com/hukim1112/AAWS) |
 
 | invisible_playwright_mcp | CC/GC | 탐지 불가능한 웹 브라우징 에이전트 | 영+한 | [invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) |
+
+| dots | CC/GC | AI 에이전트용 브라우저 | 영+한 | [dots](https://github.com/feder-cr/dots) |
