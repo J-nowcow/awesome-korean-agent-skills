@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **24개 항목** · 자동 갱신: 2026-09-30
+> 📦 **25개 항목** · 자동 갱신: 2026-09-30
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -49,3 +49,5 @@
 | invisible_playwright_mcp | CC/GC | 탐지 불가능한 웹 브라우징 에이전트 | 영+한 | [invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) |
 
 | dots | CC/GC | AI 에이전트용 브라우저 | 영+한 | [dots](https://github.com/feder-cr/dots) |
+
+| gyunggyung |  | LLM 기반 연구 아이디어 탐색 및 관련 연구 초안 생성 에이전트 | 한국어 | [gyunggyung](https://github.com/gyunggyung/gyunggyung) |

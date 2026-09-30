@@ -5989,7 +5989,27 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/craftingmod/ComfyUI-llama-multimodal",
+      "last_scanned": "2026-09-30T22:49:52.798Z",
+      "skills": [
+        {
+          "name": "ComfyUI-llama-multimodal",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/gyunggyung/gyunggyung",
+      "last_scanned": "2026-09-30T22:50:26.887Z",
+      "skills": [
+        {
+          "name": "gyunggyung",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-30T21:45:45.521Z"
+  "last_updated": "2026-09-30T22:50:26.887Z"
 }
