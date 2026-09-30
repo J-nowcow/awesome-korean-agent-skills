@@ -102,7 +102,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 23+ |
 | [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 23+ |
 | [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 7+ |
-| [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 43+ |
+| [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 44+ |
 | [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 10+ |
 | [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 25+ |
 | [Backend](categories/backend.md) | NestJS, FastAPI, API design, DB | 8+ |
@@ -120,7 +120,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Writing & Korean Language](categories/korean-writing.md) | AI style transfer, spell checking, technical docs | 10+ |
 | [Media](categories/media.md) | YouTube subtitles, image processing | 2+ |
 | [Office & Documents](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 12+ |
-| [Research & Web](categories/research-web.md) | Web search, scraping, Markdown conversion | 22+ |
+| [Research & Web](categories/research-web.md) | Web search, scraping, Markdown conversion | 23+ |
 
 ## Comprehensive Repos
 
