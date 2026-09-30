@@ -5959,7 +5959,27 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "last_scanned": "2026-09-30T21:15:54.197Z",
+      "skills": [
+        {
+          "name": "gitdiagram",
+          "category": "documentation"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/openags/paper-search-mcp",
+      "last_scanned": "2026-09-30T21:16:28.929Z",
+      "skills": [
+        {
+          "name": "paper-search-mcp",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-30T19:41:51.313Z"
+  "last_updated": "2026-09-30T21:16:28.929Z"
 }
