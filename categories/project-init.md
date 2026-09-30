@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **27개 항목** · 자동 갱신: 2026-09-30
+> 📦 **28개 항목** · 자동 갱신: 2026-09-30
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -38,6 +38,7 @@
 | teo-skills | CC | 1인 기업 설계 및 실행 지원 스킬 | 한국어 | [teo-skills](https://github.com/teo713ko-gif/teo-skills) |
 | Git-It-iOS |  | iOS 프로젝트 초기화 및 개발 도구 | 영+한 | [Git-It-iOS](https://github.com/Nexters/Git-It-iOS) |
 | agents-scaffold | CC/GC | AI 코딩 에이전트 스킬 컬렉션 | 다국어(KO) | [agents-scaffold](https://github.com/LeeYudok/agents-scaffold) |
+| pm-brain | CC | 제품 관리자를 위한 마크다운 기반 세컨드 브레인 | 영+한 | [pm-brain](https://github.com/phuryn/pm-brain) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

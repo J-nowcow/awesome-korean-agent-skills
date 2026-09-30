@@ -5979,7 +5979,17 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/phuryn/pm-brain",
+      "last_scanned": "2026-09-30T21:45:45.521Z",
+      "skills": [
+        {
+          "name": "pm-brain",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-30T21:16:28.929Z"
+  "last_updated": "2026-09-30T21:45:45.521Z"
 }
