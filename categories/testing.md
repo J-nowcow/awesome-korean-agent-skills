@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-10-01
+> 📦 **21개 항목** · 자동 갱신: 2026-10-02
 <!-- CAT_STATS:END -->
 > 테스트 주도 개발, E2E 테스트, 커버리지 분석
 
@@ -14,7 +14,6 @@
 |------|------|------|------|------|
 | test-engineer | CC | 단위/통합/E2E 테스트 전략, TDD 가이드 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/test-engineer.md) |
 | qa-tester | CC | tmux 세션 기반 인터랙티브 CLI 테스팅 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/qa-tester.md) |
-| verifier | CC | 완료 주장에 대한 증거 기반 검증 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/verifier.md) |
 | tdd-guide | CC | TDD 강제, 80%+ 커버리지 보장 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/tdd-guide.md) |
 | e2e-runner | CC | Playwright E2E 테스트 생성·실행 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/e2e-runner.md) |
 
