@@ -6009,7 +6009,32 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/HarnessMD/munder-difflin",
+      "last_scanned": "2026-10-02T20:22:29.692Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/Louis-CFM/coucou",
+      "last_scanned": "2026-10-02T20:23:03.555Z",
+      "skills": [
+        {
+          "name": "coucou",
+          "category": "utilities"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/rebelytics/one-skill-to-rule-them-all",
+      "last_scanned": "2026-10-02T20:23:37.484Z",
+      "skills": [
+        {
+          "name": "one-skill-to-rule-them-all",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-30T22:50:26.887Z"
+  "last_updated": "2026-10-02T20:23:37.484Z"
 }
