@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **21개 항목** · 자동 갱신: 2026-10-01
+> 📦 **20개 항목** · 자동 갱신: 2026-10-02
 <!-- CAT_STATS:END -->
 > CI/CD, 릴리즈 자동화, 모니터링, 세션 관리
 
@@ -24,7 +24,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| checkpoint | CC | 작업 상태 save/restore/list/diff/delete | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/commands/checkpoint.md) |
 | pm2 | CC | PM2 서비스 명령 자동 생성 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/commands/pm2.md) |
 | save/resume-session | CC | 세션 상태 저장·복원 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/tree/main/commands) — save-session.md, resume-session.md |
 | harness-audit | CC | 하네스 감사 스코어카드 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/commands/harness-audit.md) |

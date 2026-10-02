@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **44개 항목** · 자동 갱신: 2026-10-01
+> 📦 **43개 항목** · 자동 갱신: 2026-10-02
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -63,7 +63,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| multi-workflow | CC | 프론트→Gemini, 백엔드→Codex 라우팅 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/commands/multi-workflow.md) |
 | tth | CC | 토스 사일로 + 머스크 5-Step + Ralph Loop | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/commands/tth.md) |
 
 ## 🪝 Hooks
