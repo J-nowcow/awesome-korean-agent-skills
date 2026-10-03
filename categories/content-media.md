@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **25개 항목** · 자동 갱신: 2026-10-02
+> 📦 **23개 항목** · 자동 갱신: 2026-10-03
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -26,8 +26,6 @@
 | narrator-ai-cli-skill | CC/GC/CX | AI 기반 영상 자동 제작 스킬 | 영+한 | [narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) |
 | Generative-Media-Skills | CC/GC/CX | AI 에이전트용 생성 미디어 스킬 모음 | 영+한 | [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) |
 | subtitle-pro | CC | YouTube 영상 한글 자막 자동 생성 | 영+한 | [subtitle-pro](https://github.com/revfactory/subtitle-pro) |
-| video-shotcraft | CC/OC | AI 기반 영상 제작 스킬 | 영+한 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) |
-| marketing-mindset | CC/CX/OC | AI 에이전트를 위한 마케팅 사고방식 OS | 영+한 | [marketing-mindset](https://github.com/axelfreeman/marketing-mindset) |
 | modlens |  | 텍스트 모델에 시각 능력 부여 | 영+한 | [modlens](https://github.com/liustack/modlens) |
 | drama-skills | CC/OC | AI 단편 드라마/만화 제작 스킬 모음 | 영+한 | [drama-skills](https://github.com/zenstory-ai/drama-skills) |
 | brag | CC/GC | 프로젝트를 짧은 홍보 영상으로 만들어주는 스킬 | 영+한 | [brag](https://github.com/latent-spaces/brag) |
