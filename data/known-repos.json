@@ -6029,7 +6029,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/tintinweb/pi-subagents",
+      "last_scanned": "2026-10-03T21:59:57.995Z",
+      "skills": [
+        {
+          "name": "pi-subagents",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-03T20:27:42.578Z"
+  "last_updated": "2026-10-03T21:59:57.995Z"
 }

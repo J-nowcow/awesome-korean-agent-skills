@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **43개 항목** · 자동 갱신: 2026-10-03
+> 📦 **44개 항목** · 자동 갱신: 2026-10-03
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -59,6 +59,7 @@
 | Auto-Company | CC/OC | 24시간 자율 운영 AI 회사 | 영+한 | [Auto-Company](https://github.com/MaxMiksa/Auto-Company) |
 | harness | CC | 에이전트 팀을 설계하고 스킬을 생성하는 메타 스킬 | 영+한 | [harness](https://github.com/revfactory/harness) |
 | openrig | CC/OC | AI 코딩 에이전트 팀 관리 및 실행 | 영+한 | [openrig](https://github.com/mvschwarz/openrig) |
+| pi-subagents | CC | Claude Code 스타일 자율 에이전트 및 워크플로우 오케스트레이션 | 영+한 | [pi-subagents](https://github.com/tintinweb/pi-subagents) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
