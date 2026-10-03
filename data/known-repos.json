@@ -6019,7 +6019,17 @@
       "url": "https://github.com/seoan1024/Korean-llm",
       "last_scanned": "2026-10-03T18:23:07.900Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/haidrrrry/compose-kotlin-agent-skills",
+      "last_scanned": "2026-10-03T20:27:42.577Z",
+      "skills": [
+        {
+          "name": "compose-kotlin-agent-skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-03T18:23:07.900Z"
+  "last_updated": "2026-10-03T20:27:42.578Z"
 }
