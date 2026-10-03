@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **53개 항목** · 자동 갱신: 2026-10-03
+> 📦 **54개 항목** · 자동 갱신: 2026-10-03
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -60,6 +60,7 @@
 | claude | CC | Claude Code 플러그인 설치 및 스킬 관리 | 한국어 | [claude](https://github.com/wnghdcjfe/claude) |
 | skills | CC | Claude Code 스킬 모음 | 영+한 | [skills](https://github.com/humanlayer/skills) |
 | kakao-wiki |  | 카카오톡 대화를 옵시디언/LLM 위키로 저장 | 한국어 | [kakao-wiki](https://github.com/treylom/kakao-wiki) |
+| compose-kotlin-agent-skills | CC/GC/CX/CP/OC | Jetpack Compose & Kotlin AI 에이전트 스킬 | 영+한 | [compose-kotlin-agent-skills](https://github.com/haidrrrry/compose-kotlin-agent-skills) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
