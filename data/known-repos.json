@@ -6049,7 +6049,17 @@
           "category": "guides"
         }
       ]
+    },
+    {
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "last_scanned": "2026-10-04T20:45:59.988Z",
+      "skills": [
+        {
+          "name": "pstack-claude",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-04T19:12:20.827Z"
+  "last_updated": "2026-10-04T20:45:59.988Z"
 }
