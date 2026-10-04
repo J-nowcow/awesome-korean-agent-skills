@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **16개 항목** · 자동 갱신: 2026-10-04
+> 📦 **17개 항목** · 자동 갱신: 2026-10-04
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -37,6 +37,7 @@
 | Codex_King | OC | AI 에이전트와 함께하는 GPT & Codex 기초부터 고급까지 | 한국어 | [Codex_King](https://github.com/lsszz2100/Codex_King) |
 
 | ai_service_engineering | GC | AI 서비스 엔지니어링 VOD 강의 자료 | 영+한 | [ai_service_engineering](https://github.com/CodeCompose7/ai_service_engineering) |
+| python | CC | AI 코딩 에이전트와 함께 파이썬 학습 | 영+한 | [python](https://github.com/flypythoncom/python) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
