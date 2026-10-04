@@ -6039,7 +6039,17 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/flypythoncom/python",
+      "last_scanned": "2026-10-04T19:12:20.827Z",
+      "skills": [
+        {
+          "name": "python",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-03T21:59:57.995Z"
+  "last_updated": "2026-10-04T19:12:20.827Z"
 }
