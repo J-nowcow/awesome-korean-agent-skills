@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **25개 항목** · 자동 갱신: 2026-10-05
+> 📦 **26개 항목** · 자동 갱신: 2026-10-05
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -38,6 +38,7 @@
 | attention-control | CC/OC | 에이전트 출력 제어를 위한 도구 | 영+한 | [attention-control](https://github.com/aaddrick/attention-control) |
 | reactive-resume |  | 개인 정보 보호를 중시하는 이력서 빌더 | 영+한 | [reactive-resume](https://github.com/amruthpillai/reactive-resume) |
 | open-codex-computer-use | GC | Codex Computer Use의 오픈소스 대안 | 영+한 | [open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use) |
+| claude-ultimate-hud | CC | Claude Code 상태 표시줄 플러그인 | 영+한 | [claude-ultimate-hud](https://github.com/ai-younggle-man/claude-ultimate-hud) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

@@ -6069,7 +6069,17 @@
       "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
       "last_scanned": "2026-10-05T21:42:33.229Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/ai-younggle-man/claude-ultimate-hud",
+      "last_scanned": "2026-10-05T22:20:11.976Z",
+      "skills": [
+        {
+          "name": "claude-ultimate-hud",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-05T21:42:33.229Z"
+  "last_updated": "2026-10-05T22:20:11.976Z"
 }
