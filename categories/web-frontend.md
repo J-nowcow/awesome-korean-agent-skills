@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **25개 항목** · 자동 갱신: 2026-10-06
+> 📦 **24개 항목** · 자동 갱신: 2026-10-06
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -20,7 +20,6 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | react-patterns | CC | React 19 Server Components, Actions, use() | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/react-patterns) |
-| shadcn-ui | CC | shadcn/ui 설치·설정·구현 가이드 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/shadcn-ui) |
 | tailwind-design-system | CC | Tailwind CSS 디자인 시스템 구축 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/tailwind-design-system) |
 | typescript-advanced-types | CC | 제네릭, 조건부, 매핑, 유틸리티 타입 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/typescript-advanced-types) |
 | ui-ux-pro-max | CC | 50 스타일, 21 팔레트, 9 스택 종합 UI | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/ui-ux-pro-max) |

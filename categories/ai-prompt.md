@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **10개 항목** · 자동 갱신: 2026-10-06
+> 📦 **9개 항목** · 자동 갱신: 2026-10-06
 <!-- CAT_STATS:END -->
 > 프롬프트 최적화, 모델 간 협업, 자기 학습
 
@@ -21,7 +21,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| model-route | CC | 복잡도·예산 기반 최적 모델 추천 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/commands/model-route.md) |
 
 | claude-code-system-prompts | CC | Claude Code 시스템 프롬프트 모음 | 영+한 | [claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) |
 

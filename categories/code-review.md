@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **21개 항목** · 자동 갱신: 2026-10-06
+> 📦 **19개 항목** · 자동 갱신: 2026-10-06
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -12,7 +12,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| code-reviewer | CC | SOLID 원칙, 심각도별 보안·성능 리뷰 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/code-reviewer.md) |
 | critic | CC | 작업 계획·코드 최종 품질 게이트, 승인/거부 판정 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/critic.md) |
 | code-reviewer | CC | 품질+보안 종합 리뷰, 모든 코드 변경에 필수 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/code-reviewer.md) |
 | Python/Go/Rust/Java/Kotlin/C++/TS Reviewer (7종) | CC | 언어별 관용 패턴·보안 전문 리뷰 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/tree/main/agents) — python-reviewer.md, go-reviewer.md, rust-reviewer.md, java-reviewer.md, kotlin-reviewer.md, cpp-reviewer.md, typescript-reviewer.md |
@@ -24,7 +23,6 @@
 
 | ponytail | CC/GC | 가장 게으른 시니어 개발자처럼 생각하는 AI 에이전트 | 영+한 | [ponytail](https://github.com/DietrichGebert/ponytail) |
 | oh-my-pi |  | 터미널용 AI 코딩 에이전트 | 영+한 | [oh-my-pi](https://github.com/can1357/oh-my-pi) |
-| openinterpreter |  | 저비용 모델에 최적화된 코딩 에이전트 | 다국어(KO) | [openinterpreter](https://github.com/openinterpreter/openinterpreter) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
