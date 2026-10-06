@@ -6064,7 +6064,17 @@
       "url": "https://github.com/google/mantis",
       "last_scanned": "2026-10-06T20:48:28.727Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "last_scanned": "2026-10-06T21:27:52.449Z",
+      "skills": [
+        {
+          "name": "openinterpreter",
+          "category": "code-review"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-06T20:48:28.727Z"
+  "last_updated": "2026-10-06T21:27:52.449Z"
 }
