@@ -38,7 +38,7 @@
 
 | 카테고리 | 설명 | 항목 수 |
 |----------|------|:-------:|
-| [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 19+ |
+| [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 20+ |
 | [테스트 & TDD](categories/testing.md) | 테스트 주도 개발, E2E, 커버리지 | 21+ |
 | [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 12+ |
 | [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 28+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>451+</h2></td>
-<td><h2>922</h2></td>
+<td><h2>452+</h2></td>
+<td><h2>923</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>16</b> run · <b>+15</b> 스킬</td>
+<td><b>17</b> run · <b>+15</b> 스킬</td>
 <td><b>8</b> run · <b>-15</b> dead link</td>
 <td><b>15</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-10-03 | **3** | **1** | **2** | · |
 | 2026-10-04 | **2** | **1** | **2** | · |
 | 2026-10-05 | **4** | **1** | **1** | **1** |
-| 2026-10-06 | **1** | **1** | **2** | · |
+| 2026-10-06 | **2** | **1** | **2** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
