@@ -6084,7 +6084,17 @@
       "url": "https://github.com/superplanehq/superplane",
       "last_scanned": "2026-10-05T23:04:34.030Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "last_scanned": "2026-10-06T00:36:47.434Z",
+      "skills": [
+        {
+          "name": "video-shotcraft",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-05T23:04:34.031Z"
+  "last_updated": "2026-10-06T00:36:47.434Z"
 }
