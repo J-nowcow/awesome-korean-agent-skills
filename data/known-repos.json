@@ -6059,7 +6059,12 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/google/mantis",
+      "last_scanned": "2026-10-06T20:48:28.727Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-10-06T00:36:47.434Z"
+  "last_updated": "2026-10-06T20:48:28.727Z"
 }
