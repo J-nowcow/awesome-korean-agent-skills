@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **24개 항목** · 자동 갱신: 2026-10-06
+> 📦 **23개 항목** · 자동 갱신: 2026-10-06
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -25,7 +25,6 @@
 | cc-nano-banana | CC/GC | Gemini CLI를 이용한 이미지 생성/편집 스킬 | 영+한 | [cc-nano-banana](https://github.com/kkoppenhaver/cc-nano-banana) |
 | narrator-ai-cli-skill | CC/GC/CX | AI 기반 영상 자동 제작 스킬 | 영+한 | [narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) |
 | Generative-Media-Skills | CC/GC/CX | AI 에이전트용 생성 미디어 스킬 모음 | 영+한 | [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) |
-| subtitle-pro | CC | YouTube 영상 한글 자막 자동 생성 | 영+한 | [subtitle-pro](https://github.com/revfactory/subtitle-pro) |
 | modlens |  | 텍스트 모델에 시각 능력 부여 | 영+한 | [modlens](https://github.com/liustack/modlens) |
 | drama-skills | CC/OC | AI 단편 드라마/만화 제작 스킬 모음 | 영+한 | [drama-skills](https://github.com/zenstory-ai/drama-skills) |
 | brag | CC/GC | 프로젝트를 짧은 홍보 영상으로 만들어주는 스킬 | 영+한 | [brag](https://github.com/latent-spaces/brag) |

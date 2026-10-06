@@ -76,11 +76,6 @@
       "skills": []
     },
     {
-      "url": "https://github.com/m16khb/claude-integration",
-      "last_scanned": "2026-04-10T04:37:23Z",
-      "skills": []
-    },
-    {
       "url": "https://github.com/popup-studio-ai/bkit-claude-code",
       "last_scanned": "2026-04-10T04:37:23Z",
       "skills": []
@@ -4576,16 +4571,6 @@
       ]
     },
     {
-      "url": "https://github.com/revfactory/subtitle-pro",
-      "last_scanned": "2026-07-12T18:57:15.477Z",
-      "skills": [
-        {
-          "name": "subtitle-pro",
-          "category": "content-media"
-        }
-      ]
-    },
-    {
       "url": "https://github.com/Renakoni/note-organizer",
       "last_scanned": "2026-07-13T19:17:11.239Z",
       "skills": [
@@ -4876,16 +4861,6 @@
       ]
     },
     {
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "last_scanned": "2026-07-27T17:42:58.596Z",
-      "skills": [
-        {
-          "name": "openinterpreter",
-          "category": "code-review"
-        }
-      ]
-    },
-    {
       "url": "https://github.com/0xwilliamortiz/ponytail-improved",
       "last_scanned": "2026-07-28T16:28:15.587Z",
       "skills": []
@@ -5047,16 +5022,6 @@
         {
           "name": "attention-control",
           "category": "utilities"
-        }
-      ]
-    },
-    {
-      "url": "https://github.com/NanmiCoder/cc-haha",
-      "last_scanned": "2026-08-05T17:29:10.269Z",
-      "skills": [
-        {
-          "name": "cc-haha",
-          "category": "multi-agent"
         }
       ]
     },
