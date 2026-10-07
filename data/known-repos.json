@@ -6084,7 +6084,17 @@
       "url": "https://github.com/feder-cr/invisible_dots",
       "last_scanned": "2026-10-07T20:14:58.519Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Leanmcp/gateway-skills",
+      "last_scanned": "2026-10-07T21:01:25.769Z",
+      "skills": [
+        {
+          "name": "gateway-skills",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-07T20:14:58.519Z"
+  "last_updated": "2026-10-07T21:01:25.769Z"
 }
