@@ -43,7 +43,7 @@
 | [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 12+ |
 | [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 28+ |
 | [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 10+ |
-| [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 21+ |
+| [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 22+ |
 | [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 23+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 7+ |
 | [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 43+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>452+</h2></td>
-<td><h2>925</h2></td>
+<td><h2>453+</h2></td>
+<td><h2>926</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -184,8 +184,8 @@ pie showData
     "웹 프론트엔드" : 24
     "Git & 워크플로우" : 23
     "콘텐츠 & 미디어" : 23
+    "문서화" : 22
     "테스트 & TDD" : 21
-    "문서화" : 21
 ```
 
 ### 도구별 호환성 등장 빈도
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 365
+    "CC" : 366
     "GC" : 96
     "CX" : 48
     "CP" : 20
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>18</b> run · <b>+16</b> 스킬</td>
+<td><b>19</b> run · <b>+16</b> 스킬</td>
 <td><b>8</b> run · <b>-15</b> dead link</td>
 <td><b>15</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-10-04 | **2** | **1** | **2** | · |
 | 2026-10-05 | **4** | **1** | **1** | **1** |
 | 2026-10-06 | **4** | **1** | **3** | · |
-| 2026-10-07 | · | **1** | **1** | · |
+| 2026-10-07 | **1** | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
