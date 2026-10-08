@@ -6094,7 +6094,12 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+      "last_scanned": "2026-10-08T21:51:35.147Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-10-07T21:01:25.769Z"
+  "last_updated": "2026-10-08T21:51:35.148Z"
 }
