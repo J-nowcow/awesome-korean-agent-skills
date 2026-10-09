@@ -6099,7 +6099,17 @@
       "url": "https://github.com/cloudflare/mcp-server-cloudflare",
       "last_scanned": "2026-10-08T21:51:35.147Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/morluto/rea",
+      "last_scanned": "2026-10-09T16:53:44Z",
+      "skills": [
+        {
+          "name": "reverse-engineer-anything",
+          "category": "security"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-08T21:51:35.148Z"
+  "last_updated": "2026-10-09T16:53:44Z"
 }

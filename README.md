@@ -24,7 +24,7 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-10-09
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-10-10
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
@@ -40,7 +40,7 @@
 |----------|------|:-------:|
 | [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 20+ |
 | [테스트 & TDD](categories/testing.md) | 테스트 주도 개발, E2E, 커버리지 | 21+ |
-| [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 12+ |
+| [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 13+ |
 | [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 28+ |
 | [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 10+ |
 | [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 22+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>453+</h2></td>
-<td><h2>927</h2></td>
+<td><h2>454+</h2></td>
+<td><h2>928</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -195,7 +195,7 @@ pie showData
     title 도구별 행 등장 횟수
     "CC" : 366
     "GC" : 96
-    "CX" : 48
+    "CX" : 49
     "CP" : 20
     "OC" : 44
     "CR" : 7
