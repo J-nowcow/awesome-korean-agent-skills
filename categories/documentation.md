@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-10-09
+> 📦 **23개 항목** · 자동 갱신: 2026-10-09
 <!-- CAT_STATS:END -->
 > 기술 문서 생성, 한국어 문서 작성, 코드맵
 
@@ -45,3 +45,5 @@
 | update-codemaps / update-docs | CC | 코드 구조 문서 + 소스 기반 문서 동기화 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/tree/main/commands) — update-codemaps.md, update-docs.md |
 
 | example | CC | Claude Code 및 AI 협업 문서화 가이드 | 영+한 | [example](https://github.com/claude-code-expert/example) |
+
+| product-mode | CC/CX/OC | AI 코딩 에이전트의 제품 판단 능력 향상 가이드 | 영+한 | [product-mode](https://github.com/sohaibt/product-mode) |

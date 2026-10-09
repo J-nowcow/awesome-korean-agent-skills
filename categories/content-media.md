@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **23개 항목** · 자동 갱신: 2026-10-09
+> 📦 **24개 항목** · 자동 갱신: 2026-10-09
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -31,6 +31,7 @@
 | web-asset-generator | CC | Claude로 웹 에셋 자동 생성 | 영+한 | [web-asset-generator](https://github.com/alonw0/web-asset-generator) |
 | ComfyUI-llama-multimodal |  | ComfyUI에서 멀티모달 LLM 노드 제공 | 영+한 | [ComfyUI-llama-multimodal](https://github.com/craftingmod/ComfyUI-llama-multimodal) |
 | video-shotcraft | CC/OC | AI 기반 영상 제작 스킬 | 영+한 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) |
+| logo-design-skill | CC/GC | AI 에이전트를 위한 로고 디자인 스킬 | 영+한 | [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-10-09
+> 📦 **13개 항목** · 자동 갱신: 2026-10-09
 <!-- CAT_STATS:END -->
 > OWASP, 시크릿 탐지, 위협 모델링, AWS 보안
 
@@ -26,6 +26,7 @@
 
 | ctf-skills | CC | CTF 챌린지 해결을 위한 AI 스킬 모음 | 영+한 | [ctf-skills](https://github.com/ljagiello/ctf-skills) |
 | Claude-BugHunter | CC | 버그 헌팅 및 레드팀 작업을 위한 Claude 코드 스킬 번들 | 영+한 | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
+| rea |  | 바이너리 및 앱 리버스 엔지니어링 | 다국어(KO) | [rea](https://github.com/morluto/rea) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
