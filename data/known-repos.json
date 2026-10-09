@@ -6099,7 +6099,42 @@
       "url": "https://github.com/cloudflare/mcp-server-cloudflare",
       "last_scanned": "2026-10-08T21:51:35.147Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Mindrally/skills",
+      "last_scanned": "2026-10-09T20:34:07.461Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "last_scanned": "2026-10-09T20:34:41.769Z",
+      "skills": [
+        {
+          "name": "logo-design-skill",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/morluto/rea",
+      "last_scanned": "2026-10-09T20:35:16.051Z",
+      "skills": [
+        {
+          "name": "rea",
+          "category": "security"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/sohaibt/product-mode",
+      "last_scanned": "2026-10-09T20:35:50.176Z",
+      "skills": [
+        {
+          "name": "product-mode",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-08T21:51:35.148Z"
+  "last_updated": "2026-10-09T20:35:50.176Z"
 }
