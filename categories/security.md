@@ -23,9 +23,7 @@
 | owasp-review | CC | OWASP Top 10 2025 기반 보안 코드 리뷰 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/security/skills/owasp-review) |
 | aws-well-architected (6개 필러) | CC | 보안·안정성·성능·비용·운영·지속가능성 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/security/skills) |
 | security-pipeline | CC | CWE Top 25 + STRIDE 자동 보안 파이프라인 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/security-pipeline) |
-
-| reverse-engineer-anything | CX | REA CLI/MCP로 배포된 앱의 기능을 분석하고 관찰·추론·미확인을 구분. 네이티브 심층 분석은 별도 엔진 필요 ([한국어 안내](https://github.com/morluto/rea/blob/main/README_ko.md)) | 영+한 | [REA](https://github.com/morluto/rea/tree/main/skill-src/reverse-engineer-anything) |
-
+| reverse-engineer-anything | CX | REA CLI/MCP로 배포된 앱의 기능을 분석하고 관찰·추론·미확인을 구분. 네이티브 심층 분석은 별도 엔진 필요 ([한국어 안내](https://github.com/morluto/rea/blob/main/README_ko.md)) | 영+한 | [REA](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) |
 | ctf-skills | CC | CTF 챌린지 해결을 위한 AI 스킬 모음 | 영+한 | [ctf-skills](https://github.com/ljagiello/ctf-skills) |
 | Claude-BugHunter | CC | 버그 헌팅 및 레드팀 작업을 위한 Claude 코드 스킬 번들 | 영+한 | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
 ## ⚡ Commands
