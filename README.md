@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-10-11
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-10-12
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 📦 oh-my-gemini-cli | GC | 다양한 스킬을 지원하는 CLI 프레임워크로, 한국어 지원이 명시되어 있어 실용성이 높습니다. Agent, Framework 등 다양한 타입의 스킬을 혼합하여 활용할 수 있습니다. | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
-| 🪝 clawd-on-desk | CC/GC/CX/CP/OC | AI 코딩 에이전트의 반응을 데스크탑 펫으로 구현한 독특한 아이디어의 스킬입니다. 다양한 도구를 지원하며, Agent 타입으로 흥미로운 활용이 가능합니다. | [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) |
-| 🔧 토스 FE Cursor Rule | CR | 토스 Frontend 개발의 실제 규칙을 담고 있어 실용성이 매우 높습니다. 웹 프론트엔드 카테고리로, Cursor Rule이라는 특정 도구를 활용하는 Skill 타입입니다. | [Gist](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055) |
+| 🤖 Wanted-Pre-Onboarding-AI-2407 |  | LLM Agent 제작 실습을 위한 'ai-prompt' 카테고리의 튜토리얼로, 한국어 지원이 좋고 실용적인 Agent 개발 입문 스킬입니다. | [Wanted-Pre-Onboarding-AI-2407](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407) |
+| 🤖 superpowers | CC/GC | 'frameworks' 카테고리의 'superpowers'는 에이전트용 코딩 스킬 프레임워크로, 다양한 type을 혼합하여 실용성을 높인 점이 추천 이유입니다. | [superpowers](https://github.com/obra/superpowers) |
+| 📦 claude-code-korean | undefined | 'utilities' 카테고리의 'claude-code-korean'은 한국어 지원에 특화된 스킬로, 다양한 언어 및 프레임워크를 다루는 데 실용적입니다. | [claude-code-korean](https://github.com/tantara/claude-code-korean) |
 
 ---
 

@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-10-05
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-10-12
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 📦 oh-my-gemini-cli | GC | A CLI framework supporting various skills, with explicit Korean support making it highly practical. It allows for a mix of Agent and Framework type skills. | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
-| 🪝 clawd-on-desk | CC/GC/CX/CP/OC | A skill with a unique idea that implements AI coding agent responses as a desktop pet. It supports various tools and offers interesting applications as an Agent type. | [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) |
-| 🔧 토스 FE Cursor Rule | CR | Highly practical as it contains actual rules from Toss Frontend development. It belongs to the web-frontend category and is a Skill type utilizing a specific tool called Cursor Rule. | [Gist](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055) |
+| 🤖 Wanted-Pre-Onboarding-AI-2407 |  | A tutorial in the 'ai-prompt' category for practicing LLM Agent creation, this is a practical Agent development introductory skill with good Korean support. | [Wanted-Pre-Onboarding-AI-2407](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407) |
+| 🤖 superpowers | CC/GC | 'superpowers' from the 'frameworks' category is a coding skill framework for agents, recommended for its enhanced practicality by mixing various types. | [superpowers](https://github.com/obra/superpowers) |
+| 📦 claude-code-korean | undefined | 'claude-code-korean' in the 'utilities' category is a skill specialized for Korean support, making it practical for handling various languages and frameworks. | [claude-code-korean](https://github.com/tantara/claude-code-korean) |
 
 ---
 
