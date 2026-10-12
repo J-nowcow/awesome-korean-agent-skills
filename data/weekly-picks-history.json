@@ -259,6 +259,31 @@
           "tools": "CR"
         }
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "items": [
+        {
+          "name": "Wanted-Pre-Onboarding-AI-2407",
+          "repo": "lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407",
+          "category": "ai-prompt",
+          "type": "🤖",
+          "tools": ""
+        },
+        {
+          "name": "superpowers",
+          "repo": "obra/superpowers",
+          "category": "frameworks",
+          "type": "🤖",
+          "tools": "CC/GC"
+        },
+        {
+          "name": "claude-code-korean",
+          "repo": "tantara/claude-code-korean",
+          "category": "utilities",
+          "type": "📦"
+        }
+      ]
     }
   ]
 }
