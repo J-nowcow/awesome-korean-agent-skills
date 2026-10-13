@@ -6139,7 +6139,17 @@
       "url": "https://github.com/paperclipai/paperclip",
       "last_scanned": "2026-10-13T00:02:01.399Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/wheresryan22/anatomy",
+      "last_scanned": "2026-10-13T01:07:36.854Z",
+      "skills": [
+        {
+          "name": "anatomy",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-13T00:02:01.400Z"
+  "last_updated": "2026-10-13T01:07:36.854Z"
 }

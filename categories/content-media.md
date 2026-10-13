@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **25개 항목** · 자동 갱신: 2026-10-13
+> 📦 **26개 항목** · 자동 갱신: 2026-10-13
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -33,6 +33,7 @@
 | video-shotcraft | CC/OC | AI 기반 영상 제작 스킬 | 영+한 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) |
 | logo-design-skill | CC/GC | AI 에이전트를 위한 로고 디자인 스킬 | 영+한 | [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) |
 | meta-api-automation | GC | Meta API 자동화 및 AI 에이전트 연동 | 영+한 | [meta-api-automation](https://github.com/flam-ing/meta-api-automation) |
+| anatomy | CC/OC | 아이디어를 시각적으로 설명하는 에이전트 스킬 | 영+한 | [anatomy](https://github.com/wheresryan22/anatomy) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
