@@ -6134,7 +6134,12 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/paperclipai/paperclip",
+      "last_scanned": "2026-10-13T00:02:01.399Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-10-11T22:41:06.552Z"
+  "last_updated": "2026-10-13T00:02:01.400Z"
 }
