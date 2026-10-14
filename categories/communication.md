@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **4개 항목** · 자동 갱신: 2026-10-13
+> 📦 **3개 항목** · 자동 갱신: 2026-10-14
 <!-- CAT_STATS:END -->
 > 이메일, 메신저, 알림 관리
 
@@ -12,7 +12,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| chief-of-staff | CC | 이메일·Slack·LINE·Messenger 트리아지 + 답장 초안 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/chief-of-staff.md) |
 
 ## 🔧 Skills
 

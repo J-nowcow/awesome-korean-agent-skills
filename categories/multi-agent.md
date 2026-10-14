@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **43개 항목** · 자동 갱신: 2026-10-13
+> 📦 **42개 항목** · 자동 갱신: 2026-10-14
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -63,7 +63,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| tth | CC | 토스 사일로 + 머스크 5-Step + Ralph Loop | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/commands/tth.md) |
 
 ## 🪝 Hooks
 
