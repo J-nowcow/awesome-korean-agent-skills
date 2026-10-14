@@ -6159,7 +6159,17 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Kuberwastaken/claurst",
+      "last_scanned": "2026-10-14T21:11:40.813Z",
+      "skills": [
+        {
+          "name": "claurst",
+          "category": "code-review"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-14T20:30:00.178Z"
+  "last_updated": "2026-10-14T21:11:40.813Z"
 }
