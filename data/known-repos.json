@@ -6149,7 +6149,17 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Oldcircle/geo-sleuth",
+      "last_scanned": "2026-10-14T20:30:00.177Z",
+      "skills": [
+        {
+          "name": "geo-sleuth",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-13T01:07:36.854Z"
+  "last_updated": "2026-10-14T20:30:00.178Z"
 }

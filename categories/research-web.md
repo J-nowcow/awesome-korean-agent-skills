@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **25개 항목** · 자동 갱신: 2026-10-14
+> 📦 **26개 항목** · 자동 갱신: 2026-10-14
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -28,6 +28,7 @@
 | apostle-skills |  | 진지한 사고, 독서, 연구, 번역을 위한 에이전트 스킬 | 영+한 | [apostle-skills](https://github.com/Luciole-Studio/apostle-skills) |
 | ai | CC | 다양한 플랫폼 조사 및 요약 | 영+한 | [ai](https://github.com/tylerprogramming/ai) |
 | paper-search-mcp | CC | 다양한 소스에서 논문 검색 및 다운로드 | 영+한 | [paper-search-mcp](https://github.com/openags/paper-search-mcp) |
+| geo-sleuth | CC/GC/CX/CP/OC | 사진 촬영 위치를 찾아주는 에이전트 스킬 | 영+한 | [geo-sleuth](https://github.com/Oldcircle/geo-sleuth) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
