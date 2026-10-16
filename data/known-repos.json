@@ -6169,7 +6169,12 @@
           "category": "code-review"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Hugging-Face-KREW/k-llm-eval-sprint",
+      "last_scanned": "2026-10-16T18:29:12.677Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-10-14T21:11:40.813Z"
+  "last_updated": "2026-10-16T18:29:12.677Z"
 }
