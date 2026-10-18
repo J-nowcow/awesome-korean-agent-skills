@@ -6179,7 +6179,17 @@
       "url": "https://github.com/0xPlaygrounds/rig",
       "last_scanned": "2026-10-18T17:37:36.244Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/ilhae-ai/claude-memory-plugin",
+      "last_scanned": "2026-10-18T18:28:12.103Z",
+      "skills": [
+        {
+          "name": "claude-memory-plugin",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-18T17:37:36.244Z"
+  "last_updated": "2026-10-18T18:28:12.103Z"
 }
