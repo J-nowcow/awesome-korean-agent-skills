@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>7</b> run · <b>+4</b> 스킬</td>
+<td><b>8</b> run · <b>+5</b> 스킬</td>
 <td><b>8</b> run · <b>-4</b> dead link</td>
 <td><b>15</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-10-15 | · | **1** | **2** | · |
 | 2026-10-16 | **1** | **1** | **2** | · |
 | 2026-10-17 | · | **1** | **2** | · |
-| 2026-10-18 | **1** | **1** | **1** | · |
+| 2026-10-18 | **2** | **1** | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
