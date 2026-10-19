@@ -284,6 +284,32 @@
           "type": "📦"
         }
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "items": [
+        {
+          "name": "opencode",
+          "repo": "anomalyco/opencode",
+          "category": "utilities",
+          "type": "🤖",
+          "tools": ""
+        },
+        {
+          "name": "mcp-for-blender",
+          "repo": "ahujasid/mcp-for-blender",
+          "category": "game-dev",
+          "type": "⚡",
+          "tools": "CC"
+        },
+        {
+          "name": "ai-coding-guidelines",
+          "repo": "SongJohnhawk/ai-coding-guidelines",
+          "category": "guides",
+          "type": "📦",
+          "tools": "AI 코딩 가이드 v8.0"
+        }
+      ]
     }
   ]
 }
