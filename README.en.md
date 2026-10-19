@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-10-12
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-10-19
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 Wanted-Pre-Onboarding-AI-2407 |  | A tutorial in the 'ai-prompt' category for practicing LLM Agent creation, this is a practical Agent development introductory skill with good Korean support. | [Wanted-Pre-Onboarding-AI-2407](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407) |
-| 🤖 superpowers | CC/GC | 'superpowers' from the 'frameworks' category is a coding skill framework for agents, recommended for its enhanced practicality by mixing various types. | [superpowers](https://github.com/obra/superpowers) |
-| 📦 claude-code-korean | undefined | 'claude-code-korean' in the 'utilities' category is a skill specialized for Korean support, making it practical for handling various languages and frameworks. | [claude-code-korean](https://github.com/tantara/claude-code-korean) |
+| 🤖 opencode |  | opencode, an open-source AI coding agent, can be practically used for various development needs and offers a new type of tool in the 'utilities' category. | [opencode](https://github.com/anomalyco/opencode) |
+| ⚡ mcp-for-blender | CC | mcp-for-blender, which controls Blender with LLM, demonstrates creative application possibilities in game development and utilizes Claude Code with good Korean support. | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) |
+| 📦 ai-coding-guidelines | AI 코딩 가이드 v8.0 | ai-coding-guidelines, an AI coding guideline, is provided in Korean, offering high practicality for Korean users and delivering useful information to the developer community. | [ai-coding-guidelines](https://github.com/SongJohnhawk/ai-coding-guidelines) |
 
 ---
 

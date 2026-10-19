@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-10-18
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-10-19
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 Wanted-Pre-Onboarding-AI-2407 |  | LLM Agent 제작 실습을 위한 'ai-prompt' 카테고리의 튜토리얼로, 한국어 지원이 좋고 실용적인 Agent 개발 입문 스킬입니다. | [Wanted-Pre-Onboarding-AI-2407](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407) |
-| 🤖 superpowers | CC/GC | 'frameworks' 카테고리의 'superpowers'는 에이전트용 코딩 스킬 프레임워크로, 다양한 type을 혼합하여 실용성을 높인 점이 추천 이유입니다. | [superpowers](https://github.com/obra/superpowers) |
-| 📦 claude-code-korean | undefined | 'utilities' 카테고리의 'claude-code-korean'은 한국어 지원에 특화된 스킬로, 다양한 언어 및 프레임워크를 다루는 데 실용적입니다. | [claude-code-korean](https://github.com/tantara/claude-code-korean) |
+| 🤖 opencode |  | 오픈소스 AI 코딩 에이전트인 opencode는 다양한 개발 요구에 실용적으로 활용될 수 있으며, 'utilities' 카테고리에서 새로운 유형의 도구를 제공합니다. | [opencode](https://github.com/anomalyco/opencode) |
+| ⚡ mcp-for-blender | CC | Blender를 LLM으로 제어하는 mcp-for-blender는 게임 개발 분야에서 창의적인 활용 가능성을 보여주며, 한국어 지원이 잘 되는 Claude Code를 활용합니다. | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) |
+| 📦 ai-coding-guidelines | AI 코딩 가이드 v8.0 | AI 코딩 가이드라인인 ai-coding-guidelines는 한국어로 제공되어 한국어 사용자에게 높은 실용성을 제공하며, 개발자 커뮤니티에 유용한 정보를 제공합니다. | [ai-coding-guidelines](https://github.com/SongJohnhawk/ai-coding-guidelines) |
 
 ---
 
