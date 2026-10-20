@@ -6189,7 +6189,27 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "last_scanned": "2026-10-20T20:19:05.587Z",
+      "skills": [
+        {
+          "name": "hyperframes",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/iFurySt/open-computer-use",
+      "last_scanned": "2026-10-20T20:19:40.037Z",
+      "skills": [
+        {
+          "name": "open-computer-use",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-18T18:28:12.103Z"
+  "last_updated": "2026-10-20T20:19:40.037Z"
 }
