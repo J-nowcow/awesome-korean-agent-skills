@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **23개 항목** · 자동 갱신: 2026-10-20
+> 📦 **24개 항목** · 자동 갱신: 2026-10-20
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -16,6 +16,7 @@
 
 | run-gemini-cli | GC | Gemini CLI를 GitHub 액션으로 실행 | 영+한 | [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) |
 | spec-kitty | CC/GC/CX/CP/OC/WS | AI 코딩 에이전트 워크플로우 관리 | 영+한 | [spec-kitty](https://github.com/spec-kitty/spec-kitty) |
+| agent-orchestrator |  | 코딩 에이전트 팀을 위한 오픈소스 오케스트레이터 | 다국어(KO) | [agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

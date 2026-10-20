@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **21개 항목** · 자동 갱신: 2026-10-20
+> 📦 **22개 항목** · 자동 갱신: 2026-10-20
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -43,3 +43,5 @@
 | claude-code-book-sample | CC | Claude Code 스킬을 활용한 코드 리뷰 | 영+한 | [claude-code-book-sample](https://github.com/devstefancho/claude-code-book-sample) |
 
 | open-code-review | CC | AI 기반 코드 리뷰 CLI 도구 | 다국어(KO) | [open-code-review](https://github.com/alibaba/open-code-review) |
+
+| mattpocock-skills-zh-CN | CC | Matt Pocock 스킬의 중국어 번역 및 현지화 | 영+한 | [mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) |
