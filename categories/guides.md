@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **17개 항목** · 자동 갱신: 2026-10-21
+> 📦 **18개 항목** · 자동 갱신: 2026-10-21
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -38,6 +38,7 @@
 
 | ai_service_engineering | GC | AI 서비스 엔지니어링 VOD 강의 자료 | 영+한 | [ai_service_engineering](https://github.com/CodeCompose7/ai_service_engineering) |
 | python | CC | AI 코딩 에이전트와 함께 파이썬 학습 | 영+한 | [python](https://github.com/flypythoncom/python) |
+| vibe-coding-curriculum | CC/GC | AI 코치와 함께 웹앱 만들기/업무 자동화 | 한국어 | [vibe-coding-curriculum](https://github.com/sunwon12/vibe-coding-curriculum) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
