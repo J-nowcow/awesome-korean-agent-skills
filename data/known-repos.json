@@ -6244,7 +6244,22 @@
           "category": "code-review"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ai-job-search-dev/ai-job-search",
+      "last_scanned": "2026-10-21T20:28:11.631Z",
+      "skills": [
+        {
+          "name": "ai-job-search",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/cheaper-inference/OmniRoute",
+      "last_scanned": "2026-10-21T20:28:46.372Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-10-21T19:57:07.444Z"
+  "last_updated": "2026-10-21T20:28:46.372Z"
 }
