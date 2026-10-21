@@ -6209,7 +6209,17 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/sunwon12/vibe-coding-curriculum",
+      "last_scanned": "2026-10-21T19:00:48.263Z",
+      "skills": [
+        {
+          "name": "vibe-coding-curriculum",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-20T20:19:40.037Z"
+  "last_updated": "2026-10-21T19:00:48.263Z"
 }
