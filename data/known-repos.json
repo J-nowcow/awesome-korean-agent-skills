@@ -6259,7 +6259,17 @@
       "url": "https://github.com/cheaper-inference/OmniRoute",
       "last_scanned": "2026-10-21T20:28:46.372Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/LizeLing/status-panel",
+      "last_scanned": "2026-10-22T18:54:53.712Z",
+      "skills": [
+        {
+          "name": "status-panel",
+          "category": "git-workflow"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-21T20:28:46.372Z"
+  "last_updated": "2026-10-22T18:54:53.712Z"
 }
