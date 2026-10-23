@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-10-23
+> 📦 **8개 항목** · 자동 갱신: 2026-10-23
 <!-- CAT_STATS:END -->
 > 데드 코드 제거, 기술 부채 해소, 코드 간소화
 
@@ -23,6 +23,7 @@
 | simplify | CC | 불필요한 추상화, 중복, 복잡성 제거 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/simplify) |
 | techdebt | CC | 중복 코드, console.log, 미사용 import 정리 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/techdebt) |
 
+| GitNexus | CC/GC | 코드 인텔리전스 엔진으로 코드 분석 | 영+한 | [GitNexus](https://github.com/abhigyanpatwari/GitNexus) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

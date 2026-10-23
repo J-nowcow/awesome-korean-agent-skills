@@ -101,7 +101,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 10+ |
 | [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 23+ |
 | [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 24+ |
-| [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 7+ |
+| [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 8+ |
 | [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 43+ |
 | [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 9+ |
 | [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 24+ |
