@@ -6269,7 +6269,17 @@
           "category": "git-workflow"
         }
       ]
+    },
+    {
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "last_scanned": "2026-10-23T20:14:02.895Z",
+      "skills": [
+        {
+          "name": "huashu-design",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-22T18:54:53.712Z"
+  "last_updated": "2026-10-23T20:14:02.895Z"
 }
