@@ -6279,7 +6279,17 @@
           "category": "refactoring"
         }
       ]
+    },
+    {
+      "url": "https://github.com/trhhubsd/ARTEX",
+      "last_scanned": "2026-10-24T19:17:13.557Z",
+      "skills": [
+        {
+          "name": "ARTEX",
+          "category": "security"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-23T21:51:27.027Z"
+  "last_updated": "2026-10-24T19:17:13.558Z"
 }
