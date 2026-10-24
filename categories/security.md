@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-10-24
+> 📦 **13개 항목** · 자동 갱신: 2026-10-24
 <!-- CAT_STATS:END -->
 > OWASP, 시크릿 탐지, 위협 모델링, AWS 보안
 
@@ -15,6 +15,7 @@
 | security-reviewer | CC | OWASP Top 10, 시크릿 탐지, 인증/인가 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/security-reviewer.md) |
 
 | hexstrike-ai | CC/CP | AI 기반 자동 침투 테스팅 프레임워크 | 영+한 | [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) |
+| ARTEX |  | AI 기반 자율 침투 테스트 시스템 | 영+한 | [ARTEX](https://github.com/trhhubsd/ARTEX) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
