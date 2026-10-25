@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **18개 항목** · 자동 갱신: 2026-10-25
+> 📦 **19개 항목** · 자동 갱신: 2026-10-25
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -30,6 +30,7 @@
 | aiden-resources | CC | Aiden의 친절한 AI 영상 가이드 모음 | 한국어 | [aiden-resources](https://github.com/aiden-44/aiden-resources) |
 | aiden-resources | CC | AI 도구 사용법 및 프롬프트 모음 | 한국어 | [aiden-resources](https://github.com/aiden-organization/aiden-resources) |
 | agentic-workflow-playbook | CC | 에이전트 워크플로우 플레이북 및 실습 자료 | 영+한 | [agentic-workflow-playbook](https://github.com/jha0313/agentic-workflow-playbook) |
+| 080514 | CC | 클로드 코드 & 오픈클로 실습 파일 | 한국어 | [080514](https://github.com/gilbutITbook/080514) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
