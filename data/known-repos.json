@@ -6299,7 +6299,17 @@
           "category": "project-init"
         }
       ]
+    },
+    {
+      "url": "https://github.com/gilbutITbook/080514",
+      "last_scanned": "2026-10-25T18:44:28.988Z",
+      "skills": [
+        {
+          "name": "080514",
+          "category": "guides"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-25T17:55:22.087Z"
+  "last_updated": "2026-10-25T18:44:28.988Z"
 }
