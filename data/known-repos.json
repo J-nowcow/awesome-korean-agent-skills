@@ -6289,7 +6289,17 @@
           "category": "security"
         }
       ]
+    },
+    {
+      "url": "https://github.com/agno-agi/agno",
+      "last_scanned": "2026-10-25T17:55:22.087Z",
+      "skills": [
+        {
+          "name": "agno",
+          "category": "project-init"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-24T19:17:13.558Z"
+  "last_updated": "2026-10-25T17:55:22.087Z"
 }
