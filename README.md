@@ -285,3 +285,6 @@ pie showData
 [contributing.md](contributing.md)를 읽어주세요. 한국어 AI 코딩 스킬 생태계를 함께 만들어갑시다!
 
 새로운 스킬을 발견하면 PR을, 카테고리 제안은 Issue를 열어주세요.
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
+- [BountyGuard](https://github.com/doomsday-network/bounty-guard) - Zero-dependency MCP security server & CLI auditor that verifies on-chain bounty escrow before AI agents start work.
