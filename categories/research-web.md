@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **27개 항목** · 자동 갱신: 2026-10-25
+> 📦 **28개 항목** · 자동 갱신: 2026-10-26
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -30,6 +30,7 @@
 | paper-search-mcp | CC | 다양한 소스에서 논문 검색 및 다운로드 | 영+한 | [paper-search-mcp](https://github.com/openags/paper-search-mcp) |
 | geo-sleuth | CC/GC/CX/CP/OC | 사진 촬영 위치를 찾아주는 에이전트 스킬 | 영+한 | [geo-sleuth](https://github.com/Oldcircle/geo-sleuth) |
 | ai-job-search | CC | AI 기반 채용 지원 프레임워크 | 영+한 | [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) |
+| xerj | CC/GC | AI 에이전트용 로컬 검색 엔진 | 영+한 | [xerj](https://github.com/xerj-org/xerj) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

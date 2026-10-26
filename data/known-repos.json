@@ -6309,7 +6309,17 @@
           "category": "guides"
         }
       ]
+    },
+    {
+      "url": "https://github.com/xerj-org/xerj",
+      "last_scanned": "2026-10-26T08:26:22.515Z",
+      "skills": [
+        {
+          "name": "xerj",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-25T18:44:28.988Z"
+  "last_updated": "2026-10-26T08:26:22.515Z"
 }
