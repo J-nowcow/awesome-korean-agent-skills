@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-10-26
+> 📦 **23개 항목** · 자동 갱신: 2026-10-26
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -25,6 +25,7 @@
 | oh-my-pi |  | 터미널용 AI 코딩 에이전트 | 영+한 | [oh-my-pi](https://github.com/can1357/oh-my-pi) |
 | openinterpreter |  | 저비용 모델에 최적화된 코딩 에이전트 | 다국어(KO) | [openinterpreter](https://github.com/openinterpreter/openinterpreter) |
 | claurst | CC | 빌더를 위한 에이전트 코딩 도구 | 영+한 | [claurst](https://github.com/Kuberwastaken/claurst) |
+| Paradev | CC/OC | 다수의 코딩 에이전트 병렬 실행 IDE | 영+한 | [Paradev](https://github.com/ParadevAI/Paradev) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
