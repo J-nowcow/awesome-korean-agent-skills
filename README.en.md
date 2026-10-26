@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-10-19
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-10-26
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 opencode |  | opencode, an open-source AI coding agent, can be practically used for various development needs and offers a new type of tool in the 'utilities' category. | [opencode](https://github.com/anomalyco/opencode) |
-| ⚡ mcp-for-blender | CC | mcp-for-blender, which controls Blender with LLM, demonstrates creative application possibilities in game development and utilizes Claude Code with good Korean support. | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) |
-| 📦 ai-coding-guidelines | AI 코딩 가이드 v8.0 | ai-coding-guidelines, an AI coding guideline, is provided in Korean, offering high practicality for Korean users and delivering useful information to the developer community. | [ai-coding-guidelines](https://github.com/SongJohnhawk/ai-coding-guidelines) |
+| 🤖 nanobot |  | Nanobot, a super lightweight personal AI agent, is recommended for its balanced selection across categories and high practicality. It also aligns with the recommendation for mixed types by being an Agent type. | [nanobot](https://github.com/HKUDS/nanobot) |
+| 🔧 cursor-rules | CX | Cursor-rules, a collection of various language and framework Cursor rules, is highly practical and selected from the Frameworks category, satisfying the diverse category selection criteria. | [cursor-rules](https://github.com/flyeric0212/cursor-rules) |
+| ⚡ m3e-canvas | CC/GC | M3e-canvas, a UI prompt generator for AI coding tools, is highly practical in the Web-frontend category and offers good Korean support by utilizing CC/GC tools. | [m3e-canvas](https://github.com/lnkiai/m3e-canvas) |
 
 ---
 

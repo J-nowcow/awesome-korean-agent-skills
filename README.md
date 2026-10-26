@@ -28,9 +28,9 @@
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 opencode |  | 오픈소스 AI 코딩 에이전트인 opencode는 다양한 개발 요구에 실용적으로 활용될 수 있으며, 'utilities' 카테고리에서 새로운 유형의 도구를 제공합니다. | [opencode](https://github.com/anomalyco/opencode) |
-| ⚡ mcp-for-blender | CC | Blender를 LLM으로 제어하는 mcp-for-blender는 게임 개발 분야에서 창의적인 활용 가능성을 보여주며, 한국어 지원이 잘 되는 Claude Code를 활용합니다. | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) |
-| 📦 ai-coding-guidelines | AI 코딩 가이드 v8.0 | AI 코딩 가이드라인인 ai-coding-guidelines는 한국어로 제공되어 한국어 사용자에게 높은 실용성을 제공하며, 개발자 커뮤니티에 유용한 정보를 제공합니다. | [ai-coding-guidelines](https://github.com/SongJohnhawk/ai-coding-guidelines) |
+| 🤖 nanobot |  | 초경량 개인 AI 에이전트인 nanobot은 다양한 카테고리에서 고르게 선택하고 실용성이 높다는 점에서 추천합니다. 또한 Agent 타입으로 다양한 type 혼합 권장 기준에도 부합합니다. | [nanobot](https://github.com/HKUDS/nanobot) |
+| 🔧 cursor-rules | CX | 다양한 언어 및 프레임워크 Cursor 규칙 모음인 cursor-rules는 실용성이 높고, Framework 카테고리에서 선택하여 다양한 카테고리 선정 기준을 만족합니다. | [cursor-rules](https://github.com/flyeric0212/cursor-rules) |
+| ⚡ m3e-canvas | CC/GC | AI 코딩 도구용 UI 프롬프트 생성기인 m3e-canvas는 Web-frontend 카테고리에서 실용성이 높으며, CC/GC 도구를 활용하여 한국어 지원이 좋은 편입니다. | [m3e-canvas](https://github.com/lnkiai/m3e-canvas) |
 
 ---
 
