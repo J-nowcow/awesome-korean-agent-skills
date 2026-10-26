@@ -310,6 +310,32 @@
           "tools": "AI 코딩 가이드 v8.0"
         }
       ]
+    },
+    {
+      "date": "2026-10-26",
+      "items": [
+        {
+          "name": "nanobot",
+          "repo": "HKUDS/nanobot",
+          "category": "collections",
+          "type": "🤖",
+          "tools": ""
+        },
+        {
+          "name": "cursor-rules",
+          "repo": "flyeric0212/cursor-rules",
+          "category": "frameworks",
+          "type": "🔧",
+          "tools": "CX"
+        },
+        {
+          "name": "m3e-canvas",
+          "repo": "lnkiai/m3e-canvas",
+          "category": "web-frontend",
+          "type": "⚡",
+          "tools": "CC/GC"
+        }
+      ]
     }
   ]
 }
