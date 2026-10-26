@@ -6314,7 +6314,32 @@
       "url": "https://github.com/elayadesign/ai-design-skills",
       "last_scanned": "2026-10-26T21:25:28.643Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/GCWing/OpenBitFun",
+      "last_scanned": "2026-10-26T23:02:01.906Z",
+      "skills": [
+        {
+          "name": "OpenBitFun",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ParadevAI/Paradev",
+      "last_scanned": "2026-10-26T23:02:36.884Z",
+      "skills": [
+        {
+          "name": "Paradev",
+          "category": "code-review"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/windmill-labs/windmill",
+      "last_scanned": "2026-10-26T23:03:11.338Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-10-26T21:25:28.644Z"
+  "last_updated": "2026-10-26T23:03:11.338Z"
 }
