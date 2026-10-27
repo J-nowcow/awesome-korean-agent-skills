@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **10개 항목** · 자동 갱신: 2026-10-27
+> 📦 **11개 항목** · 자동 갱신: 2026-10-27
 <!-- CAT_STATS:END -->
 > 한국에서 일상적으로 쓰는 서비스 자동화
 
@@ -27,3 +27,9 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | kakaopay | CC | 카카오페이 결제 연동을 위한 3인 에이전트 팀 | 한국어 | [kakaopay](https://github.com/revfactory/kakaopay) |
+
+## ⚡ Commands
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| korean-ui | CC | Claude Code 명령어/설정 한국어 번역 플러그인 | 한국어 | [korean-ui](https://github.com/KimSuro5773/korean-ui) |
