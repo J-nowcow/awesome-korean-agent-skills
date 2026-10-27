@@ -6354,7 +6354,27 @@
       "url": "https://github.com/k45sle/Claude-auto-pause",
       "last_scanned": "2026-10-27T19:43:45.385Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/KimSuro5773/korean-ui",
+      "last_scanned": "2026-10-27T22:52:12.617Z",
+      "skills": [
+        {
+          "name": "korean-ui",
+          "category": "korean-services"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/linny006/trending-claude-skills",
+      "last_scanned": "2026-10-27T22:52:46.769Z",
+      "skills": [
+        {
+          "name": "trending-claude-skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-27T19:43:45.385Z"
+  "last_updated": "2026-10-27T22:52:46.769Z"
 }
