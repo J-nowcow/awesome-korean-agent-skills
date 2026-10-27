@@ -14,6 +14,7 @@
 | [vibecoding](https://github.com/taehojo/vibecoding) | 81 | "혼자 공부하는 바이브코딩" 도서 공식 레포 | 한국어 |
 | [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) | 3.5K | 크로스 도구 스킬 큐레이션 디렉토리 | 영+한 |
 | [ai-coding-guidelines](https://github.com/SongJohnhawk/ai-coding-guidelines) | 0 | AI 코딩 가이드 v8.0 | 한국어 |
+| [Korea Agent Map](https://koreaagentmap.com) | - | 한국 서비스별 AI 에이전트 할 일 가이드·활용 현황과 한국 MCP·에이전트 스킬 일간 순위 (웹사이트) | 영+한 |
 
 ## ⚡ Commands
 
