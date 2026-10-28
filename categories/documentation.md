@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **23개 항목** · 자동 갱신: 2026-10-27
+> 📦 **22개 항목** · 자동 갱신: 2026-10-28
 <!-- CAT_STATS:END -->
 > 기술 문서 생성, 한국어 문서 작성, 코드맵
 
@@ -20,7 +20,6 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | qa / qa-list / qa-merge (3종) | CC | Q&A 문서 기록·목록·통합 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/documentation/skills) |
-| handoff | CC | 세션 종료 전 HANDOFF.md 인계 문서 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/handoff) |
 | draw-diagram | CC | Draw.io XML 다이어그램 (아키텍처, ERD, AWS) | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/development/skills/draw-diagram) |
 
 | context-engineering-intro | CC | AI 코딩 도우미를 위한 컨텍스트 엔지니어링 템플릿 | 영+한 | [context-engineering-intro](https://github.com/coleam00/context-engineering-intro) |

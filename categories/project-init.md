@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **28개 항목** · 자동 갱신: 2026-10-27
+> 📦 **26개 항목** · 자동 갱신: 2026-10-28
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -27,7 +27,6 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | fastapi-templates | CC | 프로덕션 수준 FastAPI 프로젝트 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/fastapi-templates) |
-| spec | CC | 심층 질문으로 상세 SPEC.md 명세 생성 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/spec) |
 | deep-interview | CC | 소크라테스식 인터뷰 후 자율 실행 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/deep-interview) |
 | deepinit | CC | 코드베이스에 계층적 AGENTS.md 문서 생성 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/deepinit) |
 
@@ -44,7 +43,6 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | init-project | CC | Next/Vite/Go/Python/Rust 프로젝트 초기화 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/commands/init-project.md) |
-| prd | CC | PRD + SPEC 한 번에 생성 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/commands/prd.md) |
 | spec-kit (10개 커맨드) | CC | constitution→specify→plan→tasks→implement | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/spec-kit/commands) |
 | $plan / $prd / $execute | GC | 계획·PRD·실행 워크플로 | 영+한 | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
 

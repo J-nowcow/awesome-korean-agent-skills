@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **10개 항목** · 자동 갱신: 2026-10-27
+> 📦 **9개 항목** · 자동 갱신: 2026-10-28
 <!-- CAT_STATS:END -->
 > 루트 원인 분석, 빌드 에러 해결, 언어별 빌드 리졸버
 
@@ -36,4 +36,3 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| failure-tracker | CC | 도구 실패 패턴 기록, 반복 실패 시 에스컬레이션 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/hooks/failure-tracker.sh) |

@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-10-27
+> 📦 **18개 항목** · 자동 갱신: 2026-10-28
 <!-- CAT_STATS:END -->
 > CI/CD, 릴리즈 자동화, 모니터링, 세션 관리
 
@@ -14,8 +14,6 @@
 |------|------|------|------|------|
 | ci-cd-patterns | CC | GitHub Actions, 배포 전략 패턴 | 한국어 | [claude-integration](https://github.com/m16khb/claude-integration/tree/main/plugins/full-stack-orchestration/skills/ci-cd-patterns) |
 | auto-release-manager | CC | 모든 프로젝트 버전·릴리즈 자동화 | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/auto-release-manager/skills) |
-| harness-audit | CC | hooks/skills/agents/rules 전체 건강도 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/harness-audit) |
-| harness-diagnostics | CC | 12원칙 기반 자가 진단·개선 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/harness-diagnostics) |
 | session-wrap | CC | 세션 종료 전 4개 병렬 서브에이전트 정리 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/session-wrap) |
 
 | terrashark | CC/OC | Terraform 코드의 환각 현상을 수정하는 Claude/Codex 스킬 | 영+한 | [terrashark](https://github.com/LukasNiessen/terrashark) |

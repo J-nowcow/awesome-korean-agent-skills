@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **13개 항목** · 자동 갱신: 2026-10-27
+> 📦 **12개 항목** · 자동 갱신: 2026-10-28
 <!-- CAT_STATS:END -->
 > OWASP, 시크릿 탐지, 위협 모델링, AWS 보안
 
@@ -39,4 +39,3 @@
 |------|------|------|------|------|
 | db-guard | CC | DROP/TRUNCATE 등 위험한 SQL 차단 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/hooks/db-guard.sh) |
 | output-secret-filter | CC | 실행 결과에서 시크릿 감지·마스킹 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/hooks/output-secret-filter.sh) |
-| config-change-guard | CC | 설정 파일 변경 감지 및 경고 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/hooks/config-change-guard.sh) |
