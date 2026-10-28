@@ -24,7 +24,7 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-10-27
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-10-28
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
@@ -39,20 +39,20 @@
 | 카테고리 | 설명 | 항목 수 |
 |----------|------|:-------:|
 | [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 23+ |
-| [테스트 & TDD](categories/testing.md) | 테스트 주도 개발, E2E, 커버리지 | 20+ |
-| [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 13+ |
-| [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 28+ |
-| [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 10+ |
-| [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 23+ |
-| [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 25+ |
-| [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 8+ |
-| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 44+ |
+| [테스트 & TDD](categories/testing.md) | 테스트 주도 개발, E2E, 커버리지 | 16+ |
+| [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 12+ |
+| [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 26+ |
+| [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 9+ |
+| [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 22+ |
+| [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 24+ |
+| [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 7+ |
+| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 43+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 9+ |
-| [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 24+ |
+| [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 20+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 8+ |
 | [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 5+ |
 | [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 7+ |
-| [DevOps & 배포](categories/devops.md) | CI/CD, 릴리즈, 모니터링, 세션 관리 | 20+ |
+| [DevOps & 배포](categories/devops.md) | CI/CD, 릴리즈, 모니터링, 세션 관리 | 18+ |
 
 ## 일상 · 업무 스킬
 
@@ -60,9 +60,9 @@
 |----------|------|:-------:|
 | [한국 생활 서비스](categories/korean-services.md) | SRT/KTX, 택배, 로또, KBO, 카카오톡 | 11+ |
 | [커뮤니케이션](categories/communication.md) | 이메일·슬랙 트리아지, 알림 설정 | 3+ |
-| [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 27+ |
+| [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 26+ |
 | [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 10+ |
-| [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 12+ |
+| [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 11+ |
 | [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 28+ |
 
 ## 종합 레포
@@ -156,7 +156,7 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 
 ## 📊 통계 한눈에
 
-<sub>마지막 갱신: 2026-10-27 · 자동 생성 · 데이터는 [categories/](categories/) 표에서 직접 카운트</sub>
+<sub>마지막 갱신: 2026-10-28 · 자동 생성 · 데이터는 [categories/](categories/) 표에서 직접 카운트</sub>
 
 <table>
 <tr align="center">
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>472+</h2></td>
-<td><h2>959</h2></td>
+<td><h2>452+</h2></td>
+<td><h2>958</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -177,15 +177,15 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 pie showData
     title 카테고리별 스킬 수
     "종합 스킬 컬렉션" : 54
-    "멀티에이전트" : 44
+    "멀티에이전트" : 43
     "유틸리티 도구" : 28
     "리서치 & 웹" : 28
-    "프로젝트 초기화" : 28
-    "콘텐츠 & 미디어" : 27
-    "Git & 워크플로우" : 25
-    "웹 프론트엔드" : 24
-    "문서화" : 23
+    "프로젝트 초기화" : 26
+    "콘텐츠 & 미디어" : 26
+    "Git & 워크플로우" : 24
     "코드 리뷰" : 23
+    "문서화" : 22
+    "웹 프론트엔드" : 20
 ```
 
 ### 도구별 호환성 등장 빈도
@@ -193,8 +193,8 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 378
-    "GC" : 103
+    "CC" : 359
+    "GC" : 102
     "CX" : 51
     "CP" : 21
     "OC" : 48
@@ -220,7 +220,7 @@ pie showData
 
 ## 🤖 최근 자동화 활동
 
-<sub>지난 7일 (since 2026-10-20T00:00:00Z UTC) · 자동 생성 · 마지막 갱신 2026-10-27</sub>
+<sub>지난 7일 (since 2026-10-21T00:00:00Z UTC) · 자동 생성 · 마지막 갱신 2026-10-28</sub>
 
 <table>
 <tr align="center">
@@ -230,10 +230,10 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>15</b> run · <b>+18</b> 스킬</td>
-<td><b>8</b> run · <b>-2</b> dead link</td>
-<td><b>15</b> run</td>
+<td><b>0</b> run · <b>+0</b> 스킬</td>
+<td><b>0</b> run · <b>-0</b> dead link</td>
 <td><b>1</b> run</td>
+<td><b>0</b> run</td>
 </tr>
 </table>
 
@@ -241,13 +241,13 @@ pie showData
 
 | 날짜 | 🔍 신규 | 🔗 정리 | 📊 동기화 | ⭐ 추천 |
 |------|:---:|:---:|:---:|:---:|
-| 2026-10-21 | **3** | **1** | **2** | · |
-| 2026-10-22 | **1** | **1** | **2** | · |
-| 2026-10-23 | **2** | **1** | **2** | · |
-| 2026-10-24 | **1** | **1** | **2** | · |
-| 2026-10-25 | **2** | **1** | **2** | · |
-| 2026-10-26 | **3** | **1** | **2** | **1** |
-| 2026-10-27 | **2** | **1** | **1** | · |
+| 2026-10-22 | · | · | · | · |
+| 2026-10-23 | · | · | · | · |
+| 2026-10-24 | · | · | · | · |
+| 2026-10-25 | · | · | · | · |
+| 2026-10-26 | · | · | · | · |
+| 2026-10-27 | · | · | **1** | · |
+| 2026-10-28 | · | · | · | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

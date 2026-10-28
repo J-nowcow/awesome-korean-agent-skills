@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-10-27
+> 📦 **11개 항목** · 자동 갱신: 2026-10-28
 <!-- CAT_STATS:END -->
 > Word, Excel, PPT, PDF, HWP 처리
 
@@ -30,4 +30,3 @@
 
 | hwpx-skill | CC/OC | HWPX 문서 생성 및 편집 AI 스킬 | 한국어 | [hwpx-skill](https://github.com/jkf87/hwpx-skill) |
 
-| SheetBot | GC | Gemini AI로 Google Apps Script 자동화 | 영+한 | [SheetBot](https://github.com/Charismagreat/SheetBot) |

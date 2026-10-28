@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **25개 항목** · 자동 갱신: 2026-10-27
+> 📦 **24개 항목** · 자동 갱신: 2026-10-28
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -48,7 +48,6 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | hook-git-auto-backup | CC | 세션 종료 시 자동 git 커밋 백업 | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/hook-git-auto-backup) |
-| worktree-tracker | CC | 워크트리 라이프사이클 추적, 고아 방지 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/blob/main/hooks/worktree-tracker.sh) |
 
 | claude-reflect | CC | Claude Code의 학습 및 스킬 관리를 위한 시스템 | 영+한 | [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) |
 

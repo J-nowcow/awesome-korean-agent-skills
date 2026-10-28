@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-10-27
+> 📦 **16개 항목** · 자동 갱신: 2026-10-28
 <!-- CAT_STATS:END -->
 > 테스트 주도 개발, E2E 테스트, 커버리지 분석
 
@@ -21,10 +21,6 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | visual-verdict | CC | 스크린샷 vs 레퍼런스 비교 시각적 QA | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/visual-verdict) |
-| tdd | CC | RED-GREEN-REFACTOR 테스트 주도 개발 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/tdd) |
-| e2e-verify | CC | 피처 기반 E2E 테스트 작성 및 실행 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/e2e-verify) |
-| e2e-agent-browser | CC | 접근성 트리 기반 안정적 브라우저 테스트 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/e2e-agent-browser) |
-| verify | CC | 타입체크, 린트, 테스트, 빌드 통합 검증 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/verify) |
 | python-testing-patterns | CC | pytest, fixtures, mocking 포괄적 전략 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/python-testing-patterns) |
 | test-generator | CC | 유닛/통합/E2E 테스트 자동 생성 | 한국어 | [roboco-io/plugins](https://github.com/roboco-io/plugins/tree/main/plugins/development/skills/test-generator) |
 | verification-engine | CC | 서브에이전트 기반 fresh-context 검증 엔진 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/tree/main/skills/verification-engine) |
