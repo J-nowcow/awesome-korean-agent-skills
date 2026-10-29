@@ -6369,7 +6369,17 @@
       "url": "https://github.com/kortix-ai/suna",
       "last_scanned": "2026-10-28T21:31:45.922Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/vshulcz/deja-vu",
+      "last_scanned": "2026-10-29T20:53:19.274Z",
+      "skills": [
+        {
+          "name": "deja-vu",
+          "category": "debugging"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-28T21:31:45.923Z"
+  "last_updated": "2026-10-29T20:53:19.274Z"
 }
