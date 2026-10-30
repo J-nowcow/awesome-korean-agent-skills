@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **23개 항목** · 자동 갱신: 2026-10-30
+> 📦 **24개 항목** · 자동 갱신: 2026-10-30
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -46,3 +46,9 @@
 | open-code-review | CC | AI 기반 코드 리뷰 CLI 도구 | 다국어(KO) | [open-code-review](https://github.com/alibaba/open-code-review) |
 
 | mattpocock-skills-zh-CN | CC | Matt Pocock 스킬의 중국어 번역본 | 영+한 | [mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) |
+
+## 🪝 Hooks
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| stop-that-shit | CC | AI 코딩 에이전트의 작업 범위 이탈 방지 | 영+한 | [stop-that-shit](https://github.com/lennney/stop-that-shit) |

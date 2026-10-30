@@ -6369,7 +6369,27 @@
           "category": "debugging"
         }
       ]
+    },
+    {
+      "url": "https://github.com/lennney/stop-that-shit",
+      "last_scanned": "2026-10-30T19:46:02.968Z",
+      "skills": [
+        {
+          "name": "stop-that-shit",
+          "category": "code-review"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/school-survey/reserch-skills",
+      "last_scanned": "2026-10-30T19:46:37.681Z",
+      "skills": [
+        {
+          "name": "reserch-skills",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-29T20:53:19.274Z"
+  "last_updated": "2026-10-30T19:46:37.681Z"
 }

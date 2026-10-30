@@ -94,7 +94,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 | Category | Description | Items |
 |----------|------|:-------:|
-| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 23+ |
+| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 24+ |
 | [Testing & TDD](categories/testing.md) | Test-driven development, E2E, coverage | 16+ |
 | [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 12+ |
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 26+ |
@@ -120,7 +120,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Writing & Korean Language](categories/korean-writing.md) | AI style transfer, spell checking, technical docs | 10+ |
 | [Media](categories/media.md) | YouTube subtitles, image processing | 2+ |
 | [Office & Documents](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 11+ |
-| [Research & Web](categories/research-web.md) | Web search, scraping, Markdown conversion | 28+ |
+| [Research & Web](categories/research-web.md) | Web search, scraping, Markdown conversion | 29+ |
 
 ## Comprehensive Repos
 
