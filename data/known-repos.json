@@ -6399,7 +6399,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "last_scanned": "2026-10-31T20:25:00.094Z",
+      "skills": [
+        {
+          "name": "open-seo-mcp-skills",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-31T19:44:03.682Z"
+  "last_updated": "2026-10-31T20:25:00.094Z"
 }
