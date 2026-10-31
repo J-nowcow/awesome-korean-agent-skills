@@ -6389,7 +6389,17 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/LeoYeAI/agent-master-skills",
+      "last_scanned": "2026-10-31T19:44:03.682Z",
+      "skills": [
+        {
+          "name": "agent-master-skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-30T19:46:37.681Z"
+  "last_updated": "2026-10-31T19:44:03.682Z"
 }

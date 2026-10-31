@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **54개 항목** · 자동 갱신: 2026-10-31
+> 📦 **55개 항목** · 자동 갱신: 2026-10-31
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -60,6 +60,7 @@
 | compose-kotlin-agent-skills | CC/GC/CX/CP/OC | Jetpack Compose & Kotlin AI 에이전트 스킬 | 영+한 | [compose-kotlin-agent-skills](https://github.com/haidrrrry/compose-kotlin-agent-skills) |
 | pstack-claude | CC/OC | 다양한 AI 모델을 위한 스킬 스택 | 영+한 | [pstack-claude](https://github.com/michael-denyer/pstack-claude) |
 | huashu-design | CC/CX | AI 에이전트용 디자인 스킬 컬렉션 | 영+한 | [huashu-design](https://github.com/alchaincyf/huashu-design) |
+| agent-master-skills | CC/GC | 다양한 AI 에이전트 스킬 모음 | 다국어(KO) | [agent-master-skills](https://github.com/LeoYeAI/agent-master-skills) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
