@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **24개 항목** · 자동 갱신: 2026-11-01
+> 📦 **25개 항목** · 자동 갱신: 2026-11-01
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -47,6 +47,7 @@
 
 | mattpocock-skills-zh-CN | CC | Matt Pocock 스킬의 중국어 번역본 | 영+한 | [mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) |
 
+| elephant-goldfish-model | CC/OC | AI 에이전트 기반 소프트웨어 설계 및 검토 스킬 | 영+한 | [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

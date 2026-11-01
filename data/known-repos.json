@@ -6414,7 +6414,27 @@
       "url": "https://github.com/microsoft/TokenEconomizer",
       "last_scanned": "2026-11-01T19:15:33.477Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/AVIDS2/memorix",
+      "last_scanned": "2026-11-01T20:11:13.602Z",
+      "skills": [
+        {
+          "name": "memorix",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "last_scanned": "2026-11-01T20:11:48.023Z",
+      "skills": [
+        {
+          "name": "elephant-goldfish-model",
+          "category": "code-review"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-01T19:15:33.477Z"
+  "last_updated": "2026-11-01T20:11:48.023Z"
 }
