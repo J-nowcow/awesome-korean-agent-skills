@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **43개 항목** · 자동 갱신: 2026-11-01
+> 📦 **44개 항목** · 자동 갱신: 2026-11-01
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -60,6 +60,7 @@
 | pi-subagents | CC | Claude Code 스타일 자율 에이전트 및 워크플로우 오케스트레이션 | 영+한 | [pi-subagents](https://github.com/tintinweb/pi-subagents) |
 | agent-orchestrator |  | 코딩 에이전트 팀을 위한 오픈소스 오케스트레이터 | 다국어(KO) | [agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) |
 | OpenBitFun |  | 고성능 에이전트 런타임 및 데스크톱 애플리케이션 | 영+한 | [OpenBitFun](https://github.com/GCWing/OpenBitFun) |
+| memorix | CC/GC/CX/CP/OC | AI 코딩 에이전트용 공유 프로젝트 메모리 | 다국어(KO) | [memorix](https://github.com/AVIDS2/memorix) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
