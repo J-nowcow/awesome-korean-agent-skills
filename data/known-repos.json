@@ -6409,7 +6409,12 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/microsoft/TokenEconomizer",
+      "last_scanned": "2026-11-01T19:15:33.477Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-10-31T20:25:00.094Z"
+  "last_updated": "2026-11-01T19:15:33.477Z"
 }
