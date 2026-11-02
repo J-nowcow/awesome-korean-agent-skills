@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-11-01
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-11-02
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 nanobot |  | 초경량 개인 AI 에이전트인 nanobot은 다양한 카테고리에서 고르게 선택하고 실용성이 높다는 점에서 추천합니다. 또한 Agent 타입으로 다양한 type 혼합 권장 기준에도 부합합니다. | [nanobot](https://github.com/HKUDS/nanobot) |
-| 🔧 cursor-rules | CX | 다양한 언어 및 프레임워크 Cursor 규칙 모음인 cursor-rules는 실용성이 높고, Framework 카테고리에서 선택하여 다양한 카테고리 선정 기준을 만족합니다. | [cursor-rules](https://github.com/flyeric0212/cursor-rules) |
-| ⚡ m3e-canvas | CC/GC | AI 코딩 도구용 UI 프롬프트 생성기인 m3e-canvas는 Web-frontend 카테고리에서 실용성이 높으며, CC/GC 도구를 활용하여 한국어 지원이 좋은 편입니다. | [m3e-canvas](https://github.com/lnkiai/m3e-canvas) |
+| ⚡ korean-ui | CC | 한국어 지원이 매우 우수한 스킬로, Claude Code 사용자의 접근성을 크게 높여줍니다. 실용성이 높아 많은 한국어 사용자에게 유용할 것입니다. | [korean-ui](https://github.com/KimSuro5773/korean-ui) |
+| 🔧 claude-mem | CC/GC | 세션 간 지속적인 에이전트 메모리 압축은 에이전트의 성능과 효율성을 향상시키는 핵심 기능입니다. 다양한 에이전트 유형에 적용 가능하여 실용성이 높습니다. | [claude-mem](https://github.com/thedotmack/claude-mem) |
+| 🪝 stop-that-shit | CC | AI 코딩 에이전트의 작업 범위 이탈 방지는 개발 과정에서 발생할 수 있는 오류를 줄여주는 중요한 기능입니다. 코드 리뷰 카테고리에서 실용적인 솔루션을 제공합니다. | [stop-that-shit](https://github.com/lennney/stop-that-shit) |
 
 ---
 
