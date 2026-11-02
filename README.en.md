@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-10-26
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-11-02
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 nanobot |  | Nanobot, a super lightweight personal AI agent, is recommended for its balanced selection across categories and high practicality. It also aligns with the recommendation for mixed types by being an Agent type. | [nanobot](https://github.com/HKUDS/nanobot) |
-| 🔧 cursor-rules | CX | Cursor-rules, a collection of various language and framework Cursor rules, is highly practical and selected from the Frameworks category, satisfying the diverse category selection criteria. | [cursor-rules](https://github.com/flyeric0212/cursor-rules) |
-| ⚡ m3e-canvas | CC/GC | M3e-canvas, a UI prompt generator for AI coding tools, is highly practical in the Web-frontend category and offers good Korean support by utilizing CC/GC tools. | [m3e-canvas](https://github.com/lnkiai/m3e-canvas) |
+| ⚡ korean-ui | CC | This skill offers excellent Korean support, significantly improving accessibility for Claude Code users. Its high practicality makes it very useful for many Korean speakers. | [korean-ui](https://github.com/KimSuro5773/korean-ui) |
+| 🔧 claude-mem | CC/GC | Persistent agent memory compression across sessions is a core feature that enhances agent performance and efficiency. Its applicability to various agent types makes it highly practical. | [claude-mem](https://github.com/thedotmack/claude-mem) |
+| 🪝 stop-that-shit | CC | Preventing AI coding agents from deviating from their scope is a crucial function that reduces errors during development. It offers a practical solution in the code review category. | [stop-that-shit](https://github.com/lennney/stop-that-shit) |
 
 ---
 

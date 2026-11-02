@@ -336,6 +336,32 @@
           "tools": "CC/GC"
         }
       ]
+    },
+    {
+      "date": "2026-11-02",
+      "items": [
+        {
+          "name": "korean-ui",
+          "repo": "KimSuro5773/korean-ui",
+          "category": "korean-services",
+          "type": "⚡",
+          "tools": "CC"
+        },
+        {
+          "name": "claude-mem",
+          "repo": "thedotmack/claude-mem",
+          "category": "collections",
+          "type": "🔧",
+          "tools": "CC/GC"
+        },
+        {
+          "name": "stop-that-shit",
+          "repo": "lennney/stop-that-shit",
+          "category": "code-review",
+          "type": "🪝",
+          "tools": "CC"
+        }
+      ]
     }
   ]
 }
