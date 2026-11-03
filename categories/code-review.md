@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **25개 항목** · 자동 갱신: 2026-11-02
+> 📦 **26개 항목** · 자동 갱신: 2026-11-03
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -26,6 +26,7 @@
 | openinterpreter |  | 저비용 모델에 최적화된 코딩 에이전트 | 다국어(KO) | [openinterpreter](https://github.com/openinterpreter/openinterpreter) |
 | claurst | CC | 빌더를 위한 에이전트 코딩 도구 | 영+한 | [claurst](https://github.com/Kuberwastaken/claurst) |
 | Paradev | CC/OC | 다수의 코딩 에이전트 병렬 실행 IDE | 영+한 | [Paradev](https://github.com/ParadevAI/Paradev) |
+| vn-law-check | CC/CX/CP/CR/WS | AI가 베트남 법률 검토 | 영+한 | [vn-law-check](https://github.com/mhfed/vn-law-check) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

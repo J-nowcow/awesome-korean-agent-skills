@@ -6444,7 +6444,17 @@
       "url": "https://github.com/nocobase/nocobase",
       "last_scanned": "2026-11-02T23:19:00.315Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/mhfed/vn-law-check",
+      "last_scanned": "2026-11-03T00:19:27.193Z",
+      "skills": [
+        {
+          "name": "vn-law-check",
+          "category": "code-review"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-02T23:19:00.315Z"
+  "last_updated": "2026-11-03T00:19:27.193Z"
 }
