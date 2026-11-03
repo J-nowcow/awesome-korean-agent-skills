@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **19개 항목** · 자동 갱신: 2026-11-03
+> 📦 **20개 항목** · 자동 갱신: 2026-11-03
 <!-- CAT_STATS:END -->
 > 스킬 활용법, Claude Code 가이드, 학습 자료
 
@@ -47,3 +47,5 @@
 | free-ai-courses | CC | 제품 관리자를 위한 Claude Code 활용 가이드 | 영+한 | [free-ai-courses](https://github.com/carlvellotti/free-ai-courses) |
 
 | learn |  | AI 학습 시스템 구축 가이드 | 영+한 | [learn](https://github.com/amosblomqvist/learn) |
+
+| awesome-agent-skills | CC/GC | 에이전트 스킬의 궁극적인 가이드 및 리소스 모음 | 영+한 | [awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) |

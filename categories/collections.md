@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **55개 항목** · 자동 갱신: 2026-11-03
+> 📦 **56개 항목** · 자동 갱신: 2026-11-03
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -88,3 +88,9 @@
 | NGV20260917 | CC | AI 개발 방법론 및 스킬 컬렉션 | 한국어 | [NGV20260917](https://github.com/DongJoonHan/NGV20260917) |
 
 | trending-claude-skills | CC | AI 코딩 에이전트 스킬 리포지토리 리더보드 | 영+한 | [trending-claude-skills](https://github.com/linny006/trending-claude-skills) |
+
+## ⚡ Commands
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| pm-claude-skills | CC/GC | 다양한 전문 분야의 AI 스킬 모음 | 영+한 | [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) |

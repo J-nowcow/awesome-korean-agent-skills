@@ -6454,7 +6454,32 @@
           "category": "code-review"
         }
       ]
+    },
+    {
+      "url": "https://github.com/architecture-decision-record/architecture-decision-record",
+      "last_scanned": "2026-11-03T01:28:04.973Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/libukai/awesome-agent-skills",
+      "last_scanned": "2026-11-03T01:28:39.484Z",
+      "skills": [
+        {
+          "name": "awesome-agent-skills",
+          "category": "guides"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "last_scanned": "2026-11-03T01:29:14.052Z",
+      "skills": [
+        {
+          "name": "pm-claude-skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-03T00:19:27.193Z"
+  "last_updated": "2026-11-03T01:29:14.052Z"
 }
