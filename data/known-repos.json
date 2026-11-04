@@ -6494,7 +6494,37 @@
           "category": "web-frontend"
         }
       ]
+    },
+    {
+      "url": "https://github.com/YoungsikMoon/YoungsikMoon",
+      "last_scanned": "2026-11-04T22:28:04.770Z",
+      "skills": [
+        {
+          "name": "YoungsikMoon",
+          "category": "utilities"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/eremes81/game-design-ai-practice",
+      "last_scanned": "2026-11-04T22:28:39.156Z",
+      "skills": [
+        {
+          "name": "game-design-ai-practice",
+          "category": "game-dev"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/revfactory/patent-harness",
+      "last_scanned": "2026-11-04T22:29:13.638Z",
+      "skills": [
+        {
+          "name": "patent-harness",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-04T21:44:13.512Z"
+  "last_updated": "2026-11-04T22:29:13.638Z"
 }

@@ -46,12 +46,12 @@
 | [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 22+ |
 | [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 24+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 7+ |
-| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 44+ |
+| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 45+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 9+ |
 | [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 21+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 8+ |
 | [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 5+ |
-| [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 7+ |
+| [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 8+ |
 | [DevOps & 배포](categories/devops.md) | CI/CD, 릴리즈, 모니터링, 세션 관리 | 17+ |
 
 ## 일상 · 업무 스킬
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>462+</h2></td>
-<td><h2>974</h2></td>
+<td><h2>465+</h2></td>
+<td><h2>977</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -177,9 +177,9 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 pie showData
     title 카테고리별 스킬 수
     "종합 스킬 컬렉션" : 56
-    "멀티에이전트" : 44
+    "멀티에이전트" : 45
     "리서치 & 웹" : 30
-    "유틸리티 도구" : 28
+    "유틸리티 도구" : 29
     "콘텐츠 & 미디어" : 27
     "프로젝트 초기화" : 26
     "코드 리뷰" : 26
@@ -193,8 +193,8 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 370
-    "GC" : 107
+    "CC" : 373
+    "GC" : 108
     "CX" : 54
     "CP" : 23
     "OC" : 52
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>12</b> run · <b>+10</b> 스킬</td>
+<td><b>13</b> run · <b>+12</b> 스킬</td>
 <td><b>8</b> run · <b>-22</b> dead link</td>
 <td><b>15</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-11-01 | **3** | **1** | **2** | · |
 | 2026-11-02 | **1** | **1** | **1** | **1** |
 | 2026-11-03 | **2** | **1** | **2** | · |
-| 2026-11-04 | **1** | **1** | **2** | · |
+| 2026-11-04 | **2** | **1** | **2** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

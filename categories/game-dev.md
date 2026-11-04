@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-11-04
+> 📦 **8개 항목** · 자동 갱신: 2026-11-04
 <!-- CAT_STATS:END -->
 > Unity, Blender, C# 스크립팅
 
@@ -30,3 +30,5 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | mcp-for-blender | CC | Blender를 LLM으로 제어하는 커뮤니티 플러그인 | 영+한 | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) |
+
+| game-design-ai-practice | CC | 게임 기획 실무 AI 활용법 안내 | 한국어 | [game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice) |
