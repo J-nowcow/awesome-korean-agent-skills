@@ -40,7 +40,7 @@
 |----------|------|:-------:|
 | [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 26+ |
 | [테스트 & TDD](categories/testing.md) | 테스트 주도 개발, E2E, 커버리지 | 16+ |
-| [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 12+ |
+| [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 11+ |
 | [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 26+ |
 | [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 10+ |
 | [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 22+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>461+</h2></td>
-<td><h2>972</h2></td>
+<td><h2>460+</h2></td>
+<td><h2>971</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -230,10 +230,10 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>11</b> run · <b>+10</b> 스킬</td>
-<td><b>7</b> run · <b>-21</b> dead link</td>
-<td><b>13</b> run</td>
+<td><b>0</b> run · <b>+0</b> 스킬</td>
+<td><b>0</b> run · <b>-0</b> dead link</td>
 <td><b>1</b> run</td>
+<td><b>0</b> run</td>
 </tr>
 </table>
 
@@ -241,13 +241,13 @@ pie showData
 
 | 날짜 | 🔍 신규 | 🔗 정리 | 📊 동기화 | ⭐ 추천 |
 |------|:---:|:---:|:---:|:---:|
-| 2026-10-29 | **1** | **1** | **2** | · |
-| 2026-10-30 | **1** | **1** | **2** | · |
-| 2026-10-31 | **2** | **1** | **2** | · |
-| 2026-11-01 | **3** | **1** | **2** | · |
-| 2026-11-02 | **1** | **1** | **1** | **1** |
-| 2026-11-03 | **2** | **1** | **2** | · |
-| 2026-11-04 | · | · | · | · |
+| 2026-10-29 | · | · | · | · |
+| 2026-10-30 | · | · | · | · |
+| 2026-10-31 | · | · | · | · |
+| 2026-11-01 | · | · | · | · |
+| 2026-11-02 | · | · | · | · |
+| 2026-11-03 | · | · | · | · |
+| 2026-11-04 | · | · | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
