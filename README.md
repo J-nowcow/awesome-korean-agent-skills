@@ -48,7 +48,7 @@
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 7+ |
 | [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 44+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 9+ |
-| [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 20+ |
+| [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 21+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 8+ |
 | [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 5+ |
 | [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 7+ |
@@ -60,7 +60,7 @@
 |----------|------|:-------:|
 | [한국 생활 서비스](categories/korean-services.md) | SRT/KTX, 택배, 로또, KBO, 카카오톡 | 11+ |
 | [커뮤니케이션](categories/communication.md) | 이메일·슬랙 트리아지, 알림 설정 | 3+ |
-| [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 26+ |
+| [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 27+ |
 | [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 10+ |
 | [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 11+ |
 | [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 30+ |
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>460+</h2></td>
-<td><h2>972</h2></td>
+<td><h2>462+</h2></td>
+<td><h2>974</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -180,12 +180,12 @@ pie showData
     "멀티에이전트" : 44
     "리서치 & 웹" : 30
     "유틸리티 도구" : 28
+    "콘텐츠 & 미디어" : 27
     "프로젝트 초기화" : 26
-    "콘텐츠 & 미디어" : 26
     "코드 리뷰" : 26
     "Git & 워크플로우" : 24
     "문서화" : 22
-    "웹 프론트엔드" : 20
+    "웹 프론트엔드" : 21
 ```
 
 ### 도구별 호환성 등장 빈도
@@ -193,11 +193,11 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 368
+    "CC" : 370
     "GC" : 107
     "CX" : 54
     "CP" : 23
-    "OC" : 51
+    "OC" : 52
     "CR" : 8
     "WS" : 9
 ```
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>11</b> run · <b>+10</b> 스킬</td>
+<td><b>12</b> run · <b>+10</b> 스킬</td>
 <td><b>8</b> run · <b>-22</b> dead link</td>
 <td><b>15</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-11-01 | **3** | **1** | **2** | · |
 | 2026-11-02 | **1** | **1** | **1** | **1** |
 | 2026-11-03 | **2** | **1** | **2** | · |
-| 2026-11-04 | · | **1** | **2** | · |
+| 2026-11-04 | **1** | **1** | **2** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

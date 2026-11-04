@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **20개 항목** · 자동 갱신: 2026-11-04
+> 📦 **21개 항목** · 자동 갱신: 2026-11-04
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -39,6 +39,7 @@
 | impeccable-lite | CC/GC | AI 디자인 품질 향상 스킬 | 영+한 | [impeccable-lite](https://github.com/ilindaniel/impeccable-lite) |
 | auteur | CC/GC | 웹사이트를 영화처럼 연출하는 Claude Code 스킬 | 영+한 | [auteur](https://github.com/agiwhitelist/auteur) |
 | threejs-skills | CC | Claude Code를 위한 Three.js 스킬 모음 | 영+한 | [threejs-skills](https://github.com/CloudAI-X/threejs-skills) |
+| unslop | CC/OC | AI 생성 UI를 디자인된 인터페이스로 변환 | 영+한 | [unslop](https://github.com/heydamir/unslop) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
