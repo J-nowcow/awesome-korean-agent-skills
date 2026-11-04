@@ -6524,7 +6524,17 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/mochistudio-vn/kitviet",
+      "last_scanned": "2026-11-04T23:04:36.475Z",
+      "skills": [
+        {
+          "name": "kitviet",
+          "category": "office-docs"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-04T22:29:13.638Z"
+  "last_updated": "2026-11-04T23:04:36.475Z"
 }

@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **11개 항목** · 자동 갱신: 2026-11-04
+> 📦 **12개 항목** · 자동 갱신: 2026-11-04
 <!-- CAT_STATS:END -->
 > Word, Excel, PPT, PDF, HWP 처리
 
@@ -30,3 +30,9 @@
 
 | hwpx-skill | CC/OC | HWPX 문서 생성 및 편집 AI 스킬 | 한국어 | [hwpx-skill](https://github.com/jkf87/hwpx-skill) |
 
+
+## 🤖 Agents
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| kitviet | CC/GC | 20개 직업별 AI 에이전트 스킬 컬렉션 | 영+한 | [kitviet](https://github.com/mochistudio-vn/kitviet) |
