@@ -6544,7 +6544,22 @@
           "category": "game-dev"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ML-TANGO/TANGO2",
+      "last_scanned": "2026-11-05T22:34:54.887Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/raphysicst-create/teacher_doc",
+      "last_scanned": "2026-11-05T22:35:29.260Z",
+      "skills": [
+        {
+          "name": "teacher_doc",
+          "category": "office-docs"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-05T21:16:25.914Z"
+  "last_updated": "2026-11-05T22:35:29.260Z"
 }

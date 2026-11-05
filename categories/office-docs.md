@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-11-05
+> 📦 **13개 항목** · 자동 갱신: 2026-11-05
 <!-- CAT_STATS:END -->
 > Word, Excel, PPT, PDF, HWP 처리
 
@@ -36,3 +36,5 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | kitviet | CC/GC | 20개 직업별 AI 에이전트 스킬 컬렉션 | 영+한 | [kitviet](https://github.com/mochistudio-vn/kitviet) |
+
+| teacher_doc | CC/OC | 교사용 HWP 문서 초안 생성 및 검증 | 한국어 | [teacher_doc](https://github.com/raphysicst-create/teacher_doc) |
