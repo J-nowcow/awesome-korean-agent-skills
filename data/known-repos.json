@@ -6534,7 +6534,17 @@
           "category": "office-docs"
         }
       ]
+    },
+    {
+      "url": "https://github.com/arjun988/blender-skills",
+      "last_scanned": "2026-11-05T21:16:25.914Z",
+      "skills": [
+        {
+          "name": "blender-skills",
+          "category": "game-dev"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-04T23:04:36.475Z"
+  "last_updated": "2026-11-05T21:16:25.914Z"
 }

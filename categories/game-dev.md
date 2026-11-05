@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **8개 항목** · 자동 갱신: 2026-11-05
+> 📦 **9개 항목** · 자동 갱신: 2026-11-05
 <!-- CAT_STATS:END -->
 > Unity, Blender, C# 스크립팅
 
@@ -25,6 +25,7 @@
 
 | awesome-gamedev-agent-skills | CC/GC/CX/CP/OC/CR/WS | AI 코딩 에이전트를 위한 게임 개발 스킬 컬렉션 | 영+한 | [awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) |
 
+| blender-skills | CC/CX/OC | 블렌더 아티스트를 위한 94가지 전문 스킬 컬렉션 | 영+한 | [blender-skills](https://github.com/arjun988/blender-skills) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
