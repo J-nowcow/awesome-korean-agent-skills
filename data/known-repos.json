@@ -6594,7 +6594,27 @@
           "category": "korean-writing"
         }
       ]
+    },
+    {
+      "url": "https://github.com/JackyST0/awesome-agent-skills",
+      "last_scanned": "2026-11-06T21:17:07.208Z",
+      "skills": [
+        {
+          "name": "awesome-agent-skills",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/lobehub/lobehub",
+      "last_scanned": "2026-11-06T21:17:41.835Z",
+      "skills": [
+        {
+          "name": "lobehub",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-06T20:40:38.067Z"
+  "last_updated": "2026-11-06T21:17:41.835Z"
 }
