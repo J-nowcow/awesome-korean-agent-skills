@@ -100,7 +100,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 26+ |
 | [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 10+ |
 | [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 22+ |
-| [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 24+ |
+| [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 25+ |
 | [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 7+ |
 | [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 45+ |
 | [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 9+ |
@@ -117,7 +117,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Korean Life Services](categories/korean-services.md) | SRT/KTX, parcel tracking, lotto, KBO, KakaoTalk | 11+ |
 | [Communication](categories/communication.md) | Email & Slack triage, notification settings | 3+ |
 | [Content & Marketing](categories/content-marketing.md) | Card news, design prompts, image generation | 4+ |
-| [Writing & Korean Language](categories/korean-writing.md) | AI style transfer, spell checking, technical docs | 10+ |
+| [Writing & Korean Language](categories/korean-writing.md) | AI style transfer, spell checking, technical docs | 11+ |
 | [Media](categories/media.md) | YouTube subtitles, image processing | 2+ |
 | [Office & Documents](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 13+ |
 | [Research & Web](categories/research-web.md) | Web search, scraping, Markdown conversion | 30+ |
