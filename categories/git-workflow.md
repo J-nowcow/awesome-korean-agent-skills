@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **24개 항목** · 자동 갱신: 2026-11-06
+> 📦 **25개 항목** · 자동 갱신: 2026-11-06
 <!-- CAT_STATS:END -->
 > 커밋, PR, 워크트리, 브랜칭 전략
 
@@ -33,6 +33,7 @@
 | gentle-ai | CC | AI 코딩 에이전트 환경 설정 및 스킬 관리 | 영+한 | [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) |
 | yozm-vibe | GC | Git 커밋 및 PR 리뷰 자동화 | 영+한 | [yozm-vibe](https://github.com/wapj/yozm-vibe) |
 | status-panel | CC | Claude Code 세션 옆 상태 패널 | 영+한 | [status-panel](https://github.com/LizeLing/status-panel) |
+| spec-superflow |  | AI 기반 프로그래밍 워크플로우 플러그인 | 영+한 | [spec-superflow](https://github.com/MageByte-Zero/spec-superflow) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

@@ -6559,7 +6559,42 @@
           "category": "office-docs"
         }
       ]
+    },
+    {
+      "url": "https://github.com/MageByte-Zero/spec-superflow",
+      "last_scanned": "2026-11-06T20:38:54.791Z",
+      "skills": [
+        {
+          "name": "spec-superflow",
+          "category": "git-workflow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/wesammustafa/Claude-Code-Quest",
+      "last_scanned": "2026-11-06T20:39:29.374Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/yikart/AiToEarn",
+      "last_scanned": "2026-11-06T20:40:03.849Z",
+      "skills": [
+        {
+          "name": "AiToEarn",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/yucezerey/turkish-anti-ai-skill",
+      "last_scanned": "2026-11-06T20:40:38.067Z",
+      "skills": [
+        {
+          "name": "turkish-anti-ai-skill",
+          "category": "korean-writing"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-05T22:35:29.260Z"
+  "last_updated": "2026-11-06T20:40:38.067Z"
 }

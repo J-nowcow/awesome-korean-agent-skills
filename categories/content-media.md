@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **27개 항목** · 자동 갱신: 2026-11-06
+> 📦 **28개 항목** · 자동 갱신: 2026-11-06
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -43,6 +43,7 @@
 
 | auto_kairos | CC | AI 기반 영상 제작 자동화 파이프라인 | 영+한 | [auto_kairos](https://github.com/semoji-ai/auto_kairos) |
 | autoTHREADS |  | AI 기반 자동 스레드 게시 및 답장 에이전트 | 영+한 | [autoTHREADS](https://github.com/eisenjimmy/autoTHREADS) |
+| AiToEarn | CC/GC | AI 기반 콘텐츠 제작 및 수익화 플랫폼 | 다국어(KO) | [AiToEarn](https://github.com/yikart/AiToEarn) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
