@@ -27,6 +27,7 @@
 
 | ida-pro-mcp | CC/GC | IDA Pro와 언어 모델을 연결하는 리버스 엔지니어링 도우미 | 영+한 | [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) |
 | i-have-adhd | CC/GC | ADHD 친화적인 Claude Code/Gemini CLI 스킬 | 영+한 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) |
+| orca-replay | CC | 실패한 에이전트 실행을 기록하고 오프라인으로 재현해 원인 추적 | 영+한 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
