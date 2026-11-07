@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **30개 항목** · 자동 갱신: 2026-11-07
+> 📦 **31개 항목** · 자동 갱신: 2026-11-07
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -56,3 +56,9 @@
 | dots | CC/GC | AI 에이전트용 브라우저 | 영+한 | [dots](https://github.com/feder-cr/dots) |
 
 | gyunggyung |  | LLM 기반 연구 아이디어 탐색 및 관련 연구 초안 생성 에이전트 | 한국어 | [gyunggyung](https://github.com/gyunggyung/gyunggyung) |
+
+## ⚡ Commands
+
+| 이름 | 도구 | 설명 | 언어 | 레포 |
+|------|------|------|------|------|
+| nuwa-skill | CC/GC | 유명인의 사고방식을 추출하는 AI 스킬 | 다국어(KO) | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
