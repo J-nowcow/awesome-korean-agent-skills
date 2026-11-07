@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **28개 항목** · 자동 갱신: 2026-11-07
+> 📦 **30개 항목** · 자동 갱신: 2026-11-07
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -35,6 +35,7 @@
 | anatomy | CC/OC | 아이디어를 시각적으로 설명하는 에이전트 스킬 | 영+한 | [anatomy](https://github.com/wheresryan22/anatomy) |
 | hyperframes | CC/GC | HTML을 비디오로 렌더링하는 프레임워크 | 영+한 | [hyperframes](https://github.com/heygen-com/hyperframes) |
 | teardown | CC | 기계를 3D 시뮬레이터로 변환하는 Claude Code 스킬 | 영+한 | [teardown](https://github.com/elvarofficial/teardown) |
+| huashu-art-motion | CC | 코드로 예술 스타일 애니메이션 생성 | 영+한 | [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
@@ -44,6 +45,7 @@
 | auto_kairos | CC | AI 기반 영상 제작 자동화 파이프라인 | 영+한 | [auto_kairos](https://github.com/semoji-ai/auto_kairos) |
 | autoTHREADS |  | AI 기반 자동 스레드 게시 및 답장 에이전트 | 영+한 | [autoTHREADS](https://github.com/eisenjimmy/autoTHREADS) |
 | AiToEarn | CC/GC | AI 기반 콘텐츠 제작 및 수익화 플랫폼 | 다국어(KO) | [AiToEarn](https://github.com/yikart/AiToEarn) |
+| huashu-motion | CC | AI 에이전트로 상업용 영상 제작 | 영+한 | [huashu-motion](https://github.com/alchaincyf/huashu-motion) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

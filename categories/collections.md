@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **57개 항목** · 자동 갱신: 2026-11-07
+> 📦 **60개 항목** · 자동 갱신: 2026-11-07
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -62,6 +62,8 @@
 | huashu-design | CC/CX | AI 에이전트용 디자인 스킬 컬렉션 | 영+한 | [huashu-design](https://github.com/alchaincyf/huashu-design) |
 | agent-master-skills | CC/GC | 다양한 AI 에이전트 스킬 모음 | 다국어(KO) | [agent-master-skills](https://github.com/LeoYeAI/agent-master-skills) |
 | awesome-agent-skills | CC/CX/CP | AI 코딩 도구용 모듈식 AI 에이전트 스킬 모음 | 영+한 | [awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills) |
+| darwin-skill | CC | AI 스킬 자동 최적화 시스템 | 영+한 | [darwin-skill](https://github.com/alchaincyf/darwin-skill) |
+| huashu-skills | CC/GC | 다양한 AI 에이전트 스킬 모음 | 영+한 | [huashu-skills](https://github.com/alchaincyf/huashu-skills) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
@@ -95,3 +97,5 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | pm-claude-skills | CC/GC | 다양한 전문 분야의 AI 스킬 모음 | 영+한 | [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) |
+
+| zhangxuefeng-skill | CC | 장웨이펑의 실전 사고 프레임워크 | 영+한 | [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |

@@ -6614,7 +6614,67 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/alchaincyf/darwin-skill",
+      "last_scanned": "2026-11-07T20:41:52.785Z",
+      "skills": [
+        {
+          "name": "darwin-skill",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "last_scanned": "2026-11-07T20:42:27.824Z",
+      "skills": [
+        {
+          "name": "huashu-art-motion",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "last_scanned": "2026-11-07T20:43:02.661Z",
+      "skills": [
+        {
+          "name": "huashu-motion",
+          "category": "content-media"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/alchaincyf/huashu-skills",
+      "last_scanned": "2026-11-07T20:43:36.942Z",
+      "skills": [
+        {
+          "name": "huashu-skills",
+          "category": "collections"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/alchaincyf/nuwa-skill",
+      "last_scanned": "2026-11-07T20:44:11.427Z",
+      "skills": [
+        {
+          "name": "nuwa-skill",
+          "category": "research-web"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "last_scanned": "2026-11-07T20:44:45.727Z",
+      "skills": [
+        {
+          "name": "zhangxuefeng-skill",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-06T21:17:41.835Z"
+  "last_updated": "2026-11-07T20:44:45.727Z"
 }
