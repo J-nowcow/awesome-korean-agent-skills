@@ -362,6 +362,32 @@
           "tools": "CC"
         }
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "items": [
+        {
+          "name": "kitviet",
+          "repo": "mochistudio-vn/kitviet",
+          "category": "office-docs",
+          "type": "🤖",
+          "tools": "CC/GC"
+        },
+        {
+          "name": "rallylens",
+          "repo": "YeonSeong-Lee/rallylens",
+          "category": "content-media",
+          "type": "⚡",
+          "tools": "GC"
+        },
+        {
+          "name": "andrej-karpathy-skills",
+          "repo": "multica-ai/andrej-karpathy-skills",
+          "category": "guides",
+          "type": "⚡",
+          "tools": "CC"
+        }
+      ]
     }
   ]
 }

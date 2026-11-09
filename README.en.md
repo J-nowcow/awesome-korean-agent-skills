@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-11-02
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-11-09
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| ⚡ korean-ui | CC | This skill offers excellent Korean support, significantly improving accessibility for Claude Code users. Its high practicality makes it very useful for many Korean speakers. | [korean-ui](https://github.com/KimSuro5773/korean-ui) |
-| 🔧 claude-mem | CC/GC | Persistent agent memory compression across sessions is a core feature that enhances agent performance and efficiency. Its applicability to various agent types makes it highly practical. | [claude-mem](https://github.com/thedotmack/claude-mem) |
-| 🪝 stop-that-shit | CC | Preventing AI coding agents from deviating from their scope is a crucial function that reduces errors during development. It offers a practical solution in the code review category. | [stop-that-shit](https://github.com/lennney/stop-that-shit) |
+| 🤖 kitviet | CC/GC | Offers a collection of 20 AI agent skills specialized for various job roles, making it highly practical. It is expected to have good Korean support and can be utilized in various ways as an '🤖 Agent' type. | [kitviet](https://github.com/mochistudio-vn/kitviet) |
+| ⚡ rallylens | GC | This CLI pipeline applied to the specific field of badminton match analysis offers high practicality for a particular purpose. It is available for immediate use as a '⚡ Skill' type. | [rallylens](https://github.com/YeonSeong-Lee/rallylens) |
+| ⚡ andrej-karpathy-skills | CC | This guide on LLM coding pitfalls for improving Claude Code provides useful information for developers. If it has good Korean support as a '⚡ Skill' type, it will be very helpful for learning. | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
 
 ---
 
