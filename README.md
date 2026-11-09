@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-11-08
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-11-09
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| ⚡ korean-ui | CC | 한국어 지원이 매우 우수한 스킬로, Claude Code 사용자의 접근성을 크게 높여줍니다. 실용성이 높아 많은 한국어 사용자에게 유용할 것입니다. | [korean-ui](https://github.com/KimSuro5773/korean-ui) |
-| 🔧 claude-mem | CC/GC | 세션 간 지속적인 에이전트 메모리 압축은 에이전트의 성능과 효율성을 향상시키는 핵심 기능입니다. 다양한 에이전트 유형에 적용 가능하여 실용성이 높습니다. | [claude-mem](https://github.com/thedotmack/claude-mem) |
-| 🪝 stop-that-shit | CC | AI 코딩 에이전트의 작업 범위 이탈 방지는 개발 과정에서 발생할 수 있는 오류를 줄여주는 중요한 기능입니다. 코드 리뷰 카테고리에서 실용적인 솔루션을 제공합니다. | [stop-that-shit](https://github.com/lennney/stop-that-shit) |
+| 🤖 kitviet | CC/GC | 다양한 직업군에 특화된 20개의 AI 에이전트 스킬을 제공하여 실용성이 높습니다. 한국어 지원이 잘 되는 것으로 예상되며, '🤖 Agent' 타입으로 다양한 활용이 가능합니다. | [kitviet](https://github.com/mochistudio-vn/kitviet) |
+| ⚡ rallylens | GC | 배드민턴 경기 분석이라는 구체적인 분야에 적용되는 CLI 파이프라인으로, 특정 목적에 대한 높은 실용성을 제공합니다. '⚡ Skill' 타입으로 바로 활용 가능합니다. | [rallylens](https://github.com/YeonSeong-Lee/rallylens) |
+| ⚡ andrej-karpathy-skills | CC | Claude Code 개선을 위한 LLM 코딩 함정 가이드로, 개발자들에게 유용한 정보를 제공합니다. '⚡ Skill' 타입으로 한국어 지원이 잘 된다면 학습에 큰 도움이 될 것입니다. | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
 
 ---
 
