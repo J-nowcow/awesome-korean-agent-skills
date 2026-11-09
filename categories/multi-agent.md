@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **46개 항목** · 자동 갱신: 2026-11-09
+> 📦 **47개 항목** · 자동 갱신: 2026-11-09
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -63,6 +63,7 @@
 | memorix | CC/GC/CX/CP/OC | AI 코딩 에이전트용 공유 프로젝트 메모리 | 다국어(KO) | [memorix](https://github.com/AVIDS2/memorix) |
 | patent-harness | CC | 특허 발굴·출원 Claude Code 에이전트 | 영+한 | [patent-harness](https://github.com/revfactory/patent-harness) |
 | lobehub |  | 팀을 위한 슈퍼 에이전트 | 영+한 | [lobehub](https://github.com/lobehub/lobehub) |
+| OpenBitFun |  | 고성능 에이전트 런타임 및 데스크톱 애플리케이션 | 영+한 | [OpenBitFun](https://github.com/openBitFun/OpenBitFun) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

@@ -6674,7 +6674,17 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/openBitFun/OpenBitFun",
+      "last_scanned": "2026-11-09T23:37:52.130Z",
+      "skills": [
+        {
+          "name": "OpenBitFun",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-07T20:44:45.727Z"
+  "last_updated": "2026-11-09T23:37:52.130Z"
 }
