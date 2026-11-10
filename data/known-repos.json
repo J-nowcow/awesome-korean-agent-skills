@@ -6704,7 +6704,17 @@
           "category": "refactoring"
         }
       ]
+    },
+    {
+      "url": "https://github.com/thesun4sky/jobstack",
+      "last_scanned": "2026-11-10T22:10:33.647Z",
+      "skills": [
+        {
+          "name": "jobstack",
+          "category": "korean-writing"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-10T21:04:56.034Z"
+  "last_updated": "2026-11-10T22:10:33.647Z"
 }
