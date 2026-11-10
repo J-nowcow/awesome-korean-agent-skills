@@ -6684,7 +6684,12 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ruvnet/RuView",
+      "last_scanned": "2026-11-10T00:34:21.370Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-11-09T23:37:52.130Z"
+  "last_updated": "2026-11-10T00:34:21.371Z"
 }
