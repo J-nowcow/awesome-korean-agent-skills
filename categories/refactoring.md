@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **7개 항목** · 자동 갱신: 2026-11-10
+> 📦 **8개 항목** · 자동 갱신: 2026-11-10
 <!-- CAT_STATS:END -->
 > 데드 코드 제거, 기술 부채 해소, 코드 간소화
 
@@ -23,6 +23,7 @@
 | techdebt | CC | 중복 코드, console.log, 미사용 import 정리 | 한국어 | [my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset/tree/main/skills/techdebt) |
 
 | GitNexus | CC/GC | 코드 인텔리전스 엔진으로 코드 분석 | 영+한 | [GitNexus](https://github.com/abhigyanpatwari/GitNexus) |
+| refactoring-ui-skill | CC | Refactoring UI 디자인 규칙 Claude Code 스킬 | 영+한 | [refactoring-ui-skill](https://github.com/s0xDk/refactoring-ui-skill) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
