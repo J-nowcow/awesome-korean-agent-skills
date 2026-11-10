@@ -6689,7 +6689,22 @@
       "url": "https://github.com/ruvnet/RuView",
       "last_scanned": "2026-11-10T00:34:21.370Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/kortix-ai/CompanyOS",
+      "last_scanned": "2026-11-10T21:04:16.087Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/s0xDk/refactoring-ui-skill",
+      "last_scanned": "2026-11-10T21:04:56.034Z",
+      "skills": [
+        {
+          "name": "refactoring-ui-skill",
+          "category": "refactoring"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-10T00:34:21.371Z"
+  "last_updated": "2026-11-10T21:04:56.034Z"
 }
