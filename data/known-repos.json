@@ -6714,7 +6714,17 @@
           "category": "korean-writing"
         }
       ]
+    },
+    {
+      "url": "https://github.com/obsidianmd/obsidian-skills",
+      "last_scanned": "2026-11-11T21:37:41.252Z",
+      "skills": [
+        {
+          "name": "obsidian-skills",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-10T22:10:33.647Z"
+  "last_updated": "2026-11-11T21:37:41.252Z"
 }
