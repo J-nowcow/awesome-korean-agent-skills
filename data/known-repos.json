@@ -6734,7 +6734,27 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/JinHo-von-Choi/parism",
+      "last_scanned": "2026-11-12T22:03:42.247Z",
+      "skills": [
+        {
+          "name": "parism",
+          "category": "utilities"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/steveaimkt/marketing-team",
+      "last_scanned": "2026-11-12T22:04:22.606Z",
+      "skills": [
+        {
+          "name": "marketing-team",
+          "category": "multi-agent"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-12T21:38:17.391Z"
+  "last_updated": "2026-11-12T22:04:22.606Z"
 }

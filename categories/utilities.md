@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **30개 항목** · 자동 갱신: 2026-11-12
+> 📦 **31개 항목** · 자동 갱신: 2026-11-12
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -43,6 +43,7 @@
 | claude-memory-plugin | CC | Claude Code 메모리 시스템 플러그인 | 한국어 | [claude-memory-plugin](https://github.com/ilhae-ai/claude-memory-plugin) |
 | open-computer-use | GC/OC | 오픈소스 컴퓨터 사용 서비스, AI 에이전트용 | 영+한 | [open-computer-use](https://github.com/iFurySt/open-computer-use) |
 | obsidian-skills | CC/GC | Obsidian CLI 및 오픈 포맷 에이전트 스킬 | 영+한 | [obsidian-skills](https://github.com/obsidianmd/obsidian-skills) |
+| parism | CC/GC | AI 에이전트용 쉘 출력 파서 | 영+한 | [parism](https://github.com/JinHo-von-Choi/parism) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
