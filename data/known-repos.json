@@ -6754,7 +6754,22 @@
           "category": "multi-agent"
         }
       ]
+    },
+    {
+      "url": "https://github.com/codewhale-hq/Codewhale",
+      "last_scanned": "2026-11-12T23:04:07.961Z",
+      "skills": [
+        {
+          "name": "Codewhale",
+          "category": "multi-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/pingdotgg/t3code",
+      "last_scanned": "2026-11-12T23:04:43.356Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-11-12T22:04:22.606Z"
+  "last_updated": "2026-11-12T23:04:43.356Z"
 }

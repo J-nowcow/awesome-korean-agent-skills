@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **48개 항목** · 자동 갱신: 2026-11-12
+> 📦 **49개 항목** · 자동 갱신: 2026-11-12
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -65,6 +65,7 @@
 | lobehub |  | 팀을 위한 슈퍼 에이전트 | 영+한 | [lobehub](https://github.com/lobehub/lobehub) |
 | OpenBitFun |  | 고성능 에이전트 런타임 및 데스크톱 애플리케이션 | 영+한 | [OpenBitFun](https://github.com/openBitFun/OpenBitFun) |
 | marketing-team | CC | 100가지 마케팅 스킬을 갖춘 AI 팀 | 한국어 | [marketing-team](https://github.com/steveaimkt/marketing-team) |
+| Codewhale |  | 터미널용 오픈소스 코딩 에이전트 | 다국어(KO) | [Codewhale](https://github.com/codewhale-hq/Codewhale) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
