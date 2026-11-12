@@ -6724,7 +6724,17 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Jakeschincariol/youtube-agent-skill",
+      "last_scanned": "2026-11-12T21:38:17.391Z",
+      "skills": [
+        {
+          "name": "youtube-agent-skill",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-11T21:37:41.252Z"
+  "last_updated": "2026-11-12T21:38:17.391Z"
 }
