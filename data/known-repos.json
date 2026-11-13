@@ -6769,7 +6769,17 @@
       "url": "https://github.com/pingdotgg/t3code",
       "last_scanned": "2026-11-12T23:04:43.356Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "last_scanned": "2026-11-13T23:07:21.042Z",
+      "skills": [
+        {
+          "name": "floorplan",
+          "category": "documentation"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-12T23:04:43.356Z"
+  "last_updated": "2026-11-13T23:07:21.042Z"
 }
