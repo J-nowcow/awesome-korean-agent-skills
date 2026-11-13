@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **22개 항목** · 자동 갱신: 2026-11-13
+> 📦 **23개 항목** · 자동 갱신: 2026-11-13
 <!-- CAT_STATS:END -->
 > 기술 문서 생성, 한국어 문서 작성, 코드맵
 
@@ -37,6 +37,7 @@
 | open-steps | CC/GC | 코딩 에이전트의 출력을 쉬운 언어로 번역 | 영+한 | [open-steps](https://github.com/kharmanskyi/open-steps) |
 | gitdiagram | CC/GC/CX | 코드베이스 아키텍처 시각화 및 설명 | 영+한 | [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) |
 | gateway-skills | CC | AI 코딩 에이전트 로그 시각화 게이트웨이 | 영+한 | [gateway-skills](https://github.com/Leanmcp/gateway-skills) |
+| floorplan | CC/OC | 코드베이스를 시각화하는 AI 기반 도구 | 영+한 | [floorplan](https://github.com/haydenschmitty/floorplan) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
