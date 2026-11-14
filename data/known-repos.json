@@ -6779,7 +6779,22 @@
           "category": "documentation"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Railly/agentfiles",
+      "last_scanned": "2026-11-14T00:11:32.891Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/emilkowalski/skills",
+      "last_scanned": "2026-11-14T00:12:06.945Z",
+      "skills": [
+        {
+          "name": "skills",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-13T23:07:21.042Z"
+  "last_updated": "2026-11-14T00:12:06.945Z"
 }
