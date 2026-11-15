@@ -6794,7 +6794,27 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/JungHoonGhae/tossinvest-cli",
+      "last_scanned": "2026-11-15T22:22:53.892Z",
+      "skills": [
+        {
+          "name": "tossinvest-cli",
+          "category": "korean-services"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/sinhs0301-prog/kimbiseo",
+      "last_scanned": "2026-11-15T22:23:27.715Z",
+      "skills": [
+        {
+          "name": "kimbiseo",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-14T00:12:06.945Z"
+  "last_updated": "2026-11-15T22:23:27.715Z"
 }
