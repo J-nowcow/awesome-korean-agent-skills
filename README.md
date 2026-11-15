@@ -73,6 +73,7 @@
 | [종합 스킬 컬렉션](categories/collections.md) | 여러 분야의 스킬을 한 레포에 모아놓은 것 |
 | [가이드 & 튜토리얼](categories/guides.md) | 스킬 활용법, Claude Code 가이드, 학습 자료 |
 | [유틸리티 도구](categories/utilities.md) | 룰 변환·관리 도구, 한국어 지원 도구 |
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | 미국·캐나다 1,700+ 라이브 음악 공연장 데이터 MCP 서버 |
 
 ---
 
