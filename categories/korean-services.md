@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **11개 항목** · 자동 갱신: 2026-11-15
+> 📦 **12개 항목** · 자동 갱신: 2026-11-15
 <!-- CAT_STATS:END -->
 > 한국에서 일상적으로 쓰는 서비스 자동화
 
@@ -22,6 +22,7 @@
 | ipzitalk | CC | 부동산 입지 분석 및 분양 정보 제공 | 한국어 | [ipzitalk](https://github.com/chatdaeri/ipzitalk) |
 | worksheet-grab | CC/GC | AI 기반 활동지 생성 및 편집 도구 | 한국어 | [worksheet-grab](https://github.com/pblsketch/worksheet-grab) |
 | privacy-build | CC | 한국 법 기준 개인정보 처리방침 생성 | 한국어 | [privacy-build](https://github.com/selfishclub/privacy-build) |
+| tossinvest-cli | CC/GC | 토스증권 비공식 CLI 및 AI 연동 | 한국어 | [tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |

@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **31개 항목** · 자동 갱신: 2026-11-15
+> 📦 **32개 항목** · 자동 갱신: 2026-11-15
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -57,6 +57,7 @@
 | Fuxi |  | 터미널 기반 AI 코딩 에이전트 | 영+한 | [Fuxi](https://github.com/fuxicodex/Fuxi) |
 | coucou | CC/GC | AI 코딩 에이전트 세션 모니터링 도구 | 영+한 | [coucou](https://github.com/Louis-CFM/coucou) |
 | one-skill-to-rule-them-all |  | 모든 스킬을 구축하고 개선하는 메타 스킬 | 영+한 | [one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all) |
+| kimbiseo | CC/OC | PC 제어 및 대화형 AI 비서 | 한국어 | [kimbiseo](https://github.com/sinhs0301-prog/kimbiseo) |
 ## 🪝 Hooks
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
