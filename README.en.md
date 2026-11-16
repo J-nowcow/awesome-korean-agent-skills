@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-11-09
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-11-16
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| 🤖 kitviet | CC/GC | Offers a collection of 20 AI agent skills specialized for various job roles, making it highly practical. It is expected to have good Korean support and can be utilized in various ways as an '🤖 Agent' type. | [kitviet](https://github.com/mochistudio-vn/kitviet) |
-| ⚡ rallylens | GC | This CLI pipeline applied to the specific field of badminton match analysis offers high practicality for a particular purpose. It is available for immediate use as a '⚡ Skill' type. | [rallylens](https://github.com/YeonSeong-Lee/rallylens) |
-| ⚡ andrej-karpathy-skills | CC | This guide on LLM coding pitfalls for improving Claude Code provides useful information for developers. If it has good Korean support as a '⚡ Skill' type, it will be very helpful for learning. | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
+| ⚡ pm-claude-skills | CC/GC | 'pm-claude-skills' is a collection of AI skills from various professional fields, offering practical skills across multiple categories. It has high accessibility due to good Korean language support. | [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) |
+| 📦 awesome-agent-skills | 크로스 도구 스킬 큐레이션 디렉토리 | 'awesome-agent-skills' is a skill curation directory for various tools, providing useful information across multiple categories. It supports both Korean and English, making it highly versatile. | [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) |
+| 🔧 free-ai-courses | CC | 'free-ai-courses' is a guide for product managers on utilizing Claude Code, offering practical knowledge. It is easy to learn from due to good Korean language support. | [free-ai-courses](https://github.com/carlvellotti/free-ai-courses) |
 
 ---
 
