@@ -388,6 +388,32 @@
           "tools": "CC"
         }
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "items": [
+        {
+          "name": "pm-claude-skills",
+          "repo": "mohitagw15856/pm-claude-skills",
+          "category": "collections",
+          "type": "⚡",
+          "tools": "CC/GC"
+        },
+        {
+          "name": "awesome-agent-skills",
+          "repo": "heilcheng/awesome-agent-skills",
+          "category": "guides",
+          "type": "📦",
+          "tools": "크로스 도구 스킬 큐레이션 디렉토리"
+        },
+        {
+          "name": "free-ai-courses",
+          "repo": "carlvellotti/free-ai-courses",
+          "category": "guides",
+          "type": "🔧",
+          "tools": "CC"
+        }
+      ]
     }
   ]
 }

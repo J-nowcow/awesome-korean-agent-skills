@@ -24,13 +24,13 @@
 
 ## 이 주의 스킬
 
-> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-11-15
+> 매주 업데이트됩니다. 한국어 지원 · 활발한 유지보수 · 실용성을 기준으로 관리자가 선정합니다. 최근 업데이트: 2026-11-16
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| 🤖 kitviet | CC/GC | 다양한 직업군에 특화된 20개의 AI 에이전트 스킬을 제공하여 실용성이 높습니다. 한국어 지원이 잘 되는 것으로 예상되며, '🤖 Agent' 타입으로 다양한 활용이 가능합니다. | [kitviet](https://github.com/mochistudio-vn/kitviet) |
-| ⚡ rallylens | GC | 배드민턴 경기 분석이라는 구체적인 분야에 적용되는 CLI 파이프라인으로, 특정 목적에 대한 높은 실용성을 제공합니다. '⚡ Skill' 타입으로 바로 활용 가능합니다. | [rallylens](https://github.com/YeonSeong-Lee/rallylens) |
-| ⚡ andrej-karpathy-skills | CC | Claude Code 개선을 위한 LLM 코딩 함정 가이드로, 개발자들에게 유용한 정보를 제공합니다. '⚡ Skill' 타입으로 한국어 지원이 잘 된다면 학습에 큰 도움이 될 것입니다. | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
+| ⚡ pm-claude-skills | CC/GC | 다양한 전문 분야의 AI 스킬을 모아놓은 'pm-claude-skills'는 여러 카테고리에 걸쳐 실용적인 스킬들을 제공합니다. 한국어 지원이 잘 되어 있어 접근성이 높습니다. | [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) |
+| 📦 awesome-agent-skills | 크로스 도구 스킬 큐레이션 디렉토리 | 'awesome-agent-skills'는 다양한 도구를 위한 스킬 큐레이션 디렉토리로, 여러 카테고리에 걸쳐 유용한 정보를 제공합니다. 한국어와 영어를 모두 지원하여 활용도가 높습니다. | [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) |
+| 🔧 free-ai-courses | CC | 'free-ai-courses'는 제품 관리자를 위한 Claude Code 활용 가이드로, 실용적인 지식을 제공합니다. 한국어 지원이 잘 되어 있어 학습에 용이합니다. | [free-ai-courses](https://github.com/carlvellotti/free-ai-courses) |
 
 ---
 
