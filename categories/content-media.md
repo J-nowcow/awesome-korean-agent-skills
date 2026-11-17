@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **31개 항목** · 자동 갱신: 2026-11-17
+> 📦 **32개 항목** · 자동 갱신: 2026-11-17
 <!-- CAT_STATS:END -->
 > 카드뉴스, 디자인 프롬프트, 이미지 생성, 유튜브 자막
 
@@ -37,6 +37,7 @@
 | teardown | CC | 기계를 3D 시뮬레이터로 변환하는 Claude Code 스킬 | 영+한 | [teardown](https://github.com/elvarofficial/teardown) |
 | huashu-art-motion | CC | 코드로 예술 스타일 애니메이션 생성 | 영+한 | [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) |
 | youtube-agent-skill | CC | 유튜브 채널 운영 자동화 Claude 스킬 모음 | 영+한 | [youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill) |
+| claude-animated-shorts | CC | Claude로 애니메이션 단편 제작 스킬 | 영+한 | [claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
