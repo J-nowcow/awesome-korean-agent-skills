@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **61개 항목** · 자동 갱신: 2026-11-16
+> 📦 **62개 항목** · 자동 갱신: 2026-11-17
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -100,3 +100,5 @@
 | pm-claude-skills | CC/GC | 다양한 전문 분야의 AI 스킬 모음 | 영+한 | [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) |
 
 | zhangxuefeng-skill | CC | 장웨이펑의 실전 사고 프레임워크 | 영+한 | [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
+
+| HERO-Anti-OverDefense | CC/GC/CX/CP/OC/WS | AI 코딩 에이전트의 과잉 방어를 막는 규칙 모음 | 영+한 | [HERO-Anti-OverDefense](https://github.com/wanshuiyin/HERO-Anti-OverDefense) |

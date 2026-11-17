@@ -6814,7 +6814,22 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/Folkbench/folkbench",
+      "last_scanned": "2026-11-17T00:40:34.414Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+      "last_scanned": "2026-11-17T00:41:09.132Z",
+      "skills": [
+        {
+          "name": "HERO-Anti-OverDefense",
+          "category": "collections"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-15T22:23:27.715Z"
+  "last_updated": "2026-11-17T00:41:09.132Z"
 }
