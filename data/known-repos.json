@@ -6829,7 +6829,22 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "last_scanned": "2026-11-17T01:25:37.365Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "last_scanned": "2026-11-17T01:26:12.004Z",
+      "skills": [
+        {
+          "name": "claude-animated-shorts",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-17T00:41:09.132Z"
+  "last_updated": "2026-11-17T01:26:12.004Z"
 }
