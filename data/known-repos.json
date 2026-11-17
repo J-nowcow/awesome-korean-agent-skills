@@ -6844,7 +6844,17 @@
           "category": "content-media"
         }
       ]
+    },
+    {
+      "url": "https://github.com/HaD0Yun/CozyClay",
+      "last_scanned": "2026-11-17T23:20:54.186Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/aboylabs/ai-agent-skills",
+      "last_scanned": "2026-11-17T23:21:28.539Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-11-17T01:26:12.004Z"
+  "last_updated": "2026-11-17T23:21:28.539Z"
 }
