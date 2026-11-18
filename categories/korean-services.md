@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-11-18
+> 📦 **13개 항목** · 자동 갱신: 2026-11-18
 <!-- CAT_STATS:END -->
 > 한국에서 일상적으로 쓰는 서비스 자동화
 
@@ -34,3 +34,5 @@
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
 | korean-ui | CC | Claude Code 명령어/설정 한국어 번역 플러그인 | 한국어 | [korean-ui](https://github.com/KimSuro5773/korean-ui) |
+
+| CLOVA_Studio_Stock-helper |  | 공시정보 기반 주식투자 챗봇 프로젝트 | 한국어 | [CLOVA_Studio_Stock-helper](https://github.com/Pseudo-Lab/CLOVA_Studio_Stock-helper) |
