@@ -6864,7 +6864,17 @@
           "category": "korean-services"
         }
       ]
+    },
+    {
+      "url": "https://github.com/goldring-creator/reserch-skills",
+      "last_scanned": "2026-11-18T23:18:12.073Z",
+      "skills": [
+        {
+          "name": "reserch-skills",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-18T22:24:21.290Z"
+  "last_updated": "2026-11-18T23:18:12.073Z"
 }
