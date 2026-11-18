@@ -6854,7 +6854,17 @@
       "url": "https://github.com/aboylabs/ai-agent-skills",
       "last_scanned": "2026-11-17T23:21:28.539Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Pseudo-Lab/CLOVA_Studio_Stock-helper",
+      "last_scanned": "2026-11-18T22:24:21.290Z",
+      "skills": [
+        {
+          "name": "CLOVA_Studio_Stock-helper",
+          "category": "korean-services"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-17T23:21:28.539Z"
+  "last_updated": "2026-11-18T22:24:21.290Z"
 }
