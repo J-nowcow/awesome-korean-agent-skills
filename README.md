@@ -63,7 +63,7 @@
 | [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 32+ |
 | [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 12+ |
 | [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 13+ |
-| [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 31+ |
+| [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 32+ |
 
 ## 종합 레포
 
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>494+</h2></td>
-<td><h2>1016</h2></td>
+<td><h2>495+</h2></td>
+<td><h2>1017</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -179,8 +179,8 @@ pie showData
     "종합 스킬 컬렉션" : 62
     "멀티에이전트" : 49
     "유틸리티 도구" : 32
+    "리서치 & 웹" : 32
     "콘텐츠 & 미디어" : 32
-    "리서치 & 웹" : 31
     "프로젝트 초기화" : 26
     "코드 리뷰" : 26
     "Git & 워크플로우" : 25
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 396
+    "CC" : 397
     "GC" : 117
     "CX" : 57
     "CP" : 25
@@ -230,7 +230,7 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>10</b> run · <b>+11</b> 스킬</td>
+<td><b>11</b> run · <b>+12</b> 스킬</td>
 <td><b>8</b> run · <b>-0</b> dead link</td>
 <td><b>16</b> run</td>
 <td><b>1</b> run</td>
@@ -247,7 +247,7 @@ pie showData
 | 2026-11-15 | **1** | **1** | **2** | · |
 | 2026-11-16 | · | **1** | **1** | **1** |
 | 2026-11-17 | **3** | **1** | **2** | · |
-| 2026-11-18 | · | **1** | **2** | · |
+| 2026-11-18 | **1** | **1** | **2** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 

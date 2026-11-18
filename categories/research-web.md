@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **31개 항목** · 자동 갱신: 2026-11-18
+> 📦 **32개 항목** · 자동 갱신: 2026-11-18
 <!-- CAT_STATS:END -->
 > 웹 검색, 스크래핑, 마크다운 변환
 
@@ -33,6 +33,7 @@
 | xerj | CC/GC | AI 에이전트용 로컬 검색 엔진 | 영+한 | [xerj](https://github.com/xerj-org/xerj) |
 | reserch-skills | CC | 연구 및 학술 논문 작성을 위한 Claude 스킬 모음 | 영+한 | [reserch-skills](https://github.com/school-survey/reserch-skills) |
 | open-seo-mcp-skills | CC/GC | SEO 및 GEO 데이터 분석 스킬 모음 | 영+한 | [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) |
+| reserch-skills | CC | 교육학·사회과학 연구용 Claude Code 스킬 모음 | 한국어 | [reserch-skills](https://github.com/goldring-creator/reserch-skills) |
 ## 🤖 Agents
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
