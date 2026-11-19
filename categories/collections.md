@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **62개 항목** · 자동 갱신: 2026-11-19
+> 📦 **63개 항목** · 자동 갱신: 2026-11-19
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -102,3 +102,5 @@
 | zhangxuefeng-skill | CC | 장웨이펑의 실전 사고 프레임워크 | 영+한 | [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 
 | HERO-Anti-OverDefense | CC/GC/CX/CP/OC/WS | AI 코딩 에이전트의 과잉 방어를 막는 규칙 모음 | 영+한 | [HERO-Anti-OverDefense](https://github.com/wanshuiyin/HERO-Anti-OverDefense) |
+
+| virtual-card-usdt-anthropic-enterprise-claude-team-vcc | CC | Anthropic Claude 기업 구매 솔루션 | 영+한 | [virtual-card-usdt-anthropic-enterprise-claude-team-vcc](https://github.com/celiarceron-byte/virtual-card-usdt-anthropic-enterprise-claude-team-vcc) |
