@@ -6874,7 +6874,17 @@
           "category": "research-web"
         }
       ]
+    },
+    {
+      "url": "https://github.com/apify/apify-mcp-server",
+      "last_scanned": "2026-11-19T00:58:40.032Z",
+      "skills": [
+        {
+          "name": "apify-mcp-server",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-18T23:18:12.073Z"
+  "last_updated": "2026-11-19T00:58:40.033Z"
 }
