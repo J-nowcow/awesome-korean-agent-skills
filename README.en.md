@@ -120,7 +120,7 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 | [Writing & Korean Language](categories/korean-writing.md) | AI style transfer, spell checking, technical docs | 12+ |
 | [Media](categories/media.md) | YouTube subtitles, image processing | 2+ |
 | [Office & Documents](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 13+ |
-| [Research & Web](categories/research-web.md) | Web search, scraping, Markdown conversion | 32+ |
+| [Research & Web](categories/research-web.md) | Web search, scraping, Markdown conversion | 33+ |
 
 ## Comprehensive Repos
 
