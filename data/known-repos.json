@@ -6894,7 +6894,22 @@
           "category": "collections"
         }
       ]
+    },
+    {
+      "url": "https://github.com/htdt/godogen",
+      "last_scanned": "2026-11-20T22:00:49.601Z",
+      "skills": [
+        {
+          "name": "godogen",
+          "category": "game-dev"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/nestjs/nest",
+      "last_scanned": "2026-11-20T22:01:23.352Z",
+      "skills": []
     }
   ],
-  "last_updated": "2026-11-19T23:26:07.517Z"
+  "last_updated": "2026-11-20T22:01:23.352Z"
 }
