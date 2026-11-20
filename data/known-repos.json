@@ -6909,7 +6909,17 @@
       "url": "https://github.com/nestjs/nest",
       "last_scanned": "2026-11-20T22:01:23.352Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/Tencent/LoopForge",
+      "last_scanned": "2026-11-20T23:33:59.090Z",
+      "skills": [
+        {
+          "name": "LoopForge",
+          "category": "git-workflow"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-20T22:01:23.352Z"
+  "last_updated": "2026-11-20T23:33:59.090Z"
 }
