@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **32개 항목** · 자동 갱신: 2026-11-20
+> 📦 **33개 항목** · 자동 갱신: 2026-11-21
 <!-- CAT_STATS:END -->
 > 룰 변환·관리 도구, 한국어 지원 도구
 
@@ -25,6 +25,7 @@
 | Kill-Claude_Code-Zombies | CC | 클로드 코드 좀비 프로세스 정리 도구 | 영+한 | [Kill-Claude_Code-Zombies](https://github.com/sodam-ai/Kill-Claude_Code-Zombies) |
 | diagram-design | CC/GC | 다양한 편집 다이어그램을 생성하는 도구 | 영+한 | [diagram-design](https://github.com/cathrynlavery/diagram-design) |
 | YoungsikMoon | CC/GC | AI 기반 개발 및 자동화 도구 모음 | 영+한 | [YoungsikMoon](https://github.com/YoungsikMoon/YoungsikMoon) |
+| omniget | CC/GC/CX/OC | 로컬에서 Claude Code, Gemini CLI 등을 위한 MCP 서버 | 영+한 | [omniget](https://github.com/tonhowtf/omniget) |
 ## 🔧 Skills
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
