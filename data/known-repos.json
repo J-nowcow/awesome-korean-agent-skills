@@ -6934,7 +6934,17 @@
           "category": "utilities"
         }
       ]
+    },
+    {
+      "url": "https://github.com/previtlab/suno-lyrics-skill",
+      "last_scanned": "2026-11-21T22:03:52.456Z",
+      "skills": [
+        {
+          "name": "suno-lyrics-skill",
+          "category": "korean-writing"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-21T00:39:04.263Z"
+  "last_updated": "2026-11-21T22:03:52.456Z"
 }
