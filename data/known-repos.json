@@ -6944,7 +6944,17 @@
           "category": "korean-writing"
         }
       ]
+    },
+    {
+      "url": "https://github.com/jundizhou/easy-stock",
+      "last_scanned": "2026-11-21T23:42:52.809Z",
+      "skills": [
+        {
+          "name": "easy-stock",
+          "category": "research-web"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-21T22:03:52.456Z"
+  "last_updated": "2026-11-21T23:42:52.809Z"
 }
