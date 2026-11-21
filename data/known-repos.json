@@ -6919,7 +6919,22 @@
           "category": "git-workflow"
         }
       ]
+    },
+    {
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "last_scanned": "2026-11-21T00:38:30.417Z",
+      "skills": []
+    },
+    {
+      "url": "https://github.com/tonhowtf/omniget",
+      "last_scanned": "2026-11-21T00:39:04.263Z",
+      "skills": [
+        {
+          "name": "omniget",
+          "category": "utilities"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-20T23:33:59.090Z"
+  "last_updated": "2026-11-21T00:39:04.263Z"
 }
