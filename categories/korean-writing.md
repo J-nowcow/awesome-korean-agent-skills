@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **12개 항목** · 자동 갱신: 2026-11-21
+> 📦 **13개 항목** · 자동 갱신: 2026-11-21
 <!-- CAT_STATS:END -->
 > AI 글 교정, 문체 변환, 한국어 문서 작성
 
@@ -26,6 +26,7 @@
 | oh-story-claudecode | CC | 웹소설 작성을 위한 Claude Code 스킬 팩 | 영+한 | [oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) |
 | turkish-anti-ai-skill |  | AI가 생성한 한국어 문장을 자연스럽게 교정 | 한국어 | [turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) |
 | jobstack | CC | 한국 취업 통합 엑셀러레이터 | 한국어 | [jobstack](https://github.com/thesun4sky/jobstack) |
+| suno-lyrics-skill | CC | Suno 작사를 위한 Claude 에이전트 스킬 | 한국어 | [suno-lyrics-skill](https://github.com/previtlab/suno-lyrics-skill) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
