@@ -41,16 +41,16 @@
 | [코드 리뷰](categories/code-review.md) | 코드 품질, 보안, 유지보수성 검토 | 26+ |
 | [테스트 & TDD](categories/testing.md) | 테스트 주도 개발, E2E, 커버리지 | 16+ |
 | [보안 감사](categories/security.md) | OWASP, AWS Well-Architected, 시크릿 탐지 | 11+ |
-| [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 24+ |
+| [프로젝트 초기화](categories/project-init.md) | 프레임워크별 스캐폴딩, 명세·계획 수립 | 23+ |
 | [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 10+ |
 | [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 23+ |
 | [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 26+ |
 | [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 8+ |
-| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 49+ |
+| [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 48+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 9+ |
 | [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 21+ |
 | [백엔드](categories/backend.md) | NestJS, FastAPI, API 설계, DB | 8+ |
-| [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 5+ |
+| [성능 최적화](categories/performance.md) | 프로파일링, 캐싱, 번들 크기 | 4+ |
 | [게임 개발](categories/game-dev.md) | Unity, Blender, C# | 10+ |
 | [DevOps & 배포](categories/devops.md) | CI/CD, 릴리즈, 모니터링, 세션 관리 | 17+ |
 
@@ -165,7 +165,7 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>500+</h2></td>
+<td><h2>497+</h2></td>
 <td><h2>1026</h2></td>
 <td><h2>25</h2></td>
 </tr>
@@ -177,13 +177,13 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 pie showData
     title 카테고리별 스킬 수
     "종합 스킬 컬렉션" : 63
-    "멀티에이전트" : 49
+    "멀티에이전트" : 48
     "리서치 & 웹" : 34
     "유틸리티 도구" : 33
     "콘텐츠 & 미디어" : 32
     "Git & 워크플로우" : 26
     "코드 리뷰" : 26
-    "프로젝트 초기화" : 24
+    "프로젝트 초기화" : 23
     "문서화" : 23
     "웹 프론트엔드" : 21
 ```
@@ -193,7 +193,7 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 402
+    "CC" : 399
     "GC" : 121
     "CX" : 58
     "CP" : 25
@@ -230,9 +230,9 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>12</b> run · <b>+11</b> 스킬</td>
-<td><b>7</b> run · <b>-2</b> dead link</td>
-<td><b>12</b> run</td>
+<td><b>0</b> run · <b>+0</b> 스킬</td>
+<td><b>0</b> run · <b>-0</b> dead link</td>
+<td><b>0</b> run</td>
 <td><b>1</b> run</td>
 </tr>
 </table>
@@ -241,13 +241,13 @@ pie showData
 
 | 날짜 | 🔍 신규 | 🔗 정리 | 📊 동기화 | ⭐ 추천 |
 |------|:---:|:---:|:---:|:---:|
-| 2026-11-17 | **3** | **1** | **2** | · |
-| 2026-11-18 | **2** | **1** | **2** | · |
-| 2026-11-19 | **2** | **1** | **1** | · |
-| 2026-11-20 | **2** | **1** | **2** | · |
-| 2026-11-21 | **3** | **1** | **3** | · |
-| 2026-11-22 | · | **1** | **1** | · |
-| 2026-11-23 | · | · | · | · |
+| 2026-11-17 | · | · | · | · |
+| 2026-11-18 | · | · | · | · |
+| 2026-11-19 | · | · | · | · |
+| 2026-11-20 | · | · | · | · |
+| 2026-11-21 | · | · | · | · |
+| 2026-11-22 | · | · | · | · |
+| 2026-11-23 | · | · | · | **1** |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
