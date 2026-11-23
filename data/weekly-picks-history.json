@@ -414,6 +414,31 @@
           "tools": "CC"
         }
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "items": [
+        {
+          "name": "learn-claude-code",
+          "repo": "shareAI-lab/learn-claude-code",
+          "category": "collections",
+          "type": "🪝",
+          "tools": "CC"
+        },
+        {
+          "name": "nuwa-skill",
+          "repo": "alchaincyf/nuwa-skill",
+          "category": "research-web",
+          "type": "⚡",
+          "tools": "CC/GC"
+        },
+        {
+          "name": "rulesync",
+          "repo": "dyoshikawa/rulesync",
+          "category": "utilities",
+          "type": "📦"
+        }
+      ]
     }
   ]
 }
