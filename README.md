@@ -28,9 +28,9 @@
 
 | 스킬 | 도구 | 왜 추천? | 링크 |
 |------|:---:|---------|------|
-| ⚡ pm-claude-skills | CC/GC | 다양한 전문 분야의 AI 스킬을 모아놓은 'pm-claude-skills'는 여러 카테고리에 걸쳐 실용적인 스킬들을 제공합니다. 한국어 지원이 잘 되어 있어 접근성이 높습니다. | [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) |
-| 📦 awesome-agent-skills | 크로스 도구 스킬 큐레이션 디렉토리 | 'awesome-agent-skills'는 다양한 도구를 위한 스킬 큐레이션 디렉토리로, 여러 카테고리에 걸쳐 유용한 정보를 제공합니다. 한국어와 영어를 모두 지원하여 활용도가 높습니다. | [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) |
-| 🔧 free-ai-courses | CC | 'free-ai-courses'는 제품 관리자를 위한 Claude Code 활용 가이드로, 실용적인 지식을 제공합니다. 한국어 지원이 잘 되어 있어 학습에 용이합니다. | [free-ai-courses](https://github.com/carlvellotti/free-ai-courses) |
+| 🪝 learn-claude-code | CC | Claude Code 에이전트 구축 프레임워크로, 다양한 AI 에이전트 개발에 활용될 수 있는 실용적인 도구입니다. 'collections' 카테고리에서 유일하게 프레임워크 타입으로 다양한 기술 스택을 지원합니다. | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) |
+| ⚡ nuwa-skill | CC/GC | 유명인의 사고방식을 추출하는 AI 스킬로, 흥미로운 연구 주제와 함께 'research-web' 카테고리에서 독특한 기능을 제공합니다. 한국어 지원이 명확하게 언급되지는 않았지만, AI 스킬로서 잠재력이 높습니다. | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
+| 📦 rulesync | undefined | 'utilities' 카테고리에서 실용적인 도구로, 명확한 설명은 없지만 이름으로 보아 규칙 동기화와 같은 유용한 기능을 제공할 것으로 기대됩니다. 다양한 타입의 스킬을 혼합하는 관점에서 선택했습니다. | [rulesync](https://github.com/dyoshikawa/rulesync) |
 
 ---
 

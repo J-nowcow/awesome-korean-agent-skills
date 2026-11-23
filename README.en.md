@@ -80,13 +80,13 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 ## Skill of the Week
 
-> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-11-16
+> Updated weekly. Curated by AI agents based on Korean support, active maintenance, and practicality. Last updated: 2026-11-23
 
 | Skill | Tools | Why Recommended? | Link |
 |------|:---:|---------|------|
-| ⚡ pm-claude-skills | CC/GC | 'pm-claude-skills' is a collection of AI skills from various professional fields, offering practical skills across multiple categories. It has high accessibility due to good Korean language support. | [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) |
-| 📦 awesome-agent-skills | 크로스 도구 스킬 큐레이션 디렉토리 | 'awesome-agent-skills' is a skill curation directory for various tools, providing useful information across multiple categories. It supports both Korean and English, making it highly versatile. | [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) |
-| 🔧 free-ai-courses | CC | 'free-ai-courses' is a guide for product managers on utilizing Claude Code, offering practical knowledge. It is easy to learn from due to good Korean language support. | [free-ai-courses](https://github.com/carlvellotti/free-ai-courses) |
+| 🪝 learn-claude-code | CC | This is a framework for building Claude Code agents, a practical tool that can be used for developing various AI agents. It's the only framework type in the 'collections' category and supports diverse tech stacks. | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) |
+| ⚡ nuwa-skill | CC/GC | This AI skill extracts the thinking patterns of famous people, offering a unique functionality in the 'research-web' category with an interesting research topic. While Korean support isn't explicitly mentioned, it has high potential as an AI skill. | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
+| 📦 rulesync | undefined | As a practical tool in the 'utilities' category, although the description is unclear, the name suggests it offers useful functionalities like rule synchronization. It was chosen to ensure a mix of different skill types. | [rulesync](https://github.com/dyoshikawa/rulesync) |
 
 ---
 
