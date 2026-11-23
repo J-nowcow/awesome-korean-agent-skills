@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **49개 항목** · 자동 갱신: 2026-11-22
+> 📦 **48개 항목** · 자동 갱신: 2026-11-23
 <!-- CAT_STATS:END -->
 > 여러 AI 에이전트를 병렬·순차로 조율하는 자동화
 
@@ -29,7 +29,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| loop-operator | CC | 자율 에이전트 루프 운영, 모니터링 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/loop-operator.md) |
 
 | hermes-agent |  | 스스로 학습하고 발전하는 AI 에이전트 | 다국어(KO) | [hermes-agent](https://github.com/NousResearch/hermes-agent) |
 | ruflo | CC/OC | Claude 기반 에이전트 오케스트레이션 플랫폼 | 영+한 | [ruflo](https://github.com/ruvnet/ruflo) |
