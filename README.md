@@ -285,3 +285,8 @@ pie showData
 [contributing.md](contributing.md)를 읽어주세요. 한국어 AI 코딩 스킬 생태계를 함께 만들어갑시다!
 
 새로운 스킬을 발견하면 PR을, 카테고리 제안은 Issue를 열어주세요.
+
+
+## 공공 데이터 API (Apify)
+
+- [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) - Agent Skills + MCP plugin (Claude Code, Codex, Copilot, Cursor, Gemini CLI, Kiro) for 18 public-data Apify Actors: SAM.gov, Grants.gov, USAspending, EU/UK tenders, council meetings, ATS jobs, company socials, Google Ads, Etsy, sports odds, Spotify.
