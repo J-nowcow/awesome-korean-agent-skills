@@ -6959,7 +6959,17 @@
       "url": "https://github.com/walkinglabs/learn-harness-engineering",
       "last_scanned": "2026-11-24T01:56:51.377Z",
       "skills": []
+    },
+    {
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "last_scanned": "2026-11-25T01:49:42.195Z",
+      "skills": [
+        {
+          "name": "douyin-downloader",
+          "category": "content-media"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-24T01:56:51.377Z"
+  "last_updated": "2026-11-25T01:49:42.196Z"
 }
