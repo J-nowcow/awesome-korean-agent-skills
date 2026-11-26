@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **16개 항목** · 자동 갱신: 2026-11-25
+> 📦 **14개 항목** · 자동 갱신: 2026-11-26
 <!-- CAT_STATS:END -->
 > 테스트 주도 개발, E2E 테스트, 커버리지 분석
 
@@ -34,8 +34,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| tdd | CC | 테스트 먼저, 한 단위 작업 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/commands/tdd.md) |
-| verify-loop | CC | 자동 재검증 루프 (최대 3회) | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/commands/verify-loop.md) |
 | Go/Rust/C++/Kotlin TDD (4종) | CC | 언어별 TDD 워크플로 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/tree/main/commands) — go-test.md, rust-test.md, cpp-test.md, kotlin-test.md |
 
 | mcp-playwright | CC/GC | Playwright 기반 브라우저 자동화 서버 | 영+한 | [mcp-playwright](https://github.com/executeautomation/mcp-playwright) |
