@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **23개 항목** · 자동 갱신: 2026-11-25
+> 📦 **22개 항목** · 자동 갱신: 2026-11-26
 <!-- CAT_STATS:END -->
 > 프레임워크별 프로젝트 생성, 명세·계획 수립
 
@@ -39,7 +39,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| init-project | CC | Next/Vite/Go/Python/Rust 프로젝트 초기화 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/commands/init-project.md) |
 | spec-kit (10개 커맨드) | CC | constitution→specify→plan→tasks→implement | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/spec-kit/commands) |
 | $plan / $prd / $execute | GC | 계획·PRD·실행 워크플로 | 영+한 | [oh-my-gemini-cli](https://github.com/Joonghyun-Lee-Frieren/oh-my-gemini-cli) |
 

@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **21개 항목** · 자동 갱신: 2026-11-25
+> 📦 **20개 항목** · 자동 갱신: 2026-11-26
 <!-- CAT_STATS:END -->
 > React, Next.js, Tailwind, UI/UX 디자인
 
@@ -12,7 +12,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| designer | CC | 시각적 UI/UX 구현, 컴포넌트·타이포·모션 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/designer.md) |
 
 | onlook |  | AI 기반 시각적 웹 프론트엔드 디자인 도구 | 다국어(KO) | [onlook](https://github.com/onlook-dev/onlook) |
 ## 🔧 Skills
