@@ -94,14 +94,14 @@ The `SKILL.md` format is converging as a de facto industry standard. The same sk
 
 | Category | Description | Items |
 |----------|------|:-------:|
-| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 26+ |
-| [Testing & TDD](categories/testing.md) | Test-driven development, E2E, coverage | 14+ |
-| [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 11+ |
+| [Code Review](categories/code-review.md) | Code quality, security, maintainability review | 25+ |
+| [Testing & TDD](categories/testing.md) | Test-driven development, E2E, coverage | 11+ |
+| [Security Audit](categories/security.md) | OWASP, AWS Well-Architected, secret detection | 8+ |
 | [Project Initialization](categories/project-init.md) | Framework scaffolding, spec & plan setup | 22+ |
 | [Debugging & Build Errors](categories/debugging.md) | Root cause analysis, language-specific build resolvers | 10+ |
 | [Documentation](categories/documentation.md) | Technical doc generation, Korean docs, code maps | 23+ |
 | [Git & Workflow](categories/git-workflow.md) | Commits, PRs, worktrees, branching strategies | 26+ |
-| [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 7+ |
+| [Refactoring & Code Cleanup](categories/refactoring.md) | Dead code removal, tech debt, simplification | 6+ |
 | [Multi-Agent Orchestration](categories/multi-agent.md) | Parallel & sequential agent coordination automation | 48+ |
 | [AI & Prompt Engineering](categories/ai-prompt.md) | Prompt optimization, cross-model collaboration, self-learning | 9+ |
 | [Web Frontend](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 20+ |

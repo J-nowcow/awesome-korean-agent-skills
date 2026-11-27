@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **26개 항목** · 자동 갱신: 2026-11-27
+> 📦 **25개 항목** · 자동 갱신: 2026-11-27
 <!-- CAT_STATS:END -->
 > 코드 품질, 보안, 유지보수성을 검토하는 스킬과 에이전트
 
@@ -18,7 +18,6 @@
 | Flutter Reviewer | CC | 위젯·상태관리·Dart 접근성 검토 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/flutter-reviewer.md) |
 | Database Reviewer | CC | 쿼리 최적화·스키마·PostgreSQL/Supabase | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/database-reviewer.md) |
 | Healthcare Reviewer | CC | 임상 안전성·PHI 컴플라이언스 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/healthcare-reviewer.md) |
-| code-reviewer | CC | 보안+품질 통합 리뷰 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/agents/code-reviewer.md) |
 | code-reviewer | CC | 보안, 베스트 프랙티스 전문 리뷰 | 영+한 | [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace/blob/main/plugins/ai-pair-programming/agents/code-reviewer.md) |
 
 | ponytail | CC/GC | 가장 게으른 시니어 개발자처럼 생각하는 AI 에이전트 | 영+한 | [ponytail](https://github.com/DietrichGebert/ponytail) |
