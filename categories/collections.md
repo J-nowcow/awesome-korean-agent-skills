@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **63개 항목** · 자동 갱신: 2026-11-26
+> 📦 **64개 항목** · 자동 갱신: 2026-11-27
 <!-- CAT_STATS:END -->
 > 여러 분야의 스킬을 한 레포에 모아놓은 컬렉션
 
@@ -93,6 +93,7 @@
 
 | trending-claude-skills | CC | AI 코딩 에이전트 스킬 리포지토리 리더보드 | 영+한 | [trending-claude-skills](https://github.com/linny006/trending-claude-skills) |
 
+| connect-ai-autonomous-company | CC/GC | AI 직원과 사람이 함께 일하는 AI 자율 회사 | 영+한 | [connect-ai-autonomous-company](https://github.com/wonseokjung/connect-ai-autonomous-company) |
 ## ⚡ Commands
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
