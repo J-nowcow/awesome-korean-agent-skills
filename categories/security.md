@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **11개 항목** · 자동 갱신: 2026-11-27
+> 📦 **8개 항목** · 자동 갱신: 2026-11-27
 <!-- CAT_STATS:END -->
 > OWASP, 시크릿 탐지, 위협 모델링, AWS 보안
 
@@ -12,7 +12,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| security-reviewer | CC | OWASP Top 10, 시크릿 탐지, 인증/인가 | 영+한 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/agents/security-reviewer.md) |
 
 | hexstrike-ai | CC/CP | AI 기반 자동 침투 테스팅 프레임워크 | 영+한 | [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) |
 ## 🔧 Skills
@@ -36,5 +35,3 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| db-guard | CC | DROP/TRUNCATE 등 위험한 SQL 차단 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/hooks/db-guard.sh) |
-| output-secret-filter | CC | 실행 결과에서 시크릿 감지·마스킹 | 영+한 | [claude-forge](https://github.com/sangrokjung/claude-forge/blob/main/hooks/output-secret-filter.sh) |
