@@ -4,7 +4,7 @@
 
 
 <!-- CAT_STATS:START -->
-> 📦 **6개 항목** · 자동 갱신: 2026-11-27
+> 📦 **5개 항목** · 자동 갱신: 2026-11-28
 <!-- CAT_STATS:END -->
 > 데드 코드 제거, 기술 부채 해소, 코드 간소화
 
@@ -12,7 +12,6 @@
 
 | 이름 | 도구 | 설명 | 언어 | 레포 |
 |------|------|------|------|------|
-| refactor-cleaner | CC | knip/depcheck/ts-prune으로 데드 코드 식별·제거 | 영+한 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code/blob/main/agents/refactor-cleaner.md) |
 
 ## 🔧 Skills
 

@@ -45,7 +45,7 @@
 | [디버깅 & 빌드 에러](categories/debugging.md) | 루트 원인 분석, 언어별 빌드 리졸버 | 10+ |
 | [문서화](categories/documentation.md) | 기술 문서 생성, 한국어 문서, 코드맵 | 23+ |
 | [Git & 워크플로우](categories/git-workflow.md) | 커밋, PR, 워크트리, 브랜칭 전략 | 26+ |
-| [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 6+ |
+| [리팩토링 & 코드 정리](categories/refactoring.md) | 데드 코드 제거, 기술 부채, 간소화 | 5+ |
 | [멀티에이전트 오케스트레이션](categories/multi-agent.md) | 병렬·순차 에이전트 조율 자동화 | 48+ |
 | [AI & 프롬프트 엔지니어링](categories/ai-prompt.md) | 프롬프트 최적화, 모델 간 협업, 자기 학습 | 9+ |
 | [웹 프론트엔드](categories/web-frontend.md) | React, Next.js, Tailwind, UI/UX | 20+ |
@@ -63,7 +63,7 @@
 | [콘텐츠 & 미디어](categories/content-media.md) | 카드뉴스, 이미지 생성, 유튜브 자막 | 33+ |
 | [글쓰기 & 한국어](categories/korean-writing.md) | AI 문체 변환, 맞춤법 교정, 기술 문서 | 13+ |
 | [오피스 & 문서](categories/office-docs.md) | Word, Excel, PPT, PDF, HWP | 13+ |
-| [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 34+ |
+| [리서치 & 웹](categories/research-web.md) | 웹 검색, 스크래핑, 마크다운 변환 | 33+ |
 
 ## 종합 레포
 
@@ -165,8 +165,8 @@ AI 에이전트 스킬은 **AI 코딩 어시스턴트에게 새로운 능력을 
 <td>🏷️ <b>활성 카테고리</b><br/><sub>categories/*.md</sub></td>
 </tr>
 <tr align="center">
-<td><h2>486+</h2></td>
-<td><h2>1029</h2></td>
+<td><h2>484+</h2></td>
+<td><h2>1028</h2></td>
 <td><h2>25</h2></td>
 </tr>
 </table>
@@ -178,8 +178,8 @@ pie showData
     title 카테고리별 스킬 수
     "종합 스킬 컬렉션" : 64
     "멀티에이전트" : 48
-    "리서치 & 웹" : 34
     "유틸리티 도구" : 33
+    "리서치 & 웹" : 33
     "콘텐츠 & 미디어" : 33
     "Git & 워크플로우" : 26
     "코드 리뷰" : 25
@@ -193,8 +193,8 @@ pie showData
 ```mermaid
 pie showData
     title 도구별 행 등장 횟수
-    "CC" : 388
-    "GC" : 123
+    "CC" : 386
+    "GC" : 122
     "CX" : 58
     "CP" : 25
     "OC" : 59
@@ -230,10 +230,10 @@ pie showData
 <td>⭐ <b>weekly-picks</b><br/><sub>이 주의 스킬</sub></td>
 </tr>
 <tr align="center">
-<td><b>6</b> run · <b>+5</b> 스킬</td>
-<td><b>7</b> run · <b>-16</b> dead link</td>
-<td><b>13</b> run</td>
+<td><b>0</b> run · <b>+0</b> 스킬</td>
+<td><b>0</b> run · <b>-0</b> dead link</td>
 <td><b>1</b> run</td>
+<td><b>0</b> run</td>
 </tr>
 </table>
 
@@ -241,13 +241,13 @@ pie showData
 
 | 날짜 | 🔍 신규 | 🔗 정리 | 📊 동기화 | ⭐ 추천 |
 |------|:---:|:---:|:---:|:---:|
-| 2026-11-22 | · | **1** | **1** | · |
-| 2026-11-23 | · | **1** | **2** | **1** |
-| 2026-11-24 | **1** | **1** | **1** | · |
-| 2026-11-25 | **1** | **1** | **2** | · |
-| 2026-11-26 | · | **1** | **2** | · |
-| 2026-11-27 | **1** | **1** | **2** | · |
-| 2026-11-28 | · | · | · | · |
+| 2026-11-22 | · | · | · | · |
+| 2026-11-23 | · | · | · | · |
+| 2026-11-24 | · | · | · | · |
+| 2026-11-25 | · | · | · | · |
+| 2026-11-26 | · | · | · | · |
+| 2026-11-27 | · | · | · | · |
+| 2026-11-28 | · | · | **1** | · |
 
 <sub>전체 PR 이력: [Actions](https://github.com/J-nowcow/awesome-korean-agent-skills/actions)</sub>
 
